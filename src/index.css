@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:wght@600;800&family=Manrope:wght@400;600;800&family=JetBrains+Mono:wght@500;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gece: #1c2531;
+  --panel: #252f3d;
+  --panel2: #2e3b4c;
+  --cizgi: #3b4b5e;
+  --sut: #f1e9da;
+  --sis: #9db0c2;
+  --ates: #ffa246;
+  --gok: #5fcdc4;
+  --kizil: #ef6d6d;
+  --yesil: #74ca8d;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  background: var(--gece);
+  color: var(--sut);
+  font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  padding-bottom: 96px;
+}
+
+@keyframes gel {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@keyframes salla {
+  0%, 100% { transform: none; }
+  25%       { transform: translateX(-5px); }
+  75%       { transform: translateX(5px); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.animate-gel {
+  animation: gel 0.2s ease;
+}
+
+.animate-salla {
+  animation: salla 0.3s ease;
+}
+
+/* focus-visible ring */
+:focus-visible {
+  outline: 2px solid var(--ates);
+  outline-offset: 2px;
+}

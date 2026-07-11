@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "gun": 1,
+    "baslik": "İslamiyet Öncesi Türk Tarihi",
+    "ozet": "Orta Asya kültür merkezleri, ilk Türk devletleri, yönetim anlayışı, din, destan ve alfabe bilgisi.",
+    "tahminiSoru": "KPSS'de ~4-6 soru",
+    "duzeltmeler": []
+  },
+  "kodlar": [
+    {
+      "b": "Kültür Merkezleri",
+      "i": [
+        {"k":"ANAv","m":"Başında ANA var, yuvayı ana kurar: Orta Asya'nın EN ESKİ kültür merkezi.","s":"z"},
+        {"k":"AfanasyevO — 'aslen bizim'","m":"TÜRKLERE AİT en eski kültür merkezi. Soru 'Orta Asya'nın en eskisi' derse Anav, 'Türklere ait en eski' derse Afanasyevo.","s":"z"},
+        {"k":"KARAsuk","m":"KARA = işlenmemiş demirin rengi: DEMİRİN işlendiği merkez.","s":"z"},
+        {"k":"AndronOVA","m":"Sonu OVA = geniş düzlük: yayılma alanı EN GENİŞ merkez.","s":"z"},
+        {"k":"Tagar = taze","m":"En YENİ, en modern, günümüze en yakın merkez. (Anav en eski ↔ Tagar en yeni.)","s":"z"}
+      ]
+    },
+    {
+      "b": "İlk / Tek Karışıklıkları",
+      "i": [
+        {"k":"A → B","m":"İstanbul'u kuşatanlar alfabe sırasıyla: 1. AVAR, 2. BULGAR (Tuna).","s":"z"},
+        {"k":"İTİL'in İYİsi","m":"İtil Bulgarları → İSLAM. Hükümdar ALMIŞ Han: 'İslam'ı ALMIŞ'.","s":"z"},
+        {"k":"TUNA'nın T'si + bir çizgi = haç","m":"Tuna Bulgarları → HRİSTİYANLIK (Boris Han; Çar unvanı: Çar Simeon). Slavlaşıp eridiler.","s":"z"},
+        {"k":"Coğrafya anahtarı","m":"'Tarihte / Doğu Avrupa'da İslam'ı kabul eden ilk Türk DEVLETİ' = İtil Bulgarları. 'ORTA ASYA'da ilk' = Karahanlılar (Gün 2). İlk Türk BOYU = Karluklar (751 Talas).","s":"z"},
+        {"k":"Kafkas'ı HAZAR, Orta Asya'yı TÜRGİŞ kilitledi","m":"Kafkasya'nın İslamlaşmasını Hazarlar engelledi (Belencer, Hz. Osman dönemi = ilk Türk-Arap savaşı). Orta Asya / Maveraünnehir'i Türgişler engelledi (Emevîlere karşı, Sulu Kağan).","s":"z"}
+      ]
+    },
+    {
+      "b": "Köktürk İttifak Şifresi (İpek Yolu)",
+      "i": [
+        {"k":"GS · GB ↓ ADANASPOR","m":"Soldan sağa: Göktürk + Sasani → AKHUN'u yıktı. Göktürk + Bizans → SASANİ'yi yendi. Amaç hep aynı: İPEK YOLU hâkimiyeti.","s":"z"}
+      ]
+    },
+    {
+      "b": "Kut Alan 3 Aile",
+      "i": [
+        {"k":"TUku","m":"Hun'un 'tu'su → ASYA HUN'un kut alan ailesi.","s":"z"},
+        {"k":"YAĞLAkar = yağlı ekmek","m":"Maniheizm'de et-süt yasak, bitkisel yağa mahkûm → UYGUR'un kut alan ailesi.","s":"z"},
+        {"k":"AŞİNA = Asena (dişi kurt)","m":"KÖKTÜRK'ün kut alan soyu.","s":"z"}
+      ]
+    },
+    {
+      "b": "Görevli Sözlüğü",
+      "i": [
+        {"k":"AyukI'nın K'si","m":"K harfi HÜKÜMET'te → Ayukı = hükümet. Aygucı = VEZİR (ilk aygucı: Tonyukuk).","s":"z"},
+        {"k":"TUTUKla","m":"Tutuk = ASKERÎ vali. TuDun'un D'si Devlete para → VERGİ memuru.","s":"z"},
+        {"k":"APAçık ortada","m":"Apa = SİVİL vali. ŞAD = hanedan üyesi vali/komutan.","s":"z"},
+        {"k":"SÜbaşı","m":"Sü = ordu → ordu komutanı (= Tarkan).","s":"z"},
+        {"k":"BEDİZci iz bırakır","m":"Bedizci = Uygur ressamı. Bahşi = öğretmen.","s":"z"},
+        {"k":"BİTİKçi: 'yazıyorum yazıyorum BİTmiyor'","m":"Kâtip. Agılıg = hazinedar. Yarlıg = hükümdar emri (Osmanlı'daki ferman).","s":"z"},
+        {"k":"OTacı","m":"Ot döven adam → hekim (emçi de hekim). Buyruk = buyrulan kişi = bakan. Kün = halk.","s":"z"}
+      ]
+    },
+    {
+      "b": "Törenin 4 Değişmez Hükmü",
+      "i": [
+        {"k":"KÖNİlik = KONİ","m":"Koni her yönden aynı görünür → ADALET.","s":"z"},
+        {"k":"TÜZlük = DÜZlük","m":"EŞİTLİK.","s":"z"},
+        {"k":"UZluk = UZlar","m":"Uzlar Malazgirt'te safımıza geçip FAYDALI oldu → faydalılık / iyilik.","s":"z"},
+        {"k":"KİŞİlik","m":"İNSANLIK. (Dördü birden: adalet - eşitlik - faydalılık - insanlık.)","s":"z"}
+      ]
+    },
+    {
+      "b": "Tanrının 3 Hediyesi",
+      "i": [
+        {"k":"KUT yönetir · KÜÇ savaşır · ÜLÜŞ üleşir","m":"Kut = yönetme yetkisi (KAN yoluyla tüm hanedan erkeklerine geçer → taht kavgası → devletler kısa ömürlü). Küç = askerî güç. Ülüş = ekonomik güç (halkla paylaşım).","s":"e"}
+      ]
+    },
+    {
+      "b": "Listeler Tek Nefeste",
+      "i": [
+        {"k":"O-U-B-B-İ","m":"Oguş (aile) → Urug (sülale) → Boy (aşiret) → Budun (millet) → İl (devlet). Cümle: 'Oğlum Uyu, Boyun Büyüsün, İl senin.'","s":"e"},
+        {"k":"KULAK + S","m":"Alfabeler: Köktürk (38 harf, ilk millî) - Uygur (18 harf, ikinci millî) - Latin - Arap - Kiril. Uygur alfabesi SOĞD etkisiyle yapıldı.","s":"z"},
+        {"k":"12 HACERİM","m":"Takvimler: 12 Hayvanlı (millî; her YILA hayvan adı verilir, aya değil) - Hicrî (Hz. Ömer) - Celâlî (Ömer Hayyam; başlangıç: Melikşah'ın tahta çıkışı) - Rûmî (Osmanlı, malî işler) - Milâdî.","s":"z"},
+        {"k":"MİLADİ 6 harf","m":"Milâdî takvim 1926'dan beri kullanılıyor (6 → 1926). Başlangıcı Hz. İsa'nın doğumu.","s":"z"},
+        {"k":"MacARpat","m":"Macarların bilinen ilk hükümdarı ARPAD. 1870 Budapeşte: tarihteki İLK Türkoloji Enstitüsü. Soylarını Attila'ya dayandırırlar (Hungary'nin HUN'u).","s":"z"}
+      ]
+    },
+    {
+      "b": "Yön Renkleri (annenin yeşil leğeni)",
+      "i": [
+        {"k":"KARAdeniz kuzeyde · KIZILdeniz güneyde","m":"Kuzey = KARA, Güney = KIZIL, Batı = AK, Doğu = GÖK/YEŞİL (hocanın annesi gibi ikisi birbirine karışır), Merkez = SARI.","s":"e"}
+      ]
+    },
+    {
+      "b": "Sahne Kancaları (zihin filmi)",
+      "i": [
+        {"k":"39 çeri → 639","m":"Kürşad yağmurlu gecede 39 askeriyle Çin sarayını basar: Türk tarihinin İLK BAĞIMSIZLIK İSYANI (639). Nehir taşar, başaramaz ama kıvılcımı yakar. (2011 LYS sorusu)","s":"e"},
+        {"k":"'Demirci köle!'","m":"Avar hakanının hakareti → Bumin Kağan isyan eder → 552'de I. Köktürk kurulur (Töles isyanı sonrası, Ötüken merkez; Bumin'in unvanı İl-Kağan). Ötüken: toprak ana, Türk memleketlerinin yüreği, kutsal başkent.","s":"z"},
+        {"k":"Honoria'nın yüzüklü mektubu","m":"Attila'nın Batı Roma'ya savaş bahanesi. Galya seferi sonuçsuz, İtalya seferi zafer; Papa atının önünde diz çöker → Roma alınmaz (dine saygı + Sasani seferi planı + Roma'nın gücü zaten kırıldı).","s":"z"},
+        {"k":"Bögü Kağan rahipleri atına bindirir","m":"Maniheizm zinciri: et-süt-savaş yasak → savaşçılık zayıflar → tarım → YERLEŞİK hayat → şehir + mimari + YAZILI töre + matbaa + kütüphane + fresk/minyatür. Tek sebep, on sonuç.","s":"z"},
+        {"k":"Mete'nin plakası: MÖ 209","m":"Tahta çıkışı = Kara Kuvvetleri'nin kuruluş yılı. Onlu sistem = ilk düzenli ordu. Islıklı ok. 'Ok atabilen, yay çekebilen bütün Türkleri birleştirdim' = Orta Asya'da İLK Türk siyasi birliği.","s":"z"},
+        {"k":"'İstiklali feda etmek gülünç ve utanç vericidir'","m":"Çi-çi → İLK Türk milliyetçisi. 'Toprak benim değil halkımın malıdır' → Mete, vatan sevgisinden bahseden ilk kişi.","s":"z"}
+      ]
+    },
+    {
+      "b": "Meclisler",
+      "i": [
+        {"k":"Musevilik yaşlıya danışır","m":"Hazar = İHTİYARLAR Meclisi.","s":"z"},
+        {"k":"Avrupa 'seçkin' yaşar","m":"Avrupa Hun = SEÇKİNLER Meclisi.","s":"z"},
+        {"k":"TBMM","m":"Tuna Bulgarları = MİLLET Meclisi.","s":"z"},
+        {"k":"Komutan sever","m":"Peçenek = KOMENTON Meclisi. Oğuz = TİRNEK (dernek gibi toplanır). Tabgaç = NAZIRLAR (bakanlar; 'denize nazır').","s":"z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c":"Genel","o":"Türk adı tarihte İLK KEZ nerede geçer?","a":"Çin yıllıklarında (Hun / Hiung-nu olarak).\nTürkiye adı ise coğrafi olarak ilk kez BİZANS kaynaklarında, ORTA ASYA için kullanıldı."},
+    {"c":"Genel","o":"'Türkiye' adı verilen 4 bölge?","a":"1) Orta Asya (ilk kullanım)\n2) Anadolu\n3) Suriye ve civarı\n4) Mısır — Memlükler dönemi (ed-Devletü't-Türkiyye)."},
+    {"c":"Genel","o":"Türk adına anlam yükleyenler?","a":"Kaşgarlı Mahmud: olgunluk çağı\nUygur kaynakları: güçlü-kuvvetli\nÇin: miğfer (tolga)\nZiya Gökalp: töreli, kanun-nizam sahibi\nVambery: türemek-çoğalmak\nİran: güzel insan\nDoerfer: devlete bağlı halk"},
+    {"c":"Genel","o":"Orta Asya göçlerinin nedenleri? (Kavimler Göçü ile karıştırma!)","a":"Zorlu iklim · Çin ve Moğol (Yüeçi-Tunguz) baskısı · boylar arası mücadele · nüfus artışı ve otlak yetersizliği · hayvan hastalıkları · yeni yerler görme isteği."},
+    {"c":"Genel","o":"Kavimler Göçü'nün (375, Balamir) sonuçları?","a":"Roma ikiye ayrıldı → Batı Roma yıkıldı (476) → İlk Çağ bitti, Orta Çağ başladı\nAvrupa Hun Devleti kuruldu\nFeodalite doğdu → siyasi birlik YOK, merkezî otorite zayıf\nKilise güçlendi → skolastik düşünce\nBugünkü Avrupa'nın temeli: Frank→Fransa, Angıl+Sakson→İngiltere, Germen→Almanya"},
+    {"c":"Genel","o":"Uldız'ın dış politikası + ünlü sözü?","a":"Doğu Roma'ya (Bizans) BASKI, Batı Roma ile İYİ GEÇİN.\n'İstersem güneşin battığı yere kadar fethederim' = Türk Cihan Hâkimiyeti Mefkûresi."},
+    {"c":"Genel","o":"Kızılelma · Nizam-ı Âlem · Devlet-i Ebed-Müddet?","a":"Kızılelma: değişken HEDEF (Osmanlı'da önce İstanbul, fethedilince Roma)\nNizam-ı Âlem: dünya düzeni; adaleti ve dini yayma ülküsü\nDevlet-i Ebed-Müddet: devletin sonsuza dek yaşayacağı inancı"},
+    {"c":"Kurucular","o":"İskitlerin en önemli hükümdarı?","a":"Alp Er Tunga — Firdevsî'nin Şehnâme'sinde AFRASİYAB adıyla geçer."},
+    {"c":"Kurucular","o":"Türk tarihinin ilk kadın hükümdarı?","a":"Tomris Hatun (İskit; adı 'demir' demek). Kadın savaşçıları: AMAZONLAR."},
+    {"c":"Kurucular","o":"Asya Hun: kurucu / en parlak?","a":"Teoman / Mete.\nKurucular ve en parlak dönemler klasik soru kalıbıdır!"},
+    {"c":"Kurucular","o":"Avrupa Hun: kurucu / en parlak?","a":"Balamir / Attila. Merkez: Macaristan (Etselburg).\nAvrupa'da kurulan İLK Türk devleti."},
+    {"c":"Kurucular","o":"I. Köktürk: kurucu / en parlak?","a":"Bumin Kağan / Mukan Kağan (ikisi de 2016'da soruldu).\nBumin'in unvanı: İl-Kağan."},
+    {"c":"Kurucular","o":"II. Köktürk (Kutluk): kurucu / en parlak?","a":"Kutluk Kağan (İlteriş = derleyen-toplayan) / Kapgan Kağan VEYA Bilge Kağan — kaynağa göre değişir, şıkta hangisi varsa o."},
+    {"c":"Kurucular","o":"Uygur: kurucu / en parlak / din değiştiren?","a":"Kutluk Bilge Kül Kağan / Moyen-çor / Bögü Kağan (763, Maniheizm)."},
+    {"c":"Kurucular","o":"Avarların kurucusu + iki takma adları?","a":"Bayan Han (adı bayan, kendisi erkek).\nÇin kaynaklarında JUAN-JUAN, Köktürk kaynaklarında APAR.\nFrank saldırılarıyla yıkıldılar; Slavları teşkilat + kültür yönünden etkilediler."},
+    {"c":"Kurucular","o":"Büyük Bulgar Devleti'nin kurucusu?","a":"Kubrat. Ölünce ikiye ayrıldı:\nİtil → Almış Han → İSLAM\nTuna → Boris Han → HRİSTİYANLIK (Çar unvanı: Çar Simeon)"},
+    {"c":"Kurucular","o":"Türgişlerde iki kritik isim?","a":"Baga Tarkan: kendi adına para bastıran İLK Türk hükümdarı.\nSulu Kağan: Emevîleri durdurdu (Yevmü'l-Atş ve Vak'atü'ş-Şi'b / Geçit savaşları)."},
+    {"c":"Kurucular","o":"Attila'nın unvanları?","a":"Tanrının Kırbacı / Kamçısı / Gazabı · Cesur Kavimlerin Efendisi · Nibelungen Destanı'nda ETZEL · Ares'in kılıcı."},
+    {"c":"İlkler","o":"İlk Türk TOPLULUĞU (boyu)?","a":"İskitler (Sakalar). Devlet DEĞİL çünkü teşkilatlanma yok.\nİlk teşkilatlı DEVLET = Asya Hun."},
+    {"c":"İlkler","o":"İskitlerin 'ilk'leri ve unvanı?","a":"Atı evcilleştirdiler, ÜZENGİYİ buldular, ilk BALBAL örnekleri (ilk Türk heykeli).\nHerodot (Historia): 'BOZKIRIN KUYUMCULARI' — madeni iyi işledikleri için."},
+    {"c":"İlkler","o":"'Türk' adıyla kurulan ilk devlet?","a":"I. Köktürk (552) — Türk adını SİYASİ olarak kullanan ilk devlet → milliyetçi / ulusçu devlet."},
+    {"c":"İlkler","o":"Uygur'un 'ilk devlet' dörtlüsü?","a":"İlk YERLEŞİK · DİN değiştiren ilk (Maniheizm) · BAŞKENT değiştiren ilk (Ötüken → Karabalgasun) · TÖREYİ YAZIYA geçiren ilk."},
+    {"c":"İlkler","o":"Uygur'un teknoloji-kültür seti?","a":"Matbaa + kâğıt · ilk kütüphaneler · ÇAV (kâğıt para) · çek-senet-banka kavramları · ilk tiyatro örnekleri · çiçek aşısının ilk uygulamaları · vakıflar (sosyal devlet) · fresk + minyatür · Moğolları her yönden etkilediler."},
+    {"c":"İlkler","o":"Türk tarihinin ilk yazılı antlaşması?","a":"KUZEY ŞANSİ — Asya Hun ile Çin arasında."},
+    {"c":"İlkler","o":"İlk Türk-Arap (Türk-İslam) savaşı?","a":"BELENCER — Hz. Osman dönemi. Hazarlar kazandı → Kafkasya'nın İslamlaşması engellendi."},
+    {"c":"İlkler","o":"Türk-İslam tarihini BAŞLATAN savaş?","a":"TALAS 751 (diğer adı: ATLIK Savaşı). Karluklar Çin'e karşı Abbasî safında savaştı → İslam'ı kabul eden İLK TÜRK BOYU."},
+    {"c":"İlkler","o":"İstanbul'u kuşatan 1. ve 2. Türk devleti?","a":"1. AVAR (Sasanîlerle birlikte) · 2. (Tuna) BULGAR. Kod: A → B."},
+    {"c":"İlkler","o":"Museviliği kabul eden Türk devleti?","a":"HAZAR — ilk ve TEK (yönetici kesim).\nHoşgörü → PAX HAZARİCA (Hazar Barış Çağı). Zenginlik kaynağı: KÜRK YOLU."},
+    {"c":"İlkler","o":"Hristiyanlığı kabul eden ilk / Katolikliği seçen?","a":"Avarlar / Macarlar.\nAvrupa'ya gidenler din + kültür değiştirip asimile oldu: Avar, Tuna Bulgar, Macar, Peçenek, Kuman."},
+    {"c":"İlkler","o":"Ordusunda ÜCRETLİ asker kullanan ilk Türk devleti?","a":"Hazar.\nDikkat: Peçenek ve Uzlar BİZANS ordusunda ücretli askerdi — kendi ordularında değil!"},
+    {"c":"İlkler","o":"Kendi adına para bastıran ilk Türk hükümdarı?","a":"Baga Tarkan (Türgiş).\nParayı Asya Hun ve Köktürk de KULLANDI; 'kendi adına basan ilk' Türgiş."},
+    {"c":"İlkler","o":"Afganistan'da kurulan ilk Türk devleti?","a":"AKHUNLAR (Eftalitler) — çıkmış soru.\nGöktürk + Sasanî ittifakıyla yıkıldılar (İpek Yolu)."},
+    {"c":"İlkler","o":"Anadolu'ya ilk Türk akını?","a":"Avrupa Hunları — ULDIZ dönemi (yağma amaçlı, yerleşme değil).\nİkinci akın: SİBİRLER (Sibirya'ya adını veren topluluk)."},
+    {"c":"İlkler","o":"Moğol hâkimiyetine giren ilk Türk devleti / ilk Türk-İslam BOYU?","a":"Kırgızlar / Karluklar."},
+    {"c":"İlkler","o":"İlk Türk milliyetçisi / vatan sevgisinden ilk bahseden?","a":"Çi-çi ('İstiklali feda etmek gülünç ve utanç vericidir') / Mete ('Toprak benim değil halkımın malıdır')."},
+    {"c":"İlkler","o":"İlk Türk vezir = ilk Türk tarihçi?","a":"TONYUKUK — Apa Tarkan, 'Türklerin Bismarck'ı'.\nKendi anıtını kendisi yazdı → ilk Türk tarihçi."},
+    {"c":"Yönetim","o":"Kut nedir, nasıl geçer, sonucu ne?","a":"Tanrı'nın hükümdara verdiği YÖNETME yetkisi. KAN yoluyla hanedanın TÜM erkeklerine geçer → herkes taht adayı → taht kavgaları → devletler çabuk parçalanır.\nİyi yönü: dinî meşruiyet + merkezî otorite.\nHükümdar TANRILAŞMAZ — firavun değildir!"},
+    {"c":"Yönetim","o":"Kut alan 3 aile?","a":"Tuku = Asya Hun · Aşina = Köktürk · Yağlakar = Uygur."},
+    {"c":"Yönetim","o":"İkili teşkilat?","a":"Ülke doğu-batı diye yönetilir. DOĞU kutsal ve merkez (güneş doğar) → Kağan. BATI → Yabgu (kardeş; içte serbest, dışta bağlı = ÖZERK).\nİyi: yönetim kolaylaşır. Kötü: yabgu saldırırsa iç savaş."},
+    {"c":"Yönetim","o":"Federatif yapının 2 göstergesi?","a":"İkili teşkilat + boylar federasyonu (devletin boyların birleşmesiyle kurulması)."},
+    {"c":"Yönetim","o":"Devleti oluşturan 4 unsur?","a":"Bağımsızlık (OKSIZLIK) · Ülke · Halk (KÜN) · Teşkilat.\nKUT bu dörtlüde YOKTUR — klasik çeldirici."},
+    {"c":"Yönetim","o":"Kurultayın diğer adları ve işi?","a":"Toy, Keneş / Kengeş. Devlet meseleleri görüşülüp karara bağlanır (Osmanlı'daki Divan-ı Hümâyun'un karşılığı)."},
+    {"c":"Yönetim","o":"Kurultay: danışma mı, demokratik mi?","a":"Son söz hükümdardaysa → DANIŞMA meclisi.\nHükümdarı indirebiliyorsa (Ta-po Kağan örneği: 'Tanrı kut'u geri aldı') → DEMOKRATİK meclis.\nParagraf ne veriyorsa ona göre yorumla."},
+    {"c":"Yönetim","o":"Toygun / Orun?","a":"Toygun = kurultaya KATILMA HAKKI.\nOrun = kurultayda OTURMA DÜZENİ.\n(İkisi de çıkmış soru!)"},
+    {"c":"Yönetim","o":"Kurultaya kimler katılır, kim katılamaz?","a":"Katılır: Kağan, HATUN, hanedan üyeleri, boy beyleri, komutanlar, aygucı.\nDİN ADAMLARI KATILAMAZ → devlet TEOKRATİK DEĞİLDİR."},
+    {"c":"Yönetim","o":"Hatun'un (Katun) konumu?","a":"Kurultaya katılır, devlet işlerinde söz sahibi, gerektiğinde hükümdara vekâlet eder, ordunun başında savaşa gidebilir → kadın yönetimde etkilidir."},
+    {"c":"Yönetim","o":"Veraset anlayışı + istisnası?","a":"'Ülke hanedanın ORTAK MALIDIR' (klasik Türk veraseti) → taht adayı çok → iç savaş → kısa ömür.\nİSTİSNA: Memlükler — başarılı komutan tahta geçer."},
+    {"c":"Yönetim","o":"Osmanlı'da veraset evrimi?","a":"I. Murad: ülke padişah ve OĞULLARININ →\nFatih: ülke PADİŞAHIN malı →\nI. Ahmed: EKBER ve ERŞED (en yaşlı, en olgun)."},
+    {"c":"Yönetim","o":"Tigin - Melik - Şehzade ve eğitmenleri?","a":"Hükümdarın erkek çocuğu:\nİslamiyet öncesi TİGİN → eğitmeni Ataman / İnal / İnanç\nTürk-İslam MELİK → Atabey\nOsmanlı ŞEHZADE → Lala"},
+    {"c":"Unvan-Sembol","o":"Şanyü ve Tanhu?","a":"ASYA HUN hükümdar unvanları; 'sonsuzluk - genişlik' anlamı (MEB vurgusu)."},
+    {"c":"Unvan-Sembol","o":"Ay Tengri unvanı?","a":"UYGUR hükümdarlarının Maniheizm etkisiyle aldığı unvan — çıkmış soru."},
+    {"c":"Unvan-Sembol","o":"Unvan mı sembol mü tuzağı?","a":"Han, Hakan, İlteber, İlteriş, İdikut, Erkin, Kül-Erkin, Şanyü, Tanhu, Yabgu = UNVAN.\n'SULTAN' İslamiyet öncesinde YOK (Türk-İslam unvanı) — klasik çeldirici."},
+    {"c":"Unvan-Sembol","o":"Örgin / Otağ / Yurt?","a":"Örgin = TAHT · Otağ = HÜKÜMDARIN çadırı · Yurt = halkın çadırı."},
+    {"c":"Unvan-Sembol","o":"Nevbet / Berge / Kotuz / Kur / Tuğ?","a":"Nevbet = DAVUL (otağ önünde çalınır) · Berge = KAMÇI · Kotuz = SORGUÇ (tüy) · Kur = KEMER · Tuğ = püsküllü alem.\nHepsi hükümdarlık SEMBOLÜ."},
+    {"c":"Unvan-Sembol","o":"Yay - Ok kuralı?","a":"YAY tek başına semboldür.\nOK tek başına sembol DEĞİLDİR.\nYay + ok birlikte yine semboldür."},
+    {"c":"Unvan-Sembol","o":"Toy'un çift anlamı?","a":"1) Kurultay\n2) Halka ücretsiz ŞÖLEN / ziyafet → SOSYAL DEVLET anlayışının kanıtı."},
+    {"c":"Din-Ölüm","o":"Gök Tanrı inancının yapısı?","a":"TEK tanrı inancı + atalar kültü (ölmüş ataların ruhları korur) + tabiat kuvvetlerine inanç."},
+    {"c":"Din-Ölüm","o":"Şamanizm din midir?","a":"HAYIR — büyü-sihir inanışıdır.\nKam / Baksı / Şaman = din adamı."},
+    {"c":"Din-Ölüm","o":"Uçmağ / Tamu?","a":"Uçmağ = CENNET · Tamu = CEHENNEM."},
+    {"c":"Din-Ölüm","o":"Kurgan / Balbal / Yuğ / Umay / Sagu / Sav?","a":"Kurgan = oda şeklinde mezar\nBalbal = öldürdüğü düşman sayısınca dikilen taş (ahirette hizmetkârı olacağına inanılır)\nYuğ = cenaze töreni · Umay = tanrıça (anne-çocuk koruyucusu)\nSagu = ağıt · Sav = atasözü"},
+    {"c":"Din-Ölüm","o":"Ta-po Kağan neden tahttan indirildi?","a":"Budizm'e geçmek + şehirleri surla çevirmek istedi → töreye aykırı → kurultay 'Tanrı kut'u geri aldı' deyip indirdi. (AYT sorusu)"},
+    {"c":"Ekonomi-Ordu","o":"Paralar: bez / kâğıt / madeni / gümüş disk?","a":"Bez: BÖZ, KAMDU, KUANPO\nKâğıt: ÇAV (Uygur)\nMadeni: YARMAK\nDisk biçimli gümüş: SATİR (MEB'in yeni vurgusu)"},
+    {"c":"Ekonomi-Ordu","o":"Kullanılan ve KULLANILMAYAN ticaret yolları?","a":"Kullanılan: İPEK Yolu + KÜRK Yolu (Hazar zenginliği).\nKULLANILMAYAN: Kral Yolu ve Baharat Yolu — klasik çeldiriciler."},
+    {"c":"Ekonomi-Ordu","o":"Ekonominin 3 ayağı?","a":"Hayvancılık (temel) + ticaret (hayvansal ürün ver, tarım ürünü al) + tarım (AZ ama VAR — 'hiç yok' deme)."},
+    {"c":"Ekonomi-Ordu","o":"Ordu-millet anlayışı?","a":"'Her Türk asker doğar' — askerlik özel meslek değil, eli silah tutan herkes ordudadır.\nTek istisna: Hazar'ın ücretli askerleri."},
+    {"c":"Ekonomi-Ordu","o":"Yelme / Böri?","a":"Yelme = KEŞİF birliği.\nBöri (= kurt) = hükümdarın ÖZEL MUHAFIZ birliği."},
+    {"c":"Ekonomi-Ordu","o":"Turan taktiğinin diğer 3 adı?","a":"HİLAL taktiği = KURT KAPANI = SAHTE RİCAT (sahte geri çekilme + pusuyla sarma). Mete'nin klasiği."},
+    {"c":"Ekonomi-Ordu","o":"2023 çıkmış: Göktürk parasında kağan + hatun birlikte. Yorumlar?","a":"Kadın yönetimde etkili · para kullanılıyor → TAKAS sona erdi · madeni işliyorlar → ateşi ustaca kullanıyorlar."},
+    {"c":"Ekonomi-Ordu","o":"Konar-göçerliğin sonuç zinciri?","a":"Hayvancılık → göçebelik → mimari AZ, sanat TAŞINABİLİR (hayvan üslubu) → tarım az → yazıya GEÇ geçilir → hapis cezaları KISA (ağır suça ölüm) → savaşçı-teşkilatçı toplum."},
+    {"c":"Yazı-Destan","o":"Orhun Abideleri: dönem, kimler adına, yazar, yer?","a":"II. Köktürk, BİLGE KAĞAN dönemi.\nBilge Kağan + Kül Tigin (yazan: YOLLUG TİGİN) + Tonyukuk (kendi yazdı).\nBugün MOĞOLİSTAN'da.\nİçerik: siyasetname + halka HESAP VERME ('açları doyurdum...' = sosyal devlet)."},
+    {"c":"Yazı-Destan","o":"Abideler araştırma zinciri?","a":"İlk bahseden: CÜVEYNÎ (Tarih-i Cihangüşa) → bilim dünyasına kazandıran: MESSERSCHMIDT → ilk OKUYAN: Wilhelm THOMSEN (Danimarkalı) → ilk TÜRK araştırmacı: NECİP ASIM."},
+    {"c":"Yazı-Destan","o":"GÜNCEL: Türklere ait en eski yazılı eser?","a":"Artık KUTLUK İLTERİŞ KAĞAN ANITI (Moğolistan, Nomgon Vadisi) — Orhun Abideleri'nden eski.\nEski soru bankaları 'Orhun' der; güncel bilgiye dikkat!"},
+    {"c":"Yazı-Destan","o":"Yenisey Yazıtları / Karabalgasun - Sine Uşi - Taryat?","a":"Yenisey = KIRGIZ.\nKarabalgasun, Sine-Uşi, Taryat = UYGUR."},
+    {"c":"Yazı-Destan","o":"Oğuz Kağan Destanı'nın iki püf noktası?","a":"ASYA HUN'a ait; Oğuz Kağan = METE olduğu düşünülür.\nİslamiyet ÖNCESİ olduğu hâlde İSLAMÎ motifler taşır (hâkimlik sorusu!)."},
+    {"c":"Yazı-Destan","o":"Köktürk ve Uygur destanları?","a":"Köktürk: BOZKURT (Aşina'dan türeyiş) + ERGENEKON (demir dağı eritip çıkış; Nevruz kutlaması).\nUygur: 'önce TÜREdiler sonra GÖÇtüler' → Türeyiş + Göç (kutsal taş Çin'e verilince kıtlık)."},
+    {"c":"Yazı-Destan","o":"İskit, Kırgız ve diğer destanlar?","a":"İskit: ALP ER TUNGA + ŞU\nKırgız: MANAS (dünyanın en uzun + YAŞAYAN destanı)\nBulgar: ŞAN KIZI · Altay: YARATILIŞ · Avrupa Hun: SİHİRLİ GEYİK"},
+    {"c":"Yazı-Destan","o":"Yabancı destanlarda Türkler?","a":"NİBELUNGEN (Alman): Attila = Etzel.\nİGOR (Rus): Kıpçak-Rus savaşları.\nDEDE KORKUT hikâyeleri: Oğuzlara ait (Oğuz-Kıpçak mücadeleleri).\nKıpçak sözlüğü: CODEX CUMANICUS."},
+    {"c":"Yazı-Destan","o":"Pazırık halısı / Altın Elbiseli Adam?","a":"Pazırık kurganı: dünyanın EN ESKİ halısı, GÖRDES (Türk) düğümü → dokumacılık kanıtı.\nEsik kurganı: Altın Elbiseli Adam → savaşçılık + zengin ekonomi + maden işçiliği + ahiret inancı.\nİkisi de kaynağa göre İskit veya Hun'a verilir."},
+    {"c":"Yazı-Destan","o":"Mangala / Tepük / ilk Türk şair?","a":"Mangala: 48 taşlı zekâ oyunu, UNESCO listesinde (muhtemel soru).\nTepük: futbol benzeri oyun; seyirtme: koşu.\nİlk Türk şair-müzisyen: APRIN ÇOR TİGİN. Temel çalgı: kopuz."},
+    {"c":"Yazı-Destan","o":"Kaşgarlı Mahmud kartviziti?","a":"Divânu Lügâti't-Türk (Arapça-Türkçe sözlük) → ilk Türk FİLOLOG.\nKitabın sonundaki Türk dünyası haritası → ilk Türk KARTOGRAF.\n2015 sorusu: 'Türk'ün kanadı' = AT."},
+    {"c":"Kanıtlar","o":"Ahiret inancının KESİN kanıtları?","a":"Mumyalama · Kurgan (oda mezar) · ölülerin değerli eşyalarıyla gömülmesi · Balbal · (piramitler de aynı mantık)."},
+    {"c":"Kanıtlar","o":"Ahiret kanıtı OLMAYANLAR?","a":"YUĞ töreni (cenaze) · SAGU (ağıt) · SAV (atasözü) · UMAY (tanrıça).\nEn sık çeldirici: yuğ."},
+    {"c":"Kanıtlar","o":"Tarımın kesin kanıtı olan / olmayan?","a":"KESİN: sulama kanalı, tohumluk buğday, orak-saban.\nDEĞİL: buğday, buğday ambarı, öğütme taşı — hepsi ticaretle alınmış olabilir."},
+    {"c":"Kanıtlar","o":"Yerleşik yaşamın kesin kanıtı testi?","a":"Soru: 'ATLA TAŞINABİLİYOR MU?'\nTaşınamıyorsa kanıt: ev, saray, tapınak, kütüphane, sulama kanalı.\nTaşınabiliyorsa kanıt DEĞİL."}
+  ],
+  "tuzak": [
+    {"q":"İlk teşkilatlı Türk devleti?","o":["Asya Hun","I. Köktürk"],"c":0,"n":"Köktürk 'Türk' ADIYLA kurulan ilktir; teşkilatlı ilk devlet Asya Hun."},
+    {"q":"'Türk' adıyla kurulan ilk devlet?","o":["I. Köktürk","Asya Hun"],"c":0,"n":"Türk adını siyasi olarak kullanan ilk devlet → ulusçu devlet."},
+    {"q":"İlk Türk TOPLULUĞU (boyu)?","o":["İskitler","Asya Hun"],"c":0,"n":"Teşkilatlanma yok → devlet değil, topluluk."},
+    {"q":"İlk YERLEŞİK Türk devleti?","o":["Uygur","Hazar"],"c":0,"n":"Maniheizm → et yasak → tarım → yerleşiklik."},
+    {"q":"Din değiştiren ilk Türk devleti?","o":["Uygur","İtil Bulgar"],"c":0,"n":"Bögü Kağan, 763, Maniheizm."},
+    {"q":"Başkentini değiştiren ilk Türk devleti?","o":["Uygur","II. Köktürk"],"c":0,"n":"Ötüken → Karabalgasun."},
+    {"q":"Töreyi YAZIYA geçiren ilk?","o":["Uygur","Köktürk"],"c":0,"n":"Yerleşik hayat + Uygur alfabesi sayesinde."},
+    {"q":"Kendi adına para bastıran ilk Türk hükümdarı?","o":["Baga Tarkan (Türgiş)","Bögü Kağan (Uygur)"],"c":0,"n":"Uygur'un çav'ı kâğıt paradır; 'kendi adına ilk basan' Türgiş'tir."},
+    {"q":"Uygurların KÂĞIT parası?","o":["Çav","Yarmak"],"c":0,"n":"Yarmak = madeni para."},
+    {"q":"Disk biçimli GÜMÜŞ para?","o":["Satir","Kuanpo"],"c":0,"n":"Kuanpo = bez para. Satir, MEB'in yeni vurgusu."},
+    {"q":"İstanbul'u kuşatan İLK Türk devleti?","o":["Avar","Bulgar"],"c":0,"n":"A → B: 1. Avar, 2. Tuna Bulgar."},
+    {"q":"Museviliği kabul eden Türk devleti?","o":["Hazar","İtil Bulgar"],"c":0,"n":"İlk ve TEK. İtil Bulgarları → İslam."},
+    {"q":"Tarihte İslam'ı kabul eden ilk Türk DEVLETİ?","o":["İtil Bulgarları","Karahanlılar"],"c":0,"n":"Karahanlı = ORTA ASYA'da ilk (Gün 2'nin konusu)."},
+    {"q":"İslam'ı kabul eden ilk Türk BOYU?","o":["Karluklar","Oğuzlar"],"c":0,"n":"751 Talas'ta, Abbasî safında."},
+    {"q":"KAFKASYA'nın İslamlaşmasını engelleyen?","o":["Hazarlar","Türgişler"],"c":0,"n":"Belencer Savaşı ile (Hz. Osman dönemi)."},
+    {"q":"ORTA ASYA'nın İslamlaşmasını engelleyen?","o":["Türgişler","Hazarlar"],"c":0,"n":"Sulu Kağan, Emevîlere karşı."},
+    {"q":"İlk Türk-Arap savaşı?","o":["Belencer","Talas"],"c":0,"n":"Talas = Türk-İSLAM tarihini BAŞLATAN savaş (751, Atlık)."},
+    {"q":"Anadolu'ya İLK Türk akını?","o":["Avrupa Hunları (Uldız dönemi)","Sibirler"],"c":0,"n":"Sibirler ikinci; Sibirya'ya adını verdiler."},
+    {"q":"Moğol hâkimiyetine giren ilk Türk DEVLETİ?","o":["Kırgızlar","Karluklar"],"c":0,"n":"Karluk = Moğol'a giren ilk Türk-İSLAM boyu."},
+    {"q":"Türk tarihinin ilk YAZILI antlaşması?","o":["Kuzey Şansi","Margus"],"c":0,"n":"Margus + Anatolios = Attila'nın Bizans'ı vergiye bağladığı antlaşmalar."},
+    {"q":"Türk tarihinin ilk BAĞIMSIZLIK isyanı?","o":["Kürşad (639)","Kutluk İsyanı"],"c":0,"n":"Kutluk isyanı BAŞARILI olup II. Köktürk'ü kurdu; ilk kıvılcım Kürşad (39 çeri → 639)."},
+    {"q":"Orhun Yazıtları hangi devlete ait?","o":["II. Köktürk","I. Köktürk"],"c":0,"n":"Bilge Kağan dönemi — I. Köktürk sanma!"},
+    {"q":"Türklere ait EN ESKİ yazılı eser (güncel bilgi)?","o":["Kutluk İlteriş Kağan Anıtı","Orhun Abideleri"],"c":0,"n":"Nomgon Vadisi buluntusu; eski kaynaklar 'Orhun' der."},
+    {"q":"Orhun Yazıtlarını ilk OKUYAN?","o":["Wilhelm Thomsen","Necip Asım"],"c":0,"n":"Necip Asım = ilk TÜRK araştırmacı. Cüveynî ilk bahseden, Messerschmidt bilime kazandıran."},
+    {"q":"İlk Türk vezir?","o":["Tonyukuk","Bilge Kağan"],"c":0,"n":"Apa Tarkan, Türklerin Bismarck'ı; kendi anıtını yazdı → ilk Türk tarihçi."},
+    {"q":"İlk Türk kadın hükümdar?","o":["Tomris (İskit)","Umay"],"c":0,"n":"Umay tanrıçadır, hükümdar değil."},
+    {"q":"İlk Türk şair-müzisyen?","o":["Aprın Çor Tigin","Yollug Tigin"],"c":0,"n":"Yollug Tigin = Bilge Kağan ve Kül Tigin anıtlarını yazan kişi."},
+    {"q":"Ordusunda ücretli asker kullanan ilk Türk devleti?","o":["Hazar","Peçenek"],"c":0,"n":"Peçenekler BİZANS ordusunda ücretliydi — kendi devletleri bile yok."},
+    {"q":"Hem Asya'da hem Avrupa'da devlet kuranlar?","o":["Hunlar ve Avarlar","Hunlar ve Macarlar"],"c":0,"n":"Macarlar yalnız Avrupa'da kuruldu."},
+    {"q":"YAY tek başına hükümdarlık sembolü müdür?","o":["Evet","Hayır"],"c":0,"n":"OK tek başına sembol DEĞİLDİR; yay + ok birlikte yine semboldür."},
+    {"q":"Celâlî Takvim'in başlangıç noktası?","o":["Melikşah'ın tahta çıkışı","Hicret"],"c":0,"n":"Hazırlayan: Ömer Hayyam. Hicret = Hicrî takvimin başlangıcı (Hz. Ömer dönemi oluşturuldu)."},
+    {"q":"Afganistan'da kurulan ilk Türk devleti?","o":["Akhunlar (Eftalitler)","Gazneliler"],"c":0,"n":"Gazneliler Türk-İslam dönemi (Gün 2). Akhun'u Göktürk + Sasanî yıktı."},
+    {"q":"Hristiyanlığı kabul eden ilk Türk devleti?","o":["Avarlar","Macarlar"],"c":0,"n":"Macarlar KATOLİKLİĞİ seçen ilk devlettir."},
+    {"q":"'Bozkırın Kuyumcuları' kimdir, kim söylemiştir?","o":["İskitler — Herodot","Hazarlar — Cüveynî"],"c":0,"n":"Herodot (tarihin babası), Historia adlı eserinde; madeni iyi işledikleri için."}
+  ],
+  "deneme": [
+    {"q":"Türk adına yüklenen anlamlarla ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?","o":["Kaşgarlı Mahmud – Olgunluk çağı","Çin kaynakları – Miğfer","Uygur kaynakları – Güçlü, kuvvetli","Ziya Gökalp – Töreli, kanun ve nizam sahibi","Vambery – Güzel insan"],"c":4,"e":"Vambery = türemek, çoğalmak. 'Güzel insan' İran kaynaklarının yakıştırmasıdır."},
+    {"q":"Orta Asya'da TÜRKLERE AİT en eski kültür merkezi aşağıdakilerden hangisidir?","o":["Anav","Tagar","Afanasyevo","Andronovo","Karasuk"],"c":2,"e":"Tuzak: Anav 'Orta Asya'nın' en eskisidir; 'Türklere ait en eski' = Afanasyevo."},
+    {"q":"Aşağıdakilerden hangisi konar-göçer yaşamın Türk toplumuna etkilerinden biri olarak gösterilemez?","o":["Mimari eserlerin az olması","Sanatın taşınabilir eşyalarda gelişmesi","Hapis cezalarının kısa süreli olması","Ordu-millet anlayışının benimsenmesi","Yazılı hukuk kurallarının erken dönemde ortaya çıkması"],"c":4,"e":"Töre SÖZLÜDÜR; yazıya geçiren ilk devlet Uygurlardır (yerleşik hayat sonrası)."},
+    {"q":"Aşağıdakilerden hangisi Kavimler Göçü'nün sonuçları arasında yer almaz?","o":["Roma İmparatorluğu'nun ikiye ayrılması","Avrupa'da feodalitenin doğması","Skolastik düşüncenin yayılması","Avrupa Hun Devleti'nin kurulması","Orta Asya'da Türk siyasi birliğinin sağlanması"],"c":4,"e":"Siyasi birliği Mete sağladı — Kavimler Göçü'nden çok önce ve başka coğrafyada."},
+    {"q":"Mete Han orduyu onlu sisteme göre örgütlemiş ve 'Ok atabilen, yay çekebilen bütün Türkleri birleştirdim' demiştir.\nBuna göre;\nI. İlk düzenli Türk ordusu kurulmuştur,\nII. Orta Asya'da Türk siyasi birliği sağlanmıştır,\nIII. Yerleşik hayata geçilmiştir\nyargılarından hangilerine ulaşılabilir?","o":["Yalnız I","Yalnız II","I ve II","II ve III","I, II ve III"],"c":2,"e":"Yerleşiklik Uygurlarla başlar; paragraftan III çıkarılamaz."},
+    {"q":"Çin kaynaklarında 'Juan-Juan', Köktürk kaynaklarında 'Apar' olarak geçen Türk devleti aşağıdakilerden hangisidir?","o":["Avarlar","Akhunlar","Sibirler","Kıpçaklar","Hazarlar"],"c":0,"e":"Çıkmış kalıp. Avarlar ayrıca İstanbul'u kuşatan İLK Türk devletidir."},
+    {"q":"Margus ve Anatolios antlaşmaları aşağıdaki hangi ikisi arasında imzalanmıştır?","o":["Avrupa Hun – Bizans","Avrupa Hun – Batı Roma","Asya Hun – Çin","Avarlar – Bizans","Hazarlar – Emevîler"],"c":0,"e":"Attila dönemi; Bizans vergiye bağlandı, üstünlük kabul ettirildi. Asya Hun – Çin arasındaki ise Kuzey Şansi'dir."},
+    {"q":"Tarihte İslamiyet'i kabul eden ilk Türk devleti aşağıdakilerden hangisidir?","o":["Karahanlılar","İtil Bulgarları","Karluklar","Tuna Bulgarları","Türgişler"],"c":1,"e":"Karahanlı = ORTA ASYA'da ilk. Karluk = ilk Türk BOYU. Soru 'devlet' diyor → İtil Bulgarları (Almış Han)."},
+    {"q":"Emevîler döneminde Maveraünnehir'de İslamiyet'in yayılmasını engelleyen Türk devleti aşağıdakilerden hangisidir?","o":["Hazarlar","Karluklar","Türgişler","Kırgızlar","Peçenekler"],"c":2,"e":"Sulu Kağan; Yevmü'l-Atş ve Geçit savaşları. Hazarlar KAFKASYA'yı engelledi (Belencer)."},
+    {"q":"Hazarların ordularında ücretli asker bulundurmaları ve ülkelerinde farklı dinlerin bir arada yaşaması aşağıdakilerden hangisine kanıt oluşturur?","o":["Teokratik devlet anlayışına","Hoşgörülü ve ekonomik gücü yüksek bir yapıya sahip olduklarına","Kapalı ekonomi uygulandığına","Ordu-millet anlayışının güçlendiğine","Yerleşik hayata geçilmediğine"],"c":1,"e":"Pax Hazarica + Kürk Yolu zenginliği. Ücretli asker, ordu-millet anlayışını ZAYIFLATIR."},
+    {"q":"1071 Malazgirt Savaşı'nda Bizans ordusundan Büyük Selçuklu safına geçen Türk boyları aşağıdakilerden hangisidir?","o":["Uzlar ve Peçenekler","Kıpçaklar ve Uzlar","Peçenekler ve Karluklar","Oğuzlar ve Kırgızlar","Basmiller ve Karluklar"],"c":0,"e":"İkisi de Bizans'ta ücretli askerdi; karşıda Türkleri görünce saf değiştirdiler."},
+    {"q":"Ta-po Kağan'ın Budizm'i benimseme ve şehirlerin etrafını surlarla çevirme isteği üzerine kurultay tarafından tahttan indirilmesi aşağıdakilerden hangisinin göstergesidir?","o":["Kurultayın hükümdar üzerinde yaptırım gücü bulunduğunun","Devletin teokratik yapıya sahip olduğunun","Veraset sisteminin değiştiğinin","Ülkede ikili teşkilatın uygulandığının","Hükümdarlığın seçimle belirlendiğinin"],"c":0,"e":"Kurultay 'Tanrı kut'u geri aldı' diyerek indirdi → demokratik meclis yönü."},
+    {"q":"Türk tarihinin ilk bağımsızlık isyanı aşağıdakilerden hangisidir?","o":["Kürşad Ayaklanması","Töles İsyanı","Kutluk İsyanı","Çi-çi'nin mücadelesi","Bumin Kağan'ın isyanı"],"c":0,"e":"639, 39 çeri — 2011 LYS sorusu. Kutluk isyanı ise BAŞARILI olup II. Köktürk'ü kurdu."},
+    {"q":"Orhun Abideleri ile ilgili aşağıdakilerden hangisi yanlıştır?","o":["II. Köktürk döneminde dikilmiştir","Günümüzde Moğolistan sınırları içindedir","Bilge Kağan, Kül Tigin ve Tonyukuk adına dikilmiştir","İlk kez Wilhelm Thomsen tarafından okunmuştur","Türk adının tarihte ilk kez geçtiği kaynaklardır"],"c":4,"e":"Türk adı ilk kez ÇİN YILLIKLARINDA geçer. Abideler Türkçenin ilk yazılı örnekleridir (o unvan da artık Kutluk İlteriş Anıtı'nda)."},
+    {"q":"Moğolistan Nomgon Vadisi'nde bulunmasıyla 'Türklere ait en eski yazılı eser' unvanını devralan eser aşağıdakilerden hangisidir?","o":["Yenisey Yazıtları","Karabalgasun Yazıtları","Kutluk İlteriş Kağan Anıtı","Sine-Uşi Yazıtı","Taryat Yazıtı"],"c":2,"e":"Güncellenen bilgi! Eski kaynaklar Orhun Abideleri der. Yenisey = Kırgız; diğerleri = Uygur."},
+    {"q":"Aşağıdakilerden hangisi Uygurların Maniheizm'i kabul etmesinin sonuçlarından biri olarak gösterilemez?","o":["Yerleşik hayata geçilmesi","Tapınak mimarisinin gelişmesi","Törenin yazılı hâle getirilmesi","Minyatür ve fresk sanatlarının gelişmesi","Akıncı ve savaşçı özelliklerin güçlenmesi"],"c":4,"e":"Tam tersi: savaşmak ve kan akıtmak yasak → savaşçılık zayıfladı."},
+    {"q":"Aşağıdaki 'ilk'lerden hangisi Uygurlara ait değildir?","o":["Yerleşik hayata geçen ilk Türk devleti","Başkent değiştiren ilk Türk devleti","Matbaa ve kütüphane kullanan ilk Türk devleti","Kendi adına para bastıran ilk Türk hükümdarının devleti","Töreyi yazıya geçiren ilk Türk devleti"],"c":3,"e":"O Türgişlerdir (Baga Tarkan). Uygur'un parası ÇAV = ilk kâğıt para."},
+    {"q":"Aşağıdakilerden hangisi hükümdarlık sembollerinden biri değildir?","o":["Otağ","Nevbet","Tuğ","Berge","İdikut"],"c":4,"e":"İdikut bir UNVANDIR. Sembol-unvan ayrımı klasik soru kalıbı."},
+    {"q":"Aşağıdakilerden hangisi İslamiyet öncesi Türk devletlerinde devleti oluşturan dört temel unsurdan biri değildir?","o":["Ülke","Halk (kün)","Bağımsızlık (oksızlık)","Teşkilat","Kut"],"c":4,"e":"Kut, Tanrı'nın verdiği yönetme yetkisidir; devleti oluşturan unsur DEĞİLDİR — en sevilen çeldirici."},
+    {"q":"Aşağıdakilerden hangisi ahiret inancının kesin kanıtlarından biri değildir?","o":["Kurgan","Balbal","Mumyalama","Ölülerin değerli eşyalarıyla gömülmesi","Yuğ töreni"],"c":4,"e":"Yuğ sadece cenaze törenidir; sagu, sav ve Umay da kesin kanıt sayılmaz."}
+  ],
+  "eslestir": [
+    {"ad":"Destan → Sahibi","p":[["Oğuz Kağan","Asya Hun (Mete)"],["Alp Er Tunga + Şu","İskitler"],["Bozkurt + Ergenekon","Köktürk"],["Türeyiş + Göç","Uygur"],["Manas","Kırgız"],["Şan Kızı","Bulgar"],["Yaratılış","Altay Türkleri"],["Sihirli Geyik","Avrupa Hun"]]},
+    {"ad":"Meclis → Devlet","p":[["İhtiyarlar Meclisi","Hazar"],["Seçkinler Meclisi","Avrupa Hun"],["Millet Meclisi","Tuna Bulgar"],["Komenton","Peçenek"],["Tirnek","Oğuz"],["Nazırlar Meclisi","Tabgaç"]]},
+    {"ad":"Görevli → Anlam","p":[["Aygucı","Vezir"],["Ayukı","Hükümet"],["Tudun","Vergi memuru"],["Tutuk","Askerî vali"],["Apa","Sivil vali"],["Şad","Hanedan üyesi vali"],["Agılıg","Hazinedar"],["Bitikçi","Kâtip"]]},
+    {"ad":"Sembol → Anlam","p":[["Örgin","Taht"],["Otağ","Hükümdar çadırı"],["Nevbet","Davul"],["Berge","Kamçı"],["Kotuz","Sorguç (tüy)"],["Kur","Kemer"],["Yarlıg","Hükümdar emri"]]},
+    {"ad":"İlk → Devlet","p":[["İlk yerleşik","Uygur"],["Musevilik","Hazar"],["İstanbul'u ilk kuşatan","Avar"],["Kendi adına ilk para","Türgiş"],["'Türk' adıyla ilk","I. Köktürk"],["İlk teşkilatlı devlet","Asya Hun"],["Afganistan'da ilk","Akhun"],["İlk kadın hükümdar","İskit (Tomris)"]]}
+  ]
+}
