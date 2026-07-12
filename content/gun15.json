@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "gun": 15,
+    "baslik": "Kurtuluş Savaşı Hazırlık Dönemi (Mondros'tan Misak-ı Milli'ye)",
+    "ozet": "Mustafa Kemal'in Samsun'a çıkışından son Osmanlı Mebusan Meclisi'ne uzanan hazırlık dönemi: raporlar, genelgeler, kongreler, temsil heyeti, Amasya Görüşmeleri ve Misak-ı Milli.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Rauf Orvay → Rauf Orbay",
+      "Refetbele → Refet Bele",
+      "Cemalpşa → Cemal Paşa",
+      "Ali Fetih/Feth Okyar → Ali Fethi Okyar",
+      "Cafer Tayyyar → Cafer Tayyar Paşa",
+      "Trakya Paşa Cemiyeti → Trakya Paşaeli Cemiyeti",
+      "Talip Paşa (bir yerde) → Salih Paşa (Bahriye Nazırı)",
+      "Hac/Hacim Muhidtin → Hacim Muhittin Bey",
+      "Kazım Yurdğan → Kazım Yurdalan",
+      "Elviye-i Selas → Elviye-i Selase (Kars-Ardahan-Batum)",
+      "20 kol ordu / 15 kol ordu → 20. Kolordu / 15. Kolordu",
+      "Şark Vilayetleri yayın organı 'Lepays' → transkript bozulması; emin olunamadığından denemeye konmadı",
+      "İngiliz 'Williams Charles Noel' → transkriptte bozuk; isim denemeye konmadı"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Hocanın ezber şifreleri",
+      "i": [
+        { "k": "kararcı", "m": "Amasya Genelgesi'ni imzalayan/onaylayanlar: Kazım Karabekir · Ali Fuat Cebesoy · Rauf Orbay · Atatürk · Refet Bele · Cemal Paşa", "s": "z" },
+        { "k": "kararcı → ilk & son harf (K…C)", "m": "Telgraf yoluyla onaylayanlar: Kazım Karabekir ve Cemal Paşa (yanlarında olmadıkları için imza atamadılar)", "s": "z" },
+        { "k": "Best One Van (Bestvan)", "m": "Erzurum Kongresi'ne delege GÖNDEREN iller: Bitlis · Erzurum · Sivas · Trabzon · Van", "s": "z" },
+        { "k": "Dem (demli çay)", "m": "Erzurum Kongresi'ne delege GÖNDERMEYEN iller: Diyarbakır · Elazığ · Mardin", "s": "z" },
+        { "k": "Esap / Hesap", "m": "Atatürk'ün katıldığı kongreler (kronolojik): Erzurum · Sivas · Afyon · Pozantı", "s": "z" },
+        { "k": "Kara borsa", "m": "Misak-ı Milli maddeleri: Kapitülasyon · Boğazlar · Osmanlı borçları · Referandum · Sınırlar · Azınlıklar", "s": "z" }
+      ]
+    },
+    {
+      "b": "Belgeler ve ilkleri",
+      "i": [
+        { "k": "Samsun raporu", "m": "Milli mücadelenin İLK raporu; İstanbul hükümetiyle İLK görüş ayrılığı", "s": "z" },
+        { "k": "Havza Genelgesi", "m": "Milli bilinci uyandırmaya yönelik İLK belge (mitingler, telgraflar, azınlığa zarar vermeyin)", "s": "z" },
+        { "k": "Amasya Genelgesi", "m": "Milli mücadelenin amaç-gerekçe-yöntemi; programı; ihtilal bildirgesi; rejim değişikliği ve ulusal egemenliğin ilk (üstü kapalı) sinyali", "s": "z" },
+        { "k": "Amasya = azınlık YOK", "m": "Amasya Genelgesi'nde azınlıklardan bahsedilMEZ (Samsun raporu, Havza ve Erzurum'da bahsedilir)", "s": "z" },
+        { "k": "Erzurum = milli sınır İLK", "m": "Milli/ulusal sınırlardan ilk kez Erzurum Kongresi'nde bahsedildi → Misak-ı Milli sınırlarının temeli", "s": "z" }
+      ]
+    },
+    {
+      "b": "Temsil Heyeti aşamaları",
+      "i": [
+        { "k": "İlk bahsedilme", "m": "Amasya Genelgesi ('her türlü etki ve denetimden uzak bir heyet gerekmektedir')", "s": "z" },
+        { "k": "Kuruluş", "m": "Erzurum Kongresi", "s": "z" },
+        { "k": "Ulusal hale gelme", "m": "Sivas Kongresi (tüm yurdu temsil eder)", "s": "z" },
+        { "k": "İlk yürütme yetkisi", "m": "Sivas Kongresi → Ali Fuat Cebesoy'u Batı Cephesi Kuvay-i Milliye Komutanlığı'na atadı", "s": "z" },
+        { "k": "Resmen tanınma", "m": "Amasya Görüşmeleri (İstanbul hükümeti tarafından)", "s": "z" },
+        { "k": "Görev süresinin bitişi", "m": "TBMM'nin açılışı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Erzurum ↔ Sivas ayrımı",
+      "i": [
+        { "k": "Manda-himaye İLK ret", "m": "Erzurum Kongresi", "s": "z" },
+        { "k": "Manda-himaye KESİN ret", "m": "Sivas Kongresi ('Ya istiklal ya ölüm')", "s": "z" },
+        { "k": "Doğudaki cemiyetler birleşti", "m": "Erzurum Kongresi", "s": "z" },
+        { "k": "Bütün cemiyetler birleşti", "m": "Sivas Kongresi → Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti", "s": "z" },
+        { "k": "Erzurum toplanış/karar", "m": "Toplanış BÖLGESEL, kararlar ULUSAL", "s": "z" },
+        { "k": "Sivas toplanış/karar", "m": "Hem toplanış hem kararlar ULUSAL", "s": "z" }
+      ]
+    },
+    {
+      "b": "Diğer kongreler ve düzenleyicileri",
+      "i": [
+        { "k": "Balıkesir & Alaşehir", "m": "Hacim Muhittin Bey; Batı Cephesi'nin kurulmasında etkili; saltanat-hilafete bağlılık bildirildi", "s": "z" },
+        { "k": "Aydın & Nazilli", "m": "Celal Bayar (Galip Hoca takma adı); işgal nedeniyle Muğla'da toplandı", "s": "z" },
+        { "k": "Edirne & Lüleburgaz", "m": "Cafer Tayyar Paşa (Trakya Paşaeli Cemiyeti, Faik Kaltakkıran); Doğu Trakya'yı Yunan işgalinden kurtarma", "s": "z" },
+        { "k": "Pozantı", "m": "Kilikyalılar Cemiyeti; Fransız-Ermeni faaliyetlerine karşı; milli mücadelenin SON kongresi", "s": "z" },
+        { "k": "Afyon", "m": "Atatürk TBMM başkanı olarak katıldı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Gazeteler",
+      "i": [
+        { "k": "Minber", "m": "Mustafa Kemal + Ali Fethi Okyar; 'Hatip' takma adıyla yazıldı (İstanbul, Mondros sonrası)", "s": "z" },
+        { "k": "Albayrak", "m": "Erzurum Kongresi kararlarını yayınlayan gazete (Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti organı)", "s": "z" },
+        { "k": "İrade-i Milliye", "m": "Sivas Kongresi'nde çıkarılan gazete (halkı milli mücadeleden haberdar etmek için)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Son Osmanlı Mebusan Meclisi",
+      "i": [
+        { "k": "Felah-ı Vatan Grubu", "m": "Müdafaa-i Hukuk yerine kurulan grup; Misak-ı Milli'yi onaylattı", "s": "z" },
+        { "k": "Reşat Hikmet → Celalettin Arif", "m": "Meclis başkanları (sırasıyla); M. Kemal başkan olamadı", "s": "z" },
+        { "k": "Son kanun = Misak-ı Milli", "m": "Meclisin kabul ettiği son kanun; ardından İstanbul işgal edildi, meclis dağıtıldı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Mustafa Kemal'in yerleri",
+      "i": [
+        { "k": "Mondros'ta görevi", "m": "Yıldırım Orduları Grup Komutanı (Suriye-Filistin Cephesi)", "s": "z" },
+        { "k": "9. Ordu Müfettişliği merkezi", "m": "Erzurum", "s": "z" },
+        { "k": "Osmanlı Mebusan milletvekili", "m": "Erzurum", "s": "z" },
+        { "k": "1. TBMM milletvekili", "m": "Ankara", "s": "z" },
+        { "k": "Nüfusa kayıtlı yer", "m": "Gaziantep", "s": "z" },
+        { "k": "Manastırlı Hamdi Bey", "m": "İstanbul'un işgalini 16 Mart'ta haber verdi → 'Mart 16' soyadı verildi", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Mondros Sonrası", "o": "Mondros Ateşkes Anlaşması imzalandığında Mustafa Kemal Paşa'nın görevi neydi?", "a": "Yıldırım Orduları Grup Komutanı\n(Suriye-Filistin Cephesi). Hatay-Halep arasına hat çekmişti." },
+    { "c": "Mondros Sonrası", "o": "'Geldikleri gibi giderler' sözü ne zaman ve kime söylendi?", "a": "Suriye-Filistin'den İstanbul'a dönerken, itilaf gemilerini gören yaveri Cevat Abbas'a." },
+    { "c": "Mondros Sonrası", "o": "Mustafa Kemal, Mondros sonrası hangi gazeteyi kiminle ve hangi takma adla çıkardı?", "a": "Minber Gazetesi'ni Ali Fethi Okyar ile; 'Hatip' takma adıyla yazdı." },
+    { "c": "Mondros Sonrası", "o": "İstanbul hükümeti Mustafa Kemal'i hangi görevle Samsun'a gönderdi ve amacı neydi?", "a": "9. Ordu Müfettişliği ile. Amaç: Mondros'un 7. maddesinin (işgal) uygulanmasını önlemek." },
+    { "c": "Mondros Sonrası", "o": "9. Ordu Müfettişliği'nin merkezi neresidir?", "a": "Erzurum." },
+    { "c": "Mondros Sonrası", "o": "Samsun'da Mustafa Kemal'i karşılayan tek kadın kimdir?", "a": "Sakine Baturay ('Bizi bu Rum zulmünden kurtar')." },
+
+    { "c": "Genelgeler", "o": "Milli mücadelenin ilk raporu hangisidir ve ne getirdi?", "a": "Samsun raporu. İstanbul hükümetiyle ilk görüş ayrılığını doğurdu (silahları teslim etmeyi reddetti)." },
+    { "c": "Genelgeler", "o": "Milli bilinci uyandırmaya yönelik ilk belge hangisidir?", "a": "Havza Genelgesi. İşgalleri protesto, miting, telgraf; azınlıklara zarar verilmemesi istendi." },
+    { "c": "Genelgeler", "o": "İzmir'in işgalinden ÖNCE ve SONRA yapılan ilk mitingler hangileridir?", "a": "İşgalden önce: Maşatlık mitingi (İzmir).\nİşgalden sonra: Havza mitingi." },
+    { "c": "Genelgeler", "o": "Sultan Ahmet mitingini düzenleyen isimler kimlerdir?", "a": "Yunus Nadi ve Halide Edip (Adıvar)." },
+    { "c": "Genelgeler", "o": "Amasya Genelgesi hangi belgeyle nitelenir ve neyi ortaya koyar?", "a": "İhtilal bildirgesi / milli mücadelenin programı. Amaç, gerekçe ve yöntemi ortaya koyar." },
+    { "c": "Genelgeler", "o": "Amasya Genelgesi nerede, kim tarafından yazıldı?", "a": "Saraydüzü Kışlası'nda (Amasya); yazan yaver Cevat Abbas." },
+    { "c": "Genelgeler", "o": "Amasya Genelgesi'nin gerekçe, amaç ve yöntemi nedir?", "a": "Gerekçe: vatan bütünlüğü/istiklal tehlikede + İstanbul yükümlülüğünü yapmıyor.\nAmaç: milletin istiklali.\nYöntem: milletin azmi ve kararı." },
+    { "c": "Genelgeler", "o": "Amasya Genelgesi'nde hangi konudan bahsedilMEZ?", "a": "Azınlıklardan. (Samsun raporu, Havza ve Erzurum'da bahsedilir.)" },
+    { "c": "Genelgeler", "o": "Amasya Genelgesi'ni 'mukaddes ittifak' diye niteleyen kimdir?", "a": "Ali Fuat Cebesoy (kitabı: 'Sınıf Arkadaşım Atatürk')." },
+    { "c": "Genelgeler", "o": "Amasya Genelgesi'ni telgraf yoluyla onaylayanlar kimlerdir?", "a": "Kazım Karabekir ve Cemal Paşa ('kararcı' şifresinin ilk ve son harfleri)." },
+
+    { "c": "Erzurum Kongresi", "o": "Erzurum Kongresi'ni toplanış ve kararlar açısından nasıl tanımlarız?", "a": "Toplanış açısından bölgesel, aldığı kararlar açısından ulusal." },
+    { "c": "Erzurum Kongresi", "o": "Erzurum Kongresi'ni hangi iki cemiyet topladı?", "a": "Şark (Doğu Anadolu) Vilayetleri Müdafaa-i Hukuk Cemiyeti + Trabzon Muhafaza-i Hukuk Cemiyeti." },
+    { "c": "Erzurum Kongresi", "o": "Erzurum Kongresi Mustafa Kemal için hangi ilktir?", "a": "Sivil olarak (askerlikten istifadan sonra) katıldığı ilk yer." },
+    { "c": "Erzurum Kongresi", "o": "Erzurum Kongresi'ne delege gönderen iller hangileridir? ('Bestvan')", "a": "Bitlis, Erzurum, Sivas, Trabzon, Van." },
+    { "c": "Erzurum Kongresi", "o": "Erzurum Kongresi'ne delege GÖNDERMEYEN iller hangileridir? ('Dem')", "a": "Diyarbakır, Elazığ, Mardin." },
+    { "c": "Erzurum Kongresi", "o": "Erzurum Kongresi'nde Mustafa Kemal ve Rauf Orbay'ın katılabilmesi için yerlerini bırakanlar kimlerdir?", "a": "Cevat Dursunoğlu ve Kazım Yurdalan." },
+    { "c": "Erzurum Kongresi", "o": "Erzurum Kongresi'nde hangi 'ilk'ler yer aldı?", "a": "Milli sınırlar, manda-himaye reddi (ilk), dış yardım, doğudaki cemiyetlerin birleşmesi, Mebusan Meclisi'nin açılması ilk kez burada gündeme geldi." },
+    { "c": "Erzurum Kongresi", "o": "'Sınırlarımızda gözü olmayan devletten yardım' derken kastedilen devlet kimdir?", "a": "SSCB (Rusya). Anadolu'nun bağımsızlığı Rusya'nın güneyini de güvene alır." },
+
+    { "c": "Sivas Kongresi", "o": "Sivas Kongresi neden Erzurum'un 'tamamlayıcısı'dır?", "a": "Manda-himaye kesin reddedildi, temsil heyeti ulusal hale geldi, tüm cemiyetler birleşti, kararlar genişletilerek kabul edildi." },
+    { "c": "Sivas Kongresi", "o": "Sivas Kongresi'ne katılımın az olmasının nedenleri nelerdir?", "a": "Elazığ Valisi Ali Galip (en önemlisi), Ankara Valisi Muhittin Paşa, Fransız işgal söylentisi, İngiliz temsilcinin engellemeleri." },
+    { "c": "Sivas Kongresi", "o": "Sivas Kongresi'nde en çok tartışılan iki konu neydi?", "a": "Manda-himaye ve kongre başkanlığı (M. Kemal ile Rauf Orbay yarıştı; M. Kemal kazandı)." },
+    { "c": "Sivas Kongresi", "o": "'Ya istiklal ya ölüm' sözü nerede söylendi?", "a": "Sivas Kongresi'nde, manda-himaye tartışması sırasında Mustafa Kemal tarafından." },
+    { "c": "Sivas Kongresi", "o": "Bütün cemiyetler hangi çatı altında ve nerede birleştirildi?", "a": "Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti; Sivas Kongresi'nde." },
+    { "c": "Sivas Kongresi", "o": "Temsil heyeti ilk kez yürütme yetkisini nerede, nasıl kullandı?", "a": "Sivas Kongresi'nde Ali Fuat Cebesoy'u Batı Cephesi Kuvay-i Milliye Komutanlığı'na atayarak." },
+    { "c": "Sivas Kongresi", "o": "Sivas Kongresi'nde çıkarılmasına karar verilen gazete hangisidir?", "a": "İrade-i Milliye (halkı milli mücadeleden haberdar etmek için)." },
+    { "c": "Sivas Kongresi", "o": "Temsil heyetinin İstanbul hükümetine karşı ilk siyasi zaferi nedir?", "a": "Damat Ferit Paşa hükümetinin istifa ettirilmesi; yerine (ılımlı) Ali Rıza Paşa hükümeti geldi." },
+
+    { "c": "Temsil Heyeti", "o": "Temsil heyetinden ilk kez nerede bahsedildi, nerede kuruldu?", "a": "İlk bahsedilme: Amasya Genelgesi. Kuruluş: Erzurum Kongresi." },
+    { "c": "Temsil Heyeti", "o": "Temsil heyeti nerede ulusal hale getirildi, İstanbul'ca nerede tanındı?", "a": "Ulusal hale: Sivas Kongresi. Resmen tanınma: Amasya Görüşmeleri." },
+    { "c": "Temsil Heyeti", "o": "Temsil heyetinin görev süresi ne zaman sona erdi?", "a": "TBMM'nin açılışıyla." },
+    { "c": "Temsil Heyeti", "o": "Temsil heyeti nasıl bir organdır?", "a": "İstanbul hükümetine alternatif, mini bir yürütme organı (bakanlar kurulu gibi)." },
+
+    { "c": "Diğer Kongreler", "o": "Balıkesir ve Alaşehir kongrelerini kim düzenledi, ne bildirdiler?", "a": "Hacim Muhittin Bey. Batı Cephesi'nin kurulmasında etkili; saltanat ve hilafete bağlılık bildirildi." },
+    { "c": "Diğer Kongreler", "o": "Aydın ve Nazilli kongrelerini kim, hangi takma adla, nerede topladı?", "a": "Celal Bayar; 'Galip Hoca' takma adıyla; işgal nedeniyle Muğla'da." },
+    { "c": "Diğer Kongreler", "o": "Edirne ve Lüleburgaz kongrelerini kim/hangi cemiyet topladı, amacı neydi?", "a": "Cafer Tayyar Paşa (Trakya Paşaeli Cemiyeti). Amaç: Doğu Trakya'yı Yunan işgalinden kurtarmak." },
+    { "c": "Diğer Kongreler", "o": "Pozantı Kongresi'ni kim topladı, kime karşı ve önemi nedir?", "a": "Kilikyalılar Cemiyeti; Fransız-Ermeni faaliyetlerine karşı; milli mücadelenin son kongresi (Atatürk katıldı)." },
+    { "c": "Diğer Kongreler", "o": "Atatürk'ün katıldığı kongreler ('Esap') ve katılma sıfatı nedir?", "a": "Erzurum, Sivas (temsil heyeti başkanı) + Afyon, Pozantı (TBMM başkanı)." },
+    { "c": "Diğer Kongreler", "o": "Celal Bayar'ın milli mücadele sonrası önemli görevleri nelerdir?", "a": "İş Bankası ilk genel müdürü, iktisat bakanı, Atatürk döneminin son başbakanı, 3. cumhurbaşkanı (ilk sivil kökenli), Demokrat Parti kurucusu." },
+
+    { "c": "Amasya Görüşmeleri", "o": "Amasya Görüşmelerinde İstanbul hükümetini ve temsil heyetini kimler temsil etti?", "a": "İstanbul: Bahriye Nazırı Salih Paşa.\nTemsil Heyeti: Mustafa Kemal, Rauf Orbay, Bekir Sami Bey." },
+    { "c": "Amasya Görüşmeleri", "o": "Amasya Görüşmelerinin en önemli sonucu nedir?", "a": "İstanbul hükümeti temsil heyetini resmen tanıdı." },
+    { "c": "Amasya Görüşmeleri", "o": "Amasya protokolünden kabul edilen tek madde nedir?", "a": "Seçimlerin yapılıp Mebusan Meclisi'nin açılması (o da İstanbul'da açılacak şekilde, yarım)." },
+    { "c": "Amasya Görüşmeleri", "o": "Mustafa Kemal Mebusan Meclisi'nin nerede açılmasını istedi, neden?", "a": "İstanbul dışında (Anadolu'da). İtilaf baskısından uzak, özgürce karar alabilmesi için. İstek kabul edilmedi." },
+
+    { "c": "Mebusan Meclisi", "o": "Sivas Komutanlar Toplantısı'nın en önemli kararı nedir?", "a": "Milli mücadelenin merkezi Ankara olarak belirlendi." },
+    { "c": "Mebusan Meclisi", "o": "Ankara'nın merkez seçilme nedenleri nelerdir?", "a": "Anadolu'nun ortasında, ulaşım/haberleşme kolay, Batı Cephesi'ne yakın, Mebusan Meclisi'ni takip, halk milli mücadele yanlısı, 20. Kolordu (Ali Fuat Cebesoy)." },
+    { "c": "Mebusan Meclisi", "o": "Mustafa Kemal, meclise gidecek vekillerden hangi 3 şeyi istedi ve hangisi gerçekleşti?", "a": "1) Kendisini meclis başkanı seçtirmek ✗\n2) Müdafaa-i Hukuk grubu kurmak ✗\n3) Misak-ı Milli'yi onaylatmak ✓" },
+    { "c": "Mebusan Meclisi", "o": "Son Osmanlı Mebusan Meclisi'nde Müdafaa-i Hukuk yerine hangi grup kuruldu?", "a": "Felah-ı Vatan Grubu (padişahın konuşmasından alınan ad). Misak-ı Milli'yi bu grup onaylattı." },
+    { "c": "Mebusan Meclisi", "o": "Son Osmanlı Mebusan Meclisi'nin başkanları kimlerdir?", "a": "Sırasıyla Reşat Hikmet Bey, sonra Celalettin Arif Bey (M. Kemal başkan olamadı)." },
+    { "c": "Mebusan Meclisi", "o": "Mustafa Kemal'in Osmanlı Mebusan / 1. TBMM milletvekilliği ve nüfus kaydı hangi illerdir?", "a": "Osmanlı Mebusan: Erzurum\n1. TBMM: Ankara\nNüfusa kayıt: Gaziantep" },
+
+    { "c": "Misak-ı Milli", "o": "Misak-ı Milli ne demektir ve maddeleri hangi şifreyle kodlanır?", "a": "Milli ant/yemin/söz. Şifre: 'Kara borsa' → Kapitülasyon, Boğazlar, Osmanlı borçları, Referandum, Sınırlar, Azınlıklar." },
+    { "c": "Misak-ı Milli", "o": "Misak-ı Milli'de Boğazlar konusunda ne karar alındı?", "a": "Boğazlar TEHLİKEDEN UZAK, diğer devletlerle karar verilerek dünya ticaretine açılacak (kayıtsız şartsız DEĞİL)." },
+    { "c": "Misak-ı Milli", "o": "Misak-ı Milli'de referandum (halk oylaması) hangi yerlerde yapılacaktı?", "a": "Elviye-i Selase (Kars-Ardahan-Batum), Arap toprakları, Batı Trakya (Doğu Trakya DEĞİL)." },
+    { "c": "Misak-ı Milli", "o": "Misak-ı Milli sınır maddesi neyi temel alır?", "a": "Mondros imzalandığı sırada işgal edilmemiş olan topraklar; ayrıca Erzurum Kongresi kararı temel alınmıştır." },
+    { "c": "Misak-ı Milli", "o": "Osmanlı borçları ve azınlıklar konusunda Misak-ı Milli ne der?", "a": "Borçlar adaletli paylaştırılırsa ödenecek. Azınlıklara mütekabiliyet (denklik) ilkesince hak tanınacak." },
+    { "c": "Misak-ı Milli", "o": "Misak-ı Milli'de hangi konuda madde YOKTUR?", "a": "Ulusal egemenlik. (Misak-ı Milli sınır/bağımsızlık belgesidir, rejimle ilgili değildir.)" },
+    { "c": "Misak-ı Milli", "o": "Son Osmanlı Mebusan Meclisi'nin kabul ettiği son kanun nedir?", "a": "Misak-ı Milli. Kabulünden sonra İstanbul işgal edildi, meclis dağıtıldı." },
+
+    { "c": "İstanbul'un İşgali", "o": "Misak-ı Milli kabul edilince ne oldu?", "a": "İtilaf devletleri İstanbul'u işgal etti, Mebusan Meclisi'ni dağıttı, vekilleri Malta'ya sürdü, Damat Ferit'i yeniden başa geçirdi." },
+    { "c": "İstanbul'un İşgali", "o": "İstanbul'un işgalinin tek olumlu yanı nedir?", "a": "TBMM'nin açılışının hızlanması." },
+    { "c": "İstanbul'un İşgali", "o": "İstanbul'un işgalini Mustafa Kemal'e haber veren kişi kimdir?", "a": "Manastırlı Hamdi Bey; 16 Mart'ta haber verdi → 'Mart 16' soyadı verildi." },
+    { "c": "İstanbul'un İşgali", "o": "Temsil heyetinin İstanbul'un işgaline karşı aldığı önlemler nelerdir?", "a": "İstanbul'la haberleşmeyi kesme, Geyve-Ulukışla demir yollarını tahrip, itilaf subaylarını tutuklama, telgrafla protesto." },
+    { "c": "İstanbul'un İşgali", "o": "Halka 'milli mücadele haramdır' fetvasını dağıtan kişi kimdir?", "a": "Şeyhülislam Dürrizade Abdullah Efendi." }
+  ],
+  "tuzak": [
+    { "q": "Milli mücadelenin ilk raporu hangisidir?", "o": ["Samsun raporu", "Havza Genelgesi", "Amasya Genelgesi"], "c": 0, "n": "Samsun raporu = ilk RAPOR; Havza = milli bilinci uyandıran ilk belge; ikisi karıştırılır." },
+    { "q": "Milli bilinci uyandırmaya yönelik ilk belge hangisidir?", "o": ["Samsun raporu", "Havza Genelgesi", "Amasya Genelgesi"], "c": 1, "n": "Bilinç uyandırma = Havza; Samsun sadece rapordur." },
+    { "q": "Mustafa Kemal ile İstanbul hükümeti arasındaki ilk görüş ayrılığı neyle çıktı?", "o": ["Samsun raporu", "Amasya Genelgesi"], "c": 0, "n": "İlk ayrılık Samsun raporundadır (silah teslimini reddetti); görevden alınma Amasya sonrasıdır." },
+    { "q": "Amasya Genelgesi'nde bahsedilMEYEN konu hangisidir?", "o": ["Azınlıklar", "Temsil heyeti", "Sivas Kongresi'nin toplanması"], "c": 0, "n": "Amasya'da azınlık YOK; oysa Havza/Samsun/Erzurum'da vardır." },
+    { "q": "Sivas Kongresi'nin toplanma kararı ilk kez nerede alındı?", "o": ["Amasya Genelgesi", "Erzurum Kongresi"], "c": 0, "n": "Sivas'ın kararı Amasya'da alındı; Erzurum ise Amasya'da yalnızca yeniden DUYURULDU (kararı önceden vardı)." },
+    { "q": "Erzurum Kongresi'nin toplanması Amasya Genelgesi'nde mi kararlaştırıldı?", "o": ["Hayır, sadece duyuruldu", "Evet, ilk kez karar alındı"], "c": 0, "n": "Erzurum kararı iki cemiyetçe önceden alınmıştı; Amasya sadece duyurdu. Karar alınan Sivas'tır." },
+    { "q": "Milli/ulusal sınırlardan ilk kez nerede bahsedildi?", "o": ["Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi"], "c": 1, "n": "İlk milli sınır = Erzurum; Amasya'da sınırdan bahsedilmez." },
+    { "q": "Temsil heyetinden ilk kez nerede bahsedildi?", "o": ["Amasya Genelgesi", "Erzurum Kongresi"], "c": 0, "n": "Bahsedilme = Amasya; kuruluş = Erzurum. 'Bahsedilme' ile 'kuruluş' karıştırılır." },
+    { "q": "Temsil heyeti nerede kuruldu?", "o": ["Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi"], "c": 1, "n": "Kuruluş Erzurum'dur; Sivas'ta ulusal hale getirildi." },
+    { "q": "Temsil heyeti nerede ulusal hale getirildi?", "o": ["Erzurum Kongresi", "Sivas Kongresi"], "c": 1, "n": "Ulusal hale = Sivas; kuruluş Erzurum'du." },
+    { "q": "Temsil heyeti ilk kez yürütme yetkisini nerede kullandı?", "o": ["Erzurum Kongresi", "Sivas Kongresi", "Amasya Görüşmeleri"], "c": 1, "n": "İlk yürütme = Sivas (Ali Fuat Cebesoy'un atanması)." },
+    { "q": "Manda ve himaye ilk kez nerede reddedildi?", "o": ["Erzurum Kongresi", "Sivas Kongresi"], "c": 0, "n": "İLK ret Erzurum; KESİN ret Sivas. 'ilk' ve 'kesin' karıştırılır." },
+    { "q": "Manda ve himaye kesin olarak nerede reddedildi?", "o": ["Erzurum Kongresi", "Sivas Kongresi"], "c": 1, "n": "Kesin ret = Sivas ('Ya istiklal ya ölüm')." },
+    { "q": "Doğudaki cemiyetler nerede birleştirildi?", "o": ["Erzurum Kongresi", "Sivas Kongresi"], "c": 0, "n": "Doğudakiler Erzurum'da; BÜTÜN cemiyetler Sivas'ta (Anadolu ve Rumeli MHC)." },
+    { "q": "Bütün cemiyetler tek çatı altında nerede birleştirildi?", "o": ["Erzurum Kongresi", "Sivas Kongresi"], "c": 1, "n": "Tümü Sivas'ta 'Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti' adıyla birleşti." },
+    { "q": "Toplanışı bölgesel, kararları ulusal olan kongre hangisidir?", "o": ["Erzurum Kongresi", "Sivas Kongresi"], "c": 0, "n": "Erzurum: bölgesel toplanış-ulusal karar; Sivas her iki yönden ulusaldır." },
+    { "q": "Mustafa Kemal'in sivil olarak katıldığı ilk yer neresidir?", "o": ["Amasya Genelgesi", "Erzurum Kongresi"], "c": 1, "n": "Amasya sonrası istifa etti; ilk sivil katılım Erzurum'dur." },
+    { "q": "Amasya Genelgesi'ni telgraf yoluyla onaylayan hangisidir?", "o": ["Cemal Paşa", "Ali Fuat Cebesoy", "Rauf Orbay"], "c": 0, "n": "'kararcı' ilk-son harf (K, C): Kazım Karabekir ve Cemal Paşa telgrafla; diğerleri imzayla onayladı." },
+    { "q": "Amasya Genelgesi'ni imzalayanlar arasında hangisi YOKTUR?", "o": ["İsmet İnönü", "Refet Bele", "Rauf Orbay"], "c": 0, "n": "İsmet İnönü ve Ali Fethi Okyar çeldiricidir; genelgede yer almazlar." },
+    { "q": "Erzurum Kongresi'ne delege GÖNDERMEYEN il hangisidir?", "o": ["Elazığ", "Bitlis", "Trabzon"], "c": 0, "n": "'Dem' = Diyarbakır-Elazığ-Mardin göndermedi; Bitlis/Trabzon 'Bestvan' içinde gönderdi." },
+    { "q": "Erzurum Kongresi'ne delege GÖNDEREN il hangisidir?", "o": ["Mardin", "Van", "Diyarbakır"], "c": 1, "n": "Van 'Bestvan' içinde gönderdi; Mardin ve Diyarbakır 'Dem' (göndermeyen)." },
+    { "q": "Erzurum Kongresi kararları hangi gazetede yayınlandı?", "o": ["Albayrak", "İrade-i Milliye", "Minber"], "c": 0, "n": "Erzurum → Albayrak; Sivas → İrade-i Milliye; ikisi karıştırılır." },
+    { "q": "Sivas Kongresi'nde çıkarılan gazete hangisidir?", "o": ["Albayrak", "İrade-i Milliye", "Hakimiyet-i Milliye"], "c": 1, "n": "Sivas → İrade-i Milliye; Erzurum → Albayrak." },
+    { "q": "'Ya istiklal ya ölüm' sözü nerede söylendi?", "o": ["Erzurum Kongresi", "Sivas Kongresi", "Amasya Genelgesi"], "c": 1, "n": "Söz Sivas'ta manda tartışmasında söylendi." },
+    { "q": "Minber Gazetesi'ni Mustafa Kemal kiminle çıkardı?", "o": ["Ali Fethi Okyar", "Ali Fuat Cebesoy"], "c": 0, "n": "Minber = Ali FETHİ Okyar ile; Ali FUAT Cebesoy ile değil. İsim benzerliği tuzağı." },
+    { "q": "Aydın ve Nazilli kongrelerini toplayan kişi kimdir?", "o": ["Celal Bayar (Galip Hoca)", "Hacim Muhittin Bey", "Cafer Tayyar Paşa"], "c": 0, "n": "Aydın-Nazilli = Celal Bayar; Balıkesir-Alaşehir = Hacim Muhittin; Edirne-Lüleburgaz = Cafer Tayyar." },
+    { "q": "Milli mücadelenin son kongresi hangisidir?", "o": ["Sivas Kongresi", "Pozantı Kongresi", "Afyon Kongresi"], "c": 1, "n": "Son kongre Pozantı'dır (Kilikyalılar Cemiyeti, Atatürk katıldı)." },
+    { "q": "Amasya Görüşmelerinde temsil heyeti adına gelenlerden hangisi DEĞİLDİR?", "o": ["Salih Paşa", "Rauf Orbay", "Bekir Sami Bey"], "c": 0, "n": "Salih Paşa İstanbul hükümeti tarafındadır; temsil heyeti: M. Kemal, Rauf Orbay, Bekir Sami." },
+    { "q": "Temsil heyetinin İstanbul hükümetine karşı ilk siyasi zaferi nedir?", "o": ["Damat Ferit'in istifası", "Amasya protokolü", "Misak-ı Milli"], "c": 0, "n": "İlk siyasi zafer Damat Ferit'i istifa ettirmektir (Sivas sonrası)." },
+    { "q": "Misak-ı Milli'de referandum yapılacak yerlerden hangisi DEĞİLDİR?", "o": ["Doğu Trakya", "Batı Trakya", "Elviye-i Selase"], "c": 0, "n": "Doğu Trakya zaten Türk toprağıydı; referandum BATI Trakya'da. Klasik tuzak." },
+    { "q": "Misak-ı Milli'de hangi konuda madde yoktur?", "o": ["Ulusal egemenlik", "Boğazlar", "Kapitülasyonlar"], "c": 0, "n": "Misak-ı Milli'de ulusal egemenlik maddesi yoktur; bağımsızlık/sınır belgesidir." },
+    { "q": "Son Osmanlı Mebusan Meclisi'nde Müdafaa-i Hukuk yerine kurulan grup hangisidir?", "o": ["Felah-ı Vatan Grubu", "Anadolu ve Rumeli MHC", "Kuvay-i Milliye"], "c": 0, "n": "Kurulan grup Felah-ı Vatan'dır; Misak-ı Milli'yi bu grup onaylattı." },
+    { "q": "Mustafa Kemal son Osmanlı Mebusan Meclisi'ne nereden milletvekili seçildi?", "o": ["Erzurum", "Ankara", "Gaziantep"], "c": 0, "n": "Osmanlı Mebusan = Erzurum; 1. TBMM = Ankara; nüfus kaydı = Gaziantep." },
+    { "q": "Misak-ı Milli'de Boğazlar için alınan karar hangisidir?", "o": ["Kayıtsız şartsız ticarete açılacak", "Tehlikeden uzak, karar verilerek açılacak"], "c": 1, "n": "'Kayıtsız şartsız' yanlıştır; 'tehlikeden uzak + diğer devletlerle karar verilerek' doğrudur." }
+  ],
+  "deneme": [
+    {
+      "q": "Mondros Ateşkes Anlaşması imzalandığı sırada Mustafa Kemal Paşa'nın yürüttüğü görev aşağıdakilerden hangisidir?",
+      "o": ["Sofya Askeri Ateşemiliterliği", "9. Ordu Müfettişliği", "Yıldırım Orduları Grup Komutanlığı", "Çanakkale Cephesi Komutanlığı", "Hamidiye Zırhlısı Komutanlığı"],
+      "c": 2,
+      "e": "Mondros'ta Suriye-Filistin Cephesi'nde Yıldırım Orduları Grup Komutanıydı; Sofya ateşemiliterliği Dünya Savaşı öncesi son görevidir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi milli mücadelenin ilk raporu olarak kabul edilir?",
+      "o": ["Havza Genelgesi", "Amasya Genelgesi", "Samsun raporu", "Erzurum Kongresi bildirisi", "Misak-ı Milli"],
+      "c": 2,
+      "e": "Samsun raporu milli mücadelenin ilk raporudur ve İstanbul hükümetiyle ilk görüş ayrılığını doğurmuştur."
+    },
+    {
+      "q": "Milli bilinci uyandırmaya yönelik ilk belge olarak nitelenen belge aşağıdakilerden hangisidir?",
+      "o": ["Samsun raporu", "Havza Genelgesi", "Amasya Genelgesi", "Erzurum Kongresi kararları", "Sivas Kongresi kararları"],
+      "c": 1,
+      "e": "Havza Genelgesi mitingler ve protestolarla milli bilinci uyandırmayı amaçlayan ilk belgedir."
+    },
+    {
+      "q": "Amasya Genelgesi ile ilgili olarak,\nI. Milli mücadelenin amaç, gerekçe ve yöntemini ortaya koyar.\nII. Sivas Kongresi'nin toplanmasına karar verilmiştir.\nIII. Azınlıklara zarar verilmemesi kararı alınmıştır.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız III", "I ve II", "II ve III", "I, II ve III"],
+      "c": 2,
+      "e": "Amasya Genelgesi'nde azınlıklardan bahsedilmez; bu nedenle III yanlış, I ve II doğrudur."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Amasya Genelgesi'ni telgraf yoluyla onaylayanlar arasında yer alır?",
+      "o": ["Ali Fuat Cebesoy", "Rauf Orbay", "Refet Bele", "Cemal Paşa", "Mustafa Kemal"],
+      "c": 3,
+      "e": "Kazım Karabekir ve Cemal Paşa yanlarında olmadıkları için telgrafla onayladı; diğerleri doğrudan imzaladı."
+    },
+    {
+      "q": "Mustafa Kemal Paşa'nın sivil bir vatandaş olarak katıldığı ilk oluşum aşağıdakilerden hangisidir?",
+      "o": ["Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi", "Havza mitingi", "Amasya Görüşmeleri"],
+      "c": 1,
+      "e": "Mustafa Kemal Amasya Genelgesi sonrası askerlikten istifa ettiğinden sivil olarak ilk kez Erzurum Kongresi'ne katılmıştır."
+    },
+    {
+      "q": "Aşağıdaki illerden hangisi Erzurum Kongresi'ne delege göndermemiştir?",
+      "o": ["Bitlis", "Erzurum", "Trabzon", "Van", "Elazığ"],
+      "c": 4,
+      "e": "Delege gönderenler Bitlis, Erzurum, Sivas, Trabzon ve Van'dır; Elazığ göndermeyenler (Diyarbakır-Elazığ-Mardin) arasındadır."
+    },
+    {
+      "q": "Milli/ulusal sınırlardan ilk kez söz edilen ve Misak-ı Milli sınırlarına temel oluşturan gelişme aşağıdakilerden hangisidir?",
+      "o": ["Amasya Genelgesi", "Havza Genelgesi", "Erzurum Kongresi", "Amasya Görüşmeleri", "Sivas Komutanlar Toplantısı"],
+      "c": 2,
+      "e": "'Ulusal sınırlar içerisinde vatan bir bütündür' kararı ilk kez Erzurum Kongresi'nde alınmış, Misak-ı Milli'ye temel olmuştur."
+    },
+    {
+      "q": "Manda ve himayenin kesin olarak reddedildiği ve 'Ya istiklal ya ölüm' sözünün söylendiği gelişme aşağıdakilerden hangisidir?",
+      "o": ["Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi", "Amasya Görüşmeleri", "Balıkesir Kongresi"],
+      "c": 2,
+      "e": "Manda-himaye ilk kez Erzurum'da reddedildiyse de kesin ret ve söz konusu söz Sivas Kongresi'ne aittir."
+    },
+    {
+      "q": "Temsil heyetinin ilk kez yürütme yetkisini kullandığı olay aşağıdakilerden hangisidir?",
+      "o": ["Ali Fuat Cebesoy'un Batı Cephesi Kuvay-i Milliye Komutanlığı'na atanması", "Misak-ı Milli'nin kabulü", "Damat Ferit'in istifası", "İrade-i Milliye'nin çıkarılması", "Mebusan Meclisi'nin açılması"],
+      "c": 0,
+      "e": "Temsil heyeti Sivas Kongresi'nde Ali Fuat Cebesoy'u atayarak ilk kez yürütme yetkisini kullanmıştır."
+    },
+    {
+      "q": "Bütün ulusal cemiyetlerin 'Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti' adı altında birleştirildiği gelişme aşağıdakilerden hangisidir?",
+      "o": ["Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi", "Amasya Görüşmeleri", "Pozantı Kongresi"],
+      "c": 2,
+      "e": "Doğudaki cemiyetler Erzurum'da, bütün cemiyetler ise Sivas Kongresi'nde tek çatı altında birleştirilmiştir."
+    },
+    {
+      "q": "Temsil heyetinin İstanbul hükümeti tarafından resmen tanınmasını sağlayan gelişme aşağıdakilerden hangisidir?",
+      "o": ["Erzurum Kongresi", "Sivas Kongresi", "Amasya Görüşmeleri", "Sivas Komutanlar Toplantısı", "TBMM'nin açılışı"],
+      "c": 2,
+      "e": "Amasya Görüşmelerinde Amasya protokolü imzalanınca İstanbul hükümeti temsil heyetini resmen tanımıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Amasya Görüşmelerinde temsil heyetini temsil eden isimlerden biri değildir?",
+      "o": ["Mustafa Kemal", "Rauf Orbay", "Bekir Sami Bey", "Salih Paşa", "Temsil heyeti üyesi olarak Mustafa Kemal"],
+      "c": 3,
+      "e": "Salih Paşa (Bahriye Nazırı) İstanbul hükümeti adına katılmıştır; temsil heyetini M. Kemal, Rauf Orbay ve Bekir Sami Bey temsil etmiştir."
+    },
+    {
+      "q": "2024 sınavlarında sorulduğu gibi, Mustafa Kemal'in Erzurum ve Sivas dışında katıldığı kongreler aşağıdakilerden hangisinde birlikte verilmiştir?",
+      "o": ["Balıkesir ve Alaşehir", "Aydın ve Nazilli", "Afyon ve Pozantı", "Edirne ve Lüleburgaz", "Balıkesir ve Pozantı"],
+      "c": 2,
+      "e": "'Esap' şifresi: Erzurum, Sivas, Afyon, Pozantı. Erzurum-Sivas dışındakiler Afyon ve Pozantı'dır."
+    },
+    {
+      "q": "Aydın ve Nazilli kongrelerini 'Galip Hoca' takma adıyla toplayan kişi aşağıdakilerden hangisidir?",
+      "o": ["Hacim Muhittin Bey", "Cafer Tayyar Paşa", "Celal Bayar", "Bekir Sami Bey", "Rauf Orbay"],
+      "c": 2,
+      "e": "Aydın ve Nazilli kongrelerini Celal Bayar 'Galip Hoca' takma adıyla, işgal nedeniyle Muğla'da toplamıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi milli mücadelenin son kongresi olup Kilikyalılar Cemiyeti tarafından toplanmıştır?",
+      "o": ["Sivas Kongresi", "Afyon Kongresi", "Balıkesir Kongresi", "Pozantı Kongresi", "Alaşehir Kongresi"],
+      "c": 3,
+      "e": "Pozantı Kongresi, Kilikyalılar Cemiyeti tarafından Fransız-Ermeni faaliyetlerine karşı toplanan son kongredir."
+    },
+    {
+      "q": "Misak-ı Milli'ye göre halk oylaması (referandum) yapılması kararlaştırılan yerlerden biri aşağıdakilerden hangisi değildir?",
+      "o": ["Elviye-i Selase", "Kars", "Batı Trakya", "Arap toprakları", "Doğu Trakya"],
+      "c": 4,
+      "e": "Doğu Trakya zaten Türk toprağı olduğundan referandum kapsamı dışındadır; referandum Batı Trakya'da yapılacaktır."
+    },
+    {
+      "q": "Misak-ı Milli ile ilgili olarak aşağıdaki yargılardan hangisi yanlıştır?",
+      "o": ["Sınır maddesi Erzurum Kongresi kararına dayanır", "Boğazlar kayıtsız şartsız ticarete açılacaktır", "Kapitülasyonların kaldırılması öngörülür", "Ulusal egemenlikle ilgili madde içermez", "Son Osmanlı Mebusan Meclisi'nin kabul ettiği son kanundur"],
+      "c": 1,
+      "e": "Boğazlar 'tehlikeden uzak ve diğer devletlerle karar verilerek' açılacaktır; 'kayıtsız şartsız' ifadesi yanlıştır."
+    },
+    {
+      "q": "Son Osmanlı Mebusan Meclisi'nde Müdafaa-i Hukuk grubu yerine kurulan ve Misak-ı Milli'yi onaylatan grup aşağıdakilerden hangisidir?",
+      "o": ["Anadolu ve Rumeli Müdafaa-i Hukuk Grubu", "Felah-ı Vatan Grubu", "Kuvay-i Milliye Grubu", "Teceddüt Grubu", "İttihat ve Terakki Grubu"],
+      "c": 1,
+      "e": "Vekiller çekindiği için Müdafaa-i Hukuk yerine Felah-ı Vatan Grubu kurulmuş ve Misak-ı Milli'yi bu grup onaylatmıştır."
+    },
+    {
+      "q": "İstanbul'un itilaf devletlerince işgal edilmesinin milli mücadele açısından tek olumlu sonucu aşağıdakilerden hangisidir?",
+      "o": ["Damat Ferit'in istifa etmesi", "Amasya protokolünün imzalanması", "TBMM'nin açılışının hızlanması", "Temsil heyetinin kurulması", "Misak-ı Milli'nin kabulü"],
+      "c": 2,
+      "e": "İstanbul'un işgali ve Mebusan Meclisi'nin dağıtılması, Ankara'da TBMM'nin açılışını hızlandırmıştır."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Belge / Genelge ↔ En önemli özelliği",
+      "p": [
+        ["Samsun raporu", "Milli mücadelenin ilk raporu"],
+        ["Havza Genelgesi", "Milli bilinci uyandıran ilk belge"],
+        ["Amasya Genelgesi", "Amaç-gerekçe-yöntem / ihtilal bildirgesi"],
+        ["Erzurum Kongresi kararları", "Milli sınırlardan ilk kez bahsedilmesi"],
+        ["Sivas Kongresi kararları", "Cemiyetlerin tek çatı altında birleşmesi"],
+        ["Misak-ı Milli", "Mebusan Meclisi'nin kabul ettiği son kanun"]
+      ]
+    },
+    {
+      "ad": "Temsil Heyeti aşaması ↔ Yer",
+      "p": [
+        ["İlk bahsedilme", "Amasya Genelgesi"],
+        ["Kuruluş", "Erzurum Kongresi"],
+        ["Ulusal hale gelme", "Sivas Kongresi"],
+        ["İlk yürütme yetkisi", "Sivas Kongresi"],
+        ["Resmen tanınma", "Amasya Görüşmeleri"],
+        ["Görev süresinin bitişi", "TBMM'nin açılışı"]
+      ]
+    },
+    {
+      "ad": "Kongre ↔ Düzenleyen kişi / cemiyet",
+      "p": [
+        ["Balıkesir ve Alaşehir", "Hacim Muhittin Bey"],
+        ["Aydın ve Nazilli", "Celal Bayar (Galip Hoca)"],
+        ["Edirne ve Lüleburgaz", "Cafer Tayyar Paşa (Trakya Paşaeli)"],
+        ["Pozantı", "Kilikyalılar Cemiyeti"],
+        ["Erzurum", "Şark Vilayetleri + Trabzon Muhafaza-i Hukuk"],
+        ["Sivas", "Anadolu ve Rumeli MHC'nin doğuşu"]
+      ]
+    },
+    {
+      "ad": "Misak-ı Milli ('Kara borsa') ↔ İçerik",
+      "p": [
+        ["Kapitülasyonlar", "Siyasi-mali-adli kısıtlamalar kaldırılacak"],
+        ["Boğazlar", "Tehlikeden uzak, karar verilerek ticarete açılacak"],
+        ["Osmanlı borçları", "Adaletli paylaştırılırsa ödenecek"],
+        ["Referandum", "Elviye-i Selase, Arap toprakları, Batı Trakya"],
+        ["Sınırlar", "Mondros'ta işgal edilmemiş topraklar"],
+        ["Azınlıklar", "Mütekabiliyet (denklik) ilkesi"]
+      ]
+    },
+    {
+      "ad": "Gazete / grup ↔ Yer veya işlev",
+      "p": [
+        ["Minber", "M. Kemal + Ali Fethi Okyar / 'Hatip'"],
+        ["Albayrak", "Erzurum Kongresi kararları yayınlandı"],
+        ["İrade-i Milliye", "Sivas Kongresi'nde çıkarıldı"],
+        ["Felah-ı Vatan Grubu", "Misak-ı Milli'yi onaylattı"],
+        ["Anadolu ve Rumeli MHC", "Sivas'ta tüm cemiyetlerin birliği"],
+        ["Manastırlı Hamdi Bey", "İstanbul'un işgalini 16 Mart'ta haber verdi"]
+      ]
+    }
+  ]
+}

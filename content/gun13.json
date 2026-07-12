@@ -1,0 +1,390 @@
+{
+  "meta": {
+    "gun": 13,
+    "baslik": "20. Yüzyılda Osmanlı: Trablusgarp ve Balkan Savaşları",
+    "ozet": "Trablusgarp Savaşı (Uşi Antlaşması) ile 1. ve 2. Balkan Savaşları; kaybedilen topraklar, imzalanan antlaşmalar, sınır değişimleri ve öne çıkan kişiler.",
+    "tahminiSoru": "KPSS'de ~2-3 soru",
+    "duzeltmeler": [
+      "Trablusp / Trabluscrip / Trablus Kalp / Trablus Club → Trablusgarp",
+      "Rajonige / Rajonigi → Racconigi Antlaşması",
+      "Uşia / Uş → Uşi (Ouchy) Antlaşması",
+      "Piemante / Piyomente → Piyemonte",
+      "Midye Enes / Enez / Enest → Midye-Enez hattı",
+      "1847 Paris → 1947 Paris Antlaşması (12 Ada Yunanistan'a)",
+      "Bavali / Babali baskını → Babıali Baskını",
+      "Kuşçuaşı Eşref → Kuşçubaşı Eşref",
+      "Muhammer Kaddafi → Muammer Kaddafi",
+      "teris / tersis edilmiş → terhis edilmiş"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Balkan şifreleri",
+      "i": [
+        { "k": "BÜYÜSEK", "m": "Bulgaristan · Yunanistan · Sırbistan · Karadağ (1. Balkan'da Osmanlı'ya saldıranlar)", "s": "z" },
+        { "k": "Büyüsek de Osmanlı'yı yesek", "m": "BÜYÜSEK açılımını hatırlatan cümle (1. Balkan saldıranları)", "s": "z" },
+        { "k": "YÜRÜSEK", "m": "Yunanistan · Romanya · Sırbistan · Karadağ (2. Balkan'da Bulgaristan'a saldıranlar)", "s": "z" },
+        { "k": "BADEM SELANİK", "m": "Batı Trakya · Arnavutluk · Doğu Trakya · Ege Adaları · Makedonya · Selanik (Londra ile kaybedilenler)", "s": "z" },
+        { "k": "TEK", "m": "Tekirdağ · Edirne · Kırklareli = Doğu Trakya (2. Balkan'da geri alındı)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Trablusgarp gönüllü subayları",
+      "i": [
+        { "k": "Gazeteci Şerif Bey", "m": "Mustafa Kemal Atatürk — Derne ve Tobruk", "s": "z" },
+        { "k": "Tüccar (Kuyumcu) Hamdi Bey", "m": "Enver Paşa — Bingazi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Unvanlar",
+      "i": [
+        { "k": "Edirne Fatihi", "m": "Enver Paşa", "s": "z" },
+        { "k": "Edirne Müdafii", "m": "Şükrü Paşa", "s": "z" },
+        { "k": "Hamidiye Kahramanı", "m": "Rauf Orbay (Hamidiye kruvazörü; sonra Mondros'u imzaladı)", "s": "z" },
+        { "k": "Üç Paşalar", "m": "Cemal · Talat · Enver Paşa (hepsi İttihatçı)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Savaş → Antlaşma zinciri",
+      "i": [
+        { "k": "Trablusgarp Savaşı", "m": "Uşi (Ouchy) Antlaşması, 1912", "s": "z" },
+        { "k": "1. Balkan Savaşı", "m": "Londra Antlaşması, 1913", "s": "z" },
+        { "k": "2. Balkan (Balkanlılar arası)", "m": "Bükreş Antlaşması (Osmanlı yok)", "s": "z" },
+        { "k": "Osmanlı – Bulgaristan", "m": "İstanbul Antlaşması", "s": "z" },
+        { "k": "Osmanlı – Yunanistan", "m": "Atina Antlaşması", "s": "z" },
+        { "k": "Osmanlı – Sırbistan", "m": "İstanbul Antlaşması (sınır yok, azınlık hakları)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Sınır değişimleri",
+      "i": [
+        { "k": "1. Balkan sonrası sınır", "m": "Midye-Enez hattı", "s": "z" },
+        { "k": "2. Balkan sonrası sınır", "m": "Meriç Nehri", "s": "z" }
+      ]
+    },
+    {
+      "b": "Devletlerin 'ilk/son/tek'i",
+      "i": [
+        { "k": "Balkan Savaşı'nı başlatan", "m": "Karadağ (Yeni Pazar'a saldırı)", "s": "z" },
+        { "k": "Ayrılan son Balkan devleti", "m": "Arnavutluk", "s": "z" },
+        { "k": "2. Balkan'a neden olan", "m": "Bulgaristan (fazla toprak alıp paylaşmadı)", "s": "z" },
+        { "k": "1. Balkan'da yok, 2.'de var", "m": "Romanya", "s": "z" }
+      ]
+    },
+    {
+      "b": "İtalya'nın barışa zorlama hamleleri",
+      "i": [
+        { "k": "Çanakkale Boğazı", "m": "abluka altına alındı", "s": "z" },
+        { "k": "Osmanlı şehirleri (Beyrut)", "m": "bombalandı", "s": "z" },
+        { "k": "12 Ada", "m": "asker çıkarıldı (geçici olarak İtalya'ya)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Trablusgarp ilk'leri",
+      "i": [
+        { "k": "İlk savaş uçağı kullanılan savaş", "m": "Trablusgarp (İtalya kullandı)", "s": "z" },
+        { "k": "İlk savaş uçağını düşüren/indiren", "m": "Osmanlı", "s": "z" },
+        { "k": "M. Kemal'in sömürgeciliğe karşı ilk savaşı", "m": "Trablusgarp Savaşı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Dönemin isimleri",
+      "i": [
+        { "k": "Dönemin padişahı", "m": "5. Mehmet Reşat (Trablusgarp + 2 Balkan + D. Savaşı başı)", "s": "z" },
+        { "k": "Babıali'de devrilen hükümet", "m": "Kamil Paşa", "s": "z" },
+        { "k": "Babıali sonrası kurulan hükümet", "m": "Mahmut Şevket Paşa", "s": "z" },
+        { "k": "Batı Trakya Türk Cumhuriyeti", "m": "Kuşçubaşı Eşref (Gümülcine, 53 gün)", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Trablusgarp: Nedenler", "o": "Trablusgarp Savaşı hangi iki devlet arasında, nerede geçti?", "a": "Osmanlı ile İtalya arasında; Kuzey Afrika'da Trablusgarp (bugünkü Libya)." },
+    { "c": "Trablusgarp: Nedenler", "o": "İtalya neden sömürgecilikte geç kaldı?", "a": "Siyasi birliğini geç (Piyemonte liderliğinde) kurduğu için; İngiltere-Fransa gibi sömürge istiyordu." },
+    { "c": "Trablusgarp: Nedenler", "o": "Racconigi Antlaşması nedir, kimler arasında yapıldı?", "a": "İtalya ile Rusya arasında; Rusya, İtalya'nın Trablusgarp'ı işgaline onay verdi." },
+    { "c": "Trablusgarp: Nedenler", "o": "Trablusgarp'ı İtalya için çekici kılan etkenler?", "a": "Zengin hammadde kaynakları ve ürünleri; ayrıca bölgenin İtalya'ya coğrafi yakınlığı." },
+    { "c": "Trablusgarp: Nedenler", "o": "İtalya, Osmanlı'nın buradaki zayıflığını neden biliyordu?", "a": "Osmanlı bölgeyi ne karadan ne de denizden savunabilecek güçteydi." },
+
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "Osmanlı Trablusgarp'a neden karadan ordu gönderemedi?", "a": "Arada Mısır İngiliz işgalindeydi; İngiltere geçit vermedi." },
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "Osmanlı neden denizden ordu gönderemedi?", "a": "Donanma Haliç'te çürümüştü (Abdülhamid suikast korkusuyla zincirletmişti)." },
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "Osmanlı Trablusgarp'a kimleri gönderdi?", "a": "Gönüllü subaylarını; başta Mustafa Kemal ve Enver Paşa." },
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "Mustafa Kemal hangi takma adla, nerede savaştı?", "a": "\"Gazeteci Şerif Bey\" adıyla; Derne ve Tobruk'ta." },
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "Enver Paşa hangi takma adla, nerede savaştı?", "a": "\"Tüccar (Kuyumcu) Hamdi Bey\" adıyla; Bingazi'de." },
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "Gönüllü subaylar başarıyı nasıl sağladı?", "a": "Düzenli orduları olmadan bölge halkını örgütleyip İtalyanları denize püskürttüler." },
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "İtalya kara savaşını kazanamayınca Osmanlı'yı barışa nasıl zorladı?", "a": "3 hamle: Çanakkale ablukası, şehir bombalama, 12 Ada işgali." },
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "İtalya hangi Osmanlı şehirlerini bombaladı?", "a": "Beyrut gibi kıyı/Lübnan şehirlerini." },
+    { "c": "Trablusgarp: Savaş & Subaylar", "o": "Osmanlı'yı barışa iten dış etken neydi?", "a": "Balkan devletlerinin saldırı hazırlığı (iki cephede kalma korkusu)." },
+
+    { "c": "Uşi Antlaşması", "o": "Trablusgarp Savaşı hangi antlaşmayla bitti?", "a": "Uşi (Ouchy) Antlaşması ile (1912)." },
+    { "c": "Uşi Antlaşması", "o": "Uşi ile hangi topraklar İtalya'ya bırakıldı?", "a": "Trablusgarp ve Bingazi." },
+    { "c": "Uşi Antlaşması", "o": "Uşi'nin Osmanlı için kıtasal sonucu nedir?", "a": "Üç kıtadaki hakimiyet iki kıtaya düştü (Kuzey Afrika'daki son toprak gitti)." },
+    { "c": "Uşi Antlaşması", "o": "12 Ada, Uşi ile ne oldu?", "a": "Balkan Savaşları bitene kadar geçici olarak İtalya'ya bırakıldı." },
+    { "c": "Uşi Antlaşması", "o": "12 Ada sonradan kime, hangi antlaşmayla geçti?", "a": "1947 Paris Antlaşması ile Yunanistan'a (İtalya D. Savaşı'nda yenilince)." },
+    { "c": "Uşi Antlaşması", "o": "Trablusgarp halkı için hangi dini madde kondu?", "a": "Dini bakımdan halifeye (Osmanlı'ya) bağlı kalacaklardı." },
+    { "c": "Uşi Antlaşması", "o": "Halifeliğin siyasi kullanımı ilk nerede olmuştu?", "a": "1774 Küçük Kaynarca'da (Kırım için); Uşi bu kullanımın ikincisidir." },
+    { "c": "Uşi Antlaşması", "o": "Trablusgarp'ın borçlarını kim ödeyecekti?", "a": "İtalya." },
+    { "c": "Uşi Antlaşması", "o": "İtalya Uşi ile hangi konuda söz verdi?", "a": "Kapitülasyonların kaldırılmasında Osmanlı'ya yardım (sonradan tutmadı)." },
+
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "Dünyada savaş uçağı ilk kez hangi savaşta kullanıldı?", "a": "Trablusgarp Savaşı'nda (İtalya kullandı)." },
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "İlk savaş uçağını düşüren/inmeye zorlayan devlet?", "a": "Osmanlı." },
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "Trablusgarp, Mustafa Kemal için neyin ilkiydi?", "a": "Sömürgeciliğe karşı ilk savaşı." },
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "Mustafa Kemal bu savaşta nereden yaralandı?", "a": "Sol gözünden." },
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "Mustafa Kemal'in rütbesi bu savaşta ne oldu?", "a": "Binbaşılığa yükseldi (Çanakkale'de albay, Kafkas'ta general olacak)." },
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "Trablusgarp, Balkan ve D. Savaşı başındaki padişah?", "a": "5. Mehmet Reşat." },
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "Meclis kararıyla tahttan indirilen ilk padişah?", "a": "2. Abdülhamid (yerine 5. Mehmet Reşat geçti)." },
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "D. Savaşı'nda Cihad-ı Ekber ilan eden padişah?", "a": "5. Mehmet Reşat." },
+    { "c": "Trablusgarp: İlkler & Padişah", "o": "Osmanlı'nın son padişahı kimdir?", "a": "Vahdettin (VI. Mehmet)." },
+
+    { "c": "1. Balkan Savaşı", "o": "1. Balkan Savaşı'nın temel dış kışkırtıcısı?", "a": "Rusya (Panslavizm politikasıyla Slavları ayaklandırdı)." },
+    { "c": "1. Balkan Savaşı", "o": "1. Balkan'da Osmanlı'ya saldıran 4 devlet?", "a": "BÜYÜSEK: Bulgaristan, Yunanistan, Sırbistan, Karadağ." },
+    { "c": "1. Balkan Savaşı", "o": "Savaşı fiilen başlatan devlet ve olay?", "a": "Karadağ'ın Yeni Pazar'a saldırması." },
+    { "c": "1. Balkan Savaşı", "o": "Büyük devletler savaş öncesi hangi notayı verdi?", "a": "\"Savaş sonrası oluşan sınırlar tanınmayacaktır.\"" },
+    { "c": "1. Balkan Savaşı", "o": "Bu notanın (yorum) gerekçesi neydi?", "a": "Savaşı Osmanlı'nın kazanacağını sanıyorlardı." },
+    { "c": "1. Balkan Savaşı", "o": "Osmanlı'nın 1. Balkan'da yenilme nedenleri?", "a": "Tecrübeli askerin terhisi, orduya siyaset girmesi, çok cephede savaş, salgın (kolera)." },
+    { "c": "1. Balkan Savaşı", "o": "Enver Paşa'nın orduyu 'gençleştirmesi' neye yol açtı?", "a": "Tecrübeli askerler terhis edilince savaşta acemi bir ordu kaldı." },
+    { "c": "1. Balkan Savaşı", "o": "Orduya siyaset girmesi ne demekti?", "a": "İttihatçı–Hürriyet ve İtilaf ayrımı; askerler birbirinin ölümüne göz yumdu." },
+    { "c": "1. Balkan Savaşı", "o": "Mustafa Kemal'in İttihatçılıktan uzaklaşma sebebi?", "a": "Orduya siyasetin karıştırılmasına karşı çıkması." },
+
+    { "c": "Londra Antlaşması & Sonuçları", "o": "1. Balkan Savaşı hangi antlaşmayla bitti?", "a": "1913 Londra Antlaşması." },
+    { "c": "Londra Antlaşması & Sonuçları", "o": "Londra ile kaybedilen yerlerin şifresi?", "a": "BADEM SELANİK: Batı Trakya, Arnavutluk, Doğu Trakya, Ege Adaları, Makedonya, Selanik." },
+    { "c": "Londra Antlaşması & Sonuçları", "o": "Osmanlı'dan ayrılan son Balkan devleti?", "a": "Arnavutluk." },
+    { "c": "Londra Antlaşması & Sonuçları", "o": "Arnavutluk'un ayrılması hangi politikayı bitirdi?", "a": "Osmanlıcılık; yerine tam anlamıyla Türkçülük geldi." },
+    { "c": "Londra Antlaşması & Sonuçları", "o": "1. Balkan sonrası Osmanlı sınırı neresi oldu?", "a": "Midye-Enez hattı." },
+    { "c": "Londra Antlaşması & Sonuçları", "o": "Selanik'in kaybı Mustafa Kemal için neden özeldi?", "a": "Doğduğu ve ortaokula kadar okuduğu şehirdi." },
+    { "c": "Londra Antlaşması & Sonuçları", "o": "1. Balkan'dan en karlı çıkan devlet?", "a": "Bulgaristan — bu durum 2. Balkan Savaşı'nın nedeni olacak." },
+
+    { "c": "Babıali & Üç Paşalar", "o": "Babıali Baskını'nı kim, kime karşı yaptı?", "a": "İttihatçılar; Kamil Paşa hükümetine karşı (padişaha değil)." },
+    { "c": "Babıali & Üç Paşalar", "o": "Kamil Paşa neden hedef oldu?", "a": "Yeni bir savaşa girip Doğu Trakya'yı geri almayı reddettiği için." },
+    { "c": "Babıali & Üç Paşalar", "o": "Babıali sonrası kurulan hükümet?", "a": "Mahmut Şevket Paşa hükümeti." },
+    { "c": "Babıali & Üç Paşalar", "o": "Mahmut Şevket Paşa daha önce neyle tanınırdı?", "a": "31 Mart İsyanı'nı bastıran Hareket Ordusu'nun komutanıydı." },
+    { "c": "Babıali & Üç Paşalar", "o": "Babıali Baskını hangi dönemi başlattı?", "a": "Üç Paşalar dönemini." },
+    { "c": "Babıali & Üç Paşalar", "o": "Üç Paşalar kimlerdir?", "a": "Cemal, Talat, Enver Paşa (hepsi İttihatçı); D. Savaşı sonu yurt dışına kaçtılar." },
+
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "2. Balkan Savaşı'nın nedeni?", "a": "Bulgaristan'ın fazla toprak alıp diğerleriyle paylaşmaması." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "2. Balkan'da Bulgaristan'a saldıranlar?", "a": "YÜRÜSEK: Yunanistan, Romanya, Sırbistan, Karadağ." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "1. Balkan'da olmayıp 2.'de olan devlet?", "a": "Romanya." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "Osmanlı 2. Balkan'da ne yaptı?", "a": "Fırsattan istifade Bulgaristan'a saldırıp Doğu Trakya'yı geri aldı." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "Doğu Trakya (TEK) hangi illerdir?", "a": "Tekirdağ, Edirne, Kırklareli." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "2. Balkan sonrası Osmanlı sınırı neresi oldu?", "a": "Meriç Nehri (Midye-Enez'den ileri gitti)." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "Batı Trakya'da kurulan devlet ve kurucusu?", "a": "Batı Trakya Türk Cumhuriyeti; Kuşçubaşı Eşref (Gümülcine merkezli, 53 gün yaşadı)." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "Balkan devletleri kendi aralarında hangi antlaşmayı yaptı?", "a": "Bükreş Antlaşması (Osmanlı taraf değildir)." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "Osmanlı-Bulgaristan ve Osmanlı-Sırbistan antlaşmaları?", "a": "İkisi de İstanbul Antlaşması'dır." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "Osmanlı-Yunanistan antlaşması?", "a": "Atina Antlaşması." },
+    { "c": "2. Balkan Savaşı & Antlaşmalar", "o": "Sırbistan'la sınır yokken neden antlaşma yapıldı?", "a": "Orada yaşayan Türklerin (azınlık) haklarını korumak için." },
+
+    { "c": "Kişiler & Unvanlar", "o": "Hamidiye Kahramanı kimdir?", "a": "Rauf Orbay (Hamidiye kruvazörüyle; sonra Mondros'u imzaladı, \"Cehennem Değirmeni\" kitabı)." },
+    { "c": "Kişiler & Unvanlar", "o": "Edirne Fatihi kimdir?", "a": "Enver Paşa." },
+    { "c": "Kişiler & Unvanlar", "o": "Edirne Müdafii kimdir?", "a": "Şükrü Paşa." },
+    { "c": "Kişiler & Unvanlar", "o": "Şükrü Paşa'nın ünlü vasiyeti neydi?", "a": "\"Düşman hattı geçer, ölürsem gömmeyin; hattı geçemez, şehit olursam kefenim çantamda.\"" },
+    { "c": "Kişiler & Unvanlar", "o": "Balkan Savaşları'ndan sonra Anadolu'da hangi hareket başladı?", "a": "Yoğun Türk göçü; ayrıca Batı Trakya Türkleri sorunu doğdu." }
+  ],
+  "tuzak": [
+    { "q": "1. Balkan Savaşı'nda Osmanlı'ya saldıran devletler (BÜYÜSEK) hangileridir?", "o": ["Bulgaristan-Yunanistan-Sırbistan-Karadağ", "Yunanistan-Romanya-Sırbistan-Karadağ"], "c": 0, "n": "BÜYÜSEK 1. Balkan (Osmanlı'ya); YÜRÜSEK 2. Balkan (Bulgaristan'a). Fark: Bulgaristan ↔ Romanya." },
+    { "q": "2. Balkan Savaşı'nda Bulgaristan'a saldıran devletler (YÜRÜSEK)?", "o": ["Yunanistan-Romanya-Sırbistan-Karadağ", "Bulgaristan-Yunanistan-Sırbistan-Karadağ"], "c": 0, "n": "2. Balkan'da Bulgaristan hedeftir, saldıran olamaz; yerine Romanya girer." },
+    { "q": "1. Balkan Savaşı sonrası Osmanlı sınırı?", "o": ["Midye-Enez hattı", "Meriç Nehri"], "c": 0, "n": "Midye-Enez 1. Balkan (kayıp) sonrası; Meriç 2. Balkan (Doğu Trakya geri alınınca) sonrası." },
+    { "q": "2. Balkan Savaşı sonrası Osmanlı sınırı?", "o": ["Meriç Nehri", "Midye-Enez hattı"], "c": 0, "n": "Doğu Trakya geri alınınca sınır ileri gidip Meriç Nehri oldu." },
+    { "q": "1. Balkan Savaşı hangi antlaşmayla bitti?", "o": ["Londra Antlaşması", "Bükreş Antlaşması"], "c": 0, "n": "Londra = 1. Balkan (Osmanlı taraf); Bükreş = 2. Balkan (Balkanlılar arası, Osmanlı yok)." },
+    { "q": "Trablusgarp Savaşı hangi antlaşmayla bitti?", "o": ["Uşi (Ouchy)", "Londra"], "c": 0, "n": "Uşi = Trablusgarp/İtalya; Londra = 1. Balkan." },
+    { "q": "1. Balkan Savaşı'nı fiilen başlatan devlet?", "o": ["Karadağ (Yeni Pazar)", "Bulgaristan"], "c": 0, "n": "Başlatan Karadağ; Bulgaristan ise fazla toprak alıp 2. Balkan'a neden olandır." },
+    { "q": "2. Balkan Savaşı'na neden olan (fazla toprak alan) devlet?", "o": ["Bulgaristan", "Karadağ"], "c": 0, "n": "Karadağ 1. Balkan'ı başlatan; Bulgaristan en karlı çıkıp 2. Balkan'a yol açan." },
+    { "q": "Osmanlı'dan ayrılan son Balkan devleti?", "o": ["Arnavutluk", "Bulgaristan"], "c": 0, "n": "Arnavutluk'un ayrılışı Osmanlıcılığı bitirip Türkçülüğü öne çıkardı." },
+    { "q": "1. Balkan'da olmayıp 2. Balkan'da yer alan devlet?", "o": ["Romanya", "Karadağ"], "c": 0, "n": "Romanya sadece 2. Balkan'da (YÜRÜSEK); Karadağ her iki savaşta da var." },
+    { "q": "Mustafa Kemal Trablusgarp'ta hangi takma adı kullandı?", "o": ["Gazeteci Şerif Bey", "Tüccar Hamdi Bey"], "c": 0, "n": "Gazeteci Şerif = M. Kemal (Derne-Tobruk); Tüccar Hamdi = Enver (Bingazi)." },
+    { "q": "Enver Paşa Trablusgarp'ta nerede savaştı?", "o": ["Bingazi", "Derne ve Tobruk"], "c": 0, "n": "Bingazi = Enver; Derne-Tobruk = Mustafa Kemal." },
+    { "q": "Edirne Fatihi unvanı kime aittir?", "o": ["Enver Paşa", "Şükrü Paşa"], "c": 0, "n": "Fatih = Enver (geri alan); Müdafi = Şükrü Paşa (savunan)." },
+    { "q": "Edirne Müdafii kimdir?", "o": ["Şükrü Paşa", "Enver Paşa"], "c": 0, "n": "Müdafi Şükrü Paşa; Enver ise Edirne Fatihi." },
+    { "q": "Racconigi Antlaşması kimler arasındadır?", "o": ["İtalya-Rusya", "İtalya-Fransa"], "c": 0, "n": "Rusya, İtalya'nın Trablusgarp işgaline Racconigi ile onay verdi." },
+    { "q": "Dünyada savaş uçağını ilk kullanan devlet?", "o": ["İtalya (Trablusgarp'ta)", "Osmanlı"], "c": 0, "n": "İtalya kullandı; Osmanlı ise onu ilk düşüren/indiren taraftır." },
+    { "q": "Trablusgarp, 1.-2. Balkan ve D. Savaşı başındaki padişah?", "o": ["5. Mehmet Reşat", "2. Abdülhamid"], "c": 0, "n": "Abdülhamid daha önce indirilmişti; dönemin padişahı 5. Mehmet Reşat." },
+    { "q": "Babıali Baskını kime karşı yapıldı?", "o": ["Kamil Paşa hükümetine", "Padişah 5. Mehmet Reşat'a"], "c": 0, "n": "Bir hükümet darbesidir; padişah devrilmemiştir." },
+    { "q": "Babıali Baskını'nda devrilen başbakan kimdir?", "o": ["Kamil Paşa", "Mahmut Şevket Paşa"], "c": 0, "n": "Kamil Paşa devrildi; yerine Mahmut Şevket Paşa geldi." },
+    { "q": "31 Mart İsyanı'nı bastıran Hareket Ordusu komutanı kimdi?", "o": ["Mahmut Şevket Paşa", "Kamil Paşa"], "c": 0, "n": "Mahmut Şevket Paşa sonradan Babıali ile başbakan oldu (ordu-siyaset iç içe)." },
+    { "q": "Halifeliğin siyasi olarak ilk kullanımı hangi antlaşmadadır?", "o": ["Küçük Kaynarca (Kırım, 1774)", "Uşi (Trablusgarp)"], "c": 0, "n": "İlki Kırım için Küçük Kaynarca; Uşi ikinci kullanım (Trablusgarp)." },
+    { "q": "12 Ada, Uşi'den sonra kesin olarak kime geçti?", "o": ["Yunanistan (1947 Paris)", "İtalya (kalıcı)"], "c": 0, "n": "Uşi'de geçici İtalya'ya; İtalya D. Savaşı'nda yenilince 1947 Paris ile Yunanistan'a." },
+    { "q": "Osmanlı Trablusgarp'a neden karadan asker gönderemedi?", "o": ["Mısır İngiliz işgalinde, geçit yok", "Donanma Haliç'te çürümüştü"], "c": 0, "n": "Kara engeli Mısır/İngiltere; deniz engeli çürüyen donanma — ikisi ayrı gerekçe." },
+    { "q": "Hamidiye Kahramanı unvanı kime aittir?", "o": ["Rauf Orbay", "Şükrü Paşa"], "c": 0, "n": "Rauf Orbay Hamidiye kruvazörüyle; sonra Mondros'u imzalayacak." },
+    { "q": "Batı Trakya Türk Cumhuriyeti'ni kim kurdu?", "o": ["Kuşçubaşı Eşref (Gümülcine)", "Rauf Orbay"], "c": 0, "n": "53 gün yaşayan kısa ömürlü devlet; kurucu Kuşçubaşı Eşref." },
+    { "q": "Osmanlı 2. Balkan sonrası Sırbistan'la neden antlaşma yaptı (sınır yokken)?", "o": ["Azınlık (Türk) haklarını korumak için", "Ticaret serbestisi için"], "c": 0, "n": "Sırbistan'la sınır yok; İstanbul Antlaşması azınlık hakları içindir." },
+    { "q": "Osmanlı-Yunanistan arasında yapılan 2. Balkan antlaşması?", "o": ["Atina Antlaşması", "İstanbul Antlaşması"], "c": 0, "n": "Atina = Yunanistan; İstanbul = Bulgaristan ve Sırbistan (iki kez)." },
+    { "q": "Uşi Antlaşması'nın Osmanlı için kıtasal sonucu?", "o": ["3 kıtadan 2 kıtaya düşüş", "Balkan topraklarının tamamının gitmesi"], "c": 0, "n": "Kuzey Afrika'daki son toprak (Trablusgarp) gidince kıta sayısı 3→2." },
+    { "q": "Doğu Trakya (TEK) hangi illeri kapsar?", "o": ["Tekirdağ-Edirne-Kırklareli", "Tekirdağ-Edirne-Kırşehir"], "c": 0, "n": "TEK şifresi: Tekirdağ, Edirne, Kırklareli." },
+    { "q": "Mustafa Kemal'in İttihatçılıktan uzaklaşmasının temel sebebi?", "o": ["Orduya siyaset karıştırılması", "Enver'in Trablusgarp politikası"], "c": 0, "n": "Ordu-siyaset ayrımını savunduğu için Enver Paşa ile ters düştü." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi Trablusgarp Savaşı'nın nedenlerinden biri değildir?",
+      "o": ["İtalya'nın siyasi birliğini geç tamamlaması", "Trablusgarp'ın hammadde bakımından zengin olması", "Bölgenin İtalya'ya coğrafi yakınlığı", "Osmanlı'nın bölgeyi savunacak güçte olmaması", "Rusya'nın Panslavizm politikasıyla Balkanları kışkırtması"],
+      "c": 4,
+      "e": "Panslavizm 1. Balkan Savaşı'nın nedenidir; Trablusgarp'la ilgisi yoktur."
+    },
+    {
+      "q": "Uşi Antlaşması ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": ["Trablusgarp ve Bingazi İtalya'ya bırakılmıştır", "12 Ada kalıcı olarak Yunanistan'a verilmiştir", "Trablusgarp halkı dini bakımdan halifeye bağlı kalmıştır", "Osmanlı'nın hakimiyeti üç kıtadan iki kıtaya düşmüştür", "Trablusgarp'ın borçları İtalya tarafından üstlenilmiştir"],
+      "c": 1,
+      "e": "12 Ada geçici olarak İtalya'ya bırakıldı; Yunanistan'a geçişi 1947 Paris Antlaşması'yladır."
+    },
+    {
+      "q": "Trablusgarp Savaşı'nda görev alan subaylarla ilgili,\nI. Mustafa Kemal 'Gazeteci Şerif Bey' adıyla Derne-Tobruk'ta savaşmıştır.\nII. Enver Paşa 'Tüccar Hamdi Bey' adıyla Bingazi'de savaşmıştır.\nIII. Subaylar bölge halkını örgütleyerek İtalyanları püskürtmüştür.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız III", "I ve II", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Üç yargı da transkriptteki bilgilerle uyumludur."
+    },
+    {
+      "q": "Dünya tarihinde savaş uçağının ilk kez kullanıldığı savaş aşağıdakilerden hangisidir?",
+      "o": ["Trablusgarp Savaşı", "1. Balkan Savaşı", "2. Balkan Savaşı", "Çanakkale Savaşı", "Kırım Savaşı"],
+      "c": 0,
+      "e": "Uçağı ilk kez İtalya Trablusgarp'ta kullandı; Osmanlı da onu ilk düşüren taraf oldu."
+    },
+    {
+      "q": "1. Balkan Savaşı'nda Osmanlı Devleti'ne saldıran devletler arasında aşağıdakilerden hangisi yer almaz?",
+      "o": ["Bulgaristan", "Yunanistan", "Sırbistan", "Karadağ", "Romanya"],
+      "c": 4,
+      "e": "Romanya yalnızca 2. Balkan Savaşı'nda (Bulgaristan'a karşı) yer alır."
+    },
+    {
+      "q": "1913 Londra Antlaşması ile kaybedilen yerler 'BADEM SELANİK' ile kodlanır. Buna göre aşağıdakilerden hangisi bu kayıplar arasında değildir?",
+      "o": ["Batı Trakya", "Arnavutluk", "Makedonya", "Selanik", "Bingazi"],
+      "c": 4,
+      "e": "Bingazi Uşi Antlaşması'yla İtalya'ya bırakıldı; Londra kayıpları BADEM SELANİK'tir."
+    },
+    {
+      "q": "Osmanlı'nın Balkanlardaki sınırıyla ilgili,\nI. 1. Balkan sonrası sınır Midye-Enez hattıdır.\nII. 2. Balkan'da Doğu Trakya geri alınınca sınır Meriç Nehri'ne ilerlemiştir.\nIII. Sınırın ilerlemesi Bulgaristan'ın güçlenmesiyle olmuştur.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 1,
+      "e": "I ve II doğru; sınır, Osmanlı'nın Bulgaristan'a saldırıp Doğu Trakya'yı almasıyla ilerledi (III yanlış)."
+    },
+    {
+      "q": "Babıali Baskını ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "o": ["İttihatçılar tarafından gerçekleştirilmiştir", "Kamil Paşa hükümeti devrilmiştir", "Padişah 5. Mehmet Reşat tahttan indirilmiştir", "Yerine Mahmut Şevket Paşa hükümeti kurulmuştur", "Üç Paşalar döneminin önünü açmıştır"],
+      "c": 2,
+      "e": "Babıali bir hükümet darbesidir; padişah değil, Kamil Paşa hükümeti indirilmiştir."
+    },
+    {
+      "q": "31 Mart İsyanı'nı bastıran Hareket Ordusu'nun komutanı iken, Babıali Baskını sonrası sadrazam olan kişi kimdir?",
+      "o": ["Mahmut Şevket Paşa", "Kamil Paşa", "Talat Paşa", "Enver Paşa", "Cemal Paşa"],
+      "c": 0,
+      "e": "Mahmut Şevket Paşa hem Hareket Ordusu komutanı hem sonradan başbakandır — ordu-siyaset iç içeliğinin örneği."
+    },
+    {
+      "q": "'Üç Paşalar' olarak bilinen ve Babıali Baskını sonrası yönetime hakim olan isimler hangi seçenekte birlikte verilmiştir?",
+      "o": ["Cemal – Talat – Enver", "Kamil – Mahmut Şevket – Enver", "Cemal – Rauf – Talat", "Enver – Şükrü – Talat", "Vahdettin – Talat – Cemal"],
+      "c": 0,
+      "e": "Üç Paşalar Cemal, Talat ve Enver Paşa'dır; üçü de İttihatçıdır."
+    },
+    {
+      "q": "2. Balkan Savaşı'nın çıkış nedeni aşağıdakilerden hangisidir?",
+      "o": ["Bulgaristan'ın 1. Balkan'da fazla toprak alıp paylaşmaması", "Rusya'nın Panslavizm kışkırtması", "Karadağ'ın Yeni Pazar'a saldırması", "Osmanlı'nın Doğu Trakya'yı istemesi", "İtalya'nın 12 Ada'yı işgali"],
+      "c": 0,
+      "e": "En karlı çıkan Bulgaristan toprağı paylaşmayınca YÜRÜSEK devletleri ona saldırdı."
+    },
+    {
+      "q": "2. Balkan Savaşı sonrası imzalanan antlaşmalarla ilgili,\nI. Balkan devletleri kendi aralarında Bükreş Antlaşması'nı yapmıştır.\nII. Osmanlı-Bulgaristan arasında İstanbul Antlaşması yapılmıştır.\nIII. Osmanlı-Yunanistan arasında Atina Antlaşması yapılmıştır.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "I ve II", "II ve III", "I ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Üçü de doğrudur; Osmanlı ayrıca Sırbistan'la da İstanbul Antlaşması yapmıştır."
+    },
+    {
+      "q": "Osmanlı, 2. Balkan Savaşı sonrasında sınırı bulunmadığı hâlde Sırbistan ile İstanbul Antlaşması'nı imzalamıştır.\nBu durumun temel nedeni aşağıdakilerden hangisidir?",
+      "o": ["Sırbistan'daki Türk azınlığın haklarını korumak", "Ortak gümrük birliği kurmak", "Karadağ'a karşı ittifak yapmak", "Doğu Trakya'yı güvence altına almak", "Bulgaristan'ı yalnızlaştırmak"],
+      "c": 0,
+      "e": "Sınır olmamasına rağmen antlaşma, bölgedeki Türk azınlığın haklarını korumak içindir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı'nın 1. Balkan Savaşı'nda yenilme nedenlerinden biri değildir?",
+      "o": ["Tecrübeli askerlerin terhis edilmesi", "Orduya siyasetin girmesi", "Birden fazla cephede savaşılması", "Kolera gibi salgın hastalıklar", "Donanmanın Haliç'te çürümüş olması"],
+      "c": 4,
+      "e": "Çürüyen donanma Trablusgarp'ta savunmayı engelledi; Balkan yenilgisinin nedenleri kara ordusu, siyaset, çok cephe ve salgındır."
+    },
+    {
+      "q": "Trablusgarp Savaşı, Balkan Savaşları ve 1. Dünya Savaşı'nın başında Osmanlı tahtında bulunan padişah kimdir?",
+      "o": ["5. Mehmet Reşat", "2. Abdülhamid", "Vahdettin", "5. Murat", "Abdülaziz"],
+      "c": 0,
+      "e": "Abdülhamid daha önce meclis kararıyla indirilmişti; bu dönemin padişahı 5. Mehmet Reşat'tır."
+    },
+    {
+      "q": "Balkan Savaşları'yla ilgili,\nI. Savaşı başlatan devlet Karadağ'dır.\nII. Osmanlı'dan ayrılan son Balkan devleti Arnavutluk'tur.\nIII. 1. Balkan'da olmayıp 2. Balkan'da yer alan devlet Romanya'dır.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "I ve II", "II ve III", "Yalnız III", "I, II ve III"],
+      "c": 4,
+      "e": "Üç yargı da doğrudur."
+    },
+    {
+      "q": "Arnavutluk'un da Osmanlı'dan ayrılması, aşağıdaki fikir akımlarından hangisinin geçerliliğini yitirdiğinin göstergesi sayılır?",
+      "o": ["Osmanlıcılık", "Türkçülük", "İslamcılık", "Batıcılık", "Adem-i Merkeziyetçilik"],
+      "c": 0,
+      "e": "Farklı unsurları bir arada tutmayı amaçlayan Osmanlıcılık, Arnavutluk'un ayrılmasıyla işlevini yitirmiş; Türkçülük öne çıkmıştır."
+    },
+    {
+      "q": "Trablusgarp Savaşı'nda İtalya savaş uçağı kullanmış, Osmanlı ise bu uçağı düşürebilmiştir.\nBu bilgi aşağıdakilerden hangisini gösterir?",
+      "o": ["Savaşlarda ilk kez hava gücünün kullanıldığını", "Osmanlı donanmasının güçlü olduğunu", "İtalya'nın kara ordusunun zayıf olduğunu", "Osmanlı'nın Trablusgarp'ı elinde tuttuğunu", "Kapitülasyonların kaldırıldığını"],
+      "c": 0,
+      "e": "Trablusgarp, dünyada savaş uçağının ilk kullanıldığı savaştır; bu, hava gücünün savaşlara girdiğini gösterir."
+    },
+    {
+      "q": "Osmanlı'nın halifeliği siyasi bir araç olarak ilk kez kullandığı antlaşma ile Trablusgarp'ta ikinci kez kullandığı antlaşma sırasıyla hangileridir?",
+      "o": ["Küçük Kaynarca – Uşi", "Uşi – Küçük Kaynarca", "Londra – Uşi", "Küçük Kaynarca – Bükreş", "Karlofça – Uşi"],
+      "c": 0,
+      "e": "İlk kez 1774 Küçük Kaynarca'da (Kırım için), ikinci kez Uşi'de (Trablusgarp için) kullanılmıştır."
+    },
+    {
+      "q": "Aşağıdaki unvan-kişi eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["Edirne Fatihi – Enver Paşa", "Edirne Müdafii – Şükrü Paşa", "Hamidiye Kahramanı – Rauf Orbay", "Gazeteci Şerif Bey – Mustafa Kemal", "Tüccar Hamdi Bey – Şükrü Paşa"],
+      "c": 4,
+      "e": "'Tüccar Hamdi Bey' Enver Paşa'nın takma adıdır; Şükrü Paşa ise Edirne Müdafii'dir."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Unvan / Takma Ad → Kişi",
+      "p": [
+        ["Gazeteci Şerif Bey", "Mustafa Kemal"],
+        ["Tüccar Hamdi Bey", "Enver Paşa"],
+        ["Edirne Müdafii", "Şükrü Paşa"],
+        ["Hamidiye Kahramanı", "Rauf Orbay"],
+        ["Batı Trakya T.C. kurucusu", "Kuşçubaşı Eşref"],
+        ["31 Mart'ı bastıran / sonra sadrazam", "Mahmut Şevket Paşa"]
+      ]
+    },
+    {
+      "ad": "Savaş → Antlaşma",
+      "p": [
+        ["Trablusgarp Savaşı", "Uşi Antlaşması"],
+        ["1. Balkan Savaşı", "Londra Antlaşması"],
+        ["2. Balkan (Balkanlılar arası)", "Bükreş Antlaşması"],
+        ["Osmanlı-Bulgaristan (2. Balkan)", "İstanbul Antlaşması"],
+        ["Osmanlı-Yunanistan (2. Balkan)", "Atina Antlaşması"]
+      ]
+    },
+    {
+      "ad": "Şifre → Açılım",
+      "p": [
+        ["BÜYÜSEK", "Bulgaristan-Yunanistan-Sırbistan-Karadağ"],
+        ["YÜRÜSEK", "Yunanistan-Romanya-Sırbistan-Karadağ"],
+        ["BADEM SELANİK", "Batı Trakya-Arnavutluk-Doğu Trakya-Ege Ad.-Makedonya-Selanik"],
+        ["TEK", "Tekirdağ-Edirne-Kırklareli"],
+        ["Üç Paşalar", "Cemal-Talat-Enver"],
+        ["İtalya'nın barış hamleleri", "Çanakkale ablukası-şehir bombalama-12 Ada"]
+      ]
+    },
+    {
+      "ad": "Rol → Devlet",
+      "p": [
+        ["1. Balkan'ı başlatan", "Karadağ"],
+        ["Ayrılan son Balkan devleti", "Arnavutluk"],
+        ["2. Balkan'a neden olan (fazla toprak)", "Bulgaristan"],
+        ["1. Balkan'da yok, 2.'de var", "Romanya"],
+        ["Racconigi ile Trablusgarp'ı onaylayan", "Rusya"],
+        ["Mısır'da olup kara geçişini engelleyen", "İngiltere"]
+      ]
+    },
+    {
+      "ad": "Olay → Sonuç",
+      "p": [
+        ["1. Balkan sonrası sınır", "Midye-Enez hattı"],
+        ["2. Balkan sonrası sınır", "Meriç Nehri"],
+        ["2. Balkan'da geri alınan bölge", "Doğu Trakya (TEK)"],
+        ["Uşi'nin kıtasal sonucu", "3 kıtadan 2 kıtaya düşüş"],
+        ["12 Ada'nın nihai sahibi", "Yunanistan (1947 Paris)"],
+        ["Trablusgarp'ta ilk kullanılan silah", "Savaş uçağı"]
+      ]
+    }
+  ]
+}

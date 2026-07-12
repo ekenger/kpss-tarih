@@ -1,0 +1,470 @@
+{
+  "meta": {
+    "gun": 3,
+    "baslik": "Türkiye Tarihi: 1. Beylikler, Anadolu Selçuklu, 2. Beylikler",
+    "ozet": "Malazgirt sonrası 1. Beylikler (DD SMAÇ), Anadolu Selçuklu Devleti'nin kuruluş–yükseliş–yıkılış süreci, kültür-medeniyet yapısı ve Kösedağ sonrası 2. Beylikler dönemi.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "'ikylikler' → 2. Beylikler",
+      "'Mirya Kefelon' → Miryokefalon",
+      "'Kalonoros' → Kalonoros (günümüz Alanya)",
+      "'Takyihütddin Erraşid' → Takiyüddin er-Raşid",
+      "'Kitabül Hiyeld' → Kitâbü'l-Hiyel",
+      "'Caberkesi' → Caber Kalesi"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "1. Beylikler Şifreleri",
+      "i": [
+        { "k": "DD SMAÇ", "m": "1. Beylikler: Dilmaçoğulları, Danışmentliler, Saltuklular, Mengücekliler, Artuklular, Çaka Beyliği", "s": "z" },
+        { "k": "Mantık Sivas", "m": "Danışmentli yerleri: Malatya, Niksar, Tokat, Kayseri, Sivas", "s": "z" },
+        { "k": "Saltuku → Erzurum", "m": "U vurgusuyla konum eşleştirme", "s": "z" },
+        { "k": "Mengücek → Erzincan", "m": "CC vurgusuyla konum eşleştirme", "s": "z" },
+        { "k": "3 tepsi mama kaleye gitsin", "m": "Saltuklu eserleri: Üç Kümbetler, Tepsi Minare, Mama Hatun Kümbeti, Kale Cami", "s": "z" },
+        { "k": "Artuklular → üç kol", "m": "Diyarbakır, Harput (Elazığ), Mardin Artukluları", "s": "z" }
+      ]
+    },
+    {
+      "b": "1. Beylikler İlkleri ve Enleri",
+      "i": [
+        { "k": "Danışmentliler → 4 özellik", "m": "En güçlü, ilk para bastıran, en geniş sınırlar, Selçuklu'yu en çok uğraştıran beylik", "s": "z" },
+        { "k": "Yağıbasan Medresesi", "m": "Anadolu'nun ilk medresesi (Danışmentliler)", "s": "z" },
+        { "k": "Saltuklular → ilk beylik", "m": "Anadolu'da kurulan ilk Türk beyliği", "s": "z" },
+        { "k": "Divriği Ulu Cami", "m": "Mengücekliler; TC'nin UNESCO'ya giren ilk eseri (1985)", "s": "z" },
+        { "k": "El Cezeri + Kitâbü'l-Hiyel", "m": "Artuklular; sibernetik ve robotik kurucusu – muhtemel soru adayı", "s": "z" },
+        { "k": "Malabadi Köprüsü", "m": "Artuklular; Anadolu'nun en eski taş köprülerinden", "s": "z" },
+        { "k": "Çakabey → 1081", "m": "İlk Türk denizcisi, İzmir; Deniz Kuvvetleri kuruluş yılı", "s": "z" },
+        { "k": "Dilmaçoğulları → Bitlis", "m": "Bitlis ve civarı; eseri: Bitlis Ulu Cami", "s": "z" }
+      ]
+    },
+    {
+      "b": "Anadolu Selçuklu Hükümdarları",
+      "i": [
+        { "k": "Kutalmışoğlu Süleyman Şah", "m": "Kurucu; İznik merkezli; Boğazlardan ilk vergi; Tutuş'a yenilip vefat → Caber Kalesi → Eşme köyü", "s": "z" },
+        { "k": "1. Kılıç Arslan", "m": "1. Haçlı Seferi → İznik kaybedildi; Dorleon yenilgisi; başkent Konya'ya taşındı", "s": "z" },
+        { "k": "1. Mesut → 40 yıl", "m": "En uzun tahtta kalan; ilk para (bakır); 2. Haçlı Seferi (başarısız)", "s": "z" },
+        { "k": "2. Kılıç Arslan", "m": "Miryokefalon (1176); gümüş+altın para; Alayhan (ilk kervansaray); 11 oğla paylaştırma", "s": "z" },
+        { "k": "Alaaddin Keykubat", "m": "En parlak dönem; Suğdak (ilk denizaşırı sefer); Kalonoros/Alanya; 1230 Yassıçemen", "s": "z" },
+        { "k": "2. Gıyaseddin Keyhüsrev", "m": "Babasını zehirletti (rivayet); 1241 Babaîler İsyanı; 1243 Kösedağ yenilgisi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Savaşlar Zinciri",
+      "i": [
+        { "k": "Yurt açan → Malazgirt (1071)", "m": "Anadolu'nun kapıları Türklere açıldı", "s": "z" },
+        { "k": "Yurt tutan → Miryokefalon (1176)", "m": "Anadolu kesin Türk yurdu; Bizans kaynaklarında 'Türkiye' denmeye başlandı", "s": "z" },
+        { "k": "Yurt kurtaran → Büyük Taarruz", "m": "Yunanlılar Anadolu'dan çıkarıldı", "s": "z" },
+        { "k": "Miryokefalon → M sil 2", "m": "M harfini yaz, arasını sil → 2 kalır → 2. Kılıç Arslan dönemi", "s": "z" },
+        { "k": "1230 Yassıçemen", "m": "Selçuklu vs Harzemşah; kazandık ama tampon bölge kalktı → İlhanlılarla komşu", "s": "z" },
+        { "k": "1243 Kösedağ", "m": "İlhanlılar kazandı → Selçuklu yıkılışa, 2. Beylikler dönemi başladı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Selçuklu Divanları",
+      "i": [
+        { "k": "İstifa → Müstevfi", "m": "Mali işler (istif = para çağrışımı)", "s": "z" },
+        { "k": "Arz → Arzül Ceyş", "m": "Ordu işleri", "s": "z" },
+        { "k": "İnşa → Münşi", "m": "Yazışmalar (yeni yazı inşa etmek)", "s": "z" },
+        { "k": "İşraf → Müşrif", "m": "Teftiş / denetim", "s": "z" },
+        { "k": "Pervane → Pervaneci ★", "m": "Toprak dağıtımı; Osmanlı karşılığı Nişancı — Selçuklu'ya özgü divan", "s": "z" },
+        { "k": "Niyabet-i Saltanat → Naip ★", "m": "Hükümdar yokken toplanır; naip = vekil — Selçuklu'ya özgü", "s": "z" },
+        { "k": "Berit → Beritçi", "m": "Haberleşme divanı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Selçuklu Ekonomi & Ticaret",
+      "i": [
+        { "k": "Ticari sigorta → ilk devlet", "m": "Dünyada ticari mala sigorta uygulayan ilk devlet: Anadolu Selçuklu", "s": "z" },
+        { "k": "Ahilik → Ahi Evran", "m": "Esnaf teşkilatı; Ahi Evran = Nasreddin Hoca; Osmanlı'da Lonca olacak", "s": "z" },
+        { "k": "Narh kesmek", "m": "Mala fiyat biçmek; ülke genelinde tek fiyat", "s": "z" },
+        { "k": "Ahilik vs Lonca → 2 fark", "m": "1) Ahiler askere gider / Lonca gitmez 2) Ahilik sadece Müslüman / Lonca herkese açık", "s": "z" },
+        { "k": "Bacıyan-ı Rum", "m": "Ahiliğin kadın kolu; Anadolu Kadınları Teşkilatı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kültür, Bilim & Mimari İlkler",
+      "i": [
+        { "k": "Mevlana → 3 eser", "m": "Mesnevi, Divan-ı Kebir, Fihi Mafih", "s": "z" },
+        { "k": "Aşık Paşa → Garipname", "m": "Aşık olmuş, garip düşmüş (çağrışım)", "s": "z" },
+        { "k": "Hoca Dehhani", "m": "Selçuklu Şehnamesi (≠ Firdevsi'nin Şehnamesi)", "s": "z" },
+        { "k": "Cacabey → ilk rasathane", "m": "Anadolu'da ilk gözlemevi; Osmanlı'da ilk: Takiyüddin", "s": "z" },
+        { "k": "Gevher Nesibe Darüşşifası", "m": "Selçuklu ilk hastane + dünyanın ilk tıp fakültesi – muhtemel soru adayı", "s": "z" },
+        { "k": "Menuçehr Camii", "m": "Türklerin Anadolu'da yaptırdığı ilk cami (Kars Ani)", "s": "z" },
+        { "k": "Yunus Emre → Yunusiye", "m": "Risaletü'n-Nushiyye (Yunusiye çağrışımı)", "s": "z" },
+        { "k": "Hacı Paşa", "m": "Anadolu'nun İbn Sinası (tıp)", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "1. Beylikler", "o": "1. Beylikler dönemi hangi savaştan sonra başlamıştır?", "a": "Malazgirt Savaşı (1071)" },
+    { "c": "1. Beylikler", "o": "1. Beylikler döneminde kurulan beyliklerin şifresi nedir?", "a": "DD SMAÇ\nDilmaçoğulları, Danışmentliler, Saltuklular, Mengücekliler, Artuklular, Çaka Beyliği" },
+    { "c": "1. Beylikler", "o": "Danışmentlilerin kurulduğu yerlerin şifresi nedir?", "a": "Mantık Sivas\nMalatya, Niksar, Tokat, Kayseri, Sivas" },
+    { "c": "1. Beylikler", "o": "Saltuklular nerede kurulmuştur? Nasıl hatırlanır?", "a": "Erzurum ve çevresi\nSaltuku → Erzurum (U vurguları)" },
+    { "c": "1. Beylikler", "o": "Mengücekliler nerede kurulmuştur? Nasıl hatırlanır?", "a": "Erzincan ve çevresi\nMengücek → Erzincan (CC vurguları)" },
+    { "c": "1. Beylikler", "o": "Artuklular hangi üç kolda kurulmuştur?", "a": "1) Diyarbakır Artukluları\n2) Harput (Elazığ) Artukluları\n3) Mardin Artukluları" },
+    { "c": "1. Beylikler", "o": "1. Beylikler döneminde en güçlü beylik hangisidir?", "a": "Danışmentliler\n(Adına para bastıran ilk, en geniş sınırlara yayılan, Anadolu Selçuklu'yu en çok uğraştıran beylik)" },
+    { "c": "1. Beylikler", "o": "Anadolu'nun ilk medresesi hangisidir ve hangi beyliğe aittir?", "a": "Yağıbasan Medresesi — Danışmentliler" },
+    { "c": "1. Beylikler", "o": "Anadolu'da kurulan ilk Türk beyliği hangisidir?", "a": "Saltuklular" },
+    { "c": "1. Beylikler", "o": "Saltukluların eserlerinin şifresi nedir?", "a": "3 tepsi mama kaleye gitsin\nÜç Kümbetler, Tepsi Minare, Mama Hatun Kümbeti, Kale Cami" },
+    { "c": "1. Beylikler", "o": "Divriği Ulu Cami ve Külliyesi hangi beyliğe aittir ve önemi nedir?", "a": "Mengücekliler\nTC'nin UNESCO Dünya Kültürel Miras listesine giren ilk eseri (1985)" },
+    { "c": "1. Beylikler", "o": "El Cezeri kimdir, hangi beylikte yaşamıştır, eseri nedir?", "a": "Sibernetik ve robotik biliminin kurucusu\nArtuklu Beyliği'nde yaşamış\nEseri: Kitâbü'l-Hiyel\nLeonardo da Vinci'ye ilham kaynağı olmuştur" },
+    { "c": "1. Beylikler", "o": "Malabadi Köprüsü hangi beyliğe aittir?", "a": "Artuklulara ait\nAnadolu'nun en eski taş köprülerinden biri" },
+    { "c": "1. Beylikler", "o": "İlk Türk denizcisi kimdir ve Deniz Kuvvetleri kuruluş yılı nedir?", "a": "Çakabey — İzmir ve çevresi\n1081: Türk Deniz Kuvvetleri Komutanlığı kuruluş yılı" },
+    { "c": "1. Beylikler", "o": "Dilmaçoğulları nerede kurulmuştur ve en önemli eseri nedir?", "a": "Bitlis ve civarı\nEseri: Bitlis Ulu Cami" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Anadolu Selçuklu Devleti'ni kim, nerede kurmuştur?", "a": "Kutalmışoğlu Süleyman Şah\nİznik merkezli olarak kurmuştur" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Süleyman Şah nasıl ölmüştür ve mezarı nerededir?", "a": "Suriye Selçuklu hükümdarı Tutuş'la savaşırken yenilip kaçarken ölmüştür\nMezarı Caber Kalesi'ndeydi, sonra Eşme köyüne taşındı" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Caber Kalesi'nin önemi nedir?", "a": "Süleyman Şah'ın mezarının bulunduğu yer\n1921 Ankara Antlaşması ile Türkiye sınırları dışında kalan tek Türk toprağıydı" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Başarılı olan tek Haçlı seferi hangisidir ve ne olmuştur?", "a": "1. Haçlı Seferi (1. Kılıç Arslan dönemi)\nHaçlılar İznik'i ele geçirdi, sonra Kudüs'ü aldı" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Anadolu Selçuklu başkenti neden İznik'ten Konya'ya taşındı?", "a": "1. Kılıç Arslan döneminde 1. Haçlı Seferi sırasında\nDorleon Savaşı'nda Haçlılara yenildik ve İznik kaybedildi" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "İznik hangi iki devlete başkentlik yapmıştır?", "a": "Hem Anadolu Selçuklu Devleti'ne hem Osmanlı Devleti'ne\n(İkisine de başkentlik yapan tek şehir)" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Dorleon Savaşı nedir?", "a": "Eskişehir yakınlarında Anadolu Selçuklu'nun Haçlılara yenildiği savaş\n1. Kılıç Arslan dönemi" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Anadolu Selçuklu tahtında en uzun kalan hükümdar kimdir?", "a": "1. Mesut — 40 yıl\n(Osmanlı'da en uzun: Kanuni, 46 yıl)" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Anadolu Selçuklu'nun ilk parasını kim bastırmıştır ve hangi madendendir?", "a": "1. Mesut — bakır para\n(Gümüş ve altın parayı 2. Kılıç Arslan bastırmıştır)" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Miryokefalon Savaşı (1176) hangi dönemde, kimler arasında yapılmıştır ve sonucu nedir?", "a": "2. Kılıç Arslan dönemi\nAnadolu Selçuklu vs Bizans\nSelçuklu kazandı → Anadolu kesin Türk yurdu oldu" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Yurt açan, yurt tutan ve yurt kurtaran savaşlar hangileridir?", "a": "Yurt açan → Malazgirt (1071)\nYurt tutan → Miryokefalon (1176)\nYurt kurtaran → Büyük Taarruz" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Anadolu'ya 'Türkiye' denmeye hangi savaştan sonra başlanmıştır?", "a": "Miryokefalon Savaşı'ndan sonra (1176)\nBizans kaynaklarında kullanılmaya başlandı" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Anadolu Selçuklu'nun ilk kervansarayı nedir ve kimin döneminde yapılmıştır?", "a": "Alayhan Kervansarayı — 2. Kılıç Arslan dönemi" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "2. Kılıç Arslan ülkeyi kaç oğlu arasında paylaştırmıştır? Bu ne anlama gelir?", "a": "11 oğlu arasında paylaştırmıştır\nKlasik Türk veraset sistemi (ülke hanedanın ortak malıdır) uygulaması" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Alaaddin Keykubat döneminin özellikleri nelerdir?", "a": "Anadolu Selçuklu'nun en parlak dönemi\nKırım Suğdak limanı (ilk denizaşırı sefer)\nKalonoros/Alanya fethi\n1230 Yassıçemen Savaşı" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Anadolu Selçuklu'nun ilk denizaşırı seferi nereye yapılmıştır?", "a": "Kırım'ın Suğdak limanına — Alaaddin Keykubat dönemi" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "1230 Yassıçemen Savaşı kimler arasında yapılmıştır ve sonucu nedir?", "a": "Anadolu Selçuklu vs Harzemşahlar\nSelçuklu kazandı ama Harzemşahlar yıkılınca İlhanlılarla tampon bölge ortadan kalktı" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Babaîler İsyanı (1241) nedir ve sonuçları nelerdir?", "a": "Anadolu Selçuklu'da dini ve toplumsal nitelikli ilk ayaklanma\n2. Gıyaseddin Keyhüsrev dönemi\nZor bastırıldı → İlhanlılara zayıflığımız görüldü → Kösedağ Savaşı'nın yolunu açtı" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Kösedağ Savaşı (1243) sonuçları nelerdir?", "a": "1) Selçuklu yıkılışa girdi\n2) Anadolu İlhanlı hakimiyetine girdi\n3) Türklerin batıya ilerleyişi durdu\n4) 2. Beylikler dönemi başladı" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Anadolu Selçuklu'nun son hükümdarı kimdir?", "a": "2. Mesut\n(Büyük Selçuklu'nun son hükümdarı: Sultan Sencer)" },
+    { "c": "Selçuklu Siyasi Tarih", "o": "Moğol istilasının tek olumlu yönü nedir?", "a": "Anadolu'daki Türk nüfusu artmıştır\n(Moğollardan kaçan Türkmenler Batı Anadolu'ya göç etti)" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Key- ön ekli unvanlar (Keykubat, Keykavus, Keyhüsrev) neyin göstergesidir?", "a": "İran/Fars kültüründen etkilenmenin göstergesi\nKey = Farsça'da sultan anlamına gelir" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Divan-ı Pervane'nin görevi ve görevlisi nedir? Osmanlı karşılığı ne?", "a": "Toprak dağıtımı — görevlisi: Pervaneci\nOsmanlı karşılığı: Nişancı\nAnadolu Selçuklu'ya özgü bir divandır" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Niyabet-i Saltanat nedir?", "a": "Hükümdar yokken toplanan divan\nGörevlisi: Naip (= vekil)\nAnadolu Selçuklu'ya özgü" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Anadolu Selçuklu ordusunun Büyük Selçuklu'dan temel farkı nedir?", "a": "Donanmaya sahip olması\n(Anadolu yarımada olduğu için denizcilik zorunlu)" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Anadolu Selçuklu'da donanma kaptanına ne ad verilir?", "a": "Reisül Bahr (denizlerin reisi) veya Melikü's-Sevahil (sahillerin meliki)\n(Osmanlı'da: Kaptan-ı Derya)" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Şurta teşkilatı nedir?", "a": "Anadolu Selçuklu'da jandarma teşkilatı\nİç güvenliği sağlar → merkezi otoriteyi güçlendirir" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Şeri hukukun en yetkili kişisi kimdir?", "a": "Kadı'l-Kudat (kadıların kadısı)\nŞeri hukuk: Kuran hükümlerine dayanır" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Örfi hukukun en yetkili kişisi kimdir?", "a": "Emir-i Dad\nÖrfi hukuk: Türk örf, adet, gelenek ve göreneklerine dayanır" },
+    { "c": "Selçuklu Devlet Teşkilatı", "o": "Askeri davalara bakan görevlinin adı nedir?", "a": "Kadıasker (Kadı Leşker)\nLeşker = asker" },
+    { "c": "Selçuklu Ekonomi", "o": "Anadolu Selçuklu'nun ticareti artırmak için yaptıkları nelerdir?", "a": "1) Liman kentleri fethedildi (Sinop, Samsun, Alanya, Antalya, Suğdak)\n2) Ticari mala sigorta uygulandı (dünyada ilk)\n3) Kervansaraylar inşa edildi\n4) Gümrük vergileri düşürüldü" },
+    { "c": "Selçuklu Ekonomi", "o": "Ahilik teşkilatının kurucusu kimdir?", "a": "Ahi Evran (= Nasreddin Hoca)\nLiderlerine şeyh veya pir denir" },
+    { "c": "Selçuklu Ekonomi", "o": "Ahilik teşkilatının tarihî süreci nedir?", "a": "Fütüvvet (İslam devleti) → Ahilik (Anadolu Selçuklu) → Lonca (Osmanlı)" },
+    { "c": "Selçuklu Ekonomi", "o": "Ahilik ile Lonca arasındaki iki temel fark nedir?", "a": "1) Ahiler askere gider / Lonca'dakiler gitmez\n2) Ahiliğe sadece Müslümanlar alınır / Lonca'ya gayrimüslimler de alınır" },
+    { "c": "Selçuklu Ekonomi", "o": "Narh kesmek ne demektir?", "a": "Mala fiyat biçmektir\nAhi teşkilatı/Lonca tarafından belirlenir; ülke genelinde aynı fiyat uygulanır" },
+    { "c": "Selçuklu Ekonomi", "o": "İcazetname nedir?", "a": "Diploma; hem Ahilik'te mesleki eğitimini tamamlayana hem medreseden mezun olana verilir" },
+    { "c": "Selçuklu Ekonomi", "o": "Bacıyan-ı Rum nedir?", "a": "Ahilik teşkilatının kadın kolu\nAnadolu Kadınları Teşkilatı\nSloganı: Aşına, işine, eşine dikkat et" },
+    { "c": "Selçuklu Ekonomi", "o": "Miri arazi kaça ayrılır ve türleri nelerdir?", "a": "Devlete ait arazi, üçe ayrılır:\n1) Has — gelir hükümdara\n2) Vakıf — gelir hayır kurumlarına\n3) İkta — ikta sistemiyle dağıtılır" },
+    { "c": "Selçuklu Ekonomi", "o": "Öşri ve haraci arazi arasındaki fark nedir?", "a": "İkisi de mülk (tapulu şahıs) arazidir\nÖşri: Müslümanlara ait\nHaraci: Gayrimüslimlere ait" },
+    { "c": "Selçuklu Kültür & Bilim", "o": "Mevlana'nın üç önemli eseri nedir?", "a": "1) Mesnevi\n2) Divan-ı Kebir\n3) Fihi Mafih" },
+    { "c": "Selçuklu Kültür & Bilim", "o": "Hacı Bektaş-ı Veli'nin eseri nedir?", "a": "Makalat" },
+    { "c": "Selçuklu Kültür & Bilim", "o": "Aşık Paşa'nın eseri nedir?", "a": "Garipname\n(Çağrışım: Aşık olmuş, garip hale düşmüş)" },
+    { "c": "Selçuklu Kültür & Bilim", "o": "Selçuklu Şehnamesi'ni kim yazmıştır?", "a": "Hoca Dehhani\n(Firdevsi'nin Şehnamesi ile karıştırılmamalı)" },
+    { "c": "Selçuklu Kültür & Bilim", "o": "Anadolu'da ilk rasathane/gözlemevi nedir?", "a": "Cacabey Medresesi — Cacabey tarafından kuruldu\n(Osmanlı'da ilk rasathane: Takiyüddin er-Raşid)" },
+    { "c": "Selçuklu Kültür & Bilim", "o": "Hacı Paşa'nın lakabı nedir?", "a": "Anadolu'nun İbn Sinası\nTıp alanında çalışmalar yapmıştır" },
+    { "c": "Selçuklu Kültür & Bilim", "o": "Muhyiddin Arabi hangi kavramların öncüsüdür?", "a": "Ekberilik ve Vahdet-i Vücud\n(Her şeyin Tanrı'nın bir parçası olduğu görüşü)" },
+    { "c": "Selçuklu Kültür & Bilim", "o": "Yunus Emre'nin eseri nedir?", "a": "Risaletü'n-Nushiyye\n(Yunusiye çağrışımıyla hatırla)" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "Anadolu Selçuklu'nun ilk camisi hangisidir?", "a": "Konya Alaaddin Camii" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "Anadolu Selçuklu'nun ilk hastanesi nedir ve önemi nedir?", "a": "Gevher Nesibe Darüşşifası\nDünyanın ilk tıp fakültesi olarak kabul edilir" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "Anadolu Selçuklu'nun ilk medresesi hangisidir?", "a": "Kayseri Koca Hasan Medresesi\n(Anadolu'nun ilk medresesi Yağıbasan — Danışmentliler)" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "Anadolu Selçuklu'nun ilk külliyesi hangisidir?", "a": "Hunat Hatun Külliyesi" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "Türklerin Anadolu'da yaptırdığı ilk cami hangisidir?", "a": "Menuçehr Camii — Kars Ani\n(Sultan Alparslan döneminde, henüz Anadolu'ya yerleşmeden önce)" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "Medrese sıralaması: İlk Türk İslam, Büyük Selçuklu ilk, en önemli, Anadolu Selçuklu ilk, Osmanlı ilk?", "a": "1) Semerkant Medresesi (Karahanlı) — Türk İslam ilk\n2) Nişabur Medresesi (Tuğrul Bey) — B. Selçuklu ilk\n3) Nizamiye Medreseleri (Alparslan) — en önemli\n4) Kayseri Koca Hasan — A. Selçuklu ilk\n5) İznik Medresesi (Orhan Bey) — Osmanlı ilk" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "1. Beylikler döneminde eser bulma yöntemi: Erzurum'daki eser kime aittir?", "a": "Saltuklulara ait\n(Erzincan → Mengücekliler, Malatya-Niksar-Tokat-Kayseri-Sivas → Danışmentliler)" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "İstanbul, Trabzon, Çanakkale, Edirne ve Balkanlarda Türk eseri kimindir?", "a": "Yalnızca Osmanlı Devleti'ne aittir\n(Bu bölgeleri ilk defa Osmanlı ele geçirmiştir)" },
+    { "c": "Selçuklu Mimari & İlkler", "o": "Keykubat, Kubadiye, Çifte gibi sözcükler içeren eser kime aittir?", "a": "Selçuklulara aittir" },
+    { "c": "2. Beylikler", "o": "2. Beylikler dönemi hangi savaştan sonra başlamıştır?", "a": "Kösedağ Savaşı (1243)" },
+    { "c": "2. Beylikler", "o": "Osmanlı'ya katılan ilk beylik hangisidir ve kimin döneminde?", "a": "Karasioğulları — Orhan Bey dönemi\n(Anadolu Türk siyasi birliğine ilk adım)" },
+    { "c": "2. Beylikler", "o": "Germiyanoğulları ve Hamitoğulları Osmanlı'ya nasıl katılmışlardır?", "a": "Germiyanoğulları → çeyiz yoluyla\nHamitoğulları → para ile satın alınarak\n(İkisi de 1. Murat dönemi, barışçıl yollarla)" },
+    { "c": "2. Beylikler", "o": "Anadolu Türk siyasi birliği kesin olarak hangi olayla sağlanmıştır?", "a": "Dulkadiroğulları'nın 1515 Turnadağ Savaşı ile Osmanlı'ya katılması\nYavuz Sultan Selim dönemi" },
+    { "c": "2. Beylikler", "o": "Osmanlı'yı en çok uğraştıran beylik hangisidir?", "a": "Karamanoğulları\n(Kendini Anadolu Selçuklu'nun mirasçısı olarak görür)\n(Anadolu Selçuklu'yu en çok uğraştıran: Danışmentliler)" },
+    { "c": "2. Beylikler", "o": "Aydınoğlu Umur Bey'in önemi nedir?", "a": "Ege Denizi'nde pek çok adayı fethetmiştir\nFatih'ten önce gemileri karadan yürütmeyi başarmıştır" },
+    { "c": "2. Beylikler", "o": "Eratna Devleti hakkında neler bilinmelidir?", "a": "Sivas-Kayseri civarı\nUygur Türklerinden Alaaddin Eratna kurdu\nKadı Burhaneddin tarafından yıkıldı" },
+    { "c": "2. Beylikler", "o": "2. Beylikler döneminde denizci olan beylikler hangileridir?", "a": "Karasioğulları (Balıkesir-Çanakkale)\nHamitoğulları (Antalya-Isparta)\nSaruhanoğulları (Manisa — Ege'ye gemi bırakarak)\nAydınoğulları (Aydın)\nMenteşeoğulları (Muğla)\nCandaroğulları (Sinop-Samsun-Kastamonu)" }
+  ],
+  "tuzak": [
+    { "q": "1. Beylikler dönemi hangi savaştan sonra başlamıştır?", "o": ["Malazgirt Savaşı", "Kösedağ Savaşı"], "c": 0, "n": "1. Beylikler → Malazgirt, 2. Beylikler → Kösedağ; karıştırılır." },
+    { "q": "2. Beylikler dönemi hangi savaştan sonra başlamıştır?", "o": ["Malazgirt Savaşı", "Kösedağ Savaşı"], "c": 1, "n": "1. Beylikler → Malazgirt, 2. Beylikler → Kösedağ; karıştırılır." },
+    { "q": "Saltuklular nerede kurulmuştur?", "o": ["Erzurum", "Erzincan"], "c": 0, "n": "Saltuku → U vurgusu → Erzurum; Mengücek → CC vurgusu → Erzincan." },
+    { "q": "Mengücekliler nerede kurulmuştur?", "o": ["Erzurum", "Erzincan"], "c": 1, "n": "Mengücek → CC vurgusu → Erzincan; Saltuku → U vurgusu → Erzurum." },
+    { "q": "Anadolu Selçuklu'yu en çok uğraştıran beylik hangisidir?", "o": ["Danışmentliler", "Karamanoğulları"], "c": 0, "n": "Danışmentliler → Selçuklu'yu; Karamanoğulları → Osmanlı'yı uğraştırır." },
+    { "q": "Osmanlı'yı en çok uğraştıran beylik hangisidir?", "o": ["Danışmentliler", "Karamanoğulları"], "c": 1, "n": "Karamanoğulları → Osmanlı'yı; Danışmentliler → Selçuklu'yu uğraştırır." },
+    { "q": "Anadolu'nun ilk medresesi hangisidir?", "o": ["Yağıbasan Medresesi", "Kayseri Koca Hasan Medresesi", "Nişabur Medresesi"], "c": 0, "n": "Yağıbasan → Anadolu'nun ilk medresesi (Danışmentliler); Koca Hasan → Selçuklu'nun ilk medresesi; Nişabur → B. Selçuklu ilk." },
+    { "q": "Anadolu Selçuklu'nun ilk medresesi hangisidir?", "o": ["Yağıbasan Medresesi", "Kayseri Koca Hasan Medresesi", "Nizamiye Medreseleri"], "c": 1, "n": "Koca Hasan → Selçuklu devletinin ilk medresesi; Yağıbasan → Anadolu topraklarındaki ilk medrese ama Danışmentlilere ait." },
+    { "q": "Anadolu Selçuklu'nun ilk parasını (bakır) kim bastırmıştır?", "o": ["1. Mesut", "2. Kılıç Arslan"], "c": 0, "n": "1. Mesut → bakır (ilk); 2. Kılıç Arslan → gümüş ve altın para bastırmıştır." },
+    { "q": "Anadolu Selçuklu'nun gümüş ve altın parasını kim bastırmıştır?", "o": ["1. Mesut", "2. Kılıç Arslan"], "c": 1, "n": "2. Kılıç Arslan → gümüş+altın; 1. Mesut → ilk bakır para." },
+    { "q": "Yurt tutan savaşı hangisidir?", "o": ["Malazgirt", "Miryokefalon", "Büyük Taarruz"], "c": 1, "n": "Malazgirt → yurt açan, Miryokefalon → yurt tutan, Büyük Taarruz → yurt kurtaran." },
+    { "q": "Yurt açan savaşı hangisidir?", "o": ["Malazgirt", "Miryokefalon", "Kösedağ"], "c": 0, "n": "Malazgirt → yurt açan; Miryokefalon → yurt tutan; Kösedağ → yıkılış savaşı." },
+    { "q": "Şehname kime aittir?", "o": ["Firdevsi", "Hoca Dehhani"], "c": 0, "n": "Şehname → Firdevsi; Selçuklu Şehnamesi → Hoca Dehhani. 'Selçuklu' ön eki farkı belirler." },
+    { "q": "Selçuklu Şehnamesi kime aittir?", "o": ["Firdevsi", "Hoca Dehhani"], "c": 1, "n": "Selçuklu Şehnamesi → Hoca Dehhani; Şehname → Firdevsi." },
+    { "q": "Anadolu Selçuklu'da toprak dağıtımıyla ilgilenen divan hangisidir?", "o": ["Divan-ı Pervane", "Divan-ı İstifa"], "c": 0, "n": "Pervane → toprak (pervane havayı değil toprağı dağıtır); İstifa → mali işler." },
+    { "q": "Büyük Selçuklu'nun son hükümdarı kimdir?", "o": ["Sultan Sencer", "2. Mesut"], "c": 0, "n": "Sultan Sencer → Büyük Selçuklu; 2. Mesut → Anadolu Selçuklu son hükümdarı." },
+    { "q": "Anadolu Selçuklu'nun son hükümdarı kimdir?", "o": ["Sultan Sencer", "2. Mesut"], "c": 1, "n": "2. Mesut → Anadolu Selçuklu; Sultan Sencer → Büyük Selçuklu son hükümdarı." },
+    { "q": "Türk Deniz Kuvvetleri kuruluşu olarak kabul edilen tarih hangisidir?", "o": ["1081 (Çakabey)", "MÖ 209 (Mete Han)"], "c": 0, "n": "1081 → Deniz Kuvvetleri (Çakabey, ilk Türk denizcisi); MÖ 209 → Kara Kuvvetleri (Mete Han, ilk düzenli ordu)." },
+    { "q": "Anadolu'da ilk rasathaneyi kim kurmuştur?", "o": ["Cacabey", "Takiyüddin er-Raşid"], "c": 0, "n": "Cacabey → Anadolu'da ilk (Selçuklu dönemi); Takiyüddin → Osmanlı'da ilk rasathane." },
+    { "q": "Osmanlı'da ilk rasathaneyi kim kurmuştur?", "o": ["Cacabey", "Takiyüddin er-Raşid"], "c": 1, "n": "Takiyüddin → Osmanlı'da ilk; Cacabey → Anadolu'da ilk (Selçuklu)." },
+    { "q": "Osmanlı'ya katılan ilk beylik hangisidir?", "o": ["Karasioğulları", "Germiyanoğulları", "Karamanoğulları"], "c": 0, "n": "Karasioğulları → ilk katılan (Orhan Bey); Germiyanoğulları → çeyiz yoluyla (1. Murat); Karamanoğulları → en çok uğraştıran." },
+    { "q": "Germiyanoğulları Osmanlı'ya nasıl katılmıştır?", "o": ["Çeyiz yoluyla", "Para ile satın alınarak", "Savaşla"], "c": 0, "n": "Germiyanoğulları → çeyiz; Hamitoğulları → para ile satın alma. İkisi karıştırılır." },
+    { "q": "Hamitoğulları Osmanlı'ya nasıl katılmıştır?", "o": ["Çeyiz yoluyla", "Para ile satın alınarak", "Savaşla"], "c": 1, "n": "Hamitoğulları → para; Germiyanoğulları → çeyiz. İkisi karıştırılır." },
+    { "q": "Anadolu Selçuklu'nun ilk hastanesi hangisidir?", "o": ["Gevher Nesibe Darüşşifası", "Yağıbasan Medresesi"], "c": 0, "n": "Gevher Nesibe → ilk hastane (dünyanın ilk tıp fakültesi); Yağıbasan → ilk medrese (Danışmentliler)." },
+    { "q": "Anadolu'ya 'Türkiye' denilmesine neden olan savaş hangisidir?", "o": ["Malazgirt Savaşı", "Miryokefalon Savaşı"], "c": 1, "n": "Miryokefalon → 'Türkiye' denmeye başlandı (yurt tutan); Malazgirt → kapıyı açtı ama henüz Türkiye denilmedi." },
+    { "q": "Anadolu Selçuklu Devleti'nin başkenti ilk olarak neresidir?", "o": ["İznik", "Konya", "Bursa"], "c": 0, "n": "İlk başkent İznik; 1. Haçlı Seferi sonrası Konya'ya taşındı. İznik daha sonra Osmanlı'ya da başkentlik yapmıştır." },
+    { "q": "Divan-ı Pervane hangi devlete özgüdür?", "o": ["Anadolu Selçuklu", "Büyük Selçuklu", "Her ikisi"], "c": 0, "n": "Divan-ı Pervane kesinlikle sadece Anadolu Selçuklu'ya özgü; Büyük Selçuklu'da yoktur." },
+    { "q": "Osmanlı'da donanma kaptanına ne denir?", "o": ["Kaptan-ı Derya", "Reisül Bahr", "Melikü's-Sevahil"], "c": 0, "n": "Kaptan-ı Derya → Osmanlı; Reisül Bahr / Melikü's-Sevahil → Anadolu Selçuklu." },
+    { "q": "TC'nin UNESCO'ya giren ilk eseri hangisidir?", "o": ["Divriği Ulu Cami ve Külliyesi", "Ayasofya", "Topkapı Sarayı"], "c": 0, "n": "Divriği (Mengücekliler) → 1985'te UNESCO listesine giren ilk Türk eseri." },
+    { "q": "Anadolu Selçuklu tahtında en uzun kalan hükümdar kimdir?", "o": ["1. Mesut (40 yıl)", "2. Kılıç Arslan", "Alaaddin Keykubat"], "c": 0, "n": "1. Mesut → 40 yıl; Osmanlı'da en uzun Kanuni (46 yıl)." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi 1. Beylikler döneminde kurulan beyliklerden biri değildir?",
+      "o": ["Danışmentliler", "Saltuklular", "Mengücekliler", "Karamanoğulları", "Artuklular"],
+      "c": 3,
+      "e": "Karamanoğulları, 2. Beylikler döneminde (Kösedağ sonrası) kurulmuştur. 1. Beylikler: DD SMAÇ."
+    },
+    {
+      "q": "Miryokefalon Savaşı (1176) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+      "o": [
+        "Haçlılarla yapılmıştır.",
+        "Anadolu'nun kapıları Türklere açılmıştır.",
+        "Anadolu'nun Türk yurdu olduğu kesinleşmiştir.",
+        "Anadolu Selçuklu Devleti yıkılışa girmiştir.",
+        "1. Mesut döneminde gerçekleşmiştir."
+      ],
+      "c": 2,
+      "e": "Miryokefalon Savaşı 2. Kılıç Arslan döneminde Bizans'a karşı kazanılmıştır. Anadolu'nun kapısını açan Malazgirt, kesinleştiren Miryokefalon'dur."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Anadolu Selçuklu Devleti'ne özgü olan divanlardan biridir?",
+      "o": ["Divan-ı İstifa", "Divan-ı Arz", "Divan-ı Pervane", "Divan-ı İnşa", "Divan-ı İşraf"],
+      "c": 2,
+      "e": "Divan-ı Pervane (toprak dağıtımı) ve Niyabet-i Saltanat, Anadolu Selçuklu'ya özgüdür. Diğerleri Büyük Selçuklu'da da vardır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Anadolu Selçuklu Devleti'nin ticareti geliştirmek amacıyla yaptığı uygulamalardan biri değildir?",
+      "o": [
+        "Kervansaraylar inşa etmek",
+        "Ticari mala sigorta uygulamak",
+        "Gümrük vergilerini düşürmek",
+        "Liman kentlerini fethetmek",
+        "Tımar sistemi uygulamak"
+      ],
+      "c": 4,
+      "e": "Tımar sistemi toprak ve asker yönetimiyle ilgilidir, ticaret geliştirme politikası değildir. Diğer dört seçenek Anadolu Selçuklu'nun ticari politikalarıdır."
+    },
+    {
+      "q": "1243 Kösedağ Savaşı'nın sonuçları arasında aşağıdakilerden hangisi gösterilemez?",
+      "o": [
+        "Anadolu Selçuklu Devleti yıkılış sürecine girmiştir.",
+        "Anadolu İlhanlı hakimiyetine girmiştir.",
+        "Anadolu'da 2. Beylikler dönemi başlamıştır.",
+        "Türklerin batıya ilerleyişi durmuştur.",
+        "Anadolu'nun Türk yurdu olduğu kesinleşmiştir."
+      ],
+      "c": 4,
+      "e": "Anadolu'nun Türk yurdu olduğunun kesinleşmesi Miryokefalon Savaşı'nın (1176) sonucudur. Kösedağ ise Selçuklu'nun yıkılışını başlatmıştır."
+    },
+    {
+      "q": "El Cezeri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+      "o": [
+        "Sibernetik ve robotik biliminin kurucusu kabul edilir.",
+        "Leonardo da Vinci'ye ilham kaynağı olmuştur.",
+        "Eseri Kitâbü'l-Hiyel'dir.",
+        "Anadolu Selçuklu Devleti döneminde yaşamıştır.",
+        "Artuklu Beyliği döneminde yaşamıştır."
+      ],
+      "c": 3,
+      "e": "El Cezeri, Anadolu Selçuklu Devleti'nde değil Artuklu Beyliği'nde yaşamıştır."
+    },
+    {
+      "q": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": [
+        "Yurt açan savaşı — Malazgirt",
+        "Yurt tutan savaşı — Miryokefalon",
+        "Yurt kurtaran savaşı — Büyük Taarruz",
+        "İlk denizaşırı sefer — Kırım Suğdak",
+        "İlk Türk denizcisi — Süleyman Şah"
+      ],
+      "c": 4,
+      "e": "İlk Türk denizcisi Çakabey'dir, Süleyman Şah değil. Süleyman Şah Anadolu Selçuklu'nun kurucusudur."
+    },
+    {
+      "q": "Ahilik teşkilatı ile ilgili olarak;\nI. Kurucusu Ahi Evran'dır.\nII. Osmanlı döneminde Lonca adını almıştır.\nIII. Gayrimüslimler de üye olabilmiştir.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 1,
+      "e": "Ahilik teşkilatına yalnızca Müslümanlar alınır; gayrimüslimler Lonca'ya alınabilir. I ve II doğru, III yanlış."
+    },
+    {
+      "q": "Divriği Ulu Cami ve Külliyesi ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "o": [
+        "Mengüceklilere aittir.",
+        "TC'nin UNESCO listesine giren ilk eseridir.",
+        "1985 yılında listeye alınmıştır.",
+        "Geometri ve astronomi bilgisi gerektirir.",
+        "Anadolu'da yapılan ilk camidir."
+      ],
+      "c": 4,
+      "e": "Anadolu'da yapılan ilk cami Menuçehr Camii'dir (Kars Ani). Divriği Ulu Cami, Mengüceklilere ait olup UNESCO'ya giren ilk TC eseridir."
+    },
+    {
+      "q": "Anadolu Selçuklu Devleti'nde donanma kaptanına verilen unvan aşağıdakilerden hangisidir?",
+      "o": ["Kaptan-ı Derya", "Emirül Ümera", "Reisül Bahr", "Arzül Ceyş", "Kadıasker"],
+      "c": 2,
+      "e": "Kaptan-ı Derya Osmanlı unvanıdır. Anadolu Selçuklu'da donanma kaptanına Reisül Bahr veya Melikü's-Sevahil denir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Anadolu Selçuklu Devleti'nin Büyük Selçuklu'dan temel farklarından biri değildir?",
+      "o": [
+        "Donanmaya sahip olması",
+        "Divan-ı Pervane'nin bulunması",
+        "Key- ön ekli unvanlar kullanması",
+        "İkta sistemi uygulaması",
+        "Reisül Bahr unvanı kullanması"
+      ],
+      "c": 3,
+      "e": "İkta sistemi hem Büyük Selçuklu'da hem Anadolu Selçuklu'da uygulanmıştır; dolayısıyla bir fark değildir."
+    },
+    {
+      "q": "Aşağıdaki beyliklerden hangisi Osmanlı Devleti'ne barışçıl yollarla katılmıştır?",
+      "o": ["Karamanoğulları", "Dulkadiroğulları", "Germiyanoğulları", "Karasioğulları", "Eratna Devleti"],
+      "c": 2,
+      "e": "Germiyanoğulları çeyiz yoluyla, Hamitoğulları para ile Osmanlı'ya barışçıl yollarla katılmıştır. Diğerleri savaşla veya farklı yollarla katılmıştır."
+    },
+    {
+      "q": "Anadolu Türk siyasi birliğinin kesin olarak sağlanması aşağıdaki olaylardan hangisiyle gerçekleşmiştir?",
+      "o": [
+        "Karasioğulları'nın alınması",
+        "Germiyanoğulları'nın çeyiz yoluyla katılması",
+        "Karamanoğulları'nın yıkılması",
+        "1515 Turnadağ Savaşı ile Dulkadiroğulları'nın alınması",
+        "Kösedağ Savaşı'nın kazanılması"
+      ],
+      "c": 3,
+      "e": "Dulkadiroğulları, Yavuz Sultan Selim döneminde 1515 Turnadağ Savaşı ile Osmanlı'ya katılmış ve Anadolu Türk siyasi birliği kesin olarak sağlanmıştır."
+    },
+    {
+      "q": "Aşağıdaki ilk-eser eşleştirmelerinden hangisi doğrudur?",
+      "o": [
+        "İlk kervansaray — Gevher Nesibe Darüşşifası",
+        "İlk hastane — Alayhan Kervansarayı",
+        "İlk medrese (Anadolu) — Kayseri Koca Hasan Medresesi",
+        "İlk külliye — Hunat Hatun Külliyesi",
+        "İlk cami — Menuçehr Camii"
+      ],
+      "c": 3,
+      "e": "Hunat Hatun Külliyesi Anadolu Selçuklu'nun ilk külliyesidir. A'da kervansaray-hastane karışmış, C'de Anadolu ilk medrese Yağıbasan'dır (Selçuklu ilk Koca Hasan)."
+    },
+    {
+      "q": "Babaîler İsyanı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": [
+        "Dini ve toplumsal nitelikli ilk ayaklanmadır.",
+        "2. Gıyaseddin Keyhüsrev döneminde çıkmıştır.",
+        "Anadolu Selçuklu'nun zayıflığını ortaya koymuştur.",
+        "İlhanlıların saldırmasına zemin hazırlamıştır.",
+        "Alaaddin Keykubat döneminde bastırılmıştır."
+      ],
+      "c": 4,
+      "e": "Babaîler İsyanı 2. Gıyaseddin Keyhüsrev döneminde (1241) çıkmış, Alaaddin Keykubat döneminde değil."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 2. Beylikler döneminde denizci olan beyliklerden biri değildir?",
+      "o": ["Karasioğulları", "Aydınoğulları", "Menteşeoğulları", "Osmanoğulları", "Saruhanoğulları"],
+      "c": 3,
+      "e": "Osmanoğulları Söğüt-Bilecik civarında olup denizci değildir. Diğer seçeneklerin hepsi denizci beyliklerdir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Alaaddin Keykubat dönemine ait bir gelişme değildir?",
+      "o": [
+        "Kırım Suğdak limanının alınması",
+        "Kalonoros'un (Alanya) fethi",
+        "Yassıçemen Savaşı'nın yapılması",
+        "Miryokefalon Savaşı'nın kazanılması",
+        "En parlak dönemin yaşanması"
+      ],
+      "c": 3,
+      "e": "Miryokefalon Savaşı (1176) 2. Kılıç Arslan döneminde yapılmıştır, Alaaddin Keykubat döneminde değil."
+    },
+    {
+      "q": "Aşağıdaki eser-kişi eşleştirmelerinden hangisi doğrudur?",
+      "o": [
+        "Makalat — Yunus Emre",
+        "Garipname — Hacı Bektaş-ı Veli",
+        "Selçuklu Şehnamesi — Firdevsi",
+        "Risaletü'n-Nushiyye — Yunus Emre",
+        "Mesnevi — Aşık Paşa"
+      ],
+      "c": 3,
+      "e": "Risaletü'n-Nushiyye → Yunus Emre; Makalat → Hacı Bektaş-ı Veli; Garipname → Aşık Paşa; Selçuklu Şehnamesi → Hoca Dehhani; Mesnevi → Mevlana."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Anadolu Selçuklu hükümdarlarının kronolojik sıralamasında doğru bir sıradır?",
+      "o": [
+        "Süleyman Şah → 1. Mesut → 1. Kılıç Arslan",
+        "1. Kılıç Arslan → 2. Kılıç Arslan → 1. Mesut",
+        "Süleyman Şah → 1. Kılıç Arslan → 1. Mesut",
+        "1. Mesut → Alaaddin Keykubat → 2. Kılıç Arslan",
+        "2. Kılıç Arslan → 1. Kılıç Arslan → Alaaddin Keykubat"
+      ],
+      "c": 2,
+      "e": "Doğru sıra: Süleyman Şah → 1. Kılıç Arslan → 1. Mesut → 2. Kılıç Arslan → Alaaddin Keykubat → 2. Gıyaseddin Keyhüsrev."
+    },
+    {
+      "q": "Dünyada ticari mala sigorta uygulayan ilk devlet aşağıdakilerden hangisidir?",
+      "o": ["Osmanlı Devleti", "Büyük Selçuklu Devleti", "Anadolu Selçuklu Devleti", "Karahanlı Devleti", "Gazneli Devleti"],
+      "c": 2,
+      "e": "Anadolu Selçuklu Devleti, sınırlarında ticaret yapan tüccarlara zarar halinde mal bedelini karşılayarak dünyada ilk ticari sigortayı uygulamıştır."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "1. Beylikler — Kuruluş Yerleri",
+      "p": [
+        ["Danışmentliler", "Malatya-Niksar-Tokat-Kayseri-Sivas"],
+        ["Saltuklular", "Erzurum"],
+        ["Mengücekliler", "Erzincan"],
+        ["Artuklular", "Diyarbakır-Harput-Mardin"],
+        ["Çaka Beyliği", "İzmir"],
+        ["Dilmaçoğulları", "Bitlis"]
+      ]
+    },
+    {
+      "ad": "Anadolu Selçuklu Hükümdarları — Temel Olayları",
+      "p": [
+        ["Süleyman Şah", "Devleti İznik merkezli kurdu"],
+        ["1. Kılıç Arslan", "1. Haçlı Seferi, başkent Konya'ya"],
+        ["1. Mesut", "İlk para (bakır), 40 yıl tahtta"],
+        ["2. Kılıç Arslan", "Miryokefalon Savaşı (1176)"],
+        ["Alaaddin Keykubat", "En parlak dönem, Suğdak"],
+        ["2. Gıyaseddin Keyhüsrev", "Babaîler İsyanı, Kösedağ"]
+      ]
+    },
+    {
+      "ad": "Divanlar — Görevleri",
+      "p": [
+        ["Divan-ı İstifa", "Mali işler"],
+        ["Divan-ı Arz", "Ordu işleri"],
+        ["Divan-ı İnşa", "Yazışmalar"],
+        ["Divan-ı İşraf", "Teftiş / denetim"],
+        ["Divan-ı Pervane", "Toprak dağıtımı"],
+        ["Divan-ı Berit", "Haberleşme"],
+        ["Niyabet-i Saltanat", "Hükümdar vekâleti"]
+      ]
+    },
+    {
+      "ad": "Bilim İnsanları — Eserleri",
+      "p": [
+        ["Mevlana", "Mesnevi"],
+        ["Hacı Bektaş-ı Veli", "Makalat"],
+        ["Aşık Paşa", "Garipname"],
+        ["Hoca Dehhani", "Selçuklu Şehnamesi"],
+        ["Yunus Emre", "Risaletü'n-Nushiyye"],
+        ["El Cezeri", "Kitâbü'l-Hiyel"]
+      ]
+    },
+    {
+      "ad": "2. Beylikler — Osmanlı'ya Katılma Yolları",
+      "p": [
+        ["Karasioğulları", "İlk katılan beylik (Orhan Bey)"],
+        ["Germiyanoğulları", "Çeyiz yoluyla (1. Murat)"],
+        ["Hamitoğulları", "Para ile satın alma (1. Murat)"],
+        ["Dulkadiroğulları", "Turnadağ Savaşı (Yavuz)"],
+        ["Karamanoğulları", "En çok uğraştıran beylik"],
+        ["Aydınoğulları", "Umur Bey — denizci / ada fetihleri"]
+      ]
+    }
+  ]
+}

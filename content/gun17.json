@@ -1,0 +1,933 @@
+{
+  "meta": {
+    "gun": 17,
+    "baslik": "Kurtuluş Savaşı Muharebeler Dönemi ve Lozan",
+    "ozet": "Doğu-Güney-Batı cepheleri, düzenli ordunun beş savaşı, Mudanya ve Lozan ile milli mücadelenin askerî ve diplomatik zaferi.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Transkriptte I. İnönü Savaşı için '16 Mart 1921' denmiş; doğrusu 6-10 Ocak 1921'dir (denemeye tarih konmadı).",
+      "Transkriptte 1921 Teşkilat-ı Esasiye Kanunu için '141 madde' denmiş; doğrusu 23 maddedir.",
+      "Transkriptte İstiklal Marşı yarışmasına '714 marş' denmiş; kaynaklarda ~724 şiir katıldığı belirtilir.",
+      "Tactiq bozulmaları düzeltildi: Gümra→Gümrü, Passof/Passov→Posof, Sharpy/Sharpie→Charpy, Monbelli→Mombelli, Harrington→Harington, Pierotti/Piyotti→Pierre Loti, Hisantos→Chrysanthos, Onbaşı Nezaat→Onbaşı Nezahat, Metrispe→Metristepe, Doğpe/Doğue→Duatepe."
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Cepheler tablosu",
+      "i": [
+        { "k": "Doğu = Ermeni + Gürcü", "m": "Kâzım Karabekir ve Osmanlı'dan kalan 15. Kolordu savaşır", "s": "z" },
+        { "k": "Güney = Fransız + Ermeni", "m": "Sadece Kuvâ-yi Milliye savaşır (düzenli ordu yok)", "s": "z" },
+        { "k": "Batı = Yunan (Rum)", "m": "Önce Kuvâ-yi Milliye, sonra düzenli ordu (merkez ordusu)", "s": "z" },
+        { "k": "15. Kolordu göçü", "m": "Doğu Cephesi kapanınca 15. Kolordu Batı Cephesi'ne kaydırıldı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Şehir unvanları — KAMU (K'yi sil → AMU)",
+      "i": [
+        { "k": "Antep → Gazi", "m": "1921'de Gazi unvanı", "s": "z" },
+        { "k": "Maraş → Kahraman", "m": "1973'te Kahraman unvanı", "s": "z" },
+        { "k": "Urfa → Şanlı", "m": "1984'te Şanlı unvanı", "s": "z" }
+      ]
+    },
+    {
+      "b": "İstiklal Madalyası alan yerler — İMAJ",
+      "i": [
+        { "k": "İnebolu (1924)", "m": "İMAJ şifresinin İ'si; madalyanın da İ'si", "s": "z" },
+        { "k": "Maraş (1925)", "m": "İMAJ", "s": "z" },
+        { "k": "Antep (2008)", "m": "İMAJ", "s": "z" },
+        { "k": "Şanlıurfa (2016)", "m": "Balıklıgöl'de törenle verildi (Başbakan Davutoğlu)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Misak-ı Milli'den tavizler (alfabetik) — Batum-Hatay-Musul",
+      "i": [
+        { "k": "1. Batum", "m": "Moskova Antlaşması ile SSCB güdümündeki Gürcistan'a", "s": "z" },
+        { "k": "2. Hatay", "m": "1921 Ankara Antlaşması ile Fransa mandasındaki Suriye'ye", "s": "z" },
+        { "k": "3. Musul", "m": "1926 Ankara Antlaşması ile İngiltere mandasındaki Irak'a", "s": "z" }
+      ]
+    },
+    {
+      "b": "Düzenli ordunun 5 savaşı (batı cephesi)",
+      "i": [
+        { "k": "İlk 3 → İsmet Paşa", "m": "I. İnönü, II. İnönü, Eskişehir-Kütahya", "s": "z" },
+        { "k": "Son 2 → Mustafa Kemal", "m": "Sakarya, Büyük Taarruz", "s": "z" },
+        { "k": "İlk 4 savunma / Son 1 taarruz", "m": "İlk dördü bizim için savunma; Büyük Taarruz saldırı", "s": "z" },
+        { "k": "Kazan-Kazan-Kaybet-Kazan-Kazan", "m": "Ortadaki Eskişehir-Kütahya tek yenilgimiz", "s": "z" }
+      ]
+    },
+    {
+      "b": "I. İnönü'nün sonuçları — TALİM",
+      "i": [
+        { "k": "T = Teşkilat-ı Esasiye", "m": "1921 Anayasası, yeni Türk devletinin ilk anayasası", "s": "z" },
+        { "k": "A = Afgan Dostluk Anlaşması", "m": "TBMM'yi tanıyan ilk Müslüman devlet Afganistan", "s": "z" },
+        { "k": "L = Londra Konferansı", "m": "TBMM ve Misak-ı Milli itilaf devletlerince görüldü", "s": "z" },
+        { "k": "İ = İstiklal Marşı'nın kabulü", "m": "12 Mart 1921", "s": "z" },
+        { "k": "M = Moskova Anlaşması", "m": "SSCB ile; Batum 1. taviz", "s": "z" }
+      ]
+    },
+    {
+      "b": "II. İnönü'nün sonuçları — FİFİ",
+      "i": [
+        { "k": "F = Fransa Zonguldak'tan çekildi", "m": "Taş kömürü için işgal etmişti", "s": "z" },
+        { "k": "İ = İngiltere Malta esirlerini bıraktı", "m": "Mebusan Meclisi üyeleri sürgündeydi", "s": "z" },
+        { "k": "F = Fransa barış teklif etti", "m": "TBMM'ye barış teklifinde bulundu", "s": "z" },
+        { "k": "İ = İtalya Anadolu'yu boşaltma kararı", "m": "(Eskişehir-Kütahya'da vazgeçti, Sakarya'da gerçekten çekildi)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Doğu sınırını çizen anlaşmalar — Gazi Mustafa Kemal",
+      "i": [
+        { "k": "Gümrü", "m": "Ermenistan ile; TBMM'nin ilk askerî-siyasi zaferi", "s": "z" },
+        { "k": "Moskova", "m": "SSCB ile", "s": "z" },
+        { "k": "Kars (kesinleştiren)", "m": "SSCB aracılığıyla Ermenistan+Azerbaycan+Gürcistan; doğu sınırı kesinleşti", "s": "z" }
+      ]
+    },
+    {
+      "b": "Lozan'da taviz verilmeyecek konular — M. Kemal'in KEMİ",
+      "i": [
+        { "k": "K = Kapitülasyonlar", "m": "Asla taviz yok → tamamen kaldırıldı", "s": "z" },
+        { "k": "E = Ermeni devleti", "m": "6 doğu ilinde asla kurulmayacak", "s": "z" },
+        { "k": "Mİ = Misak-ı Milli", "m": "Misak-ı Milli'den taviz verilmeyecek", "s": "z" }
+      ]
+    },
+    {
+      "b": "Savaşların yönetildiği tepeler",
+      "i": [
+        { "k": "İnönü Savaşları → Metristepe", "m": "'Metrisin önü' türküsünden akılda kalır", "s": "z" },
+        { "k": "Sakarya → Duatepe", "m": "Sakarya Meydan Muharebesi karargâhı", "s": "z" },
+        { "k": "Büyük Taarruz → Kocatepe", "m": "'İlk hedefiniz Akdeniz' emri burada verildi", "s": "z" }
+      ]
+    },
+    {
+      "b": "İstiklal Yolu güzergâhı",
+      "i": [
+        { "k": "İnebolu→Kastamonu→Ilgaz→Çankırı→Ankara", "m": "Cepheye silah-mühimmat taşınan gizli yol; Şerife Bacı burada şehit", "s": "z" }
+      ]
+    },
+    {
+      "b": "Osmanlı Devleti'nin sona erişi",
+      "i": [
+        { "k": "Fiilen → Mondros", "m": "Mondros Ateşkesi ile fiilen bitti", "s": "z" },
+        { "k": "Hukuken → Mudanya", "m": "İstanbul TBMM'ye bırakıldığı için hukuken bitti", "s": "z" },
+        { "k": "Resmen → Saltanatın kaldırılması", "m": "1 Kasım 1922", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    {
+      "c": "Doğu Cephesi",
+      "o": "Doğu Cephesi'nde düşman kim, komutan kim?",
+      "a": "Düşman: Ermeniler ve Gürcüler.\nKomutan: Kâzım Karabekir ve Osmanlı'dan kalan 15. Kolordu."
+    },
+    {
+      "c": "Doğu Cephesi",
+      "o": "Kâzım Karabekir'i tanımlayan üçlü unvan/görev nedir?",
+      "a": "'Şark Fatihi', doğuyu tek başına kurtaran komutan.\nİzmir İktisat Kongresi başkanı, Terakkiperver Cumhuriyet Fırkası'nın ana kurucusu."
+    },
+    {
+      "c": "Doğu Cephesi",
+      "o": "Gümrü Antlaşması kimler arasında imzalandı, TBMM adına kim imzaladı?",
+      "a": "Ermenistan ile TBMM arasında.\nTBMM adına Kâzım Karabekir imzaladı."
+    },
+    {
+      "c": "Doğu Cephesi",
+      "o": "Gümrü Antlaşması ile hangi yerler alındı, doğu sınırı ne oldu?",
+      "a": "Sarıkamış, Kars, Ardahan, Artvin, Iğdır alındı.\nDoğu sınırı: Aras Nehri ve Çıldır Gölü."
+    },
+    {
+      "c": "Doğu Cephesi",
+      "o": "Gümrü Antlaşması'nın 'ilk'leri nelerdir?",
+      "a": "TBMM'nin ilk askerî ve ilk siyasi zaferi.\n'Türkiye' ifadesinin geçtiği ilk antlaşma.\nErmenistan: Sevr'i reddeden, Misak-ı Milli'yi tanıyan ve TBMM'yi tanıyan ilk devlet."
+    },
+    {
+      "c": "Doğu Cephesi",
+      "o": "Kâzım Karabekir Gürcüler üzerine hangi harekâtı düzenledi, hangi antlaşma yapıldı?",
+      "a": "Posof Harekâtı'nı düzenledi.\nGürcistan ile Batum Antlaşması yapıldı, Batum (geçici olarak) alındı."
+    },
+    {
+      "c": "Raporlar",
+      "o": "Amiral Bristol raporu neyi ortaya koyar?",
+      "a": "İzmir'in işgalinin haksızlığını ve Türk Kurtuluş Savaşı'nın haklılığını dünyaya duyuran ilk uluslararası belgedir."
+    },
+    {
+      "c": "Raporlar",
+      "o": "General Harbord raporu neyi ortaya koyar?",
+      "a": "ABD'nin 6 doğu iline gönderdiği General Harbord'un raporu; bölgede Ermeni devleti kurulmasının / Ermeni işgalinin haksızlığını dile getirir.\n(Senato'ya 'Anadolu ABD işgaline uygun değil' dedi.)"
+    },
+    {
+      "c": "Raporlar",
+      "o": "Milne Hattı raporu nedir, Mustafa Kemal tavrı ne oldu?",
+      "a": "İngiliz General Milne'nin Kuvâ-yi Milliye ile Yunan ordusu arasına çektiği hat.\nMustafa Kemal itiraz etti; amaç Yunan ordusuna zaman kazandırmaktı."
+    },
+    {
+      "c": "Raporlar",
+      "o": "'Kuvâ-yi Milliye' tabirini ilk kez kullanan rapor ve kişi?",
+      "a": "Dr. Esat Işık raporu.\nDr. Esat Işık, Millî Kongre Cemiyeti'nin lideriydi (basın-yayınla, ulusal/vahdet-i milliye amaçlayan tek cemiyet)."
+    },
+    {
+      "c": "Raporlar",
+      "o": "Sandler, Chrysanthos ve Brüksel Hattı raporları hangi sorunlarla ilgilidir?",
+      "a": "Sandler: Milletler Cemiyeti'nin Hatay (Sancak) sorunu raporu.\nChrysanthos: Trabzon'da Pontus Rum devleti için Paris Barış Konferansı'na sunulan rapor.\nBrüksel Hattı: Milletler Cemiyeti'nin Irak-Musul sorunu raporu."
+    },
+    {
+      "c": "Güney Cephesi",
+      "o": "Güney Cephesi'nde düşman kim, kimlerle savaşıldı, ne zaman kapandı?",
+      "a": "Düşman: Fransızlar ve Ermeniler.\nSadece Kuvâ-yi Milliye savaştı.\nSakarya sonrası 1921 Ankara Antlaşması (Fransa) ile kapandı."
+    },
+    {
+      "c": "Güney Cephesi",
+      "o": "Güney Cephesi Kuvâ-yi Milliye liderleri hangi şehirlerde? (Adana, Urfa)",
+      "a": "Adana: Tufan Bey (Yaşar Kemal'in İnce Memed'inde de geçer).\nUrfa: Ali Saip Bey."
+    },
+    {
+      "c": "Güney Cephesi",
+      "o": "Antep'teki üç Kuvâ-yi Milliye kahramanı kimlerdir?",
+      "a": "Şahin Bey (mermisi bitince yumruklarıyla saldırıp şehit düştü).\nKarayılan.\nŞehit Kâmil (küçük yaşta Fransız-Ermeni'ye ateş açıp şehit oldu)."
+    },
+    {
+      "c": "Güney Cephesi",
+      "o": "Maraş'taki iki direniş sembolü kimdir?",
+      "a": "Rıdvan Hoca (Fransız bayrağı inmeden cuma namazı kıldırmadı).\nSütçü İmam."
+    },
+    {
+      "c": "Güney Cephesi",
+      "o": "1921 Ankara Antlaşması'nın önemli sonuçları nelerdir?",
+      "a": "Güney Cephesi kapandı; Yusuf Kemal Tengirşenk imzaladı.\nHatay, Misak-ı Milli'den 2. taviz olarak Suriye'ye bırakıldı.\nTBMM'yi tanıyan ilk itilaf devleti Fransa oldu.\nCaber Kalesi (Süleyman Şah türbesi) Türk toprağı kabul edildi."
+    },
+    {
+      "c": "Batı Cephesi",
+      "o": "Ali Fuat Cebesoy'un Gediz Taarruzu ne sonuç doğurdu?",
+      "a": "Kimseye danışmadan yaptığı taarruz başarısız oldu.\nGörevden alınıp Moskova büyükelçiliğine gönderildi.\n(Eseri: Sınıf Arkadaşım Atatürk.)"
+    },
+    {
+      "c": "Batı Cephesi",
+      "o": "Batı Cephesi ikiye ayrılınca komutanlar kim oldu, genel komutan kim?",
+      "a": "İsmet İnönü ve Refet Bele.\nBatı Cephesi'nin genel komutanı: İsmet İnönü."
+    },
+    {
+      "c": "Batı Cephesi",
+      "o": "Çerkez Etem hakkında bilinmesi gerekenler nelerdir?",
+      "a": "Birliklerinin adı Kuvâ-yi Seyyare.\n1. TBMM'de yandaşları Yeşil Ordu grubunu oluşturdu.\nI. İnönü sırasında düzenli orduya katılmayıp isyan etti, sonra Yunanlılara sığındı."
+    },
+    {
+      "c": "Batı Cephesi",
+      "o": "Düzenli orduya katılmayıp isyan eden iki efe ve isyanların bastırılışı?",
+      "a": "Çerkez Etem: isyanı düzenli ordu bastırdı.\nDemirci Mehmet Efe (Isparta çevresi): Refet Bele ikna edip bastırdı.\n(Yörük Ali Efe: Nazilli çevresi.)"
+    },
+    {
+      "c": "Batı Cephesi",
+      "o": "Milli mücadelede ilk direniş 'ilk'lerini eşleştir.",
+      "a": "İlk silahlı direniş: Hatay-Dörtyol, Kara Mehmet Çavuş.\nİzmir'de ilk kurşun: Hasan Tahsin (Osman Nevres, Hukuk-ı Beşer başyazarı).\nBatıda ilk silahlı direniş: Ayvalık, Ali Çetinkaya.\nİlk Kurşun Savaşı: İzmir-Ödemiş."
+    },
+    {
+      "c": "Kadın Kahramanlar",
+      "o": "Şerife Bacı kimdir, neyle bilinir?",
+      "a": "İstiklal Yolu'nda cepheye silah taşırken şehit düşen milli mücadele kadını.\nÇocuğunun battaniyesini cephanenin üzerine örttü.\nKastamonu-İnebolu'da heykeli var."
+    },
+    {
+      "c": "Kadın Kahramanlar",
+      "o": "Tayyar Rahmiye ve Kılavuz Hatice neyle öne çıkar?",
+      "a": "Tayyar Rahmiye: Güney Cephesi direniş sembolü ('Ben kadınım ayakta savaşıyorum...').\nKılavuz Hatice: Fransızları kılavuzluk bahanesiyle kar boğazına sokup yüzlerce düşmanın öldürülmesini sağladı, şehit oldu."
+    },
+    {
+      "c": "Kadın Kahramanlar",
+      "o": "Milli mücadele kadın kahramanı DEĞİL olarak sorulan çeldirici kimdir?",
+      "a": "Nene Hatun — 93 Harbi'nin (1877-78) kahramanıdır, milli mücadele kadını değildir.\n(Milli mücadele: Gördesli Makbule, Binbaşı Ayşe, Kara Fatma, Halide Edip, Tayyar Rahmiye, Şerife Bacı, Kılavuz Hatice, Onbaşı Nezahat.)"
+    },
+    {
+      "c": "I. İnönü",
+      "o": "I. İnönü Savaşı Yunan kaynaklarında hangi adla geçer, sırasında hangi isyan çıktı?",
+      "a": "Yunan kaynaklarında: 'Taarruzi keşif'.\nSırasında Çerkez Etem isyanı çıktı."
+    },
+    {
+      "c": "I. İnönü",
+      "o": "I. İnönü'den sonra Mustafa Kemal meclis kürsüsünden ne söyledi?",
+      "a": "Namık Kemal'den: 'Vatanın bağrına düşman dayasın hançerini / Bulunur elbet kurtaracak bahtı kara maderini.'\n(Ayrıca İsmet Paşa generalliğe yükseltildi.)"
+    },
+    {
+      "c": "I. İnönü",
+      "o": "Teşkilat-ı Esasiye (1921) Kanunu'nun özellikleri nelerdir?",
+      "a": "Yeni Türk devletinin ilk anayasası; egemenlik kayıtsız şartsız millete.\nYumuşak ve çerçeve anayasa; 23 madde.\nSeçimler 2 yılda bir, çift dereceli.\nTaslağı: Halkçılık Beyannamesi."
+    },
+    {
+      "c": "I. İnönü",
+      "o": "Londra Konferansı'na kimler katıldı, TBMM'yi kim davet etti?",
+      "a": "Davet eden küskün itilaf devleti: İtalya.\nTBMM adına Bekir Sami Bey, Osmanlı adına Tevfik Paşa katıldı.\nTevfik Paşa 'gerçek temsilci Bekir Sami Bey'dir' dedi; TBMM ve Misak-ı Milli görüldü."
+    },
+    {
+      "c": "I. İnönü",
+      "o": "İstiklal Marşı ile ilgili temel bilgiler nelerdir?",
+      "a": "Yarışmayı Maarif Vekâleti açtı; güfte Mehmet Akif Ersoy (Tacettin Dergâhı, orduya ithafen).\nMecliste okuyan: Hamdullah Suphi Tanrıöver.\nİlk beste Ali Rıfat Çağatay, günümüz bestesi Osman Zeki Üngör."
+    },
+    {
+      "c": "I. İnönü",
+      "o": "İstiklal Marşı'nın yayınlandığı ilk gazete, ilk dergi ve yer aldığı ilk anayasa?",
+      "a": "İlk gazete: Hakimiyet-i Milliye (açık söz DEĞİL).\nİlk dergi: Sebilürreşad.\nYer aldığı ilk anayasa: 1982."
+    },
+    {
+      "c": "I. İnönü",
+      "o": "Moskova Anlaşması'nın (Dostluk ve Kardeşlik) öne çıkan maddeleri nelerdir?",
+      "a": "Çarlık-Osmanlı anlaşmaları geçersiz → yeni devletler tanındı.\nKapitülasyonların kaldırıldığını kabul eden ilk devlet SSCB.\nBatum Gürcistan'a (1. taviz).\nSSCB: TBMM'yi tanıyan ilk büyük Avrupalı devlet."
+    },
+    {
+      "c": "I. İnönü",
+      "o": "Elçilik 'ilk'lerini sırala.",
+      "a": "TBMM'nin ilk büyükelçilik açtığı yer: SSCB-Moskova (Ali Fuat Cebesoy).\nTürkiye'de ilk elçilik açan devlet: Gürcistan.\nTürkiye'de elçilik açan ilk Müslüman devlet: Afganistan."
+    },
+    {
+      "c": "II. İnönü",
+      "o": "II. İnönü sırasında çıkan isyan ve savaş sonrası Mustafa Kemal'in sözü?",
+      "a": "Sırasında Koçgiri İsyanı çıktı.\nMustafa Kemal İsmet İnönü'ye: 'Siz orada yalnızca düşmanı değil, aynı zamanda bir milletin makûs talihini de yendiniz.'"
+    },
+    {
+      "c": "II. İnönü",
+      "o": "Aslanlar-Dumlupınar Taarruzu kim tarafından yapıldı, sonucu ne oldu?",
+      "a": "Refet Bele, II. İnönü'nün hemen ardından kimseye sormadan atlı birliklerle taarruz etti; başarısız oldu.\nGörevden alındı; Batı Cephesi birleşti, komutan İsmet İnönü oldu."
+    },
+    {
+      "c": "Eskişehir-Kütahya",
+      "o": "Düzenli ordunun tek yenilgisi hangi savaştır, sonrasında neler oldu?",
+      "a": "Eskişehir-Kütahya Savaşları.\nEskişehir, Afyon, Kütahya, Bilecik, Bursa kaybedildi.\nOrdu Sakarya'nın doğusuna çekildi; meclisin Kayseri'ye taşınması gündeme geldi."
+    },
+    {
+      "c": "Eskişehir-Kütahya",
+      "o": "Bursa'nın işgali üzerine mecliste hangi sembolik olay yaşandı?",
+      "a": "TBMM kürsüsüne Puşide-i Siyah adı verilen siyah örtü örtüldü."
+    },
+    {
+      "c": "Eskişehir-Kütahya",
+      "o": "Başkomutanlık Kanunu ve 1. Maarif Kongresi bu döneme dair ne anlatır?",
+      "a": "Mustafa Kemal'e 3 aylığına yasama-yürütme-yargı içeren başkomutanlık yetkisi verildi.\n1. Maarif Kongresi tam bu savaş sürerken (düşman Polatlı'dayken) toplandı."
+    },
+    {
+      "c": "Eskişehir-Kütahya",
+      "o": "Tekalif-i Milliye Emirleri kim tarafından, hangi yetkiyle çıkarıldı?",
+      "a": "Mustafa Kemal, başkomutanlık yasasının verdiği yasama gücüyle çıkardı (1. TBMM çıkarmadı).\nHer ilçede komisyon kuruldu; toplananlar ilk kez Sakarya'da kullanıldı."
+    },
+    {
+      "c": "Sakarya",
+      "o": "Sakarya Meydan Muharebesi'nin iki özel adı nedir?",
+      "a": "'Subaylar Savaşı' (çok sayıda zabit/subay şehit oldu).\nMustafa Kemal 'Büyük kıyım' dedi. 22 gün 22 gece sürdü."
+    },
+    {
+      "c": "Sakarya",
+      "o": "'Hattı müdafaa yoktur, sathı müdafaa vardır' sözü neyi ifade eder?",
+      "a": "Yüzeysel savunma stratejisini; savunulacak yüzey bütün vatandır.\nBu strateji dünya tarihinde ilk kez Mustafa Kemal tarafından uygulandı."
+    },
+    {
+      "c": "Sakarya",
+      "o": "Sakarya'nın öne çıkan sonuçları nelerdir?",
+      "a": "Mustafa Kemal'e Gazilik unvanı ve Mareşallik rütbesi verildi.\n1683 Viyana'dan başlayan geri çekiliş sona erdi.\nİtalya Anadolu'yu boşaltan ilk itilaf devleti oldu."
+    },
+    {
+      "c": "Sakarya",
+      "o": "Sakarya sonrası imzalanan anlaşmalar ve barış teklifi yeri?",
+      "a": "Ukrayna dostluk, İngiltere esir değişimi, Kars Antlaşması, 1921 Ankara Antlaşması.\nİtalya ile anlaşma İMZALANMADI.\nBarış teklifi: Paris Mükerreratı (I. İnönü sonrası ise Londra Konferansı)."
+    },
+    {
+      "c": "Büyük Taarruz",
+      "o": "Büyük Taarruz'un diğer adları ve Mustafa Kemal'in emri nedir?",
+      "a": "Başkomutanlık Meydan Muharebesi, Dumlupınar Meydan Muharebesi, Rum Sındığı.\nEmir: 'Ordular! İlk hedefiniz Akdeniz'dir, ileri!' (Kocatepe)."
+    },
+    {
+      "c": "Büyük Taarruz",
+      "o": "Çiğiltepe olayı nedir?",
+      "a": "Albay Reşat Bey, Çiğiltepe'yi 30 dakikada alacağına söz verdi; alamayınca kafasına sıkarak intihar etti."
+    },
+    {
+      "c": "Büyük Taarruz",
+      "o": "Büyük Taarruz sonrası mareşallik ve İzmir'e giriş kimlerle anılır?",
+      "a": "General Trikopis'in esir alınmasını sağlayan Fevzi Çakmak'a Mareşallik verildi.\nTC'de iki mareşal: M. Kemal (Sakarya) ve Fevzi Çakmak (Büyük Taarruz).\nİzmir'e giren ilk süvari komutanı: Fahrettin Altay."
+    },
+    {
+      "c": "Mudanya",
+      "o": "Mudanya Ateşkes görüşmelerine devletler adına kimler katıldı?",
+      "a": "TBMM: İsmet İnönü. İngiltere: General Harington.\nİtalya: Mombelli. Fransa: General Charpy.\nYunanistan katılmadı, onları İngiltere temsil etti."
+    },
+    {
+      "c": "Mudanya",
+      "o": "Mudanya'nın öne çıkan maddeleri ve sonuçları nelerdir?",
+      "a": "Türk-Yunan savaşı bitti; İstanbul ve Boğazlar TBMM'ye bırakıldı → Osmanlı hukuken sona erdi.\nİstanbul'u Şükrü Naili Paşa, Doğu Trakya'yı Refet Bele teslim aldı.\nİstanbul, Doğu Trakya, Boğazlar savaşılmadan alındı."
+    },
+    {
+      "c": "Mudanya",
+      "o": "Mudanya sonrası İngiltere'de ve Yunan kaynaklarında ne yaşandı?",
+      "a": "İngiltere'de Lloyd George hükümeti istifa etti ('bu yüzyılın dâhisi Küçük Asya'dan çıktı').\nYunan kaynakları Kurtuluş Savaşı'na 'Küçük Asya Felaketi' der.\nİsmet İnönü Mudanya başarısıyla Lozan'a gönderildi."
+    },
+    {
+      "c": "Lozan Hazırlık",
+      "o": "Lozan heyet başkanları kimlerdir, katkıları nedir?",
+      "a": "İsmet İnönü (başkan).\nDr. Rıza Nur (saltanatın kaldırılması teklifi + Ermeni devletine sert muhalefet).\nHasan Saka (Trabzon milletvekili)."
+    },
+    {
+      "c": "Lozan Hazırlık",
+      "o": "Saltanatın kaldırılması (1 Kasım 1922) hangi gerekçeyle, ne sonuç doğurdu?",
+      "a": "İtilaf devletleri Lozan'a hem Osmanlı hem TBMM'yi çağırıp ikilik çıkarmasın diye.\nUlusal egemenlik ve laiklik yolunda ilk adım (en önemli adım: halifeliğin kaldırılması).\nDevlet başkanlığı ve rejim sorunu doğdu → Cumhuriyet'in ilanıyla çözülecek."
+    },
+    {
+      "c": "Lozan Hazırlık",
+      "o": "Vahdettin'in kaçışı sonrası halifelik ne oldu?",
+      "a": "Vahdettin İngiliz Malaya gemisiyle kaçınca halifelik boşaldı.\nİngilizler kullanmasın diye TBMM Abdülmecid Efendi'yi halife ilan etti (TBMM'nin belirlediği tek ve son halife)."
+    },
+    {
+      "c": "Lozan Hazırlık",
+      "o": "Lozan'a ara verildiğinde yapılan üç iş nedir?",
+      "a": "1. TBMM yerine seçim yapılıp 2. TBMM kuruldu.\nİzmir İktisat Kongresi düzenlendi (başkan Kâzım Karabekir).\nABD ile Chester Demiryolu ihalesi imzalandı."
+    },
+    {
+      "c": "Lozan Maddeleri",
+      "o": "Lozan'da sınırlar nasıl belirlendi?",
+      "a": "Yunanistan sınırı: Meriç Nehri.\nSuriye sınırı: 1921 Ankara Antlaşması esas (Hatay dışarıda).\nIrak (Musul) sınırı: Lozan'da çözümlenemeyen tek konu."
+    },
+    {
+      "c": "Lozan Maddeleri",
+      "o": "Lozan'da boğazlar konusu nasıl karara bağlandı?",
+      "a": "Başkanı Türk olan uluslararası komisyon yönetecek (başkan Vasıf/Manisa mv.).\nTicaret gemileri serbest, savaş gemileri sınırlı.\nMutlak Türk egemenliği sağlanamadığı için aleyhimize → 1936 Montrö ile lehimize."
+    },
+    {
+      "c": "Lozan Maddeleri",
+      "o": "Lozan'da adalar nasıl paylaşıldı?",
+      "a": "Kıbrıs → İngiltere.\nRodos, 12 Ada, Meis → İtalya (silahlandırılmayacak).\nEge Adaları → Yunanistan (silahlandırılmayacak).\nBozcaada ve Gökçeada (İmroz) → Türkiye."
+    },
+    {
+      "c": "Lozan Maddeleri",
+      "o": "Yabancı okullar ve Tevhid-i Tedrisat bağlantısı nedir?",
+      "a": "Yabancı okullar Türkiye'nin kanunlarına uyacak.\n1924 Tevhid-i Tedrisat (Vasıf Çınar): misyonerlik yasak, Türkçe-tarih Türk öğretmenlerce zorunlu, Türk müfettiş.\nEn çok sorun çıkaran devlet: Fransa."
+    },
+    {
+      "c": "Lozan Maddeleri",
+      "o": "Lozan'da kapitülasyonlar ve borçlar ne oldu?",
+      "a": "Kapitülasyonlar tamamen kaldırıldı.\nOsmanlı borçları, Osmanlı'dan ayrılan devletlere paylaştırıldı; TL/frank ile ödenecek.\n1929 krizinde Hoover Moratoryumu ile taksitlendirildi; 1954'te (A. Menderes dönemi) bitti."
+    },
+    {
+      "c": "Lozan Maddeleri",
+      "o": "Lozan'da nüfus mübadelesi (etabli) nasıl düzenlendi?",
+      "a": "İstanbul, Bozcaada, Gökçeada Rumları + Batı Trakya Türkleri yerleşik (etabli) sayıldı.\nDiğerleri yer değiştirecek.\n(Çeldirici: Doğu Trakya — doğrusu Batı Trakya.)"
+    },
+    {
+      "c": "Lozan Maddeleri",
+      "o": "Fener Rum Patrikhanesi ve Ermeni sorunu Lozan'da nasıl sonuçlandı?",
+      "a": "Patrikhane çıkarılamadı ama ekümeniklik (evrensellik) yetkisi alındı (aleyhimize).\n1926 Medeni Kanun ile mahkeme kurma yetkileri de alındı.\nErmeni sorunu: Dr. Rıza Nur'un muhalefetiyle Lozan metnine girmedi."
+    },
+    {
+      "c": "Lozan Değerlendirme",
+      "o": "Lozan'a temsilci gönderen ve onaylayan TBMM hangileridir?",
+      "a": "Temsilci gönderen: 1. TBMM (1920-1923).\nOnaylayan: 2. TBMM (1923-1927).\nSavaş tazminatı olarak Yunanistan Karaağaç'ı verdi (lehimize)."
+    },
+    {
+      "c": "Lozan Değerlendirme",
+      "o": "Lozan'da aleyhimize çözümlenip sonradan lehimize dönen konular?",
+      "a": "Boğazlar → 1936 Montrö Sözleşmesi.\nSuriye sınırı/Hatay → 1939'da anavatana katılma.\n(Çözümlenemeyen tek konu Musul'du.)"
+    },
+    {
+      "c": "Basın-Yayın",
+      "o": "Milli mücadele yanlısı temel gazete/dergileri eşleştir.",
+      "a": "İrade-i Milliye: Sivas Kongresi.\nHakimiyet-i Milliye: Ankara, TBMM yarı resmî organ (sonra Ulus).\nCeride-i Resmiye: TBMM resmî gazetesi.\nSebilürreşad: Mehmet Akif, İstiklal Marşı'nın çıktığı ilk dergi."
+    },
+    {
+      "c": "Basın-Yayın",
+      "o": "Anadolu Ajansı kimler tarafından kuruldu?",
+      "a": "Mustafa Kemal'in isteğiyle Halide Edip ve Yunus Nadi kurdu.\nAmaç: halkı milli mücadele konusunda haberdar etmek."
+    },
+    {
+      "c": "Basın-Yayın",
+      "o": "Mustafa Kemal hangi gazetelere hangi (takma) adla yazdı?",
+      "a": "Minber: Ali Fethi Okyar'la, 'Hatip' takma adıyla.\nİleri: isimsiz.\nKur'un: 'Asım Us' takma adıyla Hatay meselesinde İsmet İnönü'yü eleştirdi."
+    },
+    {
+      "c": "Basın-Yayın",
+      "o": "Milli mücadele karşıtı yayın organlarına örnek ver.",
+      "a": "Alemdar, Aydede, Ümit, Tan, Zafer, Yeni Dünya, Peyam-ı Sabah, Ferda, İrşad.\n(Yanlış: yalnız 'kulak dolgunluğu' düzeyinde bilinmesi yeterli.)"
+    },
+    {
+      "c": "Edebiyat",
+      "o": "Halide Edip ve Falih Rıfkı Atay'ın milli mücadele eserleri?",
+      "a": "Halide Edip: Ateşten Gömlek (milli mücadeleyi anlatan ilk roman), Vurun Kahpeye, Türk'ün Ateşle İmtihanı, Dağa Çıkan Kurt.\nFalih Rıfkı Atay: Çankaya, Zeytindağı, Ateş ve Güneş."
+    },
+    {
+      "c": "Edebiyat",
+      "o": "Yakup Kadri, Kemal Tahir ve Samim Kocagöz'ün eserleri?",
+      "a": "Yakup Kadri Karaosmanoğlu: Yaban, Sodom ve Gomore, Ankara, Milli Savaş Hikâyeleri.\nKemal Tahir: Esir Şehrin İnsanları, Yorgun Savaşçı.\nSamim Kocagöz: Kalpaklılar, Dolu Dizgin."
+    },
+    {
+      "c": "Edebiyat",
+      "o": "Komutanların hatıra eserlerini eşleştir.",
+      "a": "Kâzım Karabekir: İstiklal Harbimiz, Şarkılı İbret.\nAli Fuat Cebesoy: Sınıf Arkadaşım Atatürk, Moskova Hatıraları.\nRauf Orbay: Cehennem Değirmeni.\nTurgut Özakman: Şu Çılgın Türkler."
+    }
+  ],
+  "tuzak": [
+    {
+      "q": "Ermeniler hangi cephe(ler)de düşmandı?",
+      "o": ["Sadece Doğu", "Sadece Güney", "Hem Doğu hem Güney"],
+      "c": 2,
+      "n": "Ermeniler Doğu'da da Güney'de de düşmandı; Güney'de Fransızların maşası olarak savaştılar."
+    },
+    {
+      "q": "Güney Cephesi'ni kapatan 1921 Ankara Antlaşması hangi savaştan sonra imzalandı?",
+      "o": ["Sakarya Meydan Muharebesi", "II. İnönü", "Eskişehir-Kütahya"],
+      "c": 0,
+      "n": "Batı'daki Sakarya zaferi Fransızları korkuttu; Güney Cephesi bu yüzden Sakarya sonrası kapandı."
+    },
+    {
+      "q": "Şehir unvanı mı (KAMU) İstiklal Madalyası mı (İMAJ)? Antep'e verilen 'Gazi' hangisi?",
+      "o": ["Unvan (KAMU)", "İstiklal Madalyası (İMAJ)"],
+      "c": 0,
+      "n": "Antep-Maraş-Urfa unvanları KAMU; İnebolu-Maraş-Antep-Şanlıurfa madalyaları İMAJ ile kodlanır."
+    },
+    {
+      "q": "Misak-ı Milli'den 1. taviz Batum hangi antlaşmayla verildi?",
+      "o": ["Moskova Antlaşması", "1921 Ankara Antlaşması", "Kars Antlaşması"],
+      "c": 0,
+      "n": "Batum-Hatay-Musul sırasıyla Moskova, 1921 Ankara ve 1926 Ankara ile verildi (alfabetik)."
+    },
+    {
+      "q": "Doğuyu tek başına kurtaran, Gümrü'yü imzalayan komutan kimdir?",
+      "o": ["Kâzım Karabekir", "Ali Fuat Cebesoy", "Refet Bele"],
+      "c": 0,
+      "n": "Kâzım Karabekir 'Şark Fatihi'; Gümrü'yü TBMM adına o imzaladı."
+    },
+    {
+      "q": "İzmir işgalinin haksızlığını mı, 6 doğu ilinde Ermeni devletinin yanlışlığını mı? Amiral Bristol raporu hangisi?",
+      "o": ["İzmir işgalinin haksızlığı", "6 doğu ilinde Ermeni devletinin yanlışlığı"],
+      "c": 0,
+      "n": "Bristol = İzmir; Harbord = 6 doğu ili. İkisi sık karıştırılır."
+    },
+    {
+      "q": "TBMM'yi tanıyan ilk devlet ile ilk itilaf devleti aynı mı?",
+      "o": ["Aynı: Ermenistan", "Farklı: ilk devlet Ermenistan, ilk itilaf devleti Fransa"],
+      "c": 1,
+      "n": "İlk devlet Ermenistan (Gümrü); ilk itilaf devleti Fransa (1921 Ankara)."
+    },
+    {
+      "q": "TBMM'yi tanıyan ilk Müslüman devlet ile ilk büyük Avrupalı devlet?",
+      "o": ["Afganistan / SSCB", "SSCB / Afganistan", "İkisi de SSCB"],
+      "c": 0,
+      "n": "İlk Müslüman: Afganistan (Afgan Dostluk); ilk büyük Avrupalı: SSCB (Moskova)."
+    },
+    {
+      "q": "Gediz Taarruzu ile Aslanlar-Dumlupınar Taarruzu'nu kim yaptı?",
+      "o": ["Gediz: Ali Fuat Cebesoy / Aslanlar: Refet Bele", "İkisi de Ali Fuat Cebesoy", "Gediz: Refet Bele / Aslanlar: Ali Fuat Cebesoy"],
+      "c": 0,
+      "n": "İki başarısız 'kafasına göre' taarruz: Gediz-Cebesoy, Aslanlar-Refet Bele; ikisi de görevden alındı."
+    },
+    {
+      "q": "I. İnönü sırasında mı II. İnönü sırasında mı Çerkez Etem isyanı çıktı?",
+      "o": ["I. İnönü sırasında", "II. İnönü sırasında"],
+      "c": 0,
+      "n": "I. İnönü'de Çerkez Etem, II. İnönü'de Koçgiri isyanı çıktı."
+    },
+    {
+      "q": "İzmir'de ilk kurşun ile batıda ilk silahlı direnişi kim başlattı?",
+      "o": ["İlk kurşun: Hasan Tahsin / batıda direniş: Ali Çetinkaya", "İkisi de Hasan Tahsin", "İlk kurşun: Ali Çetinkaya / direniş: Hasan Tahsin"],
+      "c": 0,
+      "n": "İzmir ilk kurşun Hasan Tahsin (Ödemiş değil); batıda ilk silahlı direniş Ayvalık-Ali Çetinkaya."
+    },
+    {
+      "q": "Milli mücadelede ilk silahlı direniş nerede başladı?",
+      "o": ["Hatay-Dörtyol (Kara Mehmet Çavuş)", "Ayvalık (Ali Çetinkaya)", "İzmir-Ödemiş"],
+      "c": 0,
+      "n": "İlk silahlı direniş Dörtyol; Ayvalık 'batıda ilk', Ödemiş 'İlk Kurşun Savaşı'dır."
+    },
+    {
+      "q": "Nene Hatun milli mücadele kadın kahramanı mıdır?",
+      "o": ["Evet", "Hayır, 93 Harbi kahramanıdır"],
+      "c": 1,
+      "n": "Nene Hatun 1877-78 (93 Harbi) kahramanıdır; sorularda çeldirici olarak verilir."
+    },
+    {
+      "q": "Düzenli ordunun tek yenilgisi hangi savaştır?",
+      "o": ["Eskişehir-Kütahya", "Sakarya", "II. İnönü"],
+      "c": 0,
+      "n": "Beş savaşta kazan-kazan-KAYBET-kazan-kazan; ortadaki Eskişehir-Kütahya tek yenilgidir."
+    },
+    {
+      "q": "Tekalif-i Milliye Emirlerini kim çıkardı?",
+      "o": ["Mustafa Kemal (başkomutanlık yasasıyla)", "1. TBMM", "İcra Vekilleri Heyeti"],
+      "c": 0,
+      "n": "1. TBMM değil; Mustafa Kemal başkomutanlık yasasının yasama gücüyle çıkardı."
+    },
+    {
+      "q": "1. Maarif Kongresi hangi savaş sırasında toplandı?",
+      "o": ["Eskişehir-Kütahya", "Sakarya", "Büyük Taarruz"],
+      "c": 0,
+      "n": "Düşman Polatlı'dayken, yenilgi ortamında toplandı; ileri görüşlülüğün örneğidir."
+    },
+    {
+      "q": "Gazilik/Mareşallik ile ilk hangi savaştan sonra verildi?",
+      "o": ["Sakarya (M. Kemal)", "Büyük Taarruz (M. Kemal)", "II. İnönü (M. Kemal)"],
+      "c": 0,
+      "n": "M. Kemal Sakarya'dan sonra; Fevzi Çakmak Büyük Taarruz'dan sonra mareşal oldu."
+    },
+    {
+      "q": "Tekalif-i Milliye yardımları ilk kez hangi savaşta kullanıldı?",
+      "o": ["Sakarya", "Büyük Taarruz", "II. İnönü"],
+      "c": 0,
+      "n": "İlk kullanım Sakarya'da; büyük çoğunluğu Büyük Taarruz'da kullanıldı."
+    },
+    {
+      "q": "Sakarya sonrası İtalya ile bir anlaşma imzalandı mı?",
+      "o": ["Hayır (İtalya sadece çekildi)", "Evet, Kars Antlaşması", "Evet, dostluk anlaşması"],
+      "c": 0,
+      "n": "İtalya Anadolu'yu boşaltan ilk itilaf devleti olsa da anlaşma imzalanmadı; çeldirici budur."
+    },
+    {
+      "q": "Osmanlı Devleti hukuken hangi olayla sona erdi?",
+      "o": ["Mudanya Ateşkesi", "Mondros Ateşkesi", "Saltanatın kaldırılması"],
+      "c": 0,
+      "n": "Fiilen Mondros, HUKUKEN Mudanya (İstanbul TBMM'ye bırakıldı), resmen saltanatın kaldırılması."
+    },
+    {
+      "q": "Mudanya'da İstanbul'u ve Doğu Trakya'yı kim teslim aldı?",
+      "o": ["İstanbul: Şükrü Naili Paşa / Doğu Trakya: Refet Bele", "İkisini de İsmet İnönü", "İstanbul: Refet Bele / Doğu Trakya: Şükrü Naili Paşa"],
+      "c": 0,
+      "n": "İstanbul Şükrü Naili Paşa, Doğu Trakya (Trakya Yüksek Komiseri) Refet Bele tarafından alındı."
+    },
+    {
+      "q": "İstiklal Marşı'nın yayınlandığı ilk gazete hangisidir?",
+      "o": ["Hakimiyet-i Milliye", "Açık Söz", "Sebilürreşad"],
+      "c": 0,
+      "n": "İlk gazete Hakimiyet-i Milliye (açık söz DEĞİL); ilk dergi Sebilürreşad'dır."
+    },
+    {
+      "q": "İstiklal Marşı'nın yer aldığı ilk anayasa hangisidir?",
+      "o": ["1982", "1921", "1924"],
+      "c": 0,
+      "n": "Beklenenin aksine 1921 veya 1924 değil, 1982 anayasasıdır."
+    },
+    {
+      "q": "Londra Konferansı'na TBMM'yi kim davet etti?",
+      "o": ["İtalya", "İngiltere", "Fransa"],
+      "c": 0,
+      "n": "Küskün itilaf devleti İtalya davet etti; amaç ikilik çıkarmaktı ama Tevfik Paşa engel oldu."
+    },
+    {
+      "q": "Saltanatın kaldırılması teklifini Lozan heyetinden kim verdi?",
+      "o": ["Dr. Rıza Nur", "İsmet İnönü", "Hasan Saka"],
+      "c": 0,
+      "n": "Teklifi Dr. Rıza Nur verdi; aynı kişi Ermeni devletine de sert muhalefet etti."
+    },
+    {
+      "q": "Lozan'da çözümlenemeyen tek konu hangisidir?",
+      "o": ["Irak-Musul sorunu", "Boğazlar", "Batı Trakya"],
+      "c": 0,
+      "n": "Petrol nedeniyle İngiltere ile anlaşılamadı; Musul Lozan'da çözülemeyen tek konudur."
+    },
+    {
+      "q": "Nüfus mübadelesinde hangi Trakya'daki Türkler etabli (yerleşik) sayıldı?",
+      "o": ["Batı Trakya", "Doğu Trakya", "Her ikisi"],
+      "c": 0,
+      "n": "Batı Trakya Türkleri etabli sayıldı; 'Doğu Trakya' çeldiricidir (zaten bizim toprağımızdı)."
+    },
+    {
+      "q": "Azınlıklar (ekaliyetler) konusu hangi belgede yer ALMADI?",
+      "o": ["Amasya Genelgesi", "Sivas Kongresi", "Misak-ı Milli"],
+      "c": 0,
+      "n": "Azınlıklar Havza, Erzurum, Sivas, Misak-ı Milli ve Lozan'da vardır; Amasya Genelgesi'nde yoktur."
+    },
+    {
+      "q": "Lozan'da ABD'nin statüsü neydi?",
+      "o": ["Gözlemci devlet", "Taraf devlet", "Boğazlar temsilcisi"],
+      "c": 0,
+      "n": "ABD Wilson İlkeleri'ne uyulup uyulmadığını izleyen gözlemci; boğazlarda ise SSCB ve Bulgaristan vardı."
+    },
+    {
+      "q": "'Kuvâ-yi Milliye' tabirini ilk kullanan rapor hangisidir?",
+      "o": ["Dr. Esat Işık raporu", "Amiral Bristol raporu", "Sandler raporu"],
+      "c": 0,
+      "n": "Millî Kongre Cemiyeti lideri Dr. Esat Işık raporunda tabir ilk kez kullanıldı."
+    },
+    {
+      "q": "Mustafa Kemal Kur'un gazetesine hangi takma adla yazdı?",
+      "o": ["Asım Us", "Hatip", "İsimsiz"],
+      "c": 0,
+      "n": "Minber'de 'Hatip', İleri'de isimsiz; Kur'un'da Hatay için 'Asım Us' adıyla yazdı."
+    },
+    {
+      "q": "Milli mücadeleyi anlatan ilk roman hangisidir?",
+      "o": ["Ateşten Gömlek (Halide Edip)", "Yaban (Yakup Kadri)", "Şu Çılgın Türkler (T. Özakman)"],
+      "c": 0,
+      "n": "Halide Edip'in Ateşten Gömlek'i milli mücadeleyi anlatan ilk romandır."
+    },
+    {
+      "q": "'Sınıf Arkadaşım Atatürk' eseri kime aittir?",
+      "o": ["Ali Fuat Cebesoy", "Kâzım Karabekir", "Rauf Orbay"],
+      "c": 0,
+      "n": "Cebesoy'a; Kâzım Karabekir İstiklal Harbimiz, Rauf Orbay Cehennem Değirmeni'ni yazdı."
+    }
+  ],
+  "deneme": [
+    {
+      "q": "Milli Mücadele muharebeler döneminde Doğu Cephesi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": [
+        "Düşman Ermeniler ve Gürcülerdir",
+        "Kâzım Karabekir ve 15. Kolordu görev yapmıştır",
+        "Cephe kapanınca 15. Kolordu Güney Cephesi'ne gönderilmiştir",
+        "Ermenilerle Gümrü Antlaşması imzalanmıştır",
+        "Gürcülerle Batum Antlaşması yapılmıştır"
+      ],
+      "c": 2,
+      "e": "Doğu Cephesi kapanınca 15. Kolordu Güney'e değil Batı Cephesi'ne kaydırılmıştır."
+    },
+    {
+      "q": "Gümrü Antlaşması ile ilgili,\nI. TBMM'nin ilk askerî ve siyasi zaferidir.\nII. 'Türkiye' ifadesinin geçtiği ilk antlaşmadır.\nIII. Ermenistan Sevr'i reddeden ve TBMM'yi tanıyan ilk devlet olmuştur.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız III", "I ve II", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Gümrü Antlaşması her üç yargıyı da karşılayan çok sayıda 'ilk' barındırır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Güney Cephesi'ndeki Kuvâ-yi Milliye direnişiyle doğrudan ilişkili DEĞİLDİR?",
+      "o": [
+        "Antep'te Şahin Bey",
+        "Maraş'ta Sütçü İmam",
+        "Urfa'da Ali Saip Bey",
+        "Ayvalık'ta Ali Çetinkaya",
+        "Adana'da Tufan Bey"
+      ],
+      "c": 3,
+      "e": "Ayvalık'ta Ali Çetinkaya, Batı Cephesi'nde batıdaki ilk silahlı direnişi başlatmıştır; diğerleri Güney Cephesi'ndedir."
+    },
+    {
+      "q": "Şehirlere verilen unvanlar 'KAMU', İstiklal Madalyası alan yerler 'İMAJ' ile kodlanır. Buna göre aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": [
+        "Antep - Gazi unvanı",
+        "Maraş - Kahraman unvanı",
+        "Urfa - Şanlı unvanı",
+        "İnebolu - İstiklal Madalyası",
+        "Adana - İstiklal Madalyası"
+      ],
+      "c": 4,
+      "e": "İstiklal Madalyası alan yerler İnebolu, Maraş, Antep ve Şanlıurfa'dır; Adana bu listede yer almaz."
+    },
+    {
+      "q": "Misak-ı Milli'den verilen tavizler ile ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "o": [
+        "Batum - 1921 Ankara Antlaşması",
+        "Hatay - Moskova Antlaşması",
+        "Musul - 1926 Ankara Antlaşması",
+        "Batum - Kars Antlaşması",
+        "Musul - Moskova Antlaşması"
+      ],
+      "c": 2,
+      "e": "Batum Moskova, Hatay 1921 Ankara, Musul 1926 Ankara Antlaşması ile verilmiştir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi I. İnönü Savaşı'nın sonuçları arasında gösterilemez?",
+      "o": [
+        "Teşkilat-ı Esasiye Kanunu'nun kabulü",
+        "Afgan Dostluk Anlaşması'nın imzalanması",
+        "Londra Konferansı'nın toplanması",
+        "İstiklal Marşı'nın kabulü",
+        "Mudanya Ateşkes Anlaşması'nın imzalanması"
+      ],
+      "c": 4,
+      "e": "I. İnönü sonuçları TALİM (Teşkilat-ı Esasiye, Afgan Dostluk, Londra, İstiklal Marşı, Moskova) ile kodlanır; Mudanya çok sonradır."
+    },
+    {
+      "q": "Teşkilat-ı Esasiye (1921) Kanunu ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "o": [
+        "Yeni Türk devletinin ilk anayasasıdır",
+        "Egemenliği kayıtsız şartsız millete vermiştir",
+        "Yumuşak ve çerçeve niteliğinde bir anayasadır",
+        "Seçimlerin iki yılda bir yapılmasını öngörür",
+        "Tek dereceli seçim sistemini benimsemiştir"
+      ],
+      "c": 4,
+      "e": "1921 Anayasası çift dereceli seçimi öngörür; tek dereceli seçime 1946'da geçilmiştir."
+    },
+    {
+      "q": "Londra Konferansı ile ilgili,\nI. TBMM'yi konferansa İtalya davet etmiştir.\nII. TBMM adına Bekir Sami Bey katılmıştır.\nIII. Konferansta TBMM ve Misak-ı Milli itilaf devletlerince görülmüştür.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "İtalya davet etti, Bekir Sami Bey katıldı ve konferansta TBMM ile Misak-ı Milli görüldü; üçü de doğrudur."
+    },
+    {
+      "q": "İstiklal Marşı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": [
+        "Yarışmayı Maarif Vekâleti düzenlemiştir",
+        "Güftesi Mehmet Akif Ersoy'a aittir",
+        "Mecliste Hamdullah Suphi Tanrıöver okumuştur",
+        "Yayınlandığı ilk gazete Hakimiyet-i Milliye'dir",
+        "Yer aldığı ilk anayasa 1924 Anayasası'dır"
+      ],
+      "c": 4,
+      "e": "İstiklal Marşı'nın yer aldığı ilk anayasa 1924 değil 1982 Anayasası'dır."
+    },
+    {
+      "q": "Moskova Anlaşması ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": [
+        "İngiltere ile imzalanmıştır",
+        "Kapitülasyonların kaldırıldığını kabul eden ilk devlet SSCB olmuştur",
+        "Musul, Gürcistan'a bırakılmıştır",
+        "TBMM'yi tanıyan ilk Müslüman devlet bu anlaşmayla belirlenmiştir",
+        "Boğazlar tamamen Türk egemenliğine bırakılmıştır"
+      ],
+      "c": 1,
+      "e": "SSCB ile imzalanan Moskova Anlaşması'yla kapitülasyonların kaldırıldığını kabul eden ilk devlet SSCB olmuştur; Batum ise Gürcistan'a bırakılmıştır."
+    },
+    {
+      "q": "Mustafa Kemal'in İsmet İnönü'ye 'Siz orada yalnızca düşmanı değil, aynı zamanda bir milletin makûs talihini de yendiniz' sözü hangi savaştan sonra söylenmiştir?",
+      "o": ["I. İnönü", "II. İnönü", "Eskişehir-Kütahya", "Sakarya", "Büyük Taarruz"],
+      "c": 1,
+      "e": "Bu söz II. İnönü Savaşı'nın ardından İsmet İnönü'ye söylenmiştir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Eskişehir-Kütahya Savaşları döneminde yaşanan gelişmelerden biri değildir?",
+      "o": [
+        "1. Maarif Kongresi'nin toplanması",
+        "Başkomutanlık Kanunu'nun çıkarılması",
+        "Meclisin Kayseri'ye taşınmasının gündeme gelmesi",
+        "Bursa'nın işgali üzerine kürsüye Puşide-i Siyah örtülmesi",
+        "Mustafa Kemal'e Mareşallik rütbesi verilmesi"
+      ],
+      "c": 4,
+      "e": "Mareşallik ve Gazilik, Eskişehir-Kütahya'dan değil Sakarya Meydan Muharebesi'nden sonra verilmiştir."
+    },
+    {
+      "q": "Tekalif-i Milliye Emirleri ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": [
+        "1. TBMM tarafından çıkarılmıştır",
+        "Mustafa Kemal'in başkomutanlık yetkisiyle çıkardığı emirlerdir",
+        "Kapitülasyonların kaldırılması amacıyla çıkarılmıştır",
+        "İlk olarak Büyük Taarruz'da kullanılmıştır",
+        "Yalnızca Ankara'da uygulanmıştır"
+      ],
+      "c": 1,
+      "e": "Bu emirler 1. TBMM'nin değil, başkomutanlık yasasının Mustafa Kemal'e verdiği yasama gücüyle çıkarılmış, ilk kez Sakarya'da kullanılmıştır."
+    },
+    {
+      "q": "'Hattı müdafaa yoktur, sathı müdafaa vardır. O satıh bütün vatandır.' sözü ve bu sözün ifade ettiği strateji ile ilgili hangisi doğrudur?",
+      "o": [
+        "Büyük Taarruz'da söylenmiş, taarruz stratejisini anlatır",
+        "Sakarya Meydan Muharebesi'nde söylenmiş, yüzeysel savunma stratejisini anlatır",
+        "I. İnönü'de söylenmiş, siper savaşını anlatır",
+        "Mudanya'da söylenmiş, ateşkes ilkesini anlatır",
+        "Eskişehir-Kütahya'da söylenmiş, geri çekilmeyi anlatır"
+      ],
+      "c": 1,
+      "e": "Söz Sakarya'da söylenmiştir ve dünyada ilk kez uygulanan yüzeysel savunma stratejisini ifade eder."
+    },
+    {
+      "q": "Sakarya Meydan Muharebesi'nin sonuçlarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": [
+        "Mustafa Kemal'e Gazilik unvanı ve Mareşallik rütbesi verilmiştir",
+        "1683 Viyana bozgunuyla başlayan geri çekiliş sona ermiştir",
+        "İtalya Anadolu'yu boşaltan ilk itilaf devleti olmuştur",
+        "Fransa ile 1921 Ankara Antlaşması imzalanarak Güney Cephesi kapanmıştır",
+        "İtalya ile Kars Antlaşması imzalanmıştır"
+      ],
+      "c": 4,
+      "e": "Kars Antlaşması SSCB aracılığıyla Ermenistan, Azerbaycan ve Gürcistan ile imzalanmıştır; İtalya ile bir anlaşma yapılmamıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Büyük Taarruz'un (Başkomutanlık Meydan Muharebesi) adlarından veya olaylarından biri değildir?",
+      "o": [
+        "Dumlupınar Meydan Muharebesi",
+        "Rum Sındığı",
+        "Çiğiltepe olayı",
+        "Taarruzi keşif",
+        "'Ordular! İlk hedefiniz Akdeniz'dir' emri"
+      ],
+      "c": 3,
+      "e": "'Taarruzi keşif' Yunan kaynaklarının I. İnönü Savaşı'na verdiği addır; Büyük Taarruz ile ilgisi yoktur."
+    },
+    {
+      "q": "Mudanya Ateşkes Anlaşması ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "o": [
+        "İstanbul ve Boğazlar TBMM'ye bırakılmıştır",
+        "Osmanlı Devleti hukuken sona ermiştir",
+        "İstanbul'u Şükrü Naili Paşa teslim almıştır",
+        "Doğu Trakya savaş yoluyla geri alınmıştır",
+        "Yunanistan'ı görüşmelerde İngiltere temsil etmiştir"
+      ],
+      "c": 3,
+      "e": "İstanbul, Doğu Trakya ve Boğazlar savaşılmadan alınmıştır; Doğu Trakya'yı Refet Bele teslim almıştır."
+    },
+    {
+      "q": "Lozan Barış Antlaşması ile ilgili,\nI. Konferansa temsilci gönderen 1. TBMM'dir.\nII. Kapitülasyonlar tamamen kaldırılmıştır.\nIII. Irak (Musul) sınırı Lozan'da çözümlenememiştir.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız III", "I ve II", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Temsilciyi 1. TBMM gönderdi (onayı 2. TBMM yaptı), kapitülasyonlar kaldırıldı ve Musul çözülemedi; üçü de doğrudur."
+    },
+    {
+      "q": "Lozan'da aleyhimize çözümlenip daha sonra lehimize dönüştürülen konular aşağıdakilerin hangisinde birlikte verilmiştir?",
+      "o": [
+        "Boğazlar - Suriye sınırı (Hatay)",
+        "Kapitülasyonlar - Borçlar",
+        "Musul - Batı Trakya",
+        "Azınlıklar - Patrikhane",
+        "Ege Adaları - Kıbrıs"
+      ],
+      "c": 0,
+      "e": "Boğazlar 1936 Montrö ile, Suriye sınırı/Hatay 1939'da lehimize çözülmüştür."
+    },
+    {
+      "q": "Milli Mücadele dönemi basın-yayını ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": [
+        "Hakimiyet-i Milliye - TBMM'nin yarı resmî yayın organı",
+        "Anadolu Ajansı - Halide Edip ve Yunus Nadi",
+        "İrade-i Milliye - Sivas Kongresi",
+        "Peyam-ı Sabah - Milli mücadele yanlısı",
+        "Sebilürreşad - Mehmet Akif Ersoy"
+      ],
+      "c": 3,
+      "e": "Peyam-ı Sabah milli mücadele KARŞITI bir yayın organıdır; diğer eşleştirmeler doğrudur."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Cephe → Düşman/Komutan",
+      "p": [
+        ["Doğu Cephesi", "Ermeni-Gürcü / Kâzım Karabekir (15. Kolordu)"],
+        ["Güney Cephesi", "Fransız-Ermeni / sadece Kuvâ-yi Milliye"],
+        ["Batı Cephesi", "Yunan / önce Kuvâ-yi Milliye sonra düzenli ordu"],
+        ["Posof Harekâtı", "Gürcüler üzerine (Batum alındı)"],
+        ["Gümrü Antlaşması", "Ermenistan ile (doğuda ilk zafer)"],
+        ["1921 Ankara Antlaşması", "Fransa ile (Güney Cephesi kapandı)"]
+      ]
+    },
+    {
+      "ad": "Düzenli ordu savaşı → Ayırt edici bilgi",
+      "p": [
+        ["I. İnönü", "İlk zafer; Çerkez Etem isyanı; İsmet Paşa generalliğe yükseldi"],
+        ["II. İnönü", "Koçgiri isyanı; 'makûs talih' sözü"],
+        ["Eskişehir-Kütahya", "Tek yenilgi; Başkomutanlık Kanunu; 1. Maarif Kongresi"],
+        ["Sakarya", "Subaylar Savaşı; Gazilik-Mareşallik; sathı müdafaa"],
+        ["Büyük Taarruz", "İlk hedef Akdeniz; Çiğiltepe; Trikopis esir"],
+        ["Mudanya", "Osmanlı hukuken bitti; savaşsız İstanbul-Trakya"]
+      ]
+    },
+    {
+      "ad": "TBMM'yi tanıyan 'ilk'ler → Devlet/Anlaşma",
+      "p": [
+        ["İlk devlet", "Ermenistan (Gümrü)"],
+        ["İlk Müslüman devlet", "Afganistan (Afgan Dostluk)"],
+        ["İlk itilaf devleti", "Fransa (1921 Ankara)"],
+        ["İlk büyük Avrupalı devlet", "SSCB (Moskova)"],
+        ["Türkiye'de ilk elçilik açan", "Gürcistan"],
+        ["Kapitülasyon kaldırıldığını kabul eden ilk", "SSCB"]
+      ]
+    },
+    {
+      "ad": "Kişi/Yer → Milli mücadeledeki rolü",
+      "p": [
+        ["Hasan Tahsin", "İzmir'de düşmana ilk kurşun"],
+        ["Kara Mehmet Çavuş", "İlk silahlı direniş (Dörtyol)"],
+        ["Ali Çetinkaya", "Batıda ilk silahlı direniş (Ayvalık)"],
+        ["Şerife Bacı", "İstiklal Yolu'nda cephane taşırken şehit"],
+        ["Fahrettin Altay", "İzmir'e giren ilk süvari komutanı"],
+        ["Şükrü Naili Paşa", "İstanbul'u teslim alan komutan"]
+      ]
+    },
+    {
+      "ad": "Eser → Yazar",
+      "p": [
+        ["Ateşten Gömlek", "Halide Edip (ilk milli mücadele romanı)"],
+        ["Sınıf Arkadaşım Atatürk", "Ali Fuat Cebesoy"],
+        ["İstiklal Harbimiz", "Kâzım Karabekir"],
+        ["Cehennem Değirmeni", "Rauf Orbay"],
+        ["Yaban", "Yakup Kadri Karaosmanoğlu"],
+        ["Şu Çılgın Türkler", "Turgut Özakman"]
+      ]
+    }
+  ]
+}

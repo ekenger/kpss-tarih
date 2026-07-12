@@ -1,0 +1,426 @@
+{
+  "meta": {
+    "gun": 9,
+    "baslik": "18. Yuzyil Osmanli Devleti - Gerileme Donemi",
+    "ozet": "1699 Karlovca'dan 1792 Yas Anlasmasi'na uzanan gerileme donemi: devletlerin 18. yuzyil politikalari, siyasi olaylar (Edirne Vakasi, Prut, Pasarofca, Belgrad, Kucuk Kaynarca, Yas) ve 18. yuzyil islahatlari (Lale Devri'nden III. Selim'e).",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Ksal ittifak → Kutsal Ittifak",
+      "Peter Vorodin → Petervaradin",
+      "Dalmatcya/Dalmacay → Dalmacya",
+      "Pasarfca → Pasarofca",
+      "Baston → Boston",
+      "Napolyon Bonart/Bonapark → Napolyon Bonapart",
+      "Komptebone/Komteboneval → Kont de Bonneval",
+      "Barondetot → Baron de Tott",
+      "Etejenaro → Etats Generaux",
+      "Vanulu lugati → Vankulu Lugati"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Gerileme Donemi Cercevesi",
+      "i": [
+        { "k": "1699 → 1792", "m": "Gerileme donemi: Karlovca Ant. ile baslar, Yas Ant. ile biter", "s": "z" },
+        { "k": "Osmanli 1. amac", "m": "Kaybedilen topraklari geri almak", "s": "z" },
+        { "k": "Osmanli 2. amac", "m": "Var olan topraklari korumak", "s": "z" }
+      ]
+    },
+    {
+      "b": "Devletlerin 18. yy Politikalari",
+      "i": [
+        { "k": "Rusya - Panslavizm", "m": "Balkan'daki Slav milletleri birlestirip sicak denizlere inmek", "s": "z" },
+        { "k": "Dakya Projesi", "m": "Rusya + Avusturya → Osmanli Balkan topraklarinda Dakya devleti kurma plani", "s": "z" },
+        { "k": "Grek Projesi", "m": "Rusya → Istanbul merkezli Bizans'i canlandirma projesi; Potemkin 'Dogu sisteminin buyuk plani' dedi", "s": "z" },
+        { "k": "Avusturya", "m": "Balkanlarda nufuz artirmak + Dakya projesi", "s": "z" },
+        { "k": "Fransa", "m": "7 Yil Savaslari kaybi → Fransiz Ihtilali; Osmanli'nin Misir'ini ele gecirmek (Ingiltere somurge yolu)", "s": "z" },
+        { "k": "Ingiltere", "m": "7 Yil Savaslarini kazandi (Pirus zaferi) → Amerika kolonileri ayaklandi → ABD kuruldu", "s": "z" }
+      ]
+    },
+    {
+      "b": "KAY - Kirim'in Kaybedilis Sureci",
+      "i": [
+        { "k": "K → Kucuk Kaynarca", "m": "Kirim bagimsiz oldu (ilk tamami Turk-Musluman toprak kaybi)", "s": "z" },
+        { "k": "A → Aynali Kavak", "m": "Kirim ozerk; Rus yanlisi Sahin Giray atandi", "s": "z" },
+        { "k": "Y → Yas", "m": "Kirim'in Rusya'ya ait oldugu kabul edildi", "s": "z" }
+      ]
+    },
+    {
+      "b": "3-1-3-1-3 AMMAS - 18. yy Islahatcilari",
+      "i": [
+        { "k": "3. Ahmet", "m": "Lale Devri padisahi; Edirne Vakasi'yla geldi, Patrona Halil Isyani'yla gitti", "s": "z" },
+        { "k": "1. Mahmut", "m": "Ilk bati tarzi askeri islahatlar; Kont de Bonneval (Humbaraci Ahmet Pasa)", "s": "z" },
+        { "k": "3. Mustafa", "m": "Baron Ragip Sut Ic: Baron de Tott, Koca Ragip Pasa, Surat Topculari, Ic borclanma", "s": "z" },
+        { "k": "1. Abdulhamit", "m": "Halil Hamit Pasa; Istihkam okulu; Muhendishane-i Bahri Humayun; Esham uygulamasi", "s": "z" },
+        { "k": "3. Selim", "m": "Ilk radikal islahatci; Nizam-i Cedit; Fransa ornek; Lale Devri'nin tamamlayicisi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Baron Ragip Sut Ic - 3. Mustafa Donemi Sifresi",
+      "i": [
+        { "k": "Baron", "m": "Baron de Tott - yabanci askeri uzman", "s": "z" },
+        { "k": "Ragip", "m": "Koca Ragip Pasa - donemin sadrazami", "s": "z" },
+        { "k": "Sut", "m": "Surat Topculari Ocagi kuruldu", "s": "z" },
+        { "k": "Ic", "m": "Ic borclanma: Esham senetleri hazirlandi (uygulamaya koyan: 1. Abdulhamit)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Karadeniz'in Tarihi Sureci",
+      "i": [
+        { "k": "Fatih donemi", "m": "Karadeniz Turk golu haline geldi", "s": "z" },
+        { "k": "1700 Istanbul Ant.", "m": "Karadeniz ilk kez Turk golu olmaktan cikti (Azak Kalesi → Rusya)", "s": "z" },
+        { "k": "1739 Belgrad Ant.", "m": "Karadeniz son kez Turk golu sayildi (Rusya donanma/tersane bulunduramaz)", "s": "z" },
+        { "k": "1774 Kucuk Kaynarca", "m": "Karadeniz'deki Turk hakimiyeti bozuldu (Rusya donanma/tersane hakki aldi)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Halifelikin Siyasi Kullanimi",
+      "i": [
+        { "k": "1. kullanim", "m": "Kucuk Kaynarca Ant. - Kirim dini acidan halifeye bagli kalacak", "s": "z" },
+        { "k": "2. kullanim", "m": "Usi Ant. - Trablusgarp icin", "s": "z" }
+      ]
+    },
+    {
+      "b": "Karistirilan Zi- Uclusu",
+      "i": [
+        { "k": "Zigetvar", "m": "Kanuni'nin son seferi", "s": "z" },
+        { "k": "Zitvatoruk (1606)", "m": "Avusturya'ya karsi protokol ustunlugunun kaybedildigi anlasma", "s": "z" },
+        { "k": "Zistovi (1791)", "m": "Fransiz Ihtilali etkisiyle Avusturya'nin savastan cekildigi anlasma", "s": "z" }
+      ]
+    },
+    {
+      "b": "Lale Devri Temel Bilgileri",
+      "i": [
+        { "k": "1718-1730", "m": "Pasarofca Ant. ile baslar, Patrona Halil Isyani ile biter", "s": "z" },
+        { "k": "Sadrazam", "m": "Nevsehirli Damat Ibrahim Pasa", "s": "z" },
+        { "k": "Seyhulislam", "m": "Yenisehirli Abdullah Efendi - matbaaya izin verdi, dini eser basimini yasakladi", "s": "z" },
+        { "k": "Nakkas", "m": "Levni (minyatur ustasi)", "s": "z" },
+        { "k": "Sair", "m": "Nedim (divan edebiyati); isyanda damdan dama atlarken duserek vefat etti", "s": "z" },
+        { "k": "Askeri islahat", "m": "Lale Devri'nde askeri alanda islahat YOKTUR", "s": "z" }
+      ]
+    },
+    {
+      "b": "Lale Devri Ilkleri",
+      "i": [
+        { "k": "Ilk ozel matbaa", "m": "Ibrahim Muteferrika + Sait Efendi; Macaristan'dan getirildi; ilk eser: Vankulu Lugati", "s": "z" },
+        { "k": "Ilk gecici elcilik", "m": "Paris'e → 28 Mehmet Celebi (ilk gecici elci); sefaretname yazdi", "s": "z" },
+        { "k": "Cicek asisi", "m": "Iran'dan - Lale Devri'nde dogudan gelen tek yenilik", "s": "z" },
+        { "k": "Bati mimari", "m": "Barok-Rokoko; ilk sivil eser: III. Ahmet Cesmesi; ilk dini: Nuruosmaniye Camii", "s": "z" },
+        { "k": "Ilk itfaiye", "m": "Tulumbacilar Ocagi - yanginlara karsi kurulan ilk itfaiye orgutu", "s": "z" }
+      ]
+    },
+    {
+      "b": "3. Selim = Lale Devri'nin Tamamlayicisi",
+      "i": [
+        { "k": "Matbaa", "m": "Ilk ozel → Lale Devri / Ilk devlet (Matbaa-i Amire) → 3. Selim", "s": "z" },
+        { "k": "Elcilik", "m": "Ilk gecici → Lale Devri / Ilk surekli → 3. Selim (Yusuf Agah Efendi, Londra)", "s": "z" },
+        { "k": "Nizam-i Cedit", "m": "Fransa ornek; Irad-i Cedit hazinesi; Levent-Selimiye kislalari; Berri Humayun", "s": "z" },
+        { "k": "Ilhami", "m": "3. Selim'in mahlasi; Suz-i Dilara makamini buldu (muzisyen padisah)", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Devlet Politikalari", "o": "Gerileme donemi hangi anlasmayla baslar, hangisiyle biter?", "a": "Baslangic: 1699 Karlovca Anlasmasi\nBitis: 1792 Yas Anlasmasi" },
+    { "c": "Devlet Politikalari", "o": "Osmanli'nin 18. yuzyildaki iki temel amaci nedir?", "a": "1) Kaybedilen topraklari geri almak\n2) Var olan topraklari korumak" },
+    { "c": "Devlet Politikalari", "o": "Panslavizm nedir ve hangi devletin politikasidir?", "a": "Rusya'nin politikasi.\nOsmanli Balkanlari'ndaki Slav milletleri birlestirip sicak denizlere inmek." },
+    { "c": "Devlet Politikalari", "o": "Dakya projesi nedir? Hangi devletlerin ortak planidir?", "a": "Rusya + Avusturya'nin ortak plani.\nOsmanli'nin Balkan topraklarinda bir Dakya devleti kurmak." },
+    { "c": "Devlet Politikalari", "o": "Grek projesi nedir? Potemkin bu projeyi nasil niteledi?", "a": "Rusya'nin Istanbul merkezli eski Bizans'i canlandirma projesi.\nPotemkin: 'Dogu sisteminin buyuk plani'" },
+    { "c": "Devlet Politikalari", "o": "Fransa 18. yuzyilda neden Osmanli'nin Misir'ini ele gecirmek istiyor?", "a": "Ingiltere'nin somurgelerine giden yol Misir'dan geciyor.\nMisir'i alarak Ingiltere'ye baski kurmak istiyor." },
+    { "c": "Devlet Politikalari", "o": "7 Yil Savaslari'nda kazanan ve kaybeden taraf hangi gelismelere yol acti?", "a": "Kaybeden Fransa → Fransiz Ihtilali\nKazanan Ingiltere → Pirus zaferi; Boston Cay Partisi → ABD'nin kurulusu" },
+    { "c": "Devlet Politikalari", "o": "Rusya'nin sicak denizlere inmek politikasindaki hedef denizler hangileridir?", "a": "Akdeniz ve Karadeniz" },
+
+    { "c": "Edirne Vakasi & Prut", "o": "1703 Edirne Vakasi neden cikti?", "a": "II. Mustafa ve Seyhulislam Feyzullah Efendi surekli Istanbul'u birakip Edirne'ye gidiyorlardi.\nBaskentin Edirne'ye tasinacagi soylentileri isyana yol acti." },
+    { "c": "Edirne Vakasi & Prut", "o": "Edirne Vakasi'nin sonuclari nelerdir?", "a": "Feyzullah Efendi idam edildi.\nII. Mustafa tahttan indirildi.\nIII. Ahmet (Lale Devri padisahi) tahta gecti." },
+    { "c": "Edirne Vakasi & Prut", "o": "1711 Prut Savasi'nin cikis sebebi nedir?", "a": "Isvec Krali Demirbas Sarl (XII. Karl) Rusya'ya yenilip Osmanli'ya sigindi.\nRusya Sarl'i geri istedi, Osmanli vermedi → savas cikti." },
+    { "c": "Edirne Vakasi & Prut", "o": "Prut Savasi'nda Osmanli neden Rus ordusunu yok edemedi?", "a": "Baltaci Mehmet Pasa:\n- Bazi kaynaklara gore yenicerilerine guvenemedi\n- Bazi kaynaklara gore Rus caricesiyle iliskisi vardi\nRuslarla anlasma yapti." },
+    { "c": "Edirne Vakasi & Prut", "o": "1711 Prut Anlasmasi'nin en onemli sonucu nedir?", "a": "Azak Kalesi Osmanli'ya geri verildi.\nOsmanli'nin kaybettigi topraklari geri alma umutlari artti.\n'Prut bir umuttur.'" },
+    { "c": "Edirne Vakasi & Prut", "o": "Azak Kalesi hangi anlasmayla Rusya'ya verilmis, hangisiyle geri alindi?", "a": "1700 Istanbul Anlasmasi ile Rusya'ya verildi.\n1711 Prut Anlasmasi ile geri alindi." },
+
+    { "c": "Pasarofca Anlasmasi", "o": "1715-1718 savasinda Osmanli neden hem Venedik hem Avusturya ile savasti?", "a": "Mora ve Dalmacya'yi Venedik'ten geri almak istedi.\nAma Karlovca'nin garantor devleti Avusturya da savasa karisti." },
+    { "c": "Pasarofca Anlasmasi", "o": "Petervaradin Savasi kime karsi yapildi ve sonucu ne oldu?", "a": "Avusturya'ya karsi yapildi.\nOsmanli maglup oldu → Pasarofca Anlasmasi imzalandi." },
+    { "c": "Pasarofca Anlasmasi", "o": "Pasarofca Anlasmasi'nin arabuluculari kimlerdir?", "a": "Ingiltere ve Hollanda\n(Karlovca'nin arabuluculariyla ayni)" },
+    { "c": "Pasarofca Anlasmasi", "o": "Pasarofca Anlasmasi'nin en onemli 3 sonucu nedir?", "a": "1) Belgrad Avusturya'ya verildi\n2) Mora geri alindi\n3) Osmanli'nin kaybettigi topraklari geri alma umutlari tukendi" },
+    { "c": "Pasarofca Anlasmasi", "o": "Osmanli Devleti batinin ustunlugunu ilk kez hangi anlasmayla kabul etti?", "a": "1718 Pasarofca Anlasmasi\nArdindan Lale Devri'ne girildi." },
+    { "c": "Pasarofca Anlasmasi", "o": "Prut ve Pasarofca anlasmalari umut acisindan farki nedir?", "a": "Prut (1711): Umutlar ARTTI (Azak geri alindi)\nPasarofca (1718): Umutlar TUKENDI (Mora alinirken Belgrad kaybedildi)" },
+
+    { "c": "Iran Iliskileri & Belgrad", "o": "1724 Istanbul Anlasmasi kimler arasinda yapildi ve onemi nedir?", "a": "Osmanli ile Rusya arasinda.\nOsmanli-Rus arasindaki ilk dostluk anlasmasi.\nIran topraklari paylasildi." },
+    { "c": "Iran Iliskileri & Belgrad", "o": "Osmanli ile Rusya arasindaki ilk anlasma ve ilk dostluk anlasmasi hangileridir?", "a": "Ilk anlasma: 1681 Bahcesaray (Cehrin) Anlasmasi\nIlk dostluk anlasmasi: 1724 Istanbul Anlasmasi" },
+    { "c": "Iran Iliskileri & Belgrad", "o": "1732 Ahmet Pasa Anlasmasi'nin onemi nedir?", "a": "Iran'da Nadir Sah basa gecti.\n1724 Istanbul Anlasmasi ile alinan bazi topraklar Iran'a kaybedildi." },
+    { "c": "Iran Iliskileri & Belgrad", "o": "1746 Kerden Anlasmasi'nin diger adi nedir ve neden?", "a": "Diger adi: Ikinci Kasri Sirin.\n1639 Kasri Sirin Anlasmasi'nin sinirlari (Zagros Daglari) tekrar cizildi." },
+    { "c": "Iran Iliskileri & Belgrad", "o": "1736-1739 savasinda Osmanli hem Avusturya'yi hem Rusya'yi nasil yenebildi?", "a": "I. Mahmut doneminde Kont de Bonneval (Humbaraci Ahmet Pasa) bati tarzi askeri islahatlar yapti.\nHumbaraci ocagi islah edildi, Hendeshane kuruldu." },
+    { "c": "Iran Iliskileri & Belgrad", "o": "1739 Belgrad Anlasmasi'nin arabulucusu kim ve karsiliginda ne verildi?", "a": "Arabulucu: Fransa\nKarsiliginda kapitulasyonlar surekli hale getirildi." },
+    { "c": "Iran Iliskileri & Belgrad", "o": "Belgrad Anlasmasi'nin temel maddeleri nelerdir?", "a": "1) Belgrad Avusturya'dan geri alindi\n2) Azak Kalesi yikilarak Rusya'ya verildi\n3) Rusya Karadeniz'de donanma/tersane bulunduramaz\n→ Karadeniz son kez Turk golu sayildi" },
+    { "c": "Iran Iliskileri & Belgrad", "o": "Kapitulasyonlar Osmanli'da nasil bir surecten gecti?", "a": "Kanuni: Fransa'ya verdi, hukumdar omuruyle sinirli tuttu.\nBelgrad Ant. (1739): Fransa arabulucu olunca surekli hale getirildi.\n→ 'Ekonomik tasma' haline geldi." },
+
+    { "c": "Kucuk Kaynarca", "o": "1768-1774 Osmanli-Rus Savasi'nda donanmamiz nerede yakildi?", "a": "Cesme baskininda Ruslar tarafindan yakildi." },
+    { "c": "Kucuk Kaynarca", "o": "1768-1774 savasinda padisah kimdi, anlasmayi kim imzaladi?", "a": "Savas sirasinda padisah: III. Mustafa\nAnlasmayi imzalayan: I. Abdulhamit\n(III. Mustafa savas sonuna dogru oldu)" },
+    { "c": "Kucuk Kaynarca", "o": "Kucuk Kaynarca Anlasmasi'yla Kirim ile ilgili ne kararlastirildi?", "a": "Kirim bagimsiz oldu.\n→ Osmanli ilk kez tamami Turk ve Musluman bir yeri kaybetti.\nKirim dini acidan halifeye bagli kaldi." },
+    { "c": "Kucuk Kaynarca", "o": "Halifelikin ilk kez siyasi olarak kullanilmasi hangi anlasmayla ve ne icin oldu?", "a": "Kucuk Kaynarca Anlasmasi (1774)\nKirim dini acidan halifeye bagli kalacak maddesiyle.\n2. kez: Usi Anlasmasi (Trablusgarp icin)" },
+    { "c": "Kucuk Kaynarca", "o": "Kucuk Kaynarca ile Osmanli tarihinde ilk kez ne odendi?", "a": "Savas tazminati.\nOsmanli tarihinde ilk kez savas tazminati odendi." },
+    { "c": "Kucuk Kaynarca", "o": "Kucuk Kaynarca'nin hangi iki maddesi Rusya'ya ic islerimize karisma firsati verdi?", "a": "1) Rusya Istanbul ve Balkanlarda elci/konsolosluk acabilecek\n2) Ortodokslarin koruyucusu Rusya olacak" },
+    { "c": "Kucuk Kaynarca", "o": "Kucuk Kaynarca ile Rusya'ya ilk kez ne verildi?", "a": "Kapitulasyonlar.\nRusya'ya verilen ilk kapitulasyonlardir." },
+    { "c": "Kucuk Kaynarca", "o": "Kucuk Kaynarca'nin Karadeniz ile ilgili maddesi nedir?", "a": "Rusya Karadeniz'de donanma ve tersane bulundurabilecek.\n→ 1739 Belgrad'da 'son kez Turk golu' denilen Karadeniz'deki Turk hakimiyeti bozuldu." },
+
+    { "c": "Kirim Sureci & Yas", "o": "KAY sifresi neyi ifade eder?", "a": "Kirim'in kaybedilis sureci:\nK - Kucuk Kaynarca → bagimsiz\nA - Aynali Kavak → ozerk (Sahin Giray)\nY - Yas → Rusya'nin" },
+    { "c": "Kirim Sureci & Yas", "o": "'Kirim hangi anlasmayla kaybedildi?' sorusunun dogru cevabi nedir?", "a": "Kucuk Kaynarca Anlasmasi.\nKirim burada bagimsiz oldu → artik Osmanli'nin degil.\n(Yas Anlasmasi degil!)" },
+    { "c": "Kirim Sureci & Yas", "o": "1779 Aynali Kavak Tenkihnamesi ile Kirim'da ne degisti?", "a": "Kirim'a Rus yanlisi Sahin Giray atandi.\nKirim ozerk hale geldi: iceride serbest, disarida Rusya'ya bagimli." },
+    { "c": "Kirim Sureci & Yas", "o": "1791 Zistovi Anlasmasi hangi etkenle imzalandi?", "a": "Fransiz Ihtilali etkisiyle.\nAvusturya'da milliyetci isyanlar cikti → Avusturya savastan cekildi ve aldigi topraklari geri verdi." },
+    { "c": "Kirim Sureci & Yas", "o": "Zigetvar, Zitvatoruk ve Zistovi arasindaki fark nedir?", "a": "Zigetvar: Kanuni'nin son seferi\nZitvatoruk (1606): Protokol ustunlugu kaybedildi\nZistovi (1791): Fransiz Ihtilali etkisiyle Avusturya'yla anlasma" },
+    { "c": "Kirim Sureci & Yas", "o": "1792 Yas Anlasmasi'nin iki buyuk sonucu nedir?", "a": "1) Kirim'in Rusya'ya ait oldugu kabul edildi\n2) Osmanli'nin gerileme donemi bitti, dagilma donemi basladi" },
+
+    { "c": "Fransa'nin Misir Isgali", "o": "Osmanli denge politikasini ilk kez hangi olayla uyguladi?", "a": "1798-1801 Fransa'nin Misir Isgali.\nFransa'ya karsi Ingiltere ve Rusya'yi yanina aldi." },
+    { "c": "Fransa'nin Misir Isgali", "o": "Nizam-i Cedit ordusunun ilk ve son basarisi nedir?", "a": "Akka Kalesi onlerinde Napolyon Bonapart'i maglup etmek.\nKomutan: Cezzar Ahmet Pasa (90'li yaslarinda)" },
+    { "c": "Fransa'nin Misir Isgali", "o": "Napolyon, Cezzar Ahmet Pasa icin ne demistir?", "a": "'O ihtiyar bunak olmasaydi Ortadogu'nun pek cok yerini fethedebilirdim.'\nNapolyon karsisinda Fransa ornek alinarak kurulan bir ordu oldugunu bilmiyordu." },
+    { "c": "Fransa'nin Misir Isgali", "o": "Fransa'nin Misir isgali hangi anlasmalarla sonuclandi?", "a": "Once El Aris Anlasmasi imzalandi → Ingiltere kabul etmedi.\nSonra 1802 Paris Anlasmasi ile Fransa Misir'dan cekildi." },
+    { "c": "Fransa'nin Misir Isgali", "o": "Abukir'da ne oldu?", "a": "Ingiltere ve Rusya, Abukir'da Fransiz donanmasini yakti.\n(Osmanli'nin denge politikasi kapsaminda)" },
+    { "c": "Fransa'nin Misir Isgali", "o": "Nizam-i Cedit ordusunun Fransa ornek alinarak kurulmasi Napolyon'a nasil dezavantaj oldu?", "a": "Napolyon karsisindaki ordunun kendi tarzi orduyla ayni egitimde oldugunu bilmiyordu.\nFransa ne kadar gucluyse Nizam-i Cedit de o kadar gucluydu." },
+
+    { "c": "Lale Devri", "o": "Lale Devri hangi tarihler arasinda, hangi olaylarla sinirlidir?", "a": "1718 Pasarofca Anlasmasi → 1730 Patrona Halil Isyani\n12 yillik donem" },
+    { "c": "Lale Devri", "o": "Osmanli'nin ilk ozel matbaasini kimler kurdu ve dini eserlerin basimi neden yasaklandi?", "a": "Ibrahim Muteferrika + Sait Efendi kurdu (Macaristan'dan getirildi).\nDini eserler yasaklandi cunku hattatlar ve mustensihler issiz kalacakti." },
+    { "c": "Lale Devri", "o": "Osmanli'nin ilk ozel matbaasinda basilan ilk eser hangisidir?", "a": "Vankulu Lugati\n(Vani Mehmet Efendi'ye ait)" },
+    { "c": "Lale Devri", "o": "Lale Devri'nde Avrupa'ya acilan ilk gecici elcilikler nerelere acildi?", "a": "Paris, Viyana, Varsova\nIlk gecici elci: 28 Mehmet Celebi (Paris)" },
+    { "c": "Lale Devri", "o": "Sefaretname nedir?", "a": "Avrupa'ya gonderilen elcilerin orada gorduklerini yazip getirdigi eserlerdir.\n(Daha once KPSS'de sorulmus)" },
+    { "c": "Lale Devri", "o": "Lale Devri'nde dogudan gelen tek yenilik nedir?", "a": "Iran'dan getirilen cicek asisi" },
+    { "c": "Lale Devri", "o": "Lale Devri'nde hangi alanda islahat yapilmamistir?", "a": "Askeri alanda islahat yapilmamistir.\n(18. yuzyilda askeri islahat var, ama Lale Devri'nde yok)" },
+    { "c": "Lale Devri", "o": "Bati tarzi ilk sivil mimari eser ve ilk dini mimari eser hangileridir?", "a": "Ilk sivil eser: III. Ahmet Cesmesi\nIlk dini mimari: Nuruosmaniye Camii" },
+    { "c": "Lale Devri", "o": "Osmanli'nin ilk itfaiye orgutunun adi nedir ve ne zaman kuruldu?", "a": "Tulumbacilar Ocagi\nLale Devri'nde yanginlara karsi kuruldu." },
+    { "c": "Lale Devri", "o": "Lale Devri'nde savasilan tek devlet hangisidir?", "a": "Iran" },
+
+    { "c": "18. yy Islahatlari", "o": "18. yuzyil islahatlarinin 17. yuzyildan temel farki nedir?", "a": "18. yuzyilda ilk kez bati ornek alindi.\n(17. yuzyilda Kanuni donemi/yukselme donemi ornek aliniyordu)\nAncak yine koklu/kalici degil, kisilere bagli islahatlardir." },
+    { "c": "18. yy Islahatlari", "o": "I. Mahmut doneminde getirilen ilk yabanci askeri uzman kim ve ne yapti?", "a": "Kont de Bonneval (Humbaraci Ahmet Pasa):\n1) Humbaraci ocagini islah etti\n2) Hendeshane'yi kurdu (bati tarzi ilk askeri teknik okul)\n3) Orduyu boluk-alay-tabur olarak yapilandirdi" },
+    { "c": "18. yy Islahatlari", "o": "Osmanli'nin bati tarzi ilk askeri teknik okulu hangisidir ve kim kurdu?", "a": "Hendeshane (askeri muhendis okulu)\nKont de Bonneval (Humbaraci Ahmet Pasa) kurdu.\nI. Mahmut donemi" },
+    { "c": "18. yy Islahatlari", "o": "III. Mustafa doneminin islahat sifresi 'Baron Ragip Sut Ic' neyi ifade eder?", "a": "Baron: Baron de Tott (yabanci askeri uzman)\nRagip: Koca Ragip Pasa (sadrazam)\nSut: Surat Topculari Ocagi\nIc: Ic borclanma (Esham senetleri)" },
+    { "c": "18. yy Islahatlari", "o": "Esham senetleri nedir? Kim hazirladi, kim uygulamaya koydu?", "a": "Kagit paraya gecisin ilk asamasi; ic borclanma senedi.\nHazirlayan: III. Mustafa\nUygulayan: I. Abdulhamit (Kucuk Kaynarca savas tazminatini odemek icin)" },
+    { "c": "18. yy Islahatlari", "o": "I. Abdulhamit doneminde kurulan istihkam okulu ne ise yarar?", "a": "Askeri insaat muhendisligi:\nKale, sur, burc, kopru gibi askeri yapilari insa eden kisileri yetistiren okul." },
+    { "c": "18. yy Islahatlari", "o": "Muhendishane-i Bahri Humayun ne zaman ve kimin calismalariyla kuruldu?", "a": "I. Abdulhamit doneminde kuruldu.\nBaron de Tott'un calismalariyla.\nDeniz muhendishanesidir.\n(Bazi kaynaklarin III. Mustafa demesi yanlistir - MEB kaynagi I. Abdulhamit der)" },
+    { "c": "18. yy Islahatlari", "o": "Culus bahsisi uygulamasini kim baslatti, kim yasal hale getirdi, kim kaldirdi?", "a": "Ilk dagitan: Yildirim Bayezid\nYasal hale getiren: Fatih (Kanunname-i Al-i Osman)\nKaldiran: I. Abdulhamit" },
+    { "c": "18. yy Islahatlari", "o": "I. Abdulhamit neden culus bahsisini kaldirdi?", "a": "17. yuzyilda askerler sadece bahsis almak icin padisah degisikligi yapiyordu.\n(17. yuzyil en cok padisah degistirilen donem)" },
+    { "c": "18. yy Islahatlari", "o": "Ulufe alim satimi nedir ve kim yasakladi?", "a": "Yenicerilerin 3 aylik maas (ulufe) kartini ucuncu kisilere satmasi.\nI. Abdulhamit yasakladi." },
+    { "c": "18. yy Islahatlari", "o": "Yabanci devlet adamlarinin Musluman olma zorunlulugunu kim kaldirdi?", "a": "I. Abdulhamit\n'Onlarin ilminden, biliminden faydalanalim, bize yeter' diyerek kaldirdi." },
+    { "c": "18. yy Islahatlari", "o": "III. Selim neden 'ilk radikal islahatci' olarak anilir?", "a": "Layihalar (raporlar) hazirlatti, mesveret meclislerinde tartistirdi.\nIslahatlari planli ve sistematik yapti.\nNizam-i Cedit (Yeni Duzen) islahatlari" },
+    { "c": "18. yy Islahatlari", "o": "Nizam-i Cedit ordusunun masraflari nasil karsilandi?", "a": "Irad-i Cedit hazinesi kuruldu.\nSaraydaki altin ve gumusler eritilerek bu hazineye aktarildi." },
+    { "c": "18. yy Islahatlari", "o": "III. Selim doneminde acilan ilk surekli elcilikler nerelere acildi?", "a": "Londra, Berlin, Viyana, Paris\nIlk surekli elci: Yusuf Agah Efendi (Londra)" },
+    { "c": "18. yy Islahatlari", "o": "Osmanli'da Fransizca ilk kez ne zaman ve nerede zorunlu dil oldu?", "a": "III. Selim doneminde askeri okullarda zorunlu dil oldu.\n(Selim cocuklugundanberi Fransa kralinin ogluyla mektuplasarak Fransizca ogrenmisti)\nOsmanli'da ilk zorunlu yabanci dil" },
+    { "c": "18. yy Islahatlari", "o": "Muhendishane-i Berri Humayun ne zaman kuruldu ve nedir?", "a": "III. Selim doneminde kuruldu.\nKara muhendishanesidir.\n(Deniz: Muhendishane-i Bahri Humayun → I. Abdulhamit)" },
+    { "c": "18. yy Islahatlari", "o": "III. Selim donemini hangi isyan sona erdirdi? Yerine kim gecti?", "a": "1807 Kabakci Mustafa Isyani\nYerine IV. Mustafa gecti (II. Mahmut degil!)\nSonra Alemdar Mustafa Pasa IV. Mustafa'yi indirip II. Mahmut'u gecirdi." },
+    { "c": "18. yy Islahatlari", "o": "III. Ahmet hangi isyanla basa geldi, hangi isyanla gitti?", "a": "Geldi: 1703 Edirne Vakasi (II. Mustafa indirildi)\nGitti: 1730 Patrona Halil Isyani\n→ Isyanla gelen, isyanla giden padisah" },
+    { "c": "18. yy Islahatlari", "o": "Matbaa-i Amire nedir ve ne zaman kuruldu?", "a": "Osmanli'nin ilk devlet matbaasi.\nIII. Selim doneminde kuruldu.\n(Ilk ozel matbaa Lale Devri'nde)" }
+  ],
+  "tuzak": [
+    { "q": "Osmanli'nin kaybettigi topraklari geri alma umutlarini ARTIRAN anlasma hangisidir?", "o": ["Prut Anlasmasi (1711)", "Pasarofca Anlasmasi (1718)"], "c": 0, "n": "Prut'ta Azak geri alindi → umut artti. Pasarofca'da Mora alindi ama Belgrad kaybedildi → umut tukendi." },
+    { "q": "Karadeniz'in SON KEZ Turk golu sayildigi anlasma hangisidir?", "o": ["1700 Istanbul Anlasmasi", "1739 Belgrad Anlasmasi", "1774 Kucuk Kaynarca"], "c": 1, "n": "1700 Istanbul: ilk kez cikti. 1739 Belgrad: son kez Turk golu. 1774 Kucuk Kaynarca: hakimiyet bozuldu." },
+    { "q": "Kirim'in Osmanli'dan KAYBEDILDIGI (bagimsiz oldugu) anlasma hangisidir?", "o": ["Kucuk Kaynarca Anlasmasi", "Yas Anlasmasi"], "c": 0, "n": "Kucuk Kaynarca'da Kirim bagimsiz oldu = Osmanli kaybetti. Yas'ta Rusya'nin oldugu kabul edildi, ama Kirim zaten Osmanli'nin degildi." },
+    { "q": "Dakya projesi hangi devletlerin ortak planidir?", "o": ["Rusya + Avusturya", "Rusya + Fransa", "Rusya + Ingiltere"], "c": 0, "n": "Dakya = Rusya + Avusturya (Balkanlarda). Grek projesi ise sadece Rusya'nindir." },
+    { "q": "Osmanli'nin ilk gecici elcisi kimdir?", "o": ["28 Mehmet Celebi (Paris)", "Yusuf Agah Efendi (Londra)"], "c": 0, "n": "28 Mehmet Celebi ilk GECICI elci (Lale Devri). Yusuf Agah Efendi ilk SUREKLI elci (III. Selim)." },
+    { "q": "Osmanli'nin ilk ozel matbaasi ne zaman kuruldu?", "o": ["Lale Devri", "III. Selim donemi"], "c": 0, "n": "Ilk OZEL matbaa Lale Devri'nde. Ilk DEVLET matbaasi (Matbaa-i Amire) III. Selim doneminde." },
+    { "q": "Muhendishane-i Bahri Humayun (Deniz muhendishanesi) hangi donemde kuruldu?", "o": ["III. Mustafa donemi", "I. Abdulhamit donemi"], "c": 1, "n": "Bazi kaynaklar yanlis olarak III. Mustafa der. MEB kaynaklarina gore I. Abdulhamit doneminde Baron de Tott'un calismalariyla kuruldu." },
+    { "q": "Esham senetlerini kim hazirladi?", "o": ["III. Mustafa", "I. Abdulhamit"], "c": 0, "n": "Hazirlayan III. Mustafa, uygulamaya koyan I. Abdulhamit. Mustafa savas sirasinda oldugu icin uygulama Abdulhamit'e kaldi." },
+    { "q": "I. Mahmut doneminde getirilen yabanci askeri uzman kimdir?", "o": ["Kont de Bonneval (Humbaraci Ahmet Pasa)", "Baron de Tott"], "c": 0, "n": "Kont de Bonneval = I. Mahmut donemi. Baron de Tott = III. Mustafa donemi (sonra I. Abdulhamit doneminde de devam etti)." },
+    { "q": "Lale Devri'nde hangi alanda islahat YAPILMAMISTIR?", "o": ["Askeri alan", "Kultur-sanat alani", "Matbaacilik alani"], "c": 0, "n": "Lale Devri'nde pek cok alanda islahat var ama askeri alanda islahat yoktur. Askeri islahatlar I. Mahmut ile basladi." },
+    { "q": "Zitvatoruk Anlasmasi (1606) ile ne kaybedildi?", "o": ["Protokol ustunlugu (Avusturya'ya karsi)", "Toprak (Balkanlarda)"], "c": 0, "n": "Zitvatoruk: protokol ustunlugu kaybi. Zigetvar: Kanuni'nin son seferi. Zistovi: Fransiz Ihtilali etkisiyle." },
+    { "q": "Halifelik ilk kez siyasi olarak hangi anlasmayla kullanildi?", "o": ["Kucuk Kaynarca Anlasmasi (Kirim icin)", "Usi Anlasmasi (Trablusgarp icin)"], "c": 0, "n": "1. kullanim: Kucuk Kaynarca (Kirim dini acidan halifeye bagli). 2. kullanim: Usi (Trablusgarp icin)." },
+    { "q": "Osmanli-Rusya arasindaki ILK anlasma hangisidir?", "o": ["1681 Bahcesaray (Cehrin) Anlasmasi", "1724 Istanbul Anlasmasi"], "c": 0, "n": "Bahcesaray ilk anlasma. 1724 Istanbul ise ilk DOSTLUK anlasmasidir." },
+    { "q": "Karlovca ve Pasarofca anlasmalarinin arabuluculari kimlerdir?", "o": ["Ingiltere ve Hollanda", "Fransa"], "c": 0, "n": "Karlovca ve Pasarofca: Ingiltere + Hollanda. Belgrad: Fransa (kapitulasyonlar surekli hale getirildi)." },
+    { "q": "Osmanli tarihinde ilk kez savas tazminati odenen anlasma hangisidir?", "o": ["Kucuk Kaynarca Anlasmasi (1774)", "Pasarofca Anlasmasi (1718)"], "c": 0, "n": "1774 Kucuk Kaynarca'da Osmanli ilk kez savas tazminati odedi. Pasarofca'da boyle bir madde yoktur." },
+    { "q": "Osmanli'da ilk radikal islahatci padisah kimdir?", "o": ["III. Selim", "II. Mahmut", "I. Mahmut"], "c": 0, "n": "III. Selim ilk RADIKAL islahatci (layihalar + mesveret meclisleri). Genc Osman ilk islahatci padisahtir." },
+    { "q": "Batinin ustunlugu ilk kez hangi anlasmayla kabul edildi?", "o": ["Pasarofca Anlasmasi (1718)", "Kucuk Kaynarca Anlasmasi (1774)"], "c": 0, "n": "Pasarofca'da Avusturya'ya yenilince bati ustunlugu kabul edildi ve Lale Devri basladi." },
+    { "q": "Lale Devri'nde savasilan tek devlet hangisidir?", "o": ["Iran", "Rusya", "Avusturya"], "c": 0, "n": "Lale Devri'nde sadece Iran'la savas yapildi. Rusya ve Avusturya ile savaslar donemin disindadir." },
+    { "q": "Lale Devri'nde dogudan gelen tek yenilik nedir?", "o": ["Cicek asisi (Iran'dan)", "Matbaa (Macaristan'dan)"], "c": 0, "n": "Cicek asisi dogudan (Iran) gelen tek yenilik. Matbaa batidir (Macaristan)." },
+    { "q": "Nizam-i Cedit ordusunun ilk ve son basarisi nerede kazanildi?", "o": ["Akka Kalesi (Napolyon'a karsi)", "Prut (Rusya'ya karsi)"], "c": 0, "n": "Akka Kalesi onlerinde Cezzar Ahmet Pasa komutanliginda Napolyon maglup edildi. Bu Nizam-i Cedit'in tek basarisidir." },
+    { "q": "Culus bahsisi uygulamasini kaldiran padisah kimdir?", "o": ["I. Abdulhamit", "III. Selim", "II. Mahmut"], "c": 0, "n": "I. Abdulhamit kaldirdi (17. yy'da askerler bahsis icin padisah degistiriyordu). Ilk dagitan Yildirim Bayezid, yasal yapan Fatih." },
+    { "q": "III. Selim'in kullandigi mahlas ve buldugu muzik makami nedir?", "o": ["Ilhami / Suz-i Dilara", "Avni / Suz-i Dilara"], "c": 0, "n": "III. Selim = Ilhami mahlasi. Avni ise Fatih Sultan Mehmet'in mahlasidir." },
+    { "q": "Potemkin tarafindan 'Dogu sisteminin buyuk plani' olarak nitelenen gelisme hangisidir?", "o": ["Grek Projesi", "Dakya Projesi", "Panslavizm"], "c": 0, "n": "Grek Projesi Potemkin tarafindan boyle nitelenmistir. Dakya: Rusya+Avusturya'nin Balkan plani." },
+    { "q": "Osmanli denge politikasini ilk kez hangi olayda uyguladi?", "o": ["Fransa'nin Misir Isgali (1798)", "1736-1739 Osmanli-Rus-Avusturya Savaslari"], "c": 0, "n": "Fransa'ya karsi Ingiltere ve Rusya'yi yanina alarak ilk kez denge politikasi uygulandi." },
+    { "q": "Osmanli'da ilk zorunlu yabanci dil hangisidir ve kim zorunlu kildi?", "o": ["Fransizca - III. Selim", "Fransizca - III. Ahmet"], "c": 0, "n": "III. Selim askeri okullarda Fransizca'yi zorunlu kildi. Cocuklugundanberi Fransa'yla mektuplasarak ogrenmisti." },
+    { "q": "III. Selim'den sonra tahta kim gecti?", "o": ["IV. Mustafa", "II. Mahmut"], "c": 0, "n": "Kabakci Mustafa Isyani → IV. Mustafa gecti. Sonra Alemdar Mustafa Pasa IV. Mustafa'yi indirip II. Mahmut'u gecirdi." },
+    { "q": "Kerden Anlasmasi'nin diger adi nedir?", "o": ["Ikinci Kasri Sirin", "Ikinci Karlovca"], "c": 0, "n": "1639 Kasri Sirin'in sinirlari (Zagros Daglari) tekrar cizildigi icin 'Ikinci Kasri Sirin' denir." },
+    { "q": "Rusya'ya ilk kez kapitulasyon hangi anlasmayla verildi?", "o": ["Kucuk Kaynarca (1774)", "Belgrad Anlasmasi (1739)"], "c": 0, "n": "Belgrad'da Fransa'ya kapitulasyonlar surekli hale getirildi. Kucuk Kaynarca'da ise Rusya'ya ILK KEZ kapitulasyon verildi." },
+    { "q": "1724 Istanbul Anlasmasi hangi padisah donemindedir?", "o": ["III. Ahmet", "I. Mahmut"], "c": 0, "n": "1724 Istanbul = III. Ahmet (Lale Devri). 1746 Kerden = I. Mahmut donemi." },
+    { "q": "Belgrad Anlasmasi'nda Azak Kalesi ne oldu?", "o": ["Yikilarak Rusya'ya verildi", "Osmanli'ya geri verildi"], "c": 0, "n": "Belgrad'da Azak yikilarak verildi ama Rusya donanma bulunduramaz → Karadeniz son kez Turk golu. Prut'ta ise Azak tamamen geri alinmisti." }
+  ],
+  "deneme": [
+    {
+      "q": "Asagidakilerden hangisi Pasarofca Anlasmasi'nin sonuclarindan biri DEGILDIR?",
+      "o": ["Osmanli batinin ustunlugunu kabul etti", "Belgrad Avusturya'ya verildi", "Lale Devri basladi", "Karadeniz son kez Turk golu sayildi", "Arabulucular Ingiltere ve Hollanda'dir"],
+      "c": 3,
+      "e": "Karadeniz'in son kez Turk golu sayilmasi 1739 Belgrad Anlasmasi'nin sonucudur, Pasarofca'nin degil."
+    },
+    {
+      "q": "Osmanli Devleti'nin kaybettigi topraklari geri alma umutlarinin arttigi ve azaldigi anlasmalar asagidakilerin hangisinde dogru eslestirmistir?\n\nI. Prut Anlasmasi – Umutlar artti\nII. Pasarofca Anlasmasi – Umutlar tukendi\nIII. Belgrad Anlasmasi – Umutlar artti",
+      "o": ["Yalniz I", "Yalniz II", "I ve II", "I ve III", "I, II ve III"],
+      "c": 2,
+      "e": "Prut'ta Azak geri alindi (umut artti), Pasarofca'da Mora alinirken Belgrad kaybedildi (umut bitti). Belgrad Anlasmasi umutlarla degil, Karadeniz ve kapitulasyonlarla ilgilidir."
+    },
+    {
+      "q": "Asagidakilerden hangisi Kucuk Kaynarca Anlasmasi'nin maddelerinden biri DEGILDIR?",
+      "o": ["Kirim bagimsiz oldu", "Osmanli ilk kez savas tazminati odedi", "Rusya Ortodokslarin koruyucusu oldu", "Kapitulasyonlar surekli hale getirildi", "Rusya Karadeniz'de donanma bulundurabilecek"],
+      "c": 3,
+      "e": "Kapitulasyonlarin surekli hale getirilmesi 1739 Belgrad Anlasmasi'nda (Fransa arabuluculugu karsiliginda) gerceklesmistir."
+    },
+    {
+      "q": "Halifelik makaminin ilk kez siyasi bir anlasma metninde kullanilmasi asagidaki gelismelerden hangisiyle olmustur?",
+      "o": ["Karlovca Anlasmasi", "Kucuk Kaynarca Anlasmasi", "Usi Anlasmasi", "Yas Anlasmasi", "Belgrad Anlasmasi"],
+      "c": 1,
+      "e": "Kucuk Kaynarca'da 'Kirim dini acidan halifeye bagli kalacak' maddesiyle halifelik ilk kez siyasi olarak kullanildi."
+    },
+    {
+      "q": "Lale Devri ile ilgili asagidaki ifadelerden hangisi YANLISTIR?",
+      "o": ["Ilk ozel matbaa kuruldu", "Askeri alanda islahatlar yapildi", "Ilk gecici elcilikler acildi", "Iran'dan cicek asisi getirildi", "Tulumbacilar Ocagi kuruldu"],
+      "c": 1,
+      "e": "Lale Devri'nde pek cok alanda islahat var ama askeri alanda islahat YOKTUR. Askeri islahatlar I. Mahmut donemiyle basladi."
+    },
+    {
+      "q": "Osmanli Devleti'nin denge politikasini ilk kez uyguladigi olay asagidakilerden hangisidir?",
+      "o": ["1711 Prut Savasi", "1736-1739 Osmanli-Avusturya-Rusya Savaslari", "1768-1774 Osmanli-Rus Savasi", "1798-1801 Fransa'nin Misir Isgali", "1787-1792 Osmanli-Rusya-Avusturya Savaslari"],
+      "c": 3,
+      "e": "Fransa'nin Misir isgaline karsi Osmanli, Ingiltere ve Rusya'yi yanina alarak ilk kez denge politikasi uyguladi."
+    },
+    {
+      "q": "Nizam-i Cedit ordusunun ilk ve son basarisi asagidakilerden hangisidir?",
+      "o": ["Prut Savasi'nda Rusya'yi yenmesi", "Petervaradin Savasi'nda Avusturya'yi yenmesi", "Akka Kalesi'nde Napolyon'u maglup etmesi", "Cesme'de Rus donanmasini yakmasi", "Belgrad'i geri almasi"],
+      "c": 2,
+      "e": "Nizam-i Cedit ordusunun ilk ve son basarisi Akka Kalesi onlerinde Cezzar Ahmet Pasa komutanliginda Napolyon'u maglup etmesidir."
+    },
+    {
+      "q": "Asagidaki eslesmelerin hangisi YANLISTIR?",
+      "o": ["I. Mahmut – Kont de Bonneval", "III. Mustafa – Baron de Tott", "III. Selim – Nizam-i Cedit", "I. Abdulhamit – Halil Hamit Pasa", "III. Ahmet – Baron de Tott"],
+      "c": 4,
+      "e": "Baron de Tott III. Mustafa doneminde getirildi. III. Ahmet doneminde (Lale Devri) askeri alanda islahat yapilmamistir."
+    },
+    {
+      "q": "Kirim'in Osmanli'dan koparilma sureciyle ilgili asagidaki ifadelerden hangisi DOGRUDUR?",
+      "o": ["Yas Anlasmasi ile Kirim bagimsiz oldu", "Kucuk Kaynarca ile Kirim ozerk hale geldi", "Aynali Kavak ile Kirim'a Sahin Giray atandi", "Kucuk Kaynarca ile Kirim Rusya'ya verildi", "Aynali Kavak ile Kirim bagimsiz oldu"],
+      "c": 2,
+      "e": "KAY sifresi: Kucuk Kaynarca → bagimsiz, Aynali Kavak → ozerk (Sahin Giray atandi), Yas → Rusya'nin."
+    },
+    {
+      "q": "1791 Zistovi Anlasmasi'nin imzalanmasinda asagidakilerden hangisinin etkisi vardir?",
+      "o": ["Sanayi Devrimi", "Cografi Kesifler", "Fransiz Ihtilali", "Reform Hareketleri", "Ronesans"],
+      "c": 2,
+      "e": "Fransiz Ihtilali'nin yaydigi milliyetcilik akimi Avusturya icinde isyanlara yol acti. Avusturya savastan cekilmek zorunda kaldi ve Zistovi imzalandi."
+    },
+    {
+      "q": "Osmanli Devleti'nin bati tarzi ilk askeri teknik okulu asagidakilerden hangisidir?",
+      "o": ["Muhendishane-i Bahri Humayun", "Muhendishane-i Berri Humayun", "Hendeshane", "Istihkam Okulu", "Surat Topculari Ocagi"],
+      "c": 2,
+      "e": "Hendeshane I. Mahmut doneminde Kont de Bonneval tarafindan kuruldu. Bati tarzi ilk askeri teknik okuldur."
+    },
+    {
+      "q": "Muhendishane-i Bahri Humayun (Deniz Muhendishanesi) asagidaki donemlerden hangisinde kurulmustur?",
+      "o": ["III. Mustafa donemi", "I. Abdulhamit donemi", "III. Selim donemi", "I. Mahmut donemi", "III. Ahmet donemi"],
+      "c": 1,
+      "e": "Muhendishane-i Bahri Humayun I. Abdulhamit doneminde Baron de Tott'un calismalariyla kuruldu. MEB kaynaklari bu sekilde belirtmektedir."
+    },
+    {
+      "q": "Esham senetleriyle ilgili asagidaki ifadelerden hangisi DOGRUDUR?",
+      "o": ["III. Selim hazirlayip uygulamaya koymustur", "I. Mahmut doneminde hazirlanmistir", "Kagit paraya gecisin ilk asamasidir", "Dis borclanma araci olarak kullanilmistir", "Belgrad Anlasmasi tazminati icin uygulanmistir"],
+      "c": 2,
+      "e": "Esham senetleri ic borclanma aracidir ve kagit paraya gecisin ilk asamasidir. III. Mustafa hazirladi, I. Abdulhamit Kucuk Kaynarca tazminati icin uygulamaya koydu."
+    },
+    {
+      "q": "Asagidakilerden hangisi III. Selim'in Lale Devri'nin tamamlayicisi sayilma gerekceleri arasinda YER ALMAZ?",
+      "o": ["Ilk devlet matbaasini kurdu", "Ilk surekli elcilikleri acti", "Hendeshane'yi kurdu", "Matbaa-i Amire'yi kurdu", "Yusuf Agah Efendi'yi Londra'ya gonderdi"],
+      "c": 2,
+      "e": "Hendeshane I. Mahmut doneminde kuruldu. Selim'in tamamlayiciligi: Ozel matbaa → Devlet matbaasi; Gecici elcilik → Surekli elcilik seklindedir."
+    },
+    {
+      "q": "1703 Edirne Vakasi'nin sonuclarindan biri asagidakilerden hangisidir?",
+      "o": ["I. Mahmut tahta gecti", "III. Selim tahta gecti", "III. Ahmet tahta gecti", "IV. Mustafa tahta gecti", "II. Mahmut tahta gecti"],
+      "c": 2,
+      "e": "Edirne Vakasi'nda II. Mustafa tahttan indirildi, III. Ahmet (Lale Devri padisahi) tahta gecti."
+    },
+    {
+      "q": "I. Abdulhamit donemi islahatlariyla ilgili asagidakilerden hangisi YANLISTIR?",
+      "o": ["Istihkam okulu acildi", "Culus bahsisi kaldirildi", "Ulufe alim satimi yasaklandi", "Surat Topculari Ocagi kuruldu", "Yabanci devlet adamlarinin Musluman olma zorunlulugu kaldirildi"],
+      "c": 3,
+      "e": "Surat Topculari Ocagi III. Mustafa doneminde kuruldu, I. Abdulhamit doneminde degil."
+    },
+    {
+      "q": "Asagidakilerden hangisi 1724 Istanbul Anlasmasi icin soylenebilir?",
+      "o": ["Osmanli-Rusya arasindaki ilk anlasmadir", "Karadeniz son kez Turk golu sayildi", "Osmanli-Rusya arasindaki ilk dostluk anlasmasidir", "Kapitulasyonlar surekli hale getirildi", "Kirim bagimsiz oldu"],
+      "c": 2,
+      "e": "1724 Istanbul Anlasmasi Osmanli ile Rusya arasindaki ilk dostluk anlasmasi olup Iran topraklari paylasildi. Ilk anlasma 1681 Bahcesaray'dir."
+    },
+    {
+      "q": "Potemkin tarafindan 'Dogu sisteminin buyuk plani' olarak nitelenen gelisme asagidakilerden hangisidir?",
+      "o": ["Panslavizm", "Dakya Projesi", "Grek Projesi", "Panislamizm", "Sicak denizlere inme"],
+      "c": 2,
+      "e": "Grek Projesi (Rusya'nin Istanbul merkezli Bizans'i canlandirma plani) Potemkin tarafindan 'Dogu sisteminin buyuk plani' olarak nitelenmistir."
+    },
+    {
+      "q": "Asagidaki gelismelerden hangisinde Osmanli donanmasi yakilmistir?\n\nI. Inebahtı\nII. Cesme\nIII. Petervaradin",
+      "o": ["Yalniz I", "Yalniz II", "I ve II", "II ve III", "I, II ve III"],
+      "c": 2,
+      "e": "Osmanli donanmasi yakilma yerleri: Inebahti, Cesme, Navarin, Sinop. Petervaradin bir kara savasi olup Avusturya'ya karsi kaybedilmistir."
+    },
+    {
+      "q": "Asagidakilerden hangisi Fransa'nin Misir'i isgalinin sonuclarindan biri DEGILDIR?",
+      "o": ["Osmanli ilk kez denge politikasi uyguladi", "Nizam-i Cedit ordusunun ilk ve son basarisi goruldu", "Kapitulasyonlar surekli hale getirildi", "1802 Paris Anlasmasi ile Fransa Misir'dan cekildi", "Ingiltere ve Rusya Abukir'da Fransiz donanmasini yakti"],
+      "c": 2,
+      "e": "Kapitulasyonlarin surekli hale getirilmesi 1739 Belgrad Anlasmasi'nin sonucudur, Misir isgaliyle ilgisi yoktur."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Anlasma → Temel Sonucu",
+      "p": [
+        ["Prut Anlasmasi (1711)", "Azak Kalesi geri alindi; umutlar artti"],
+        ["Pasarofca Anlasmasi (1718)", "Belgrad kaybedildi; bati ustunlugu kabul edildi"],
+        ["1724 Istanbul Anlasmasi", "Osmanli-Rus ilk dostluk anlasmasi; Iran paylasimi"],
+        ["Kerden Anlasmasi (1746)", "Ikinci Kasri Sirin; Zagros sinirlari tekrarlandi"],
+        ["Belgrad Anlasmasi (1739)", "Karadeniz son kez Turk golu; kapitulasyonlar surekli"],
+        ["Kucuk Kaynarca (1774)", "Kirim bagimsiz; ilk savas tazminati"],
+        ["Zistovi Anlasmasi (1791)", "Fransiz Ihtilali etkisiyle Avusturya cekildigi"],
+        ["Yas Anlasmasi (1792)", "Kirim Rusya'nin; gerileme donemi bitti"]
+      ]
+    },
+    {
+      "ad": "Islahatci Padisah → Temel Islahati",
+      "p": [
+        ["III. Ahmet", "Lale Devri; ilk ozel matbaa; ilk gecici elcilikler"],
+        ["I. Mahmut", "Ilk bati tarzi askeri islahatlar; Hendeshane"],
+        ["III. Mustafa", "Surat Topculari Ocagi; Esham senetleri hazirlandi"],
+        ["I. Abdulhamit", "Istihkam okulu; Muhendishane-i Bahri Humayun"],
+        ["III. Selim", "Nizam-i Cedit; ilk surekli elcilikler; ilk devlet matbaasi"],
+        ["Nevsehirli Ibrahim Pasa", "Lale Devri sadrazami"],
+        ["Koca Ragip Pasa", "III. Mustafa doneminin sadrazami"]
+      ]
+    },
+    {
+      "ad": "Ilk → Donem/Anlasma",
+      "p": [
+        ["Ilk ozel matbaa", "Lale Devri (Ibrahim Muteferrika + Sait Efendi)"],
+        ["Ilk devlet matbaasi", "III. Selim donemi (Matbaa-i Amire)"],
+        ["Ilk gecici elci", "Lale Devri (28 Mehmet Celebi - Paris)"],
+        ["Ilk surekli elci", "III. Selim donemi (Yusuf Agah Efendi - Londra)"],
+        ["Ilk savas tazminati", "Kucuk Kaynarca Anlasmasi (1774)"],
+        ["Ilk denge politikasi", "Fransa'nin Misir Isgali (1798)"],
+        ["Ilk bati tarzi askeri islahat", "I. Mahmut donemi"],
+        ["Ilk zorunlu yabanci dil", "III. Selim donemi (Fransizca)"]
+      ]
+    },
+    {
+      "ad": "Proje/Politika → Devlet",
+      "p": [
+        ["Panslavizm", "Rusya"],
+        ["Dakya Projesi", "Rusya + Avusturya"],
+        ["Grek Projesi", "Rusya"],
+        ["Sicak denizlere inme", "Rusya"],
+        ["Misir'i ele gecirme", "Fransa"],
+        ["Balkanlarda nufuz artirma", "Avusturya"]
+      ]
+    },
+    {
+      "ad": "Kisi → Rolu/Onemi",
+      "p": [
+        ["Kont de Bonneval", "I. Mahmut donemi ilk yabanci askeri uzman; Hendeshane"],
+        ["Baron de Tott", "III. Mustafa doneminde gelen askeri uzman; Bahri Humayun"],
+        ["Cezzar Ahmet Pasa", "Akka'da Napolyon'u yenen Nizam-i Cedit komutani"],
+        ["28 Mehmet Celebi", "Paris'e gonderilen ilk gecici elci"],
+        ["Yusuf Agah Efendi", "Londra'ya gonderilen ilk surekli elci"],
+        ["Ibrahim Muteferrika", "Ilk ozel matbaayi kuran (Sait Efendi ile)"],
+        ["Yenisehirli Abdullah Ef.", "Matbaaya izin veren seyhulislam; dini eser yasagi"]
+      ]
+    }
+  ]
+}

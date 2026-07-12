@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "gun": 14,
+    "baslik": "I. Dünya Savaşı ve Sonuçları",
+    "ozet": "I. Dünya Savaşı'nın nedenleri, Osmanlı'nın savaşa girişi ve cepheleri, gizli anlaşmalar, Wilson İlkeleri, savaşın sonuçları, Mondros ve işgaller ile Kurtuluş Savaşı öncesi cemiyetler.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Panlaizm/panlamizm/pantürki → Panslavizm / Panislamizm / Pantürkizm",
+      "Gabriel Princip → Gavrilo Princip",
+      "Amiral Güprat → Amiral Guépratte (Fransız amiral); anlatılan 'oğlunu idam ettirme' kısmı efsanedir, denemeye konmadı",
+      "Goven-Breslav / Gobreslav → Goeben ve Breslau",
+      "O/Oşun/Oyşun gemisi → Ocean gemisi",
+      "Kuttül Amare → Kut'ül Amare",
+      "General Tent/Tzınd/Tuszand → General Townshend",
+      "Lever/Laverence/Leverons → (T. E.) Lawrence",
+      "McMan/Mcmo/Mekman/McMahan → McMahon",
+      "PIS Pikot / Pyus Picot / CES Pikot → Sykes-Picot",
+      "Senjender de Mören / Sen Jan de Morien → Saint-Jean de Maurienne (Sen-Jean de Maurienne)",
+      "NÖI / Nöyye → Nöyyi (Neuilly)",
+      "Retondes / Red Hondes → Rethondes",
+      "Villagusti → Villa Giusti",
+      "Kardrop → (General) Calthorpe",
+      "Osman Nevrez → Osman Nevres (Hasan Tahsin'in gerçek adı)",
+      "Zita Venizelos → Zito Venizelos",
+      "General Harbor → General Harbord",
+      "Cafer Tayyer → Cafer Tayyar Paşa; Faik Kıran → Faik Kaltakkıran",
+      "Cenubi Garbi → Cenub-i Garbi Kafkas Hükümeti",
+      "Vladimir İlli Çi/Iç Lenin → Vladimir İlyiç Lenin",
+      "Brestitovsk / Brestitosk → Brest-Litovsk"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Savaşın Nedenleri (Genel / Özel)",
+      "i": [
+        {"k": "Genel nedenler", "m": "Bloklaşma, silahlanma yarışı, sömürgecilik, hammadde-pazar arayışı, milliyetçilik (1789 Fransız İhtilali) — tüm dünyayı ilgilendirir", "s": "z"},
+        {"k": "Özel nedenler", "m": "Panslavizm (Rusya), sıcak denizlere inme (Rusya), Alsas-Loren sorunu (Fransa-Almanya) — bir-iki devleti ilgilendirir", "s": "z"},
+        {"k": "Kıvılcım", "m": "Avusturya-Macaristan veliahtının Saraybosna'da Sırp Gavrilo Princip tarafından öldürülmesi", "s": "z"},
+        {"k": "Alsas-Loren", "m": "Fransa ile Almanya arasındaki kömür havzası sorunu", "s": "z"}
+      ]
+    },
+    {
+      "b": "Bloklar",
+      "i": [
+        {"k": "İttifak (2 T'li)", "m": "Almanya, Avusturya-Macaristan, Bulgaristan, Osmanlı — 'ittifak'ta 2 T var, Türkler burada", "s": "z"},
+        {"k": "İtilaf", "m": "Geri kalanların tamamı: İngiltere, Fransa, Rusya, (sonradan İtalya, ABD), Japonya, Yunanistan", "s": "z"},
+        {"k": "İtalya", "m": "Savaşta taraf değiştirdi: ittifaktan itilafa (Londra Antlaşması)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Devletlerin Rolleri (en/ilk/tek)",
+      "i": [
+        {"k": "Süreyi uzatan", "m": "Osmanlı — yeni cepheler açtığı için", "s": "z"},
+        {"k": "Süreyi kısaltan", "m": "ABD — Wilson İlkeleri ile ittifakın yenilgiyi kabulünü kolaylaştırdı", "s": "z"},
+        {"k": "En erken çekilen", "m": "Japonya (masadan kalktı)", "s": "z"},
+        {"k": "İttifakta en erken çekilen", "m": "Bulgaristan", "s": "z"},
+        {"k": "İttifakta kara bağlantısı", "m": "Bulgaristan (Almanya'dan teçhizat için)", "s": "z"},
+        {"k": "En zararlı çıkan", "m": "Almanya — Versay Antlaşması (ileride Hitler ve II. Dünya Savaşı)", "s": "z"},
+        {"k": "En karlı çıkan", "m": "İngiltere, Fransa, Japonya (ABD Monroe'ya döndüğü için sayılmaz)", "s": "z"},
+        {"k": "En son katılan", "m": "Yunanistan (İzmir ve Doğu Trakya için)", "s": "z"},
+        {"k": "Devrim/darbe ile çekilen", "m": "Çarlık Rusya — Bolşevik Devrimi, yerine SSCB, Brest-Litovsk", "s": "z"}
+      ]
+    },
+    {
+      "b": "Cepheler",
+      "i": [
+        {"k": "KANKA = Taarruz", "m": "Kankanla taarruza gidersin: Kanal ve Kafkas taarruz cepheleri", "s": "z"},
+        {"k": "...YAĞ = Yardım", "m": "Makedon-yağ, Galiç-yağ, Romanya: yardım (müttefiklere) cepheleri", "s": "z"},
+        {"k": "Savunma", "m": "İkisine de girmiyorsa savunma: Çanakkale, Suriye-Filistin, Hicaz-Yemen, Irak", "s": "z"}
+      ]
+    },
+    {
+      "b": "Kafkas Cephesi Kodları",
+      "i": [
+        {"k": "Elviye-i Selase", "m": "Kars, Ardahan, Batum (3 vilayet) — 93 Harbi/Berlin ile kaybedildi, geri alınmak istendi", "s": "z"},
+        {"k": "Muşlis", "m": "Muş + Bitlis — M. Kemal'in Kafkas'ta Ruslardan geri aldığı iki şehir", "s": "z"},
+        {"k": "Sarıkamış", "m": "Kafkas Cephesi'nde askerlerin donarak şehit düşmesi (sorumlu: Enver Paşa)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Wilson İlkeleri & ABD",
+      "i": [
+        {"k": "Monroe doktrini", "m": "Yalnızlık / infirat politikası (1823'ten beri) — ABD kıtalar arası karışmama", "s": "z"},
+        {"k": "Toprak-tazminat yok", "m": "Yenen yenilenden toprak-savaş tazminatı almayacak → sömürgecilik yerine manda-himaye", "s": "z"},
+        {"k": "Self-determinasyon", "m": "Her ulus çoğunlukta olduğu yerde kendi kaderini tayin eder", "s": "z"},
+        {"k": "Milletler Cemiyeti", "m": "İlk bahsedilen yer: Wilson İlkeleri; kurulduğu yer: Paris Barış Konferansı", "s": "z"}
+      ]
+    },
+    {
+      "b": "Ateşkesler: BOĞA SEMAVER",
+      "i": [
+        {"k": "Bulgaristan", "m": "Selanik Ateşkesi", "s": "z"},
+        {"k": "Osmanlı", "m": "Mondros Ateşkesi (Rauf Orbay imzaladı)", "s": "z"},
+        {"k": "Avusturya-Macaristan", "m": "Villa Giusti Ateşkesi", "s": "z"},
+        {"k": "Almanya", "m": "Rethondes Ateşkesi", "s": "z"}
+      ]
+    },
+    {
+      "b": "Barış Anlaşmaları: SON VİTES OBAMA",
+      "i": [
+        {"k": "Osmanlı", "m": "Sevr (şartları San Remo'da belirlendi, diğerleri Paris'te)", "s": "z"},
+        {"k": "Bulgaristan", "m": "Nöyyi (Neuilly)", "s": "z"},
+        {"k": "Almanya", "m": "Versay (ilk imzalanan ve en ağır barış)", "s": "z"},
+        {"k": "Macaristan", "m": "Triyanon", "s": "z"},
+        {"k": "Avusturya", "m": "Saint-Germain", "s": "z"}
+      ]
+    },
+    {
+      "b": "Mondros & Vilayet-i Sitte",
+      "i": [
+        {"k": "7. madde", "m": "İtilaf güvenliğini tehdit eden stratejik noktayı işgal — M. Kemal: 'beyni yakan zehirden bir ateş'", "s": "z"},
+        {"k": "24. madde", "m": "Vilayet-i Sitte'de karışıklık çıkarsa işgal (6 doğu ilinde Ermeni devleti amacı)", "s": "z"},
+        {"k": "SEVBET", "m": "Vilayet-i Sitte: Sivas, Erzurum, Van, Bitlis, Elazığ, Diyarbakır", "s": "e"},
+        {"k": "Fiilen/hukuken/resmen", "m": "Osmanlı fiilen: Mondros · hukuken: Mudanya · resmen: 1 Kasım 1922 saltanatın kaldırılması", "s": "z"}
+      ]
+    },
+    {
+      "b": "Cemiyet Mantığı",
+      "i": [
+        {"k": "Yararlı cemiyet", "m": "Ad'da il/ilçe/bölge VEYA milli/muhafaza/müdafaa sözcüğü varsa yararlıdır", "s": "z"},
+        {"k": "Azınlık zararlı", "m": "Adı yabancı sözcüklü (Pontus, Eterya, Mavri Mira, Hınçak...) ise azınlık cemiyeti", "s": "z"},
+        {"k": "Türk zararlı", "m": "Geri kalanlar milli varlığa düşman (Teali-i İslam, İngiliz Muhipleri, Wilson Prensipleri...)", "s": "z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "I. Dünya Savaşı'nın genel ile özel nedeni nasıl ayrılır?", "a": "Bir-iki devleti ilgilendiren neden ÖZEL, tüm dünyayı ilgilendiren neden GENEL'dir."},
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "Hangi nedenler özel nedendir?", "a": "Panslavizm (Rusya), sıcak denizlere inme (Rusya), Alsas-Loren sorunu (Fransa-Almanya)."},
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "Milliyetçilik akımı nereden yayıldı?", "a": "1789 Fransız İhtilali'nden; imparatorlukları çökerten genel nedendir."},
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "Savaşın ilk kıvılcımı hangi olaydır?", "a": "Avusturya-Macaristan veliahtının Saraybosna'da Sırp Gavrilo Princip tarafından öldürülmesi."},
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "İttifak Devletleri hangileridir?", "a": "Almanya, Avusturya-Macaristan, Bulgaristan, Osmanlı. Geri kalanların tamamı İtilaf'tır."},
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "Savaşta taraf değiştiren devlet hangisidir, hangi anlaşmayla?", "a": "İtalya; Londra Antlaşması'yla ittifaktan itilaf grubuna geçti."},
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "Savaşın süresini uzatan ve kısaltan devletler hangileridir?", "a": "Uzatan: Osmanlı (yeni cepheler). Kısaltan: ABD (Wilson İlkeleri)."},
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "Savaştan en zararlı ve en karlı çıkan devletler?", "a": "En zararlı: Almanya (Versay). En karlı: İngiltere, Fransa, Japonya."},
+    {"c": "Nedenler, Başlangıç ve Bloklar", "o": "Devrim sebebiyle savaştan çekilen devlet hangisidir?", "a": "Çarlık Rusya; Bolşevik Devrimi'yle yıkıldı, yerine SSCB kuruldu, o da Brest-Litovsk ile çekildi."},
+
+    {"c": "Osmanlı'nın Savaşa Girişi", "o": "Osmanlı savaşa hangi grupta ve hangi padişahla girdi?", "a": "İttifak grubunda, Almanya yanında; padişah V. Mehmet Reşat (cihad-ı ekber ilan etti)."},
+    {"c": "Osmanlı'nın Savaşa Girişi", "o": "Osmanlı neden İtilaf yerine Almanya ile savaşa girdi?", "a": "İngiltere-Fransa Osmanlı'yı paylaşmak istediği için reddetti; Osmanlı siyasi yalnızlıktan kurtulmak için Almanya'yı seçti."},
+    {"c": "Osmanlı'nın Savaşa Girişi", "o": "Osmanlı'nın Almanya ile girme nedenleri nelerdir?", "a": "Almanya'nın kazanacağına inanç, üstün silah teknolojisi, siyasi yalnızlık, kaybedilen toprakları geri alma, Almanya'nın Müslüman sömürgesi olmaması."},
+    {"c": "Osmanlı'nın Savaşa Girişi", "o": "Almanya neden Osmanlı'yı yanında istedi?", "a": "Jeopolitik konumu (Boğazlar, Asya-Avrupa), nüfus gücü, halifeliğin gücü (cihat) ve yeni cepheler açarak savaş yükünü hafifletmek için."},
+    {"c": "Osmanlı'nın Savaşa Girişi", "o": "Osmanlı'nın kapitülasyonları tek taraflı kaldırmasına en çok tepki gösteren devlet?", "a": "Almanya; kendi müttefikine böyle bir ayrıcalık kaybını yakıştıramadığı için (şaşırtıcı ayrıntıdır)."},
+    {"c": "Osmanlı'nın Savaşa Girişi", "o": "Osmanlı resmen savaşa nasıl girdi?", "a": "Almanya'dan kaçıp sığınan Goeben ve Breslau'ya Yavuz ve Midilli adı verildi; bu gemiler Rus limanlarını bombalayınca (İttihatçılar eliyle) savaşa girildi."},
+    {"c": "Osmanlı'nın Savaşa Girişi", "o": "M. Kemal savaştan önceki son görevi ve savaştığı cepheler nelerdir?", "a": "Son görevi: Sofya Askeri Ateşemiliteri. Cepheleri: Çanakkale, Kafkas, Suriye-Filistin."},
+
+    {"c": "Taarruz Cepheleri (Kafkas & Kanal)", "o": "Taarruz cepheleri hangileridir?", "a": "Kanal ve Kafkas ('kanka' kodu). Osmanlı'nın saldırdığı cephelerdir."},
+    {"c": "Taarruz Cepheleri (Kafkas & Kanal)", "o": "Kafkas Cephesi hangi üç amaçla açıldı?", "a": "Turancılık, Elviye-i Selase'yi (Kars-Ardahan-Batum) geri alma ve Bakü petrolleri."},
+    {"c": "Taarruz Cepheleri (Kafkas & Kanal)", "o": "Sarıkamış Faciası nedir, sorumlusu kimdir?", "a": "Kafkas Cephesi'nde askerlerin Ruslarla savaşmadan donarak şehit düşmesidir; sorumlu Enver Paşa'dır."},
+    {"c": "Taarruz Cepheleri (Kafkas & Kanal)", "o": "Tehcir (Sevk ve İskan) Kanunu hangi cephede, neden çıkarıldı?", "a": "Kafkas Cephesi'nde; Ermeniler Ruslarla anlaşıp Türkleri katledince Ermeniler Suriye ve Lübnan'a gönderildi."},
+    {"c": "Taarruz Cepheleri (Kafkas & Kanal)", "o": "M. Kemal Kafkas Cephesi'nde ne başardı?", "a": "Muş ve Bitlis'i (Muşlis) Ruslardan geri aldı; Altın Kılıç Madalyası'na layık görüldü ve generalliğe yükseldi."},
+    {"c": "Taarruz Cepheleri (Kafkas & Kanal)", "o": "Kafkas Cephesi nasıl kapandı, önemi nedir?", "a": "Rusya'da Bolşevik Devrimi olunca SSCB Brest-Litovsk'la çekildi; Elviye-i Selase geri alındı — toprak kazandığımız tek cephedir."},
+    {"c": "Taarruz Cepheleri (Kafkas & Kanal)", "o": "Kanal Cephesi hangi amaçlarla açıldı, komutanı kimdir?", "a": "Mısır'ı geri almak ve Süveyş Kanalı'nı alıp İngiltere'nin sömürge bağlantısını kesmek için; komutan Cemal Paşa."},
+    {"c": "Taarruz Cepheleri (Kafkas & Kanal)", "o": "Seyyid Beşir olayı nedir?", "a": "İngilizlerin esir aldığı binlerce Osmanlı askerini 'mikrop kırma' bahanesiyle ilaçlı sulara atıp kör etmesidir (savaş suçu)."},
+
+    {"c": "Çanakkale Cephesi", "o": "İtilaf Devletleri Çanakkale'yi hangi amaçlarla açtı?", "a": "İstanbul'u almak, Osmanlı'yı savaş dışı bırakmak, Asya-Avrupa bağlantısını kesmek, Çarlık Rusya'ya yardım götürmek ve Balkan devletlerini yanlarına çekmek."},
+    {"c": "Çanakkale Cephesi", "o": "Boğaza yeniden mayın döşeyen gemi ve komutanı kimdir?", "a": "Nusrat Mayın Gemisi; komutanı Tophaneli Hakkı Bey."},
+    {"c": "Çanakkale Cephesi", "o": "Seyit Onbaşı hangi gemiyi vurdu?", "a": "Ocean gemisini (2018 ortaöğretim KPSS'de soruldu)."},
+    {"c": "Çanakkale Cephesi", "o": "18 Mart / Çanakkale deniz zaferi kahramanı kimdir?", "a": "Cevat Çobanlı. (Dikkat: A şıkkındaki M. Kemal çeldiricidir.)"},
+    {"c": "Çanakkale Cephesi", "o": "Çanakkale kara savaşlarının kahramanı ve aldığı rütbe-unvan?", "a": "M. Kemal; Anafartalar kahramanı oldu ve albaylığa yükseldi."},
+    {"c": "Çanakkale Cephesi", "o": "Alçıtepe kahramanı kimdir?", "a": "Kazım Karabekir."},
+    {"c": "Çanakkale Cephesi", "o": "M. Kemal 'Ben size savaşmayı değil ölmeyi emrediyorum' sözünü nerede söyledi?", "a": "Conkbayırı'nda."},
+    {"c": "Çanakkale Cephesi", "o": "M. Kemal'in Çanakkale'deki komuta ve konaklama merkezi neresidir?", "a": "Kemal Yeri (ÖABT ve hakimlik sınavında sorulmuştur)."},
+    {"c": "Çanakkale Cephesi", "o": "Çanakkale Savaşı'nın diğer iki adı ve nedeni?", "a": "Aydınlar Savaşı (Darülfünun öğrencileri şehit oldu), Centilmenler Savaşı (Anzaklarla centilmence mücadele)."},
+    {"c": "Çanakkale Cephesi", "o": "Çanakkale zaferinin sonuçları nelerdir?", "a": "Osmanlı savaş dışı kalmadı, savaş uzadı; Rusya'ya yardım gidemedi (Bolşevikler kazandı); Bulgaristan ittifak yanında savaşa girdi (kara bağlantısı)."},
+
+    {"c": "Savunma Cepheleri", "o": "Osmanlı'nın savunma cepheleri hangileridir?", "a": "Çanakkale, Suriye-Filistin, Hicaz-Yemen, Irak."},
+    {"c": "Savunma Cepheleri", "o": "Hicaz-Yemen Cephesi komutanı kimdir, hangi genelgeyi çıkardı?", "a": "Fahrettin Paşa (Çöl Kaplanı, Medine Müdafii); askerler açlıktan ölmesin diye Çekirge Genelgesi'ni çıkardı."},
+    {"c": "Savunma Cepheleri", "o": "McMahon Anlaşması'nın sonucu nedir?", "a": "İngiliz ajan Lawrence ile Şerif Hüseyin arasında yapıldı; Araplara milli devlet vaadiyle İslamcılık (ümmetçilik) politikası son buldu."},
+    {"c": "Savunma Cepheleri", "o": "İngilizler Irak Cephesi'ni hangi amaçlarla açtı?", "a": "Çarlık Rusya'ya karadan yardım, Musul-Abadan petrolleri ve Hindistan yolunun güvenliği için."},
+    {"c": "Savunma Cepheleri", "o": "Kut'ül Amare Zaferi'ni kim kazandı, kimler esir alındı?", "a": "Halil Kut Paşa; 13.000'den fazla İngiliz askeri ve General Townshend esir alındı (unutturulmaya çalışılan zafer)."},
+    {"c": "Savunma Cepheleri", "o": "Suriye-Filistin Cephesi hangi cephenin devamıdır?", "a": "Kanal Cephesi'nin; orada geri çekilince bu cepheye dönüşmüştür."},
+    {"c": "Savunma Cepheleri", "o": "M. Kemal Suriye-Filistin Cephesi'nde ne yaptı?", "a": "Yıldırım Orduları Grup Komutanı olarak Hatay-Halep arasına hat çekip Anadolu'nun işgalini önledi; bu, savaştaki son görevidir."},
+    {"c": "Savunma Cepheleri", "o": "Osmanlı'nın yardım cepheleri hangileridir?", "a": "Galiçya, Makedonya, Romanya; müttefiklere yardım için katılınmıştır."},
+
+    {"c": "Gizli Anlaşmalar & Wilson İlkeleri", "o": "Gizli anlaşmaları dünyaya kim, nasıl açıkladı?", "a": "SSCB; Brest-Litovsk sonrası 'Sarı Kitap' ile açıkladı."},
+    {"c": "Gizli Anlaşmalar & Wilson İlkeleri", "o": "İstanbul ve Sykes-Picot anlaşmaları neyi öngörüyordu?", "a": "İstanbul Anlaşması: Rusya'ya Boğazlar ve İstanbul. Sykes-Picot: İngiltere-Fransa arasında Ortadoğu'nun paylaşımı."},
+    {"c": "Gizli Anlaşmalar & Wilson İlkeleri", "o": "Londra ve Saint-Jean de Maurienne anlaşmaları hangi devletle ilgilidir?", "a": "İkisi de İtalya ile: Londra ile taraf değiştirdi, Saint-Jean de Maurienne ile İzmir ve çevresi verildi."},
+    {"c": "Gizli Anlaşmalar & Wilson İlkeleri", "o": "Petrograd Protokolü neyi öngörüyordu?", "a": "Rusya'ya Doğu Anadolu'da toprak verilmesini."},
+    {"c": "Gizli Anlaşmalar & Wilson İlkeleri", "o": "ABD savaşa girmeden önce hangi politikayı uyguluyordu?", "a": "Monroe doktrini = yalnızlık / infirat politikası (1823'ten beri kıtalar arası karışmama)."},
+    {"c": "Gizli Anlaşmalar & Wilson İlkeleri", "o": "Wilson İlkeleri'nde 'toprak-tazminat almayacak' maddesinin sonucu ne oldu?", "a": "İttifak yenilgiyi kolay kabullendi (Osmanlı Mondros'u imzaladı); sömürgecilik yerini manda ve himayeye bıraktı."},
+    {"c": "Gizli Anlaşmalar & Wilson İlkeleri", "o": "Self-determinasyon ilkesi nedir, sonucu ne oldu?", "a": "Her ulusun çoğunlukta olduğu yerde kendi kaderini tayin etmesi; azınlıkların Türkleri katletmesine zemin hazırladı."},
+    {"c": "Gizli Anlaşmalar & Wilson İlkeleri", "o": "Milletler Cemiyeti ilk nerede anıldı, nerede kuruldu?", "a": "İlk Wilson İlkeleri'nde anıldı; Paris Barış Konferansı'nda kuruldu."},
+
+    {"c": "Sonuçlar, Ateşkes ve Barış", "o": "I. Dünya Savaşı'nda ilk kez hangi silahlar kullanıldı?", "a": "Kimyasal silahlar, denizaltılar ve tanklar. (Uçak DEĞİL — uçak ilk Trablusgarp'ta kullanıldı.)"},
+    {"c": "Sonuçlar, Ateşkes ve Barış", "o": "Savaşın genel sonuçları nelerdir?", "a": "İmparatorluklar parçalanıp ulus devletler kuruldu; totaliter rejimler doğdu; sömürgecilik manda-himayeye bıraktı; Milletler Cemiyeti kuruldu."},
+    {"c": "Sonuçlar, Ateşkes ve Barış", "o": "Balfour Deklarasyonu nedir?", "a": "1917'de İngiltere'nin Filistin'e Yahudi göçüne izin vermesi; 1948'de kurulacak İsrail'in ilk adımıdır."},
+    {"c": "Sonuçlar, Ateşkes ve Barış", "o": "Ateşkes anlaşmaları hangi kod ile ezberlenir? (BOĞA SEMAVER)", "a": "Bulgaristan-Selanik, Osmanlı-Mondros, Avusturya/Macaristan-Villa Giusti, Almanya-Rethondes."},
+    {"c": "Sonuçlar, Ateşkes ve Barış", "o": "Barış anlaşmaları hangi kod ile ezberlenir? (SON VİTES OBAMA)", "a": "Osmanlı-Sevr, Bulgaristan-Nöyyi, Almanya-Versay, Macaristan-Triyanon, Avusturya-Saint-Germain."},
+    {"c": "Sonuçlar, Ateşkes ve Barış", "o": "Barış anlaşmalarının şartları nerede belirlendi?", "a": "Paris Barış Konferansı'nda; yalnızca Sevr'in şartları San Remo Konferansı'nda belirlendi."},
+    {"c": "Sonuçlar, Ateşkes ve Barış", "o": "İlk imzalanan barış anlaşması hangisidir?", "a": "Versay (Almanya ile); şartları en ağır olan anlaşmadır."},
+
+    {"c": "Mondros, İşgaller ve İzmir", "o": "Mondros Ateşkesi nerede, kimler arasında imzalandı?", "a": "Limni Adası Mondros Limanı'nda Agamemnon zırhlısında; Osmanlı adına Rauf Orbay, İtilaf adına General Calthorpe."},
+    {"c": "Mondros, İşgaller ve İzmir", "o": "Mondros'un 7. ve 24. maddeleri neyi getirdi?", "a": "7. madde tüm toprakları, 24. madde Vilayet-i Sitte'yi (6 doğu ili) işgale açtı; amaç Ermeni devleti kurmaktı."},
+    {"c": "Mondros, İşgaller ve İzmir", "o": "Mondros'tan sonra işgal edilen ilk topraklar nerelerdir?", "a": "Genelde ilk: Musul. Anadolu'da ilk: Hatay (Dörtyol) — ilk direniş Kara Mehmet Çavuş."},
+    {"c": "Mondros, İşgaller ve İzmir", "o": "Osmanlı fiilen, hukuken ve resmen ne zaman sona erdi?", "a": "Fiilen: Mondros. Hukuken: Mudanya. Resmen: 1 Kasım 1922 saltanatın kaldırılması."},
+    {"c": "Mondros, İşgaller ve İzmir", "o": "Fransa Anadolu'da nereleri, hangi ilginç yeri işgal etti?", "a": "Antep-Maraş-Urfa (İngiltere'den Suriye İtilafnamesi'yle), Adana-Mersin-Hatay ve taş kömürü için Zonguldak."},
+    {"c": "Mondros, İşgaller ve İzmir", "o": "İzmir ve çevresi neden İtalya'dan alınıp Yunanistan'a verildi?", "a": "İngiltere Batı Anadolu'da güçlü İtalya yerine kendi maşası Yunanistan'ı istedi; bu, İtilaf arasında ilk görüş ayrılığıdır."},
+    {"c": "Mondros, İşgaller ve İzmir", "o": "İzmir'in işgalinde ilk kurşunu atan kişi kimdir?", "a": "Hasan Tahsin (gerçek adı Osman Nevres), Hukuk-u Beşer gazetesi başyazarı."},
+    {"c": "Mondros, İşgaller ve İzmir", "o": "Amiral Bristol ve General Harbord raporları neyle ilgilidir?", "a": "Bristol: İzmir işgalinin Wilson'a aykırılığı (Kurtuluş Savaşı'nın haklılığını duyuran ilk uluslararası belge). Harbord: 6 doğu ili."},
+
+    {"c": "Cemiyetler", "o": "Bir cemiyet yararlı mıdır nasıl anlaşılır?", "a": "Adında il/ilçe/bölge adı VEYA milli/muhafaza/müdafaa sözcüğü varsa yararlıdır."},
+    {"c": "Cemiyetler", "o": "Yararlı cemiyetlerin genel özellikleri nelerdir?", "a": "İşgallere karşı ilk tepkidir, ulusal bilinci uyandırır, BÖLGESEL kurtuluşu amaçlar; Sivas Kongresi'nde tek çatı altında birleştiler."},
+    {"c": "Cemiyetler", "o": "Erzurum Kongresi'ni hangi iki cemiyet topladı?", "a": "Şark Vilayetleri Müdafaa-i Hukuk (Ermeni devletini engelleme) ve Trabzon Muhafaza-i Hukuk (Pontus Rum'u engelleme)."},
+    {"c": "Cemiyetler", "o": "Milli Kongre Cemiyeti diğerlerinden nasıl ayrılır?", "a": "Dr. Esat Işık liderliğinde basın-yayınla ve ULUSAL kurtuluşla mücadele etti; 'Kuvay-ı Milliye' tabirini ilk kullandı."},
+    {"c": "Cemiyetler", "o": "İttihatçıların devamı olan zararlı(!)-görünümlü yararlı cemiyet hangisidir?", "a": "Karakol Cemiyeti (Kara Vasıf); İstanbul'dan Anadolu'ya insan-silah-cephane kaçırdı (2024 EKYS)."},
+    {"c": "Cemiyetler", "o": "Azınlıkların kurduğu zararlı cemiyetler ve hedefleri?", "a": "Pontus Rum/Kordos → Pontus Rum devleti; Etniki Eterya/Mavri Mira → Megali İdea; Hınçak-Taşnak → Büyük Ermeni; Alyans İsrail → Yahudi emelleri."},
+    {"c": "Cemiyetler", "o": "Türklerin kurduğu zararlı cemiyetler hangileridir?", "a": "Teali-i İslam, Sulh ve Selamet-i Osmaniye, İngiliz Muhipleri (Damat Ferit), Wilson Prensipleri (Halide Edip), Nigehban, Kürt Teali, Hürriyet ve İtilaf."},
+    {"c": "Cemiyetler", "o": "İngiliz Muhipleri ve Wilson Prensipleri Cemiyetleri neyi savundu?", "a": "İngiliz Muhipleri: İngiliz mandası. Wilson Prensipleri Cemiyeti: Amerikan mandası. İkisi de milli mücadeleye karşıdır."}
+  ],
+  "tuzak": [
+    {"q": "'Panslavizm' Dünya Savaşı'nın genel nedeni midir, özel nedeni mi?", "o": ["Genel neden", "Özel neden"], "c": 1, "n": "Panslavizm yalnız Rusya'nın politikası olduğu için ÖZEL nedendir; genel nedenler tüm dünyayı ilgilendirir."},
+    {"q": "'Silahlanma yarışı' genel neden mi, özel neden mi?", "o": ["Genel neden", "Özel neden"], "c": 0, "n": "Tüm devletleri ilgilendirdiği için GENEL nedendir; Alsas-Loren ve Panslavizm ise özeldir."},
+    {"q": "Savaşın süresini UZATAN mı yoksa KISALTAN mı Osmanlı'dır?", "o": ["Uzatan", "Kısaltan"], "c": 0, "n": "Osmanlı yeni cepheler açtığı için süreyi UZATIR; süreyi kısaltan ABD'dir (Wilson İlkeleri)."},
+    {"q": "İttifak grubunda en erken çekilen mi yoksa savaştan genel en erken çekilen mi Bulgaristan'dır?", "o": ["İttifakta en erken çekilen", "Savaştan genel en erken çekilen"], "c": 0, "n": "Bulgaristan İTTİFAK içinde en erken çekilendir; savaştan genel en erken çekilen Japonya'dır."},
+    {"q": "İttifakta kara bağlantısını sağlayan devlet hangisidir?", "o": ["Bulgaristan", "Avusturya-Macaristan"], "c": 0, "n": "Bulgaristan hem ittifakta en erken çekilen hem de Almanya ile kara bağlantısını sağlayan devlettir."},
+    {"q": "Kapitülasyonların tek taraflı kaldırılmasına en çok tepki gösteren devlet?", "o": ["Almanya", "İngiltere"], "c": 0, "n": "İlk akla İngiltere gelse de en çok tepkiyi müttefikimiz ALMANYA gösterdi ('bana niye kaldırıyorsun?')."},
+    {"q": "Kafkas mı Kanal mı taarruz cephesidir?", "o": ["İkisi de taarruz cephesidir", "İkisi de savunma cephesidir"], "c": 0, "n": "Kanka = Kanal + Kafkas ikisi de TAARRUZ cephesidir; Çanakkale, Irak vb. savunmadır."},
+    {"q": "Galiçya-Makedonya-Romanya hangi tür cephedir?", "o": ["Yardım cephesi", "Taarruz cephesi"], "c": 0, "n": "Sonları '...yağ' ile biten Galiçya, Makedonya, Romanya müttefiklere YARDIM cepheleridir."},
+    {"q": "Elviye-i Selase mi Vilayet-i Sitte mi Kars-Ardahan-Batum'dur?", "o": ["Elviye-i Selase", "Vilayet-i Sitte"], "c": 0, "n": "Elviye-i Selase = 3 vilayet (Kars-Ardahan-Batum). Vilayet-i Sitte = 6 doğu ili (Sivas, Erzurum, Van, Bitlis, Elazığ, Diyarbakır)."},
+    {"q": "M. Kemal Kafkas'ta hangi iki şehri geri aldı?", "o": ["Muş ve Bitlis", "Kars ve Ardahan"], "c": 0, "n": "Kod 'Muşlis' = Muş + Bitlis; Kars-Ardahan ise SSCB'nin Brest-Litovsk'la geri verdiği Elviye-i Selase'nin parçasıdır."},
+    {"q": "Sarıkamış Faciası hangi cephede yaşandı?", "o": ["Kafkas Cephesi", "Çanakkale Cephesi"], "c": 0, "n": "Sarıkamış Faciası (donarak şehit olma) KAFKAS Cephesi'ndedir; sorumlusu Enver Paşa'dır."},
+    {"q": "Tehcir (Sevk ve İskan) Kanunu hangi cephede çıkarıldı?", "o": ["Kafkas Cephesi", "Suriye-Filistin Cephesi"], "c": 0, "n": "Ermeniler Ruslarla anlaşınca KAFKAS Cephesi'nde çıkarıldı; Ermeniler Suriye ve Lübnan'a gönderildi."},
+    {"q": "M. Kemal generalliğe nerede yükseldi?", "o": ["Kafkas Cephesi", "Çanakkale Cephesi"], "c": 0, "n": "Binbaşı-Trablusgarp, Albay-Çanakkale, General-KAFKAS sıralaması vardır; Altın Kılıç da Kafkas'tadır."},
+    {"q": "Kanal Cephesi'nin komutanı kimdir?", "o": ["Cemal Paşa", "Enver Paşa"], "c": 0, "n": "Kanal Cephesi komutanı Cemal Paşa'dır; Enver Paşa Kafkas'taki Sarıkamış'ın sorumlusudur."},
+    {"q": "18 Mart / Çanakkale deniz zaferinin kahramanı kimdir?", "o": ["Cevat Çobanlı", "Mustafa Kemal"], "c": 0, "n": "18 Mart deniz kahramanı CEVAT ÇOBANLI'dır; M. Kemal ise KARA savaşlarının Anafartalar kahramanıdır."},
+    {"q": "Anafartalar kahramanı ile Alçıtepe kahramanını eşleştir.", "o": ["Anafartalar-M.Kemal / Alçıtepe-Kazım Karabekir", "Anafartalar-Kazım Karabekir / Alçıtepe-M.Kemal"], "c": 0, "n": "Anafartalar kahramanı M. Kemal, Alçıtepe kahramanı Kazım Karabekir'dir."},
+    {"q": "Seyit Onbaşı hangi gemiyi vurdu?", "o": ["Ocean", "Agamemnon"], "c": 0, "n": "Seyit Onbaşı OCEAN gemisini vurdu; Agamemnon ise Mondros'un imzalandığı zırhlıdır."},
+    {"q": "Nusrat Mayın Gemisi'ni kim kullandı?", "o": ["Tophaneli Hakkı Bey", "Cevat Çobanlı"], "c": 0, "n": "Boğaza yeniden mayın döşeyen Nusrat'ı TOPHANELİ HAKKI BEY kullandı."},
+    {"q": "Çanakkale'nin 'Aydınlar Savaşı' denmesinin sebebi?", "o": ["Darülfünun öğrencilerinin şehit olması", "Anzaklarla centilmence savaşılması"], "c": 0, "n": "Aydınlar Savaşı Darülfünun öğrencilerinin şehit olmasından; Centilmenler Savaşı ise Anzaklarla ilişkiden gelir."},
+    {"q": "Kut'ül Amare Zaferi hangi cephede, kim tarafından kazanıldı?", "o": ["Irak Cephesi - Halil Kut Paşa", "Kafkas Cephesi - Enver Paşa"], "c": 0, "n": "Kut'ül Amare IRAK Cephesi'nde Halil Kut Paşa tarafından kazanıldı; General Townshend esir alındı."},
+    {"q": "Çekirge Genelgesi hangi paşa tarafından çıkarıldı?", "o": ["Fahrettin Paşa", "Cemal Paşa"], "c": 0, "n": "Hicaz-Yemen'de asker açlıktan ölmesin diye Çöl Kaplanı FAHRETTİN PAŞA çıkardı."},
+    {"q": "Suriye-Filistin Cephesi hangi cephenin devamıdır?", "o": ["Kanal Cephesi", "Irak Cephesi"], "c": 0, "n": "Kanal'da geri çekilince KANAL Cephesi Suriye-Filistin'e dönüşmüştür."},
+    {"q": "İtalya'ya İzmir'i veren gizli anlaşma ile taraf değiştirdiği anlaşmayı ayır.", "o": ["İzmir-Saint-Jean de Maurienne / taraf değiştirme-Londra", "İzmir-Londra / taraf değiştirme-Saint-Jean de Maurienne"], "c": 0, "n": "Londra ile taraf değiştirdi, Saint-Jean de Maurienne ile İzmir ve çevresi verildi."},
+    {"q": "Ortadoğu'yu İngiltere-Fransa arasında paylaştıran gizli anlaşma?", "o": ["Sykes-Picot", "İstanbul Anlaşması"], "c": 0, "n": "Sykes-Picot Ortadoğu'yu paylaştırır; İstanbul Anlaşması ise Rusya'ya Boğazlar ve İstanbul'u verir."},
+    {"q": "Milletler Cemiyeti ilk nerede anıldı, nerede kuruldu?", "o": ["Anıldı: Wilson İlkeleri / Kuruldu: Paris Barış Konferansı", "Anıldı: Paris Barış Konferansı / Kuruldu: Wilson İlkeleri"], "c": 0, "n": "İlk kez Wilson İlkeleri'nde anıldı, Paris Barış Konferansı'nda kuruldu."},
+    {"q": "I. Dünya Savaşı'nda ilk kez uçak kullanıldı denilebilir mi?", "o": ["Hayır, uçak ilk Trablusgarp'ta kullanıldı", "Evet, ilk uçak bu savaşta kullanıldı"], "c": 0, "n": "Bu savaşta ilk kez kimyasal silah, denizaltı, tank kullanıldı; UÇAK ilk Trablusgarp'ta kullanılmıştı."},
+    {"q": "Osmanlı ile imzalanan ateşkes ve barış anlaşmalarını ayır.", "o": ["Ateşkes-Mondros / Barış-Sevr", "Ateşkes-Sevr / Barış-Mondros"], "c": 0, "n": "Osmanlı ateşkesi MONDROS (Boğa Semaver), barışı SEVR'dir (Son Vites Obama)."},
+    {"q": "Almanya ile imzalanan ateşkes ve barış anlaşmalarını ayır.", "o": ["Ateşkes-Rethondes / Barış-Versay", "Ateşkes-Versay / Barış-Rethondes"], "c": 0, "n": "Almanya ateşkesi RETHONDES, barışı VERSAY'dır."},
+    {"q": "Osmanlı fiilen ve hukuken hangi anlaşmalarla sona erdi?", "o": ["Fiilen-Mondros / Hukuken-Mudanya", "Fiilen-Mudanya / Hukuken-Mondros"], "c": 0, "n": "Elini kolunu bağlayan Mondros ile FİİLEN, İstanbul'u TBMM'ye bırakan Mudanya ile HUKUKEN sona erdi."},
+    {"q": "Mondros'tan sonra genelde ilk işgal edilen yer ile Anadolu'da ilk işgal edileni ayır.", "o": ["Genelde-Musul / Anadolu'da-Hatay", "Genelde-Hatay / Anadolu'da-Musul"], "c": 0, "n": "Petrol için önce MUSUL, Anadolu'da ise HATAY (Dörtyol) işgal edildi."},
+    {"q": "İzmir işgali için hazırlanan rapor ile 6 doğu ili için hazırlanan raporu ayır.", "o": ["İzmir-Amiral Bristol / 6 doğu ili-General Harbord", "İzmir-General Harbord / 6 doğu ili-Amiral Bristol"], "c": 0, "n": "İzmir için Amiral Bristol, 6 doğu ili için General Harbord raporu hazırlandı."},
+    {"q": "'Şark Vilayetleri Müdafaa-i Hukuk Cemiyeti' yararlı mı zararlı mı?", "o": ["Yararlı", "Zararlı"], "c": 0, "n": "Adında 'müdafaa' ve bölge (Şark) olduğu için YARARLI; 6 doğu ilinde Ermeni devletini engellemeye çalıştı."},
+    {"q": "'Kilikyalılar Cemiyeti' yararlı mı zararlı mı?", "o": ["Yararlı", "Zararlı"], "c": 0, "n": "Kilikya = Adana-Çukurova (bölge adı) olduğu için YARARLIDIR; Fransız-Ermeni faaliyetlerine karşı kuruldu."},
+    {"q": "İttihatçıların devamı olan cemiyet hangisidir?", "o": ["Karakol Cemiyeti", "Milli Kongre Cemiyeti"], "c": 0, "n": "Kara Vasıf liderliğindeki KARAKOL Cemiyeti İttihatçıların devamıdır (2024 EKYS)."},
+    {"q": "Yararlı cemiyetler ulusal mı bölgesel kurtuluş mu amaçladı?", "o": ["Bölgesel kurtuluş", "Ulusal kurtuluş"], "c": 0, "n": "Yararlı cemiyetler BÖLGESEL kurtuluşu amaçladı; ulusal kurtuluşu amaçlayan istisna Milli Kongre Cemiyeti'dir."}
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi I. Dünya Savaşı'nın özel nedenlerinden biri değildir?",
+      "o": ["Panslavizm", "Alsas-Loren sorunu", "Rusya'nın sıcak denizlere inmek istemesi", "Silahlanma yarışı", "Fransa-Almanya kömür havzası anlaşmazlığı"],
+      "c": 3,
+      "e": "Silahlanma yarışı tüm devletleri ilgilendirdiği için genel nedendir; diğerleri bir-iki devleti ilgilendiren özel nedenlerdir."
+    },
+    {
+      "q": "I. Dünya Savaşı'nın fiilen başlamasına yol açan kıvılcım aşağıdakilerden hangisidir?",
+      "o": ["Osmanlı'nın Rus limanlarını bombalaması", "Avusturya-Macaristan veliahtının bir Sırp tarafından öldürülmesi", "Almanya'nın Belçika'yı işgali", "ABD'nin savaşa girmesi", "İtalya'nın taraf değiştirmesi"],
+      "c": 1,
+      "e": "Savaşın ilk kıvılcımı Avusturya-Macaristan veliahtının Saraybosna'da Sırp Gavrilo Princip tarafından öldürülmesidir."
+    },
+    {
+      "q": "Aşağıdaki devletlerden hangisi İttifak Devletleri arasında yer almaz?",
+      "o": ["Almanya", "Avusturya-Macaristan", "Bulgaristan", "Osmanlı Devleti", "Yunanistan"],
+      "c": 4,
+      "e": "İttifak grubu Almanya, Avusturya-Macaristan, Bulgaristan ve Osmanlı'dan oluşur; Yunanistan İtilaf yanında yer almıştır."
+    },
+    {
+      "q": "I. Dünya Savaşı ile ilgili,\nI. Süreyi uzatan devlet Osmanlı'dır.\nII. Süreyi kısaltan devlet ABD'dir.\nIII. Savaştan en zararlı çıkan devlet Almanya'dır.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız III", "I ve II", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Osmanlı yeni cepheler açarak süreyi uzatmış, ABD Wilson İlkeleri ile kısaltmış, Almanya ise Versay ile en zararlı çıkmıştır."
+    },
+    {
+      "q": "Savaşta taraf değiştirerek İttifak grubundan İtilaf grubuna geçen İtalya, bu geçişi hangi gizli anlaşmayla gerçekleştirmiştir?",
+      "o": ["Londra Antlaşması", "Sykes-Picot Anlaşması", "İstanbul Anlaşması", "McMahon Anlaşması", "Petrograd Protokolü"],
+      "c": 0,
+      "e": "İtalya, Londra Antlaşması ile İtilaf grubuna geçerek taraf değiştirmiştir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı Devleti'nin savaşa Almanya'nın yanında girme nedenlerinden biri değildir?",
+      "o": ["Almanya'nın savaşı kazanacağına inanılması", "Almanya'nın üstün silah teknolojisi", "Siyasi yalnızlıktan kurtulma isteği", "Almanya'nın Müslüman sömürgesinin bulunmaması", "Boğazların denetimini Almanya'ya bırakma isteği"],
+      "c": 4,
+      "e": "Osmanlı kaybettiği toprakları geri almak ve yalnızlıktan kurtulmak için Almanya'yı seçmiştir; boğazları Almanya'ya bırakmak gibi bir amacı yoktur."
+    },
+    {
+      "q": "Osmanlı Devleti'nin kapitülasyonları tek taraflı kaldırmasına en çok tepki gösteren devlet aşağıdakilerden hangisidir?",
+      "o": ["İngiltere", "Fransa", "Rusya", "Almanya", "İtalya"],
+      "c": 3,
+      "e": "Beklenenin aksine tepki İtilaf'tan değil, müttefik Almanya'dan gelmiştir; çünkü ayrıcalık kaybı kendisini de etkilemiştir."
+    },
+    {
+      "q": "Osmanlı Devleti'nin I. Dünya Savaşı'na resmen girmesi aşağıdaki gelişmelerden hangisiyle olmuştur?",
+      "o": ["Cihad-ı ekber ilan edilmesi", "Yavuz ve Midilli'nin Rus limanlarını bombalaması", "Kapitülasyonların kaldırılması", "Mondros'un imzalanması", "Sarıkamış Harekâtı'nın başlaması"],
+      "c": 1,
+      "e": "Goeben ve Breslau'ya Yavuz-Midilli adı verilip Rus limanları bombalanınca Osmanlı savaşa resmen girmiştir."
+    },
+    {
+      "q": "Kafkas Cephesi'nin açılmasında,\nI. Turancılık düşüncesi\nII. Elviye-i Selase'yi geri alma\nIII. Bakü petrollerini ele geçirme\namaçlarından hangileri etkili olmuştur?",
+      "o": ["Yalnız I", "Yalnız II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Kafkas Cephesi Turancılık, Elviye-i Selase'yi (Kars-Ardahan-Batum) geri alma ve Bakü petrolleri amacıyla açılmıştır."
+    },
+    {
+      "q": "Askerlerin Ruslarla savaşmadan soğuktan donarak şehit düşmesiyle sonuçlanan Sarıkamış Faciası hangi cephede yaşanmıştır?",
+      "o": ["Kanal Cephesi", "Çanakkale Cephesi", "Kafkas Cephesi", "Irak Cephesi", "Suriye-Filistin Cephesi"],
+      "c": 2,
+      "e": "Sarıkamış Faciası, Enver Paşa'nın ısrarıyla başlatılan harekât sonucu Kafkas Cephesi'nde yaşanmıştır."
+    },
+    {
+      "q": "Ermenilerin Ruslarla iş birliği yaparak Türkleri katletmesi üzerine çıkarılan Tehcir (Sevk ve İskan) Kanunu aşağıdaki cephelerden hangisiyle ilgilidir?",
+      "o": ["Kafkas Cephesi", "Hicaz-Yemen Cephesi", "Çanakkale Cephesi", "Irak Cephesi", "Galiçya Cephesi"],
+      "c": 0,
+      "e": "Tehcir Kanunu Kafkas Cephesi sürecinde çıkarılmış, Ermeniler Suriye ve Lübnan'a gönderilmiştir."
+    },
+    {
+      "q": "Mustafa Kemal'in generalliğe yükseltilip Altın Kılıç Madalyası'na layık görülmesi ve Muş ile Bitlis'i geri alması aşağıdaki cephelerin hangisinde gerçekleşmiştir?",
+      "o": ["Çanakkale Cephesi", "Kafkas Cephesi", "Suriye-Filistin Cephesi", "Kanal Cephesi", "Irak Cephesi"],
+      "c": 1,
+      "e": "Mustafa Kemal, Kafkas Cephesi'nde Muş-Bitlis'i geri alıp general olmuş ve Altın Kılıç Madalyası almıştır."
+    },
+    {
+      "q": "Osmanlı'nın Kanal Cephesi'ni açmasının temel amacı aşağıdakilerden hangisidir?",
+      "o": ["Bakü petrollerini ele geçirmek", "Elviye-i Selase'yi geri almak", "Mısır'ı geri alıp Süveyş Kanalı'nı ele geçirmek", "Kutsal bölgeleri savunmak", "Anadolu'yu işgalden korumak"],
+      "c": 2,
+      "e": "Kanal Cephesi, Mısır'ı geri almak ve Süveyş Kanalı'nı alıp İngiltere'nin sömürge bağlantısını kesmek için açılmıştır."
+    },
+    {
+      "q": "Çanakkale Cephesi ile ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": ["Nusrat Mayın Gemisi - Tophaneli Hakkı Bey", "Ocean gemisini vuran - Seyit Onbaşı", "18 Mart deniz kahramanı - Cevat Çobanlı", "Anafartalar kahramanı - Mustafa Kemal", "Alçıtepe kahramanı - Fahrettin Paşa"],
+      "c": 4,
+      "e": "Alçıtepe kahramanı Kazım Karabekir'dir; Fahrettin Paşa Hicaz-Yemen Cephesi komutanıdır."
+    },
+    {
+      "q": "Çanakkale Zaferi'nin sonuçları arasında aşağıdakilerden hangisi gösterilemez?",
+      "o": ["Savaşın süresinin uzaması", "Rusya'ya yardım götürülememesi", "Bulgaristan'ın İttifak yanında savaşa girmesi", "Osmanlı'nın savaş dışı kalması", "Rusya'daki iç savaşın şiddetlenmesi"],
+      "c": 3,
+      "e": "Çanakkale kazanıldığı için Osmanlı savaş dışı KALMAMIŞ, aksine savaş uzamıştır; bu yüzden 'savaş dışı kalma' sonuç olarak gösterilemez."
+    },
+    {
+      "q": "13.000'den fazla İngiliz askeri ile General Townshend'in esir alındığı ve unutturulmaya çalışılan Kut'ül Amare Zaferi hangi cephede kazanılmıştır?",
+      "o": ["Kafkas Cephesi", "Çanakkale Cephesi", "Irak Cephesi", "Hicaz-Yemen Cephesi", "Kanal Cephesi"],
+      "c": 2,
+      "e": "Kut'ül Amare Zaferi, Halil Kut Paşa komutasında Irak Cephesi'nde kazanılmıştır."
+    },
+    {
+      "q": "Mustafa Kemal'in Yıldırım Orduları Grup Komutanı olarak Hatay-Halep hattını çekip Anadolu'nun işgalini önlediği cephe aşağıdakilerden hangisidir?",
+      "o": ["Kafkas Cephesi", "Çanakkale Cephesi", "Suriye-Filistin Cephesi", "Irak Cephesi", "Kanal Cephesi"],
+      "c": 2,
+      "e": "Bu görev Suriye-Filistin Cephesi'nde olmuş ve Mustafa Kemal'in savaştaki son görevi olmuştur."
+    },
+    {
+      "q": "Wilson İlkeleri'ndeki 'yenen devletler yenilenlerden toprak ve savaş tazminatı almayacaktır' maddesinin doğrudan sonucu aşağıdakilerden hangisidir?",
+      "o": ["Milletler Cemiyeti'nin kurulması", "Sömürgeciliğin yerini manda ve himayenin alması", "Boğazların uluslararası statüye kavuşması", "Self-determinasyon ilkesinin uygulanması", "Gizli anlaşmaların açıklanması"],
+      "c": 1,
+      "e": "Bu madde açık sömürgeciliği engellediği için sömürgecilik yerini manda ve himaye kavramına bırakmıştır."
+    },
+    {
+      "q": "Mondros Ateşkesi'nin, 'İtilaf Devletleri güvenliklerini tehdit eden herhangi bir stratejik noktayı işgal edebilecektir' biçimindeki 7. maddesi için aşağıdaki yorumlardan hangisi yapılabilir?",
+      "o": ["Yalnızca altı doğu ilini işgale açmıştır", "Osmanlı'nın tüm topraklarını işgale açık hale getirmiştir", "Boğazları uluslararası denetime bırakmıştır", "Orduların terhisini düzenlemiştir", "Esirlerin serbest bırakılmasını sağlamıştır"],
+      "c": 1,
+      "e": "7. madde manipüle edilebilir yapısıyla vatanın her karış toprağını işgale açmıştır; altı doğu ilini ise ayrıca 24. madde kapsar."
+    },
+    {
+      "q": "Kurtuluş Savaşı öncesi kurulan cemiyetlerle ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "o": ["Yararlı cemiyetler işgallere karşı ilk tepkidir", "Yararlı cemiyetlerin çoğu bölgesel kurtuluşu amaçlamıştır", "Karakol Cemiyeti İttihatçıların devamı niteliğindedir", "Milli Kongre Cemiyeti ulusal kurtuluşu amaçlamıştır", "Kilikyalılar Cemiyeti azınlıkların kurduğu zararlı bir cemiyettir"],
+      "c": 4,
+      "e": "Kilikya, Adana-Çukurova'nın eski adı olduğundan Kilikyalılar Cemiyeti bir yararlı cemiyettir, azınlık cemiyeti değildir."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Cephe → Komutan / Öne Çıkan Olay",
+      "p": [
+        ["Kafkas Cephesi", "Sarıkamış Faciası (Enver Paşa)"],
+        ["Kanal Cephesi", "Cemal Paşa"],
+        ["Çanakkale (kara)", "Anafartalar - Mustafa Kemal"],
+        ["Hicaz-Yemen Cephesi", "Fahrettin Paşa (Çöl Kaplanı)"],
+        ["Irak Cephesi", "Kut'ül Amare - Halil Kut Paşa"],
+        ["Suriye-Filistin Cephesi", "Yıldırım Orduları - Mustafa Kemal"]
+      ]
+    },
+    {
+      "ad": "Çanakkale → Kahraman / Yer",
+      "p": [
+        ["18 Mart deniz kahramanı", "Cevat Çobanlı"],
+        ["Anafartalar kahramanı", "Mustafa Kemal"],
+        ["Alçıtepe kahramanı", "Kazım Karabekir"],
+        ["Ocean gemisini vuran", "Seyit Onbaşı"],
+        ["Nusrat Mayın Gemisi", "Tophaneli Hakkı Bey"],
+        ["Komuta-konaklama merkezi", "Kemal Yeri"]
+      ]
+    },
+    {
+      "ad": "Gizli Anlaşma → İçerik",
+      "p": [
+        ["İstanbul Anlaşması", "Rusya'ya Boğazlar ve İstanbul"],
+        ["Sykes-Picot", "İngiltere-Fransa Ortadoğu paylaşımı"],
+        ["Londra Antlaşması", "İtalya'nın taraf değiştirmesi"],
+        ["Saint-Jean de Maurienne", "İtalya'ya İzmir ve çevresi"],
+        ["McMahon Anlaşması", "Araplara milli devlet vaadi"],
+        ["Petrograd Protokolü", "Rusya'ya Doğu Anadolu"]
+      ]
+    },
+    {
+      "ad": "Ateşkes / Barış Anlaşması → Devlet",
+      "p": [
+        ["Selanik Ateşkesi", "Bulgaristan"],
+        ["Mondros Ateşkesi", "Osmanlı"],
+        ["Villa Giusti Ateşkesi", "Avusturya-Macaristan"],
+        ["Rethondes Ateşkesi", "Almanya"],
+        ["Triyanon Barışı", "Macaristan"],
+        ["Saint-Germain Barışı", "Avusturya"]
+      ]
+    },
+    {
+      "ad": "Yararlı Cemiyet → Amaç / Özellik",
+      "p": [
+        ["Kars İslam Şurası", "Cenub-i Garbi Kafkas Hükümeti"],
+        ["Şark Vilayetleri Müdafaa-i Hukuk", "6 doğu ilinde Ermeni devletini engelleme"],
+        ["Trabzon Muhafaza-i Hukuk", "Pontus Rum'u engelleme"],
+        ["Milli Kongre Cemiyeti", "Basın-yayınla ulusal kurtuluş"],
+        ["Kilikyalılar Cemiyeti", "Adana-Çukurova (Fransız-Ermeni'ye karşı)"],
+        ["Karakol Cemiyeti", "İttihatçı - insan/silah kaçırma"]
+      ]
+    },
+    {
+      "ad": "Zararlı Cemiyet → Hedef",
+      "p": [
+        ["Mavri Mira", "Megali İdea (Büyük Yunanistan)"],
+        ["Pontus Rum Cemiyeti", "Karadeniz'de Pontus Rum Devleti"],
+        ["Hınçak ve Taşnak", "Büyük Ermeni Devleti"],
+        ["Alyans İsrail (Makabi)", "Yahudi emelleri"],
+        ["İngiliz Muhipleri Cemiyeti", "İngiliz mandası (Damat Ferit)"],
+        ["Wilson Prensipleri Cemiyeti", "Amerikan mandası (Halide Edip)"]
+      ]
+    }
+  ]
+}

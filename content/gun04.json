@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "gun": 4,
+    "baslik": "Osmanlı Kültür ve Medeniyeti",
+    "ozet": "Osmanlı Devleti'nin devlet teşkilatı, yönetim biçimleri, hükümdarlık unvan ve sembolleri, veraset sistemi, saraylar, Divan-ı Hümayun, beraya sınıfları, taşra teşkilatı, eyalet türleri, eğitim kurumları ve hukuk sistemi.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "İshat Paşa → İshak Paşa Sarayı",
+      "Çolak Abdşa → Çolak Abdi Paşa",
+      "Çanğan → Çırağan Sarayı",
+      "Shte → Suhte (medrese öğrencisi)",
+      "Sen Benua → Saint Benoit Koleji",
+      "Ceride-i Mehhaim → Ceride-i Mehakim",
+      "Kanteenos → Kantakuzenos (Bizans hanedanı)"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Yönetim Biçimleri",
+      "i": [
+        { "k": "Mono → Tek", "m": "Monarşi: tek kişi (padişah) yönetimi", "s": "z" },
+        { "k": "Teo → Din", "m": "Teokrasi: dini kuralların etkili olduğu yönetim; halifelikle güçlendi", "s": "z" },
+        { "k": "Meclis + Padişah = Meşruti Monarşi", "m": "1876 Kanun-u Esasi (ilk yazılı anayasa) ile Abdülhamit döneminde ilan edildi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Hükümdarlık Unvanları",
+      "i": [
+        { "k": "Hüdavendigar → Allah dostu", "m": "I. Murat'ın unvanı", "s": "z" },
+        { "k": "Kayser-i Rum → Roma'nın Sezarı", "m": "Fatih Sultan Mehmet — Bizans'ı yıktığı, Orhangazi'nin Kantakuzenos kızıyla evlendiği için Roma varisi sayıldı", "s": "z" },
+        { "k": "Sultan ilkleri", "m": "Türk İslam'da ilk: Gazneli Mahmut · Osmanlı'da ilk: Orhan Bey", "s": "z" },
+        { "k": "İlk Osmanlı halifesi → Yavuz", "m": "Ridaniye Savaşı ile Memlüklerden geçti; teokratik güç arttı", "s": "z" },
+        { "k": "Hadimül Haremeyn / Sultanül Berreyn ve Hakanül Bahreyn", "m": "İki kutsal şehrin hizmetkarı / İki karanın ve iki denizin sultanı-hakanı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Hükümdarlık Sembolleri",
+      "i": [
+        { "k": "Kılıç Alayı → Sadece Osmanlı'ya özgü", "m": "Kılıç kuşanma töreni yalnız Osmanlı'da var (2025 AYT)", "s": "z" },
+        { "k": "Tek başına ok ≠ sembol", "m": "Ok tek başına hükümdarlık sembolü değil; yay veya yay+ok olmalı", "s": "z" },
+        { "k": "Hilat / Tıraz / Çetr / Asa", "m": "Halifeden gelen: hilat=hediye bütünü, tıraz=giysi, çetr=şemsiye, asa=sopa", "s": "z" }
+      ]
+    },
+    {
+      "b": "Padişahın Yasama Görevleri",
+      "i": [
+        { "k": "Ferman → padişah emri", "m": "Padişahın verdiği emir belgesi", "s": "z" },
+        { "k": "Hatt-ı Hümayun → bizzat yazdığı", "m": "Padişahın kendi kaleme aldığı emir", "s": "z" },
+        { "k": "Kanunname → fermanların derlenmesi", "m": "İlk kanunname: Fatih Kanunnamesi (Kanunname-i Ali Osman)", "s": "z" },
+        { "k": "Adaletname → otorite kötüye kullanılmasın", "m": "Yöneticilerin otoriteyi kötüye kullanmasını engelleyen belge", "s": "z" },
+        { "k": "Amanname → 'Aman dileyene kılıç kalkmaz'", "m": "Af fermanı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Padişahın Yargı ve Yürütme Görevleri",
+      "i": [
+        { "k": "Müsadere → özel mülkiyet gelişmez", "m": "Ferdin malına el koyma. İlk: Fatih (Çandarlı Halil Paşa). Resmen kaldıran: Abdülmecid (Tanzimat)", "s": "z" },
+        { "k": "Kulluk hakkı", "m": "Devşirme sisteminden yetişenleri öldürebilme hakkı", "s": "z" },
+        { "k": "Berat → sonunda 'at' → Atama belgesi", "m": "Padişahın atama belgesi (yürütme görevi). Gedik=iş yeri açma izni, İcazetname=diploma", "s": "z" }
+      ]
+    },
+    {
+      "b": "Veraset Sistemi Değişiklikleri",
+      "i": [
+        { "k": "Osman-Orhan → hanedanın ortak malı", "m": "Klasik Türk veraset sistemi; tahta aday çok → iç savaş artar → devlet ömrü kısalır", "s": "z" },
+        { "k": "I. Murat → padişah + oğulları", "m": "Tahta aday sayısını azalttı; iç savaş azaldı, devlet ömrü uzadı", "s": "z" },
+        { "k": "Fatih → sadece padişah + kardeş katli vacip", "m": "Nizam-ı alem ve devlet-i ebed müddet için", "s": "z" },
+        { "k": "I. Ahmet → Ekber ve Erşed", "m": "Ekber=büyük (Allahu Ekber), Erşed=akıllı (Reşit'ten). Veraseti kesin kurala bağlayan padişah", "s": "z" }
+      ]
+    },
+    {
+      "b": "Saraylar",
+      "i": [
+        { "k": "İlk saray → Bursa Bey Sarayı (Orhan)", "m": "Osmanlı Devleti'nin ilk sarayı", "s": "z" },
+        { "k": "En geniş → Edirne Sarayı (II. Murat)", "m": "Osmanlı'nın en geniş sarayı", "s": "z" },
+        { "k": "En uzun merkezlik → Topkapı (Fatih)", "m": "Osmanlı'ya en uzun süre merkezlik yapan saray", "s": "z" },
+        { "k": "Alttan ısıtma → İshak Paşa (Ağrı)", "m": "Kalorifer sistemli ilk saray; Çolak Abdi Paşa yaptırdı; I. Abdülhamit dönemi", "s": "z" },
+        { "k": "Batı mimarisi ilk → Dolmabahçe (Abdülmecid)", "m": "Batı örnek alınarak yaptırılan ilk saray", "s": "z" },
+        { "k": "Beylerbeyi + Çırağan → Abdülaziz", "m": "Her ikisini de Abdülaziz yaptırdı (2016 KPSS)", "s": "z" },
+        { "k": "Yıldız → III. Selim başlattı, II. Abdülhamit bitirdi", "m": "Devlet merkezi haline getirilen saray", "s": "z" }
+      ]
+    },
+    {
+      "b": "Divan-ı Hümayun",
+      "i": [
+        { "k": "Kuran Orhan — Kaldıraç Mahmut", "m": "Divan-ı Hümayun'u kuran: Orhan Bey · Kaldıran: II. Mahmut", "s": "z" },
+        { "k": "Başkan: Fatih'e kadar padişah, sonra sadrazam", "m": "Fatih divana başkanlığı sadrazama bırakarak merkezi otoritesini artırdı", "s": "z" },
+        { "k": "Kasrı Adl → adalet kasrı", "m": "Padişahın divan toplantılarını izlediği pencere", "s": "z" },
+        { "k": "Buyruldu → sadrazam emri (2016 ÖABT)", "m": "Sadrazamın emirlerine verilen ad", "s": "z" },
+        { "k": "Serdar-ı Ekrem vs Serasker", "m": "Sadrazam sefere gidince: Serdar-ı Ekrem · Kubbe altı veziri gidince: Serasker", "s": "z" }
+      ]
+    },
+    {
+      "b": "Beraya (Yönetici) Sınıfları",
+      "i": [
+        { "k": "Seyf=kılıç → Seyfiye", "m": "Sadrazam, Kaptan-ı Derya, Yeniçeri Ağası, Beylerbeyi, Sancakbeyi", "s": "z" },
+        { "k": "İlmiye: DİKKAT Kazasker de burada", "m": "Kadı, Müderris, Kazasker, Şeyhülislam — sonunda 'asker' yazsa da seyfiye değil", "s": "z" },
+        { "k": "Kalemiye → işi yazmak olanlar", "m": "Defterdar, Nişancı, Reisülküttab — ama müderris elimde kalem var diye kalemiyeye girmez", "s": "z" }
+      ]
+    },
+    {
+      "b": "Taşra Teşkilatı ve Eyaletler",
+      "i": [
+        { "k": "Eyalet→Sancak→Kaza→Köy", "m": "Beylerbeyi→Sancakbeyi→Kadı→Kethüda (güvenlik: subaşı, köyde yiğitbaşı)", "s": "z" },
+        { "k": "Kaza K → Kadı K", "m": "Kadı: kazanın hem yöneticisi hem adaletinden sorumlu kişisi", "s": "z" },
+        { "k": "1871 Vilayet Nizamnamesi → +Nahiye", "m": "Eyalet→Vilayet(Vali), Sancak→Liva(Mutasarrıf), Kaza→Kaymakam, +Nahiye(Nahiye Müdürü), Köy→Muhtar", "s": "z" },
+        { "k": "Sal=yıl → Salyaneli=maaşlı, uzak, iltizam", "m": "Merkeze uzak, tımar uygulanamaz → iltizam sistemi → nakit para getirir", "s": "z" },
+        { "k": "İltizam = Emanet sistemi (2024 KPSS)", "m": "1-3 yıllık kiralama; mültezim=ihaleyi alan, mukataa=nakit getiren arazi", "s": "z" },
+        { "k": "TTC → Garp Ocakları", "m": "Tunus + Trablus Garp + Cezayir = batı ocakları", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Yönetim Biçimleri", "o": "Osmanlı Devleti'nde monarşi neden vardır?", "a": "Mono=tek. Osmanlı uzun yıllar tek kişi (padişah) tarafından yönetildi." },
+    { "c": "Yönetim Biçimleri", "o": "Osmanlı'da teokratik güç hangi gelişmeyle artmıştır?", "a": "Yavuz Sultan Selim'in Ridaniye Savaşı ile halifelik makamını alması.\nTeo=din; dini kuralların yönetime etkisi güçlendi." },
+    { "c": "Yönetim Biçimleri", "o": "Osmanlı'da meşrutiyet ne zaman ve nasıl ilan edildi?", "a": "1876'da Abdülhamit döneminde Kanun-u Esasi (ilk yazılı anayasa) yürürlüğe konarak meclis açıldı.\nMeşruti monarşi = padişah + meclis birlikte." },
+    { "c": "Hükümdarlık Unvanları", "o": "Hüdavendigar unvanı ne anlama gelir ve kim kullanmıştır?", "a": "Allah dostu anlamındadır.\nI. Murat kullanmıştır." },
+    { "c": "Hükümdarlık Unvanları", "o": "Kayser-i Rum unvanını kim, neden kullanmıştır?", "a": "Fatih Sultan Mehmet.\nBizans'ı yıktı, Trabzon ve Mora'yı alarak imparatorluk varislerini ortadan kaldırdı.\nOrhangazi'nin Bizans prensesi Nilüfer Hatun ile evliliğine dayanarak Roma varisi olduğunu ilan etti." },
+    { "c": "Hükümdarlık Unvanları", "o": "Sultan unvanını Türk İslam'da ve Osmanlı'da ilk kullanan kim?", "a": "Türk İslam'da ilk: Gazneli Mahmut\nOsmanlı'da ilk: Orhan Bey" },
+    { "c": "Hükümdarlık Unvanları", "o": "İlk Osmanlı halifesi kimdir ve nasıl geçmiştir?", "a": "Yavuz Sultan Selim.\nRidaniye Savaşı ile Memlükleri ortadan kaldırınca halifelik Osmanlı'ya geçti." },
+    { "c": "Hükümdarlık Unvanları", "o": "Hadimül Haremeyn ve Sultanül Berreyn ve Hakanül Bahreyn ne anlama gelir?", "a": "Hadimül Haremeyn: İki kutsal şehrin (Mekke-Medine) hizmetkarı\nSultanül Berreyn ve Hakanül Bahreyn: İki karanın ve iki denizin sultanı-hakanı" },
+    { "c": "Hükümdarlık Sembolleri", "o": "Kılıç alayı neden önemlidir?", "a": "Sadece Osmanlı Devleti'ne özgü bir hükümdarlık sembolüdür.\n(2025 AYT'de öncüller arasında yer almıştır.)" },
+    { "c": "Hükümdarlık Sembolleri", "o": "Ok tek başına hükümdarlık sembolü müdür?", "a": "Hayır. Tek başına ok hükümdarlık sembolü kabul edilmez.\nYay veya yay+ok birlikte sembol sayılır." },
+    { "c": "Hükümdarlık Sembolleri", "o": "Hilat, tıraz, çetr ve asa nedir?", "a": "Hepsi halifeden gelen hediyelerdir:\nHilat=hediye bütünü\nTıraz=giysi\nÇetr=şemsiye\nAsa=sopa" },
+    { "c": "Hükümdarlık Sembolleri", "o": "İslamiyet öncesinden gelen hükümdarlık sembolleri hangileridir?", "a": "Nöbet (davul), otağ (çadır) ve örğün (taht)\nİslamiyet öncesi Türk devletlerinden bu yana süregelir." },
+    { "c": "Padişahın Görevleri", "o": "Ferman ile Hatt-ı Hümayun arasındaki fark nedir?", "a": "Ferman: Padişahın emri (genel)\nHatt-ı Hümayun: Padişahın bizzat kendi eliyle kaleme aldığı emir" },
+    { "c": "Padişahın Görevleri", "o": "Kanunname nedir ve ilk kanunname hangisidir?", "a": "Kanunname: Çıkarılan fermanların derlenmesiyle oluşan kanunlar bütünü.\nİlk kanunname: Fatih Kanunnamesi (Kanunname-i Ali Osman)" },
+    { "c": "Padişahın Görevleri", "o": "Adaletname ile yasakname arasındaki fark nedir?", "a": "Adaletname: Yöneticilerin otoriteyi kötüye kullanmasını engelleyen belge\nYasakname: Bir yasağın duyurulduğu ve cezalarının açıklandığı belge (ör. IV. Murat dönemi)" },
+    { "c": "Padişahın Görevleri", "o": "Amanname nedir?", "a": "Af fermanıdır.\n'Aman dileyene kılıç kalkmaz' sözünden hatırlanır." },
+    { "c": "Padişahın Görevleri", "o": "Müsadere nedir? İlk uygulayan ve kaldıranlar kim?", "a": "Ferdin malına el koyma (yargı görevi). Varsa özel mülkiyet gelişmez.\nİlk uygulayan: Fatih (Çandarlı Halil Paşa)\nUygulamadan kaldıran: II. Mahmut\nResmen kaldıran: Abdülmecid (Tanzimat Fermanı)" },
+    { "c": "Padişahın Görevleri", "o": "Kulluk hakkı nedir?", "a": "Padişahın devşirme sisteminden yetişenleri öldürebilme hakkıdır.\nDevşirmeler padişahın kulları sayıldığı için bu hak tanınmıştır." },
+    { "c": "Padişahın Görevleri", "o": "Berat, gedik ve icazetname arasındaki fark nedir?", "a": "Berat: Atama belgesi (sonunda 'at'=atama)\nGedik: İş yeri açma izni\nİcazetname: Diploma\nBerat padişahın yürütme görevidir." },
+    { "c": "Padişahın Görevleri", "o": "Padişahın yasama, yargı ve yürütme görevlerini örneklerle ayırt edin.", "a": "Yasama: Ferman, Hatt-ı Hümayun, kanunname, adaletname, yasakname, amanname\nYargı: Müsadere, kulluk hakkı\nYürütme: Berat (atama), Divan-ı Hümayun aracılığıyla" },
+    { "c": "Veraset Sistemi", "o": "Osman ve Orhan Bey döneminde veraset sistemi nasıldı?", "a": "Ülke hanedanın ortak malıdır (klasik Türk veraset sistemi).\nHanedandan herkes tahta geçebilir → tahta aday çok → iç savaş artar → devlet ömrü kısalır." },
+    { "c": "Veraset Sistemi", "o": "I. Murat veraset sistemini nasıl değiştirdi?", "a": "Ülke padişahın ve oğullarının malıdır anlayışını getirdi.\nAmca, amca çocukları çıkarıldı → tahta aday azaldı → iç savaş azaldı → devlet ömrü uzadı." },
+    { "c": "Veraset Sistemi", "o": "Fatih Sultan Mehmet veraset konusunda ne yaptı?", "a": "Ülke sadece padişahın malıdır dedi.\nKardeş katli vaciptir ilkesini getirdi.\nGerekçe: Nizam-ı alem (dünya düzeni) ve devlet-i ebed müddet (devletin ebedi yaşaması)." },
+    { "c": "Veraset Sistemi", "o": "Veraset sistemini kesin kurala bağlayan padişah kimdir?", "a": "I. Ahmet.\nEkber ve Erşed sistemi: En büyük (Ekber→Allahu Ekber) ve en akıllı (Erşed→Reşit) erkek tahta geçer." },
+    { "c": "Veraset Sistemi", "o": "Sancak sistemi yerine ne gelmiştir, kim getirmiştir?", "a": "III. Mehmet sancak sistemini kaldırdı.\nI. Ahmet şimşirlik (kafes usulü) sistemini getirdi.\nŞehzadeler artık sancağa gönderilmez, sarayda tutulur." },
+    { "c": "Veraset Sistemi", "o": "Sancak sistemini kuran, yasalaştıran ve kaldıran kimlerdir?", "a": "Kuran: Orhan Bey\nSancaktan gelerek tahta çıkan ilk: I. Murat\nYasa haline getiren: Fatih (Kanunname-i Ali Osman)\nKaldıran: III. Mehmet" },
+    { "c": "Saraylar", "o": "Osmanlı Devleti'nin ilk sarayı hangisidir ve kim yaptırmıştır?", "a": "Bursa Bey Sarayı — Orhan Bey döneminde yapılmıştır." },
+    { "c": "Saraylar", "o": "Osmanlı'nın en geniş sarayı hangisidir?", "a": "Edirne Sarayı — II. Murat döneminde tamamlanmıştır." },
+    { "c": "Saraylar", "o": "Osmanlı'ya en uzun süre merkezlik yapan saray hangisidir?", "a": "Topkapı Sarayı — Fatih Sultan Mehmet İstanbul'u fethettikten sonra yaptırmıştır." },
+    { "c": "Saraylar", "o": "İshak Paşa Sarayı'nın özelliği nedir?", "a": "Osmanlı'nın kalorifer sistemli (alttan ısıtmalı) ilk sarayıdır.\nÇolak Abdi Paşa yaptırmış, I. Abdülhamit dönemi.\nGünümüzde Ağrı'dadır." },
+    { "c": "Saraylar", "o": "Batı mimarisi örnek alınarak yaptırılan ilk saray hangisidir?", "a": "Dolmabahçe Sarayı — Abdülmecid döneminde yaptırılmıştır." },
+    { "c": "Saraylar", "o": "Beylerbeyi ve Çırağan Saraylarını kim yaptırmıştır?", "a": "Abdülaziz yaptırmıştır.\n(2016 KPSS sorusu)" },
+    { "c": "Saraylar", "o": "Yıldız Sarayı'nın yapım süreci nasıldır?", "a": "Yapımına III. Selim döneminde başlandı.\nII. Abdülhamit tamamladı ve devletin merkezi haline getirdi." },
+    { "c": "Saraylar", "o": "İznik'in başkent olarak önemi nedir?", "a": "Hem Anadolu Selçuklu Devleti'ne hem Osmanlı Devleti'ne başkentlik yapan tek şehirdir.\nOrhan Bey fethedip başkent yapmıştır." },
+    { "c": "Divan-ı Hümayun", "o": "Divan-ı Hümayun'u kuran ve kaldıran padişahlar kimlerdir?", "a": "Kuran: Orhan Bey\nKaldıran: II. Mahmut (Kaldıraç Mahmut)" },
+    { "c": "Divan-ı Hümayun", "o": "Divan-ı Hümayun başkanlığı nasıl değişmiştir?", "a": "Orhan Bey'den Fatih'e kadar → padişah başkanlık eder\nFatih'ten itibaren → sadrazam başkanlık eder\nFatih bunu yaparak merkezi otoritesini artırmıştır." },
+    { "c": "Divan-ı Hümayun", "o": "Kasrı Adl nedir?", "a": "Adalet kasrı. Padişahın divan toplantılarını izlediği penceredir.\nFatih'ten itibaren padişah divana katılmaz, buradan izler." },
+    { "c": "Divan-ı Hümayun", "o": "Fetva nedir ve kim verir?", "a": "Divanda alınan kararların dine uygun olup olmadığına dair verilen belgedir.\nŞeyhülislam verir." },
+    { "c": "Divan-ı Hümayun", "o": "Mühimme defteri nedir?", "a": "Divan kararlarının (mühim kararlar) yazıldığı defterdir." },
+    { "c": "Divan-ı Hümayun", "o": "Cuma Divanı'nın işlevi nedir?", "a": "Temyiz organı gibi çalışır.\nMahkemede çözülemeyen veya tarafın itiraz ettiği davalar burada yeniden ele alınır.\nKazasker davalarına bakar." },
+    { "c": "Divan-ı Hümayun", "o": "Galebe Divanı ne için toplanır?", "a": "Yabancı elçilerin kabul edildiği divandır.\nBazen Ulufe Divanı ile birleştirilir: elçiler ordunun ihtişamını görüp korksun diye." },
+    { "c": "Divan-ı Hümayun", "o": "Çarşamba Divanı ve İkindi Divanı'nın farkı nedir?", "a": "Çarşamba Divanı: Sadece İstanbul'un işlerinin görüşüldüğü divan\nİkindi Divanı: Sabahtan bitirilememiş konuların ikindi vaktinde devam ettirildiği divan" },
+    { "c": "Divan-ı Hümayun", "o": "Ulufe Divanı ve Ayak Divanı ne amaçla toplanır?", "a": "Ulufe Divanı: Kapıkulu ordusunun 3 ayda bir maaş (ulufe) dağıtımı\nAyak Divanı: Olağanüstü hallerde ayaküstü toplanan divan" },
+    { "c": "Divan Üyeleri", "o": "Sadrazam'ın (Vezir-i Azam) görev ve yetkileri nelerdir?", "a": "Padişahtan sonra en yetkili kişi, padişahın mührünü taşır\nSerdar-ı Ekrem unvanıyla ordunun başında sefere gider\nEmirlerine buyruldu denir (2016 ÖABT)\nFatih'ten itibaren divana başkanlık eder" },
+    { "c": "Divan Üyeleri", "o": "Vezirlik ve Vezir-i Azamlık (Sadrazamlık) makamlarını kuran padişahlar?", "a": "Vezirlik makamı: Orhan Bey (ilk vezir: Alaattin Paşa)\nVezir-i Azamlık (sadrazamlık): I. Murat" },
+    { "c": "Divan Üyeleri", "o": "Kubbe altı vezirleri ordunun başında sefere gidince hangi unvanı alır?", "a": "Serasker unvanını alırlar.\n(Sadrazam sefere gidince Serdar-ı Ekrem unvanını alır — ikisi farklıdır.)" },
+    { "c": "Divan Üyeleri", "o": "İlk Şeyhülislam kimdir ve divana katılan ilk şeyhülislam kimdir?", "a": "İlk şeyhülislam: Molla Fenari (I. Murat dönemi)\nDivana katılan ilk: Ebussuud Efendi (Kanuni dönemi)" },
+    { "c": "Divan Üyeleri", "o": "Defterdar'ın görevi ve defterdarlık makamını kuran padişah kimdir?", "a": "Osmanlı maliyesinin mutlak sorumlusudur.\nDefterdarlık makamını kuran: I. Murat" },
+    { "c": "Divan Üyeleri", "o": "Nişancı'nın dört görevi nelerdir?", "a": "1. Padişahın tuğrasını çeker\n2. İç ve dış yazışmaları yapar\n3. Divanda örfi hukukun temsilcisidir\n4. Tapu tahrir kayıtlarını tutar\n(Selçuklu karşılığı: Pervaneci)" },
+    { "c": "Divan Üyeleri", "o": "Kazasker'in görevleri nelerdir ve hangi beraya sınıfındadır?", "a": "Kadı ve müderris atamalarını yapar (Adalet + Milli Eğitim Bakanı rolü)\nCuma Divanında davalara bakar\nİlmiye sınıfındadır (sonunda 'asker' yazsa da seyfiye değil!)" },
+    { "c": "Divan Üyeleri", "o": "Reisülküttab nasıl ortaya çıkmıştır ve görevi nedir?", "a": "Nişancıya bağlıyken ayrılarak Dışişleri Bakanlığı (Hariciye Vekaleti) niteliği kazandı.\nDış yazışmaları yapar. Kalemiye sınıfındadır." },
+    { "c": "Divan Üyeleri", "o": "Divana katılan ilk Kaptan-ı Derya kimdir?", "a": "Barbaros Hayrettin Paşa — Kanuni dönemi.\nOsmanlı'ya Cezayir'i kazandırmış, Preveze Deniz Savaşı'na katılmıştır." },
+    { "c": "Divan Üyeleri", "o": "Yeniçeri Ağası divana ne zaman katılabilir?", "a": "Normalde Divan-ı Hümayun'un daimi üyesi değildir.\nAncak vezirlik rütbesi alırsa divana katılabilir." },
+    { "c": "Divan Üyeleri", "o": "Sadaret Kaymakamı ve Mütesellim arasındaki fark nedir?", "a": "Sadaret Kaymakamı: Sadrazam yokken (seferde) ona vekalet eder\nMütesellim: Beylerbeyi veya Sancakbeyi sefere gidince vekalet eder" },
+    { "c": "Divan Üyeleri", "o": "Sınırlar genişledikçe sayısı artan ve artmayan divan üyeleri?", "a": "Artan: Vezir, Kazasker, Defterdar, Beylerbeyi\nArtmayan: Sadrazam (tek), Şeyhülislam (tek)" },
+    { "c": "Beraya Sınıfları", "o": "Seyfiye sınıfı kimlerden oluşur?", "a": "Seyf=kılıç. Elinde kılıç olanlar:\nSadrazam, Kaptan-ı Derya, Yeniçeri Ağası, Beylerbeyi, Sancakbeyi" },
+    { "c": "Beraya Sınıfları", "o": "İlmiye sınıfı kimlerden oluşur?", "a": "İlimle uğraşanlar:\nKadı (hukuk ilmi), Müderris (öğretmen), Kazasker (kadı+müderris ataması), Şeyhülislam (İslam ilmi)\nDİKKAT: Kazasker 'asker' yazsa da ilmiyededir!" },
+    { "c": "Beraya Sınıfları", "o": "Kalemiye sınıfı kimlerden oluşur?", "a": "İşi yazmak olanlar:\nDefterdar (mali kayıtlar), Nişancı (yazışmalar, tuğra), Reisülküttab (dış yazışmalar)\nDİKKAT: Müderris kalem kullanır ama ilmiyededir!" },
+    { "c": "İstanbul Yönetimi", "o": "Şehremini, mimarbaşı ve muhtesip ne iş yapar?", "a": "Şehremini: Belediye başkanı\nMimarbaşı: İmar işleri\nMuhtesip: Zabıta (HSP→hesap, çarşı-pazar denetimi)" },
+    { "c": "İstanbul Yönetimi", "o": "Taht kadısını kim atar ve neden önemlidir?", "a": "Diğer kadıları kazasker atarken taht kadısını bizzat padişah atar.\nİstanbul'un adaletinden sorumludur." },
+    { "c": "Taşra Teşkilatı", "o": "Klasik dönem taşra teşkilatında güvenlikten kim sorumludur?", "a": "Eyalet, sancak ve kaza: Subaşı\nKöy: Yiğitbaşı (köyün içinden seçilen yiğit)" },
+    { "c": "Taşra Teşkilatı", "o": "1871 Vilayet Nizamnamesi ile hangi yeni yönetim birimi eklenmiştir?", "a": "Nahiye — kaza ile köy arasına eklendi.\nYöneticisi: Nahiye Müdürü\nGünümüzün kasabaları gibi." },
+    { "c": "Taşra Teşkilatı", "o": "Salyaneli ve salyanesiz eyaletler arasındaki farklar nelerdir?", "a": "Salyaneli: Maaşlı, merkeze uzak, iltizam sistemi, nakit para getirir\nSalyanesiz: Maaşsız, merkeze yakın, tımar sistemi, asker yetiştirir\n(Sal=yıl → yıllıklı)" },
+    { "c": "Taşra Teşkilatı", "o": "İmtiyazlı eyaletlerde Eflak-Boğdan, Kırım ve Hicaz'ın ayrıcalıkları nedir?", "a": "Eflak-Boğdan: Vergi verir, asker vermez\nKırım: Asker verir, vergi vermez\nHicaz: Ne vergi ne asker verir" },
+    { "c": "Taşra Teşkilatı", "o": "İltizam ve malikane sistemi arasındaki fark nedir?", "a": "İltizam (=emanet sistemi): Toprağı 1-3 yıllığına kiralama (2024 KPSS)\nMalikane: Toprağı ömür boyu kiralama\nMültezim=ihaleyi alan, Mukataa=nakit getiren arazi" },
+    { "c": "Taşra Teşkilatı", "o": "TTC (Garp Ocakları) hangi bölgeleri kapsar?", "a": "Tunus + Trablus Garp + Cezayir\nGarp=batı → Batı ocakları\nKuzey Afrika'daki Osmanlı eyaletleri" },
+    { "c": "Taşra Teşkilatı", "o": "Memleketeyn, Harameyn, Nemçe ve Acem hangi yerlerin Osmanlı'daki adıdır?", "a": "Memleketeyn: Eflak-Boğdan\nHarameyn: Hicaz-Yemen\nNemçe: Avusturya\nAcem: İran-Irak" },
+    { "c": "Taşra Teşkilatı", "o": "Osmanlı'da eyalet yöneticileri hangi unvanları taşır?", "a": "Eflak-Boğdan → Voyvoda\nKırım → Giray / Han\nMısır → Hidiv\nCezayir → Dayı\nHicaz-Yemen → Emir" },
+    { "c": "Eğitim", "o": "Osmanlı eğitim basamakları küçükten büyüğe nelerdir?", "a": "1. İptidai / Sıbyan Mektebi (ilkokul)\n2. Rüşdiye (ortaokul)\n3. İdadi (lise)\n4. Darülfünun (üniversite)\n+ Medrese: Klasik dönem lise ve üstü eğitim" },
+    { "c": "Eğitim", "o": "Medresedeki öğrenim basamakları nelerdir?", "a": "1. Suhte (softa): Öğrenci\n2. Danişmend: Yüksek lisans öğrencisi\n3. Muid: Müderrisin yardımcısı (stajyer)\n4. Mülazım: Atama bekleyen (lazım olmayı bekleyen)\n5. Müderris: Öğretmen (atanmış)" },
+    { "c": "Eğitim", "o": "Enderun Mektebi'ni kuran ve kaldıran padişahlar kimlerdir?", "a": "Kuran: II. Murat\nKaldıran: II. Mahmut (Kaldıraç Mahmut)\nDevşirme kökenli çocukların devlet adamı olarak yetiştirildiği okuldur." },
+    { "c": "Eğitim", "o": "Osmanlı'nın ilk medresesi hangisidir?", "a": "İznik Medresesi — Orhan Bey kurmuştur.\n(Orhan Bey ilk sarayı da kurmuştur.)" },
+    { "c": "Eğitim", "o": "Sahn-ı Seman ve Tetimme medreselerinin ilişkisi nedir?", "a": "Sahn-ı Seman: İstanbul'da kurulan ilk medrese, döneminin üniversitesi (Fatih dönemi)\nTetimme: Sahn-ı Seman'a öğrenci hazırlamak için açılan medrese (Fatih dönemi)" },
+    { "c": "Eğitim", "o": "Medresetül Kuzat ne amaçla açılmıştır?", "a": "Kadı yetiştirmek için açılan medresedir.\n(Muhtemel soru adayı)" },
+    { "c": "Eğitim", "o": "Sancak sisteminde sancak şehirleri nereleridir?", "a": "Amasya, Manisa, Kütahya, Trabzon ve Kefe\nAnadolu dışındaki tek sancak şehri: Kefe (Kırım limanı)" },
+    { "c": "Eğitim", "o": "Darülfünun hangi dönemlerde açılmıştır?", "a": "İlk: Sultan Abdülaziz döneminde açıldı (sonra kapandı)\nSonra: Abdülhamit döneminde Darülfünun-u Şahane adıyla yeniden açıldı\nOsmanlı'nın ilk ve tek üniversitesidir." },
+    { "c": "Eğitim", "o": "Darülmuallimin ve Darülmuallimat nedir, farkı ne?", "a": "Darülmuallimin: Erkek öğretmen okulu (Abdülmecid açtı)\nDarülmuallimat: Kız öğretmen okulu (Abdülaziz açtı)\n(-t dişilik eki → kız)" },
+    { "c": "Kurumlar", "o": "Darülbedai ve Darülelhan ne tür kurumlardır?", "a": "Darülbedai: Tiyatro\nDarülelhan: Konservatuar (müzik okulu)" },
+    { "c": "Kurumlar", "o": "Darülaceze ve Darüleytam arasındaki fark nedir?", "a": "Darülaceze: Yaşlı ve muhtaçları barındırmak için (günümüz huzurevi)\nDarüleytam: Balkan ve Dünya Savaşlarında yetim kalan çocukları barındırmak için (YTM→yetim, 2015 sorusu)" },
+    { "c": "Kurumlar", "o": "Darüşşafaka ile Darüleytam arasındaki fark nedir?", "a": "Darüşşafaka: Anne/babasını kaybetmiş çocuklar için eğitim kurumu (okul, Abdülaziz)\nDarüleytam: Yetim çocukları barındırma kurumu (barınak, eğitim yuvası değil)" },
+    { "c": "Kurumlar", "o": "Mekteb-i Mülkiye ne amaçla açılmıştır?", "a": "Kaymakam, kaza müdürü, mal müdürü gibi kişilerin yetiştirilmesi için.\nTanzimat dönemine uygun memurlar yetiştirmek amacıyla Abdülmecid döneminde açıldı.\n(Muhtemel soru adayı)" },
+    { "c": "Kurumlar", "o": "Encümen-i Daniş'in günümüzdeki karşılığı nedir?", "a": "Talim Terbiye Kurulu.\nMüfredatı belirler, ders kitaplarının hazırlanmasını sağlar, halkın eğitimi için çaba gösterir." },
+    { "c": "Kurumlar", "o": "Osmanlı'da açılan ilk yabancı okul hangisidir?", "a": "Saint Benoit Koleji (Fransız okulu)" },
+    { "c": "Kurumlar", "o": "Hamidiye Etfal ve Himaye-i Etfal arasındaki fark nedir?", "a": "Hamidiye Etfal: Osmanlı'nın ilk çocuk hastanesi (Abdülhamit)\nHimaye-i Etfal: Çocuk Esirgeme Kurumu\n(Etfal=tıfıl=çocuk)" },
+    { "c": "Hukuk", "o": "Klasik dönem Osmanlı mahkemeleri hangileridir?", "a": "1. Şeriat Mahkemeleri: Müslümanların davaları\n2. Cemaat Mahkemeleri: Gayrimüslimlerin davaları\n3. Konsolosluk Mahkemeleri: Yabancıların davaları (kapitülasyonlar etkisiyle)" },
+    { "c": "Hukuk", "o": "Tanzimat dönemi mahkemeleri hangileridir?", "a": "1. Nizamiye Mahkemeleri: Hem Müslüman hem gayrimüslim davaları\n2. Ticaret Mahkemeleri: Ticari anlaşmazlıklar\nKlasik dönem mahkemeleri kaldırılmadan eklendi → hukuk alanında ikilik!" },
+    { "c": "Hukuk", "o": "Osmanlı'da eğitim ve hukuk alanında ikilik nasıl oluşmuştur?", "a": "Eğitim: Medrese (klasik) + batı tarzı okullar (iptidai, rüşdiye, idadi) birlikte → ikilik\nHukuk: Şeriat+Cemaat mahkemeleri (klasik) + Nizamiye+Ticaret mahkemeleri (Tanzimat) birlikte → ikilik" },
+    { "c": "Hukuk", "o": "Kadının görevleri nelerdir?", "a": "Mahkemelere bakmak\nBelediye işleri (kazanın yöneticisi)\nNoter hizmeti\nVakıfları denetleme\nHalkın şikayetlerini devlete iletme\nYeni kanunları halka duyurma" },
+    { "c": "Hukuk", "o": "Şeriye sicilleri ve tereke defterleri nedir?", "a": "Şeriye sicilleri: Kadıların mahkeme tutanaklarını kaydettiği defterler\nTereke defterleri: Aile mirasçıları, çocuk sayısı, evlilik bilgileri kaydedilen defterler" },
+    { "c": "Hukuk", "o": "Ceride-i Mehakim nedir?", "a": "Geç dönem Osmanlı'da kanunların yayınlandığı gazetedir.\n(Mehakim=mahkeme → kanunlar)" }
+  ],
+  "tuzak": [
+    { "q": "Hüdavendigar (Allah dostu) unvanını kullanan padişah?", "o": ["I. Murat", "II. Murat", "I. Bayezid"], "c": 0, "n": "I. Murat'ın lakabıdır; II. Murat ile karıştırılır." },
+    { "q": "Kayser-i Rum unvanını kullanan padişah?", "o": ["Yavuz Sultan Selim", "Fatih Sultan Mehmet"], "c": 1, "n": "Yavuz halife unvanını aldı; Kayser-i Rum (Roma'nın Sezarı) Fatih'e aittir." },
+    { "q": "İlk Osmanlı halifesi kimdir?", "o": ["Fatih Sultan Mehmet", "Yavuz Sultan Selim", "Kanuni Sultan Süleyman"], "c": 1, "n": "Fatih İstanbul'u fethetti ama halifeliği alan Yavuz'dur (Ridaniye Savaşı)." },
+    { "q": "Sultan unvanını Osmanlı'da ilk kullanan padişah?", "o": ["Osman Bey", "Orhan Bey", "I. Murat"], "c": 1, "n": "Osman Bey kurucudur ama sultan unvanını ilk kullanan Orhan Bey'dir." },
+    { "q": "Tek başına ok hükümdarlık sembolü müdür?", "o": ["Evet, sembolüdür", "Hayır, yay veya yay+ok olmalı"], "c": 1, "n": "Yay hükümdarlık sembolüdür ama tek başına ok sembol kabul edilmez." },
+    { "q": "Kılıç alayı hangi devletlere özgüdür?", "o": ["Tüm Türk-İslam devletleri", "Sadece Osmanlı Devleti"], "c": 1, "n": "Kılıç kuşanma töreni yalnız Osmanlı'ya özgüdür (2025 AYT)." },
+    { "q": "Osmanlı'nın ilk kanunnamesi hangi döneme aittir?", "o": ["Kanuni Sultan Süleyman", "Fatih Sultan Mehmet"], "c": 1, "n": "Kanuni adı kanunlarla özdeşleşse de ilk kanunname Fatih Kanunnamesidir (Kanunname-i Ali Osman)." },
+    { "q": "Adaletname mi yasakname mi: Yöneticinin otoriteyi kötüye kullanmasını engeller?", "o": ["Yasakname", "Adaletname"], "c": 1, "n": "Yasakname yasak duyurur; adaletname ise yöneticilerin gücü kötüye kullanmasını engeller." },
+    { "q": "Müsadereyi ilk uygulayan padişah?", "o": ["I. Murat", "Fatih Sultan Mehmet", "Kanuni"], "c": 1, "n": "Fatih, Çandarlı Halil Paşa'nın mallarını müsadere ettirmiştir." },
+    { "q": "Müsadereyi resmen kaldıran gelişme?", "o": ["II. Mahmut'un kararı", "Tanzimat Fermanı (Abdülmecid)"], "c": 1, "n": "II. Mahmut uygulamadan kaldırdı; resmen ve kanun olarak kaldıran Abdülmecid'dir (Tanzimat Fermanı)." },
+    { "q": "Berat nedir?", "o": ["İş yeri açma izni", "Atama belgesi", "Diploma"], "c": 1, "n": "Gedik=iş yeri açma izni, berat=atama belgesi (sonunda 'at'), icazetname=diploma." },
+    { "q": "Veraset sistemini 'ülke padişah ve oğullarının malıdır' şeklinde değiştiren?", "o": ["Fatih Sultan Mehmet", "I. Murat"], "c": 1, "n": "Fatih 'sadece padişahın malı + kardeş katli' dedi; 'padişah ve oğulları' ifadesi I. Murat'a aittir." },
+    { "q": "Veraset sistemini kesin kurala bağlayan padişah?", "o": ["Fatih Sultan Mehmet", "I. Ahmet", "III. Mehmet"], "c": 1, "n": "Fatih kardeş katlini getirdi ama veraseti kesin kurala bağlayan I. Ahmet'tir (Ekber ve Erşed)." },
+    { "q": "Osmanlı'nın ilk sarayı hangisidir?", "o": ["Topkapı Sarayı", "Edirne Sarayı", "Bursa Bey Sarayı"], "c": 2, "n": "Topkapı en uzun merkezlik yapan, Edirne en geniş; ilk saray Bursa Bey Sarayıdır (Orhan Bey)." },
+    { "q": "Osmanlı'nın en geniş sarayı hangisidir?", "o": ["Topkapı Sarayı", "Edirne Sarayı", "Dolmabahçe Sarayı"], "c": 1, "n": "Topkapı en uzun merkezlik yapan saray; en geniş olan Edirne Sarayıdır." },
+    { "q": "Dolmabahçe Sarayı'nı yaptıran padişah?", "o": ["Abdülaziz", "Abdülmecid"], "c": 1, "n": "Abdülaziz Beylerbeyi ve Çırağan'ı yaptırdı; Dolmabahçe'yi yaptıran Abdülmecid'dir." },
+    { "q": "Beylerbeyi ve Çırağan saraylarını yaptıran padişah?", "o": ["Abdülmecid", "Abdülaziz"], "c": 1, "n": "Abdülmecid Dolmabahçe'yi yaptırdı; Beylerbeyi+Çırağan Abdülaziz'e aittir (2016 KPSS)." },
+    { "q": "Divan-ı Hümayun'u kuran padişah?", "o": ["Osman Bey", "Orhan Bey", "I. Murat"], "c": 1, "n": "Osman Bey devletin kurucusu ama Divan-ı Hümayun'u kuran Orhan Bey'dir." },
+    { "q": "Vezirlik makamını kuran mı, Vezir-i Azamlık makamını kuran mı: Orhan Bey?", "o": ["Vezirlik makamı", "Vezir-i Azamlık makamı"], "c": 0, "n": "Orhan Bey vezirlik makamını kurdu; Vezir-i Azamlık (sadrazamlık) I. Murat'ın kurduğu makamdır." },
+    { "q": "Enderun Mektebi'ni kuran padişah?", "o": ["I. Murat", "II. Murat"], "c": 1, "n": "I. Murat veraset değiştirdi; Enderun Mektebi'ni kuran II. Murat'tır." },
+    { "q": "Osmanlı'nın ilk medresesi nerededir?", "o": ["Bursa", "İznik"], "c": 1, "n": "İlk saray Bursa'dadır ama ilk medrese İznik'tedir (Orhan Bey)." },
+    { "q": "Sancak sistemini kuran padişah?", "o": ["Osman Bey", "Orhan Bey"], "c": 1, "n": "Osman Bey devleti kurdu; sancak sistemini kuran Orhan Bey'dir." },
+    { "q": "Sancak sistemini kaldıran padişah?", "o": ["I. Ahmet", "III. Mehmet"], "c": 1, "n": "I. Ahmet kafes usulünü getirdi; sancağı kaldıran III. Mehmet'tir." },
+    { "q": "Kafes usulünü (şimşirlik) getiren padişah?", "o": ["III. Mehmet", "I. Ahmet"], "c": 1, "n": "III. Mehmet sancağı kaldırdı ama yerine kafes usulünü getiren I. Ahmet'tir." },
+    { "q": "Mekteb-i Mülkiye hangi padişah döneminde açıldı?", "o": ["Abdülaziz", "Abdülmecid"], "c": 1, "n": "Darüşşafaka Abdülaziz döneminde; Mekteb-i Mülkiye ise Abdülmecid döneminde açıldı." },
+    { "q": "Salyaneli eyaletler merkeze yakın mıdır uzak mıdır?", "o": ["Merkeze yakın", "Merkeze uzak"], "c": 1, "n": "Sal=yıl→yıllıklı=maaşlı; merkeze uzak olduğu için tımar uygulanamaz, iltizam uygulanır." },
+    { "q": "İltizam sisteminin diğer adı nedir?", "o": ["Malikane sistemi", "Emanet sistemi"], "c": 1, "n": "Malikane ömür boyu kiralama; iltizamın diğer adı emanet sistemidir (2024 KPSS)." },
+    { "q": "Kazasker hangi beraya sınıfında yer alır?", "o": ["Seyfiye", "İlmiye"], "c": 1, "n": "Adında 'asker' geçse de kadı ve müderris ataması yaptığı için ilmiye sınıfındadır." },
+    { "q": "Nişancı'nın Anadolu Selçuklu karşılığı kimdir?", "o": ["Atabey", "Pervaneci"], "c": 1, "n": "Atabey şehzade eğitimcisi; tapu tahrir kayıtlarını tutan (nişancı karşılığı) pervanecidır." },
+    { "q": "Darüşşafaka bir barınma yeri mi yoksa okul mu?", "o": ["Barınma yeri", "Eğitim kurumu (okul)"], "c": 1, "n": "Darüleytam barınma yeridir; Darüşşafaka anne/babasını kaybetmiş çocuklar için eğitim okuludur." }
+  ],
+  "deneme": [
+    {
+      "q": "Osmanlı Devleti'nde aşağıdaki yönetim biçimlerinden hangisinin uygulandığı söylenemez?",
+      "o": ["Monarşi", "Teokrasi", "Meşruti monarşi", "Oligarşi", "Mutlak monarşi"],
+      "c": 3,
+      "e": "Osmanlı'da monarşi (tek kişi), teokrasi (dini kurallar), meşrutiyet (1876) ve mutlak monarşi uygulanmıştır. Oligarşi (azınlık yönetimi) yoktur."
+    },
+    {
+      "q": "Fatih Sultan Mehmet'in 'Kayser-i Rum' unvanını kullanmasının temel gerekçesi aşağıdakilerden hangisidir?",
+      "o": ["Haçlı Seferlerini durdurması", "Bizans İmparatorluğu'nu yıkarak Roma mirası üzerinde hak iddia etmesi", "Halifelik makamını devralması", "Anadolu Türk birliğini sağlaması", "Memlük Devleti'ni ortadan kaldırması"],
+      "c": 1,
+      "e": "Fatih, İstanbul'u fethederek Bizans'ı yıktı ve Orhangazi'nin Kantakuzenos kızıyla evliliğine dayanarak kendini Roma varisi ilan etti."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı Devleti'nde yalnızca Osmanlı'ya özgü olan bir hükümdarlık sembolüdür?",
+      "o": ["Hutbe", "Sikke", "Otağ", "Kılıç alayı", "Nöbet"],
+      "c": 3,
+      "e": "Kılıç kuşanma törenleri (kılıç alayı) yalnız Osmanlı Devleti'nde yer alan bir hükümdarlık sembolüdür."
+    },
+    {
+      "q": "Osmanlı Devleti'nde veraset sistemini kesin bir kurala bağlayan padişah aşağıdakilerden hangisidir?",
+      "o": ["Fatih Sultan Mehmet", "I. Murat", "III. Mehmet", "I. Ahmet", "II. Mahmut"],
+      "c": 3,
+      "e": "I. Ahmet, Ekber ve Erşed (en büyük ve en akıllı) sistemiyle veraseti kesin kurala bağlamıştır."
+    },
+    {
+      "q": "Aşağıdaki belgelerden hangisi padişahın yöneticilerin otoriteyi kötüye kullanmasını önlemek amacıyla çıkardığı belgedir?",
+      "o": ["Ferman", "Yasakname", "Amanname", "Adaletname", "Hatt-ı Hümayun"],
+      "c": 3,
+      "e": "Adaletname yöneticilerin kendilerine verilen gücü kötüye kullanmalarını engelleyen belgedir."
+    },
+    {
+      "q": "Osmanlı Devleti'nde müsadere uygulamasıyla ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "o": ["Ferdin malına el koyma hakkıdır", "Yargı görevleri arasında yer alır", "İlk kez I. Murat döneminde uygulanmıştır", "Özel mülkiyetin gelişmesini engellemiştir", "Tanzimat Fermanı ile resmen kaldırılmıştır"],
+      "c": 2,
+      "e": "Müsadereyi ilk uygulayan Fatih Sultan Mehmet'tir (Çandarlı Halil Paşa). I. Murat değil."
+    },
+    {
+      "q": "Aşağıdaki saray-padişah eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["Bursa Bey Sarayı – Orhan Bey", "Topkapı Sarayı – Fatih Sultan Mehmet", "Dolmabahçe Sarayı – Abdülmecid", "Beylerbeyi Sarayı – Abdülmecid", "İshak Paşa Sarayı – Çolak Abdi Paşa"],
+      "c": 3,
+      "e": "Beylerbeyi Sarayı'nı Abdülaziz yaptırmıştır, Abdülmecid değil. Abdülmecid Dolmabahçe'yi yaptırmıştır."
+    },
+    {
+      "q": "Fatih Sultan Mehmet'in Divan-ı Hümayun başkanlığını sadrazama bırakmasının temel amacı aşağıdakilerden hangisidir?",
+      "o": ["Sadrazamın yetkisini artırmak", "Merkezi otoritesini güçlendirmek", "Divandaki iş yükünü azaltmak", "Şeyhülislam'ın etkisini kırmak", "Veraset sorunlarını çözmek"],
+      "c": 1,
+      "e": "Fatih, divana katılmayarak kararların kendisine sunulmasını sağladı; bu divani danışma meclisine çevirip merkezi otoritesini artırdı."
+    },
+    {
+      "q": "Osmanlı Devleti'nde Kazasker'in beraya sınıflandırmasındaki yeri ve görevleri hakkında aşağıdakilerden hangisi doğrudur?",
+      "o": ["Seyfiye sınıfındadır, ordunun başında sefere gider", "Kalemiye sınıfındadır, mali kayıtları tutar", "İlmiye sınıfındadır, kadı ve müderris ataması yapar", "Seyfiye sınıfındadır, padişahın mührünü taşır", "Kalemiye sınıfındadır, padişahın tuğrasını çeker"],
+      "c": 2,
+      "e": "Kazasker adında 'asker' geçse de kadı ve müderris ataması yaptığı için ilmiye sınıfında yer alır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı Devleti'nde taşra teşkilatında kazaların yöneticisidir?",
+      "o": ["Beylerbeyi", "Sancakbeyi", "Kadı", "Kethüda", "Subaşı"],
+      "c": 2,
+      "e": "Kadı hem kazanın yöneticisi hem adaletinden sorumlu kişidir (Kaza K → Kadı K)."
+    },
+    {
+      "q": "Osmanlı Devleti'nde sancak sistemiyle ilgili aşağıdaki bilgilerden hangisi doğrudur?\n\nI. Orhan Bey tarafından kurulmuştur\nII. Fatih Sultan Mehmet tarafından yasa haline getirilmiştir\nIII. I. Ahmet tarafından kaldırılmıştır",
+      "o": ["Yalnız I", "Yalnız II", "I ve II", "II ve III", "I, II ve III"],
+      "c": 2,
+      "e": "Sancak sistemini Orhan Bey kurdu (I doğru), Fatih yasalaştırdı (II doğru), kaldıran ise III. Mehmet'tir (I. Ahmet kafes usulünü getirdi, III yanlış)."
+    },
+    {
+      "q": "Salyaneli eyaletlerle ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "o": ["Merkeze uzak eyaletlerdir", "Tımar sistemi uygulanır", "İltizam sistemi uygulanır", "Devlete nakit para getirirler", "Yıllıklı (maaşlı) eyaletlerdir"],
+      "c": 1,
+      "e": "Salyaneli eyaletler merkeze uzak olduğu için tımar sistemi uygulanamaz; tımar sistemi salyanesiz (merkeze yakın) eyaletlerde uygulanır."
+    },
+    {
+      "q": "Aşağıdaki imtiyazlı eyalet-özellik eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["Eflak-Boğdan: Vergi verir, asker vermez", "Kırım: Asker verir, vergi vermez", "Hicaz: Ne vergi ne asker verir", "Mısır: Ne vergi ne asker verir", "Kırım yöneticileri: Giray / Han"],
+      "c": 3,
+      "e": "Ne vergi ne asker vermeyen Hicaz'dır. Mısır ayrı bir statüdedir ve Hidiv tarafından yönetilir."
+    },
+    {
+      "q": "Osmanlı eğitim basamaklarında 'rüşdiye' hangi seviyeye karşılık gelir?",
+      "o": ["İlkokul", "Ortaokul", "Lise", "Üniversite", "Yüksek lisans"],
+      "c": 1,
+      "e": "İptidai/Sıbyan=ilkokul, Rüşdiye=ortaokul, İdadi=lise, Darülfünun=üniversite."
+    },
+    {
+      "q": "Medresedeki öğrenim basamaklarından 'mülazım' ne anlama gelir?",
+      "o": ["Öğrenci", "Müderris yardımcısı", "Yüksek lisans öğrencisi", "Atama bekleyen mezun", "Öğretmen"],
+      "c": 3,
+      "e": "Mülazım: Lazım olmayı bekleyen, yani atama bekleyen mezundur. Suhte=öğrenci, muid=müderris yardımcısı."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı Devleti'nde kadı yetiştirmek amacıyla açılan medresedir?",
+      "o": ["Sahn-ı Seman", "Süleymaniye", "Tetimme", "Medresetül Kuzat", "İznik Medresesi"],
+      "c": 3,
+      "e": "Medresetül Kuzat kadı yetiştirmek için açılmıştır. Sahn-ı Seman dönemin üniversitesi, Tetimme ona hazırlık medresesidir."
+    },
+    {
+      "q": "Balkan ve Dünya Savaşlarında yetim kalan çocukları barındırmak amacıyla kurulan Osmanlı kurumu aşağıdakilerden hangisidir?",
+      "o": ["Darüşşafaka", "Darülaceze", "Himaye-i Etfal", "Darüleytam", "Darülbedai"],
+      "c": 3,
+      "e": "Darüleytam (YTM→yetim) yetim kalan çocukları barındırma kurumudur (2015 sorusu). Darüşşafaka ise eğitim okuludur."
+    },
+    {
+      "q": "Osmanlı Devleti'nde Tanzimat dönemine uygun kaymakam ve mal müdürü gibi memurlar yetiştirmek amacıyla açılan kurum aşağıdakilerden hangisidir?",
+      "o": ["Darülmaarif", "Mekteb-i Sultani", "Mekteb-i Mülkiye", "Encümen-i Daniş", "Darülmuallimin"],
+      "c": 2,
+      "e": "Mekteb-i Mülkiye Abdülmecid döneminde Tanzimat dönemine uygun memur yetiştirmek amacıyla açılmıştır."
+    },
+    {
+      "q": "Osmanlı Devleti'nde eğitim ve hukuk alanlarında yaşanan ikiliklerin temel nedeni aşağıdakilerden hangisidir?",
+      "o": ["Padişahların sık sık değişmesi", "Batı tarzı kurumlar açılırken klasik kurumların kaldırılmaması", "Taşra teşkilatının yetersiz kalması", "Enderun mektebinin kapatılması", "Veraset sistemindeki değişiklikler"],
+      "c": 1,
+      "e": "Medrese + batı okulları, şeriat + nizamiye mahkemeleri birlikte devam etti. Eski kaldırılmadan yeni eklenmesi ikilik yarattı."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı Devleti'nde kadının görevleri arasında yer almaz?",
+      "o": ["Mahkemelere bakmak", "Vakıfları denetlemek", "Vergi toplamak", "Noter hizmeti görmek", "Yeni kanunları halka duyurmak"],
+      "c": 2,
+      "e": "Kadı mahkemelere bakar, belediye işleriyle uğraşır, noter hizmeti görür, vakıf denetler, kanun duyurur. Vergi toplama kadının doğrudan görevi değildir."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Saraylar ve Yaptıran/Dönem",
+      "p": [
+        ["Bursa Bey Sarayı", "Orhan Bey (ilk saray)"],
+        ["Edirne Sarayı", "II. Murat (en geniş)"],
+        ["Topkapı Sarayı", "Fatih (en uzun merkezlik)"],
+        ["İshak Paşa Sarayı", "Çolak Abdi Paşa (alttan ısıtma)"],
+        ["Dolmabahçe Sarayı", "Abdülmecid (batı mimarisi ilk)"],
+        ["Beylerbeyi + Çırağan", "Abdülaziz"],
+        ["Yıldız Sarayı", "II. Abdülhamit (bitirdi)"]
+      ]
+    },
+    {
+      "ad": "Divan Üyesi ve Görevi",
+      "p": [
+        ["Sadrazam", "Padişahın mutlak vekili, mührünü taşır"],
+        ["Şeyhülislam", "Fetva (dine uygunluk) belgesi verir"],
+        ["Defterdar", "Maliyenin mutlak sorumlusu"],
+        ["Nişancı", "Tuğra çeker, tapu tahrir kayıtları tutar"],
+        ["Kazasker", "Kadı ve müderris ataması yapar"],
+        ["Reisülküttab", "Dış yazışmalar (Dışişleri Bakanı)"],
+        ["Kaptan-ı Derya", "Donanma komutanı"]
+      ]
+    },
+    {
+      "ad": "Bölge / Ülke ve Osmanlı'daki Adı veya Yöneticisi",
+      "p": [
+        ["Eflak-Boğdan", "Voyvoda / Memleketeyn"],
+        ["Kırım", "Giray (Han)"],
+        ["Mısır", "Hidiv"],
+        ["Cezayir", "Dayı"],
+        ["Hicaz-Yemen", "Emir / Harameyn"],
+        ["Avusturya", "Nemçe"],
+        ["İran-Irak", "Acem"]
+      ]
+    },
+    {
+      "ad": "Darül / Mekteb Kurumu ve Karşılığı",
+      "p": [
+        ["Darülbedai", "Tiyatro"],
+        ["Darülelhan", "Konservatuar (müzik okulu)"],
+        ["Darülaceze", "Yaşlı-muhtaç barınma (huzurevi)"],
+        ["Darüleytam", "Yetim çocuk barınma (YTM→yetim)"],
+        ["Darülmuallimin", "Erkek öğretmen okulu"],
+        ["Darülmuallimat", "Kız öğretmen okulu (-t dişilik)"],
+        ["Hamidiye Etfal", "İlk çocuk hastanesi"],
+        ["Hilal-i Ahmer", "Kızılay"]
+      ]
+    },
+    {
+      "ad": "Veraset Değişikliği ve Padişah",
+      "p": [
+        ["Ülke hanedanın ortak malı", "Osman Bey – Orhan Bey"],
+        ["Ülke padişah ve oğullarının malı", "I. Murat"],
+        ["Kardeş katli vacip", "Fatih Sultan Mehmet"],
+        ["Ekber ve Erşed sistemi", "I. Ahmet"],
+        ["Sancak sistemini kurma", "Orhan Bey"],
+        ["Sancak sistemini yasalaştırma", "Fatih Sultan Mehmet"],
+        ["Sancak sistemini kaldırma", "III. Mehmet"],
+        ["Kafes usulünü getirme", "I. Ahmet"]
+      ]
+    }
+  ]
+}

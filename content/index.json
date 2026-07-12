@@ -1,3 +1,19 @@
 [
-  {"gun":1,"baslik":"İslamiyet Öncesi Türk Tarihi","hazir":true}
+  {"gun":1,"baslik":"İslamiyet Öncesi Türk Tarihi","hazir":true},
+  {"gun":2,"baslik":"Türk İslam Devletleri","hazir":true},
+  {"gun":3,"baslik":"Türkiye Tarihi: 1. Beylikler, Anadolu Selçuklu, 2. Beylikler","hazir":true},
+  {"gun":4,"baslik":"Osmanlı Kültür ve Medeniyeti","hazir":true},
+  {"gun":5,"baslik":"Osmanlı Kültür ve Medeniyeti - II (Ordu, Toprak, Ekonomi, Sanat)","hazir":true},
+  {"gun":6,"baslik":"Osmanlı Devleti Kuruluş Dönemi","hazir":true},
+  {"gun":7,"baslik":"Osmanlı Devleti Yükselme Dönemi","hazir":true},
+  {"gun":8,"baslik":"Osmanlı Devleti Duraklama Dönemi (17. Yüzyıl)","hazir":true},
+  {"gun":9,"baslik":"18. Yüzyıl Osmanlı Devleti – Gerileme Dönemi","hazir":true},
+  {"gun":10,"baslik":"Osmanlı Devleti Dağılma Dönemi — 19. Yüzyıl Siyasi Olayları","hazir":true},
+  {"gun":11,"baslik":"Dağılma Dönemi Islahatları","hazir":true},
+  {"gun":12,"baslik":"Atatürk'ün Hayatı","hazir":true},
+  {"gun":13,"baslik":"20. Yüzyılda Osmanlı Devleti (Trablusgarp ve Balkan Savaşları)","hazir":true},
+  {"gun":14,"baslik":"I. Dünya Savaşı ve Sonuçları","hazir":true},
+  {"gun":15,"baslik":"Kurtuluş Savaşı Hazırlık Dönemi (Mondros'tan Misak-ı Milli'ye)","hazir":true},
+  {"gun":16,"baslik":"1. TBMM Dönemi","hazir":true},
+  {"gun":17,"baslik":"Kurtuluş Savaşı Muharebeler Dönemi ve Lozan","hazir":true}
 ]

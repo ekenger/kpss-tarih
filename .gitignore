@@ -1,3 +1,9 @@
 node_modules/
 dist/
 .env
+
+# Netlify
+.netlify/
+
+# Ham + temiz transkriptler telifli; build'de kullanılmaz, repoya gitmez.
+data/transcripts/

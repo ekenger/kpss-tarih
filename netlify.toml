@@ -1,0 +1,13 @@
+[build]
+  command = "pnpm build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+  # pnpm-lock.yaml varsa Netlify pnpm'i otomatik seçer.
+
+# SPA fallback — tüm yollar index.html'e düşer (durum tabanlı router için güvenli).
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "gun": 11,
+    "baslik": "Dagilma Donemi Islahatlari",
+    "ozet": "19. yuzyil Osmanli islahatlari: II. Mahmut'un koklu reformlari, Tanzimat ve Islahat fermanlari, Abdulmecid-Abdulaziz-Abdulhamit donemi yenilikleri, I. ve II. Mesrutiyet, 31 Mart Isyani ve Osmanli'yi kurtarma fikirleri.",
+    "tahminiSoru": "KPSS'de ~3-5 soru",
+    "duzeltmeler": [
+      "Heyet-i Vukayi -> Heyet-i Vukela",
+      "Mizayi-i Humayun -> Mizika-i Humayun",
+      "Daru Sura-i Bavali -> Dar-i Sura-yi Bab-i Ali",
+      "Banki dersadet -> Bank-i Dersaadet",
+      "Albert Mals -> Albert Malche",
+      "Rusat emaneti -> Rusumat Emaneti",
+      "Resnel Niyazi -> Resneli Niyazi"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "II. Mahmut - Siyasi & Askeri Reformlar",
+      "i": [
+        { "k": "Sened-i Ittifak (1808)", "m": "Ayanlar ile II. Mahmut arasinda; padisahin yetkileri ilk kez kisitlandi -> Osmanli'daki ilk demokratiklesme hareketi. Etkili kisi: Alemdar Mustafa Pasa", "s": "z" },
+        { "k": "Ayanliklar kaldirildi -> Muhtarliklar", "m": "Merkezi otorite guclendi; merkezden atanan muhtarlar padisaha bagli", "s": "z" },
+        { "k": "Divan-i Humayun -> Heyet-i Vukela", "m": "Orhan Bey'de kurulan divan kaldirildi; yerine nazirliklar/bakanliklar: Seyhulislamlik->Bab-i Mesihat, Sadaret Kethudaligi->Dahiliye Nez., Reisulkuttaplik->Hariciye Nez., Sadrazamlik->Basvekalet", "s": "z" },
+        { "k": "Tasvir-i Humayun", "m": "Padisah resminin devlet dairelerine asilmasi -> merkezi otorite guclendi", "s": "z" },
+        { "k": "Timar sistemi kaldirildi + Redif birlikleri", "m": "Ordu, uretim, ekonomi etkilendi. Tasrada guvenlik boslugu -> Redif birlikleri kuruldu", "s": "z" },
+        { "k": "Sekban-i Cedid & Eskinci Ocagi", "m": "Yeniceriye alternatif ordular; yenicheriler tarafindan kaldirildi. Nizam-i Cedid ise III. Selim'de!", "s": "z" },
+        { "k": "Vaka-i Hayriye -> Asakir-i Mansure-i Muhammediye", "m": "Yeniceri Ocaginin kaldirilmasi (hayirli olay); yerine 'Muhammed'in cesur askerleri' ordusu kuruldu", "s": "z" },
+        { "k": "Seraskerlik + Mizika-i Humayun", "m": "Yeniceri agasi yerine Serasker (bas asker). Mehterhane yerine Mizika-i Humayun (Donizetti Pasa) -> Cumhurbaskanligi Senfoni Orkestrasi", "s": "z" }
+      ]
+    },
+    {
+      "b": "II. Mahmut - Idari & Sosyal Yenilikler",
+      "i": [
+        { "k": "Musadere uygulamadan kaldirildi", "m": "Ozel mulkiyet gelisti. Fatih ilk uyguladi, II. Mahmut uygulamadan kaldirdi, Tanzimat Fermaniyla resmen kaldirildi", "s": "z" },
+        { "k": "Gavur Padisah", "m": "Memura fes-ceket-pantolon, kavuk kaldirildi -> halk II. Mahmut'a 'gavur padisah' dedi", "s": "z" },
+        { "k": "Ilk nufus sayimi", "m": "Asker ve vergi orani belirlemek icin; sadece erkekler + hayvanlar sayildi", "s": "z" },
+        { "k": "Posta Teskilati", "m": "Haberlesme + merkezi otorite guclendi (tasra isyanlari hizla merkeze bildirildi)", "s": "z" },
+        { "k": "Evkaf Nezareti", "m": "Vakiflari tek elden yonetmek icin kurulan vakiflar bakanligi. Evkaf = kafe harfleri", "s": "z" },
+        { "k": "Ihtisap Nezareti", "m": "Belediye ve zabita isleri. Ihtisap icinde HSP = Hesap -> muhtesip gibi", "s": "z" },
+        { "k": "Murur Tezkiresi & Pasaport", "m": "Murur tezkiresi: Istanbul'a giris belgesi. Pasaport: Avrupa'ya ogrenci gondermek icin ilk kez uygulamaya gecildi", "s": "z" },
+        { "k": "Dar-i Sura-yi Bab-i Ali & Askeri", "m": "Babali: hukumet isleri, sadarete danismanlik. Askeri: yeni ordunun teskilatlanmasi", "s": "z" },
+        { "k": "Meclis-i Vala-yi Ahkam-i Adliye", "m": "Islahatlari planlayin yasama ve yargi organi. Abdulaziz'de ikiye ayrildi: Sura-yi Devlet (Danistay) + Divan-i Ahkam-i Adliye (Yargitay)", "s": "z" }
+      ]
+    },
+    {
+      "b": "II. Mahmut - Egitim, Basin & Ekonomi",
+      "i": [
+        { "k": "Mekteb-i Harbiye & Tibbiye", "m": "Harbiye: modern subay; Tibbiye: modern tip egitimi", "s": "z" },
+        { "k": "Enderun kaldirildi -> Mekteb-i Maarif-i Adliye", "m": "Enderun: I. Murat kurdu, II. Mahmut kaldirdi. Yerine devlet adami yetistirmek icin kuruldu", "s": "z" },
+        { "k": "Avrupa'ya ilk ogrenci + Tercume Odalari", "m": "Egitim amacli ilk ogrenci gonderildi -> pasaport uygulamasi basladi. Musluman tercuman yetistirmek icin tercume odalari kuruldu", "s": "z" },
+        { "k": "Takvim-i Vekayi", "m": "Osmanli'nin ilk resmi gazetesi", "s": "z" },
+        { "k": "Ilk karantina (Verem)", "m": "Osmanli tarihinde ilk karantina uygulamasi, verem salgini sebebiyle", "s": "z" },
+        { "k": "Yurt ici gezi + yerli mali tesvik", "m": "Yurt ici gezi duzenleyen ilk padisah. Balta Limani Tic. Ant. ile tekelcilik kalkti; fes/kumas fabrikalari acildi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Tanzimat & Islahat Fermanlari",
+      "i": [
+        { "k": "Tanzimat sifresi: HERKES", "m": "Herkes kastediliyorsa Tanzimat. Gulhane Parki'nda okundu. Ilan: Abdulmecid, hazirlayan: Mustafa Resit Pasa, akim: Osmanlicilik", "s": "z" },
+        { "k": "Islahat sifresi: GAYRIMUSLIM", "m": "Gayrimuslim vurgusu varsa Islahat. Ilan: Abdulmecid, hazirlayan: Mehmet Emin Ali Pasa, akim: Osmanlicilik", "s": "z" },
+        { "k": "Tanzimat sebebi: Londra Konferansi", "m": "Misir meselesinin gorusulecegi Londra Konferansi kararlarinda etkili olmak icin ilan edildi (1839)", "s": "z" },
+        { "k": "Islahat sebebi: Paris Konferansi", "m": "Kirim Savasi sonrasi Paris Konferansi ve Antlasmasi kararlarinda etkili olmak icin ilan edildi (1856)", "s": "z" },
+        { "k": "Cizye: Tanzimat'ta kalkmadi!", "m": "Tanzimat'ta askerlik vatan hizmeti oldu ama cizye devam etti. Cizye Islahat Fermaniyla kalkti -> bedelli askerlik geldi", "s": "z" },
+        { "k": "Demokratiklesme uc asamasi", "m": "Ilk demokratiklesme: Sened-i Ittifak. Anayasaciligin ilk adimi: Tanzimat Fermani. Ilk anayasa: Kanun-i Esasi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Abdulmecid & Abdulaziz Donemi",
+      "i": [
+        { "k": "Ilk dis borc (Ingiltere, Kirim Savasi)", "m": "Abdulmecid doneminde, donanma kurmak icin. En cok dis borc: Fransa'dan", "s": "z" },
+        { "k": "Ilk demiryolu: Izmir-Aydin", "m": "Nafia Nazirligi (Bayindirlik Bakanligi) kurdu. Abdulmecid donemi. OABT cikmis sorusu", "s": "z" },
+        { "k": "Bank-i Dersaadet & Bank-i Osmani", "m": "Dersaadet (1847): Osmanli'nin ilk bankasi. Osmani: yabanci sermayeli ilk banka (Ingiliz) -> Abdulaziz'de para basma yetkisi", "s": "z" },
+        { "k": "Mekteb-i Mulkiye -> Ankara SBF", "m": "Kaymakam, mudur gibi idareci yetistiren kurum. Abdulmecid donemi. Muhtemel soru adayi", "s": "z" },
+        { "k": "Abdulaziz elinde valiz", "m": "Ilk yurt disi seyahati: borc para + Rusya'nin emellerini anlatma + azinliklara gosteris. Yurt ici = II. Mahmut", "s": "z" },
+        { "k": "Darulfunun -> Istanbul Univ.", "m": "Osmanli'nin ilk universitesi (Abdulaziz) -> kapandi -> Darulfunun-u Sahane (Abdulhamit) -> Istanbul Univ. (1933 Albert Malche)", "s": "z" },
+        { "k": "Mecelle (Ahmet Cevdet Pasa)", "m": "Osmanli'nin ilk medeni kanunu. Hazirlanmaya baslama: Abdulaziz; tamami yururluge: Abdulhamit. C harfi kodlamasi", "s": "z" },
+        { "k": "Memleket Sandiklari -> Ziraat Bankasi", "m": "Mithat Pasa kurdu (ciftciye kredi), Abdulaziz donemi. Abdulhamit birlestirip Ziraat Bankasi'na cevirdi. Osmanli'dan gunumuze kalan tek banka", "s": "z" }
+      ]
+    },
+    {
+      "b": "II. Abdulhamit & Mesrutiyet",
+      "i": [
+        { "k": "I. Mesrutiyet (1876) + Kanun-i Esasi", "m": "Ilk yazili anayasa; hazirlayan: Mithat Pasa. Sebep: Balkan bunalimi -> Tersane Konferansi. Etkili grup: Genc Osmanlilar", "s": "z" },
+        { "k": "NAMAZ SINASI", "m": "Genc Osmanlilar: Namik Kemal, Agah Efendi, Mithat Pasa, Ali Suavi, Ziya Pasa, Sinasi", "s": "z" },
+        { "k": "Istibdat donemi (1878-1908)", "m": "93 Harbi sebebiyle meclis kapatildi; 30 yil. Politika: Islamcilik. Yakinlasilan devlet: Almanya (denge politikasi). Yonetim merkezi: Yildiz Sarayi", "s": "z" },
+        { "k": "II. Mesrutiyet (1908)", "m": "Reval Gorusmeleri (Ing-Rus) + Hurriyet Taburlari isyani (Resneli Niyazi) -> istibdat bitti. Etkili grup: Ittihat ve Terakki", "s": "z" },
+        { "k": "BBG & SAKAR kodlari", "m": "II. Mesrutiyet kayiplari: BBG = Bosna, Bulgaristan, Girit. Berlin Ant. kayiplari: SAKAR = Sirbistan, Karadag, Romanya", "s": "z" },
+        { "k": "31 Mart Isyani (1909)", "m": "Ilk gerici/irticai ayaklanma. Hareket Ordusu bastirdi (Mahmut Sevket Pasa komutan, M. Kemal kurmay yuzbasi). Abdulhamit meclis karariyla indirilen ilk padisah -> 5. Mehmet Resat", "s": "z" },
+        { "k": "1909 Kanun-i Esasi degisiklikleri", "m": "Antidemokratik maddeler duzeltildi; Turk tarihinde ilk cok partili hayata II. Mesrutiyetle gecildi", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "II. Mahmut Reformlari", "o": "Sened-i Ittifak kimler arasinda imzalandi ve ne sagladi?", "a": "Ayanlar ile II. Mahmut arasinda (1808).\nPadisahin yetkileri ilk kez kisitlandi.\nOsmanli'daki ilk demokratiklesme hareketi.\nEtkili kisi: Alemdar Mustafa Pasa." },
+    { "c": "II. Mahmut Reformlari", "o": "Ayanliklar kaldirilinca yerine ne kuruldu ve sonucu ne oldu?", "a": "Muhtarliklar kuruldu.\nMerkezden atanan muhtarlar padisaha bagli.\nMerkezi otorite guclendi." },
+    { "c": "II. Mahmut Reformlari", "o": "Divan-i Humayun'u kim kurdu, kim kaldirdi, yerine ne geldi?", "a": "Kuran: Orhan Bey\nKaldiran: II. Mahmut\nYerine: Heyet-i Vukela (nazirliklari iceren vekiller heyeti)" },
+    { "c": "II. Mahmut Reformlari", "o": "Sadrazamlik, Seyhulislamlik, Sadaret Kethudaligi, Reisulkuttaplik yerine ne geldi?", "a": "Sadrazamlik -> Basvekalet (Basbakanlik)\nSeyhulislamlik -> Bab-i Mesihat Dairesi\nSadaret Kethudaligi -> Dahiliye Nez. (Icisleri)\nReisulkuttaplik -> Hariciye Nez. (Disisleri)" },
+    { "c": "II. Mahmut Reformlari", "o": "Tasvir-i Humayun ne demektir ve amaci nedir?", "a": "Padisahin tasvirinin (resminin) devlet dairelerine asilmasi.\nMemurlar padisahin gozetiminde hissetti.\nMerkezi otorite guclendi." },
+    { "c": "II. Mahmut Reformlari", "o": "Timar sistemi kaldirilinca hangi alanlar etkilendi?", "a": "Ordu (ucretsiz ordu sistemi bitti)\nUretim (sureklilik bozuldu)\nEkonomi\nTasra guvenligi (bosluk -> Redif birlikleri kuruldu)" },
+    { "c": "II. Mahmut Reformlari", "o": "Vaka-i Hayriye nedir, yerine ne kuruldu?", "a": "Yeniceri Ocaginin kaldirilmasi (hayirli olay).\nYeniliklerin onundeki en buyuk engel ortadan kalkti.\nYerine: Asakir-i Mansure-i Muhammediye ordusu." },
+    { "c": "II. Mahmut Reformlari", "o": "Sekban-i Cedid, Eskinci Ocagi ve Asakir-i Mansure-i Muhammediye'nin ortak yonu?", "a": "Ucunu de II. Mahmut kurdu.\nSekban-i Cedid & Eskinci: yeniceriye alternatif, yenicheriler kaldirdi.\nAsakir-i Mansure: yeniceriler kalktiktan sonra kuruldu.\nNizam-i Cedid ise III. Selim donemindedir!" },
+    { "c": "II. Mahmut Reformlari", "o": "Seraskerlik ne icin kuruldu?", "a": "Yeniceri Ocagi kalktiktan sonra yeniceri agasi da kalkti.\nKara ordularinin en yuksek amiri olarak seraskerlik (bas asker) makami kuruldu." },
+    { "c": "II. Mahmut Reformlari", "o": "Mehterhane yerine ne kuruldu, kim kurdu, gunumuzde ne oldu?", "a": "Mizika-i Humayun kuruldu.\nKuran: Donizetti Pasa.\nGunumuzde bilinen Mehter Marslari bu donemde kayda alindi.\nCumhuriyette: Cumhurbaskanligi Senfoni Orkestrasi." },
+    { "c": "II. Mahmut Idari Yenilikler", "o": "Musadere nedir, hangi asamalarla kaldirildi?", "a": "Padisahin yargi yetkisi, ferdin malina el koyma.\nIlk uygulayan: Fatih Sultan Mehmet (Candarli Halil Pasa).\nUygulamadan kaldiran: II. Mahmut -> ozel mulkiyet gelisti.\nResmen kaldiran: Tanzimat Fermani (Abdulmecid)." },
+    { "c": "II. Mahmut Idari Yenilikler", "o": "II. Mahmut'a neden 'Gavur Padisah' dendi?", "a": "Memura fes, ceket, pantolon uygulamasi getirdi.\nKavugu kaldirdi.\nHalk, Frenklere benzediler diyerek\n'gavur padisah' dedi." },
+    { "c": "II. Mahmut Idari Yenilikler", "o": "Ilk nufus sayiminin amaci ve ozelligi?", "a": "Amac: asker ve vergi oranini belirlemek.\nSadece erkekler ve hayvanlar sayildi.\nKadinlar sayilmadi.\nII. Mahmut donemi." },
+    { "c": "II. Mahmut Idari Yenilikler", "o": "Evkaf Nezareti neden kuruldu?", "a": "Vakiflari tek elden yonetmek amacli.\nVakiflar kontrolden cikmisti.\nEvkaf = kafe harfleri (vakif kelimesinden)." },
+    { "c": "II. Mahmut Idari Yenilikler", "o": "Ihtisap Nezareti ne is yapar?", "a": "Belediye ve zabita islerini yurutmek icin kuruldu.\nIhtisap -> HSP harfleri -> Hesap = muhtesip gibi.\nCarsi-pazar denetimi, gunumuz zabitasi." },
+    { "c": "II. Mahmut Idari Yenilikler", "o": "Murur Tezkiresi ve Pasaport farki?", "a": "Murur Tezkiresi: Istanbul'a giris belgesi (kontrolsuz buyumeyi onlemek).\nPasaport: yurt disina giris belgesi (Avrupa'ya ogrenci gondermek icin basladi).\nIkisi de II. Mahmut donemi." },
+    { "c": "II. Mahmut Idari Yenilikler", "o": "Meclis-i Vala-yi Ahkam-i Adliye ne zaman ve neden kuruldu, sonra ne oldu?", "a": "II. Mahmut donemi, islahatlari planlayip denetleyen yasama ve yargi organi.\nAbdulaziz doneminde ikiye ayrildi:\nSura-yi Devlet = Danistay\nDivan-i Ahkam-i Adliye = Yargitay" },
+    { "c": "II. Mahmut Egitim & Basin", "o": "Enderun Mektebi'ni kim kurdu, kim kaldirdi, yerine ne geldi?", "a": "Kuran: I. Murat\nKaldiran: II. Mahmut\nYerine: Mekteb-i Maarif-i Adliye\n(devlet adami yetistirmek icin)" },
+    { "c": "II. Mahmut Egitim & Basin", "o": "Osmanli'nin ilk resmi gazetesi hangisi, hangi donem?", "a": "Takvim-i Vekayi\nII. Mahmut donemi\n(Ilk yari resmi: Ceride-i Havadis, Abdulmecid)\n(Ilk ozel: Tercuman-i Ahval, Sinasi & Agah Efendi)" },
+    { "c": "II. Mahmut Egitim & Basin", "o": "Osmanli tarihinde ilk karantina hangi hastalik icin, hangi donemde uygulanmistir?", "a": "Verem hastaligi icin.\nII. Mahmut donemi." },
+    { "c": "Tanzimat & Islahat", "o": "Tanzimat Fermani'nin sifresi nedir, acikla.", "a": "Sifresi: HERKES\nTum maddelerde 'herkes' kastedilir:\nCan-mal-namus guvenligi, yargilanmadan ceza yok,\nvergiler gelire gore, herkes askere, mal-mulk edinme." },
+    { "c": "Tanzimat & Islahat", "o": "Islahat Fermani'nin sifresi nedir, acikla.", "a": "Sifresi: GAYRIMUSLIM\nGayrimuslimlere: devlet gorevi, askeri okul, il meclisi uyeligi,\nmulk edinme, sahitlik hakki verildi.\nCizye kaldirildi, kucuk dusurulme yasaklandi." },
+    { "c": "Tanzimat & Islahat", "o": "Tanzimat Fermani'ni kim ilan etti, kim hazirladi, sebebi neydi?", "a": "Ilan: Abdulmecid (1839, Gulhane Parki)\nHazirlayan: Mustafa Resit Pasa\nSebep: Misir meselesinin gorusulecegi Londra Konferansi\nAkim: Osmanlicilik" },
+    { "c": "Tanzimat & Islahat", "o": "Islahat Fermani'ni kim ilan etti, kim hazirladi, sebebi neydi?", "a": "Ilan: Abdulmecid (1856)\nHazirlayan: Mehmet Emin Ali Pasa\nSebep: Kirim Savasi sonrasi Paris Konferansi\nAkim: Osmanlicilik" },
+    { "c": "Tanzimat & Islahat", "o": "Cizye Tanzimat Fermaniyla mi kalkti?", "a": "HAYIR! Tanzimat'ta askerlik vatan hizmeti oldu ama cizye devam etti.\nCizye ISLAHAT FERMANIYLA kalkti.\nYerine bedelli askerlik (tek seferlik bedel odeme) geldi." },
+    { "c": "Tanzimat & Islahat", "o": "Gayrimuslimlerin aldigi ilk siyasi hak nedir, hangi belgeyle?", "a": "Il genel meclislerine uye olabilme.\nIslahat Fermaniyla, Abdulmecid donemi." },
+    { "c": "Tanzimat & Islahat", "o": "Osmanlicilik politikasi nedir, temellerini kim atti?", "a": "Din, dil, irk fark etmeksizin herkesi Osmanli catisi altinda birlestirme ideali.\nAmac: Osmanli'nin dagilmasini engellemek.\nTemellerini atan: II. Mahmut ('tebamdan Musluman olanlari camide, Hristiyan olanlari kilisede, Musevi olanlari havrada gormek isterim')." },
+    { "c": "Tanzimat & Islahat", "o": "Ilk demokratiklesme, anayasaciligin ilk adimi ve ilk anayasa hangisidir?", "a": "Ilk demokratiklesme: Sened-i Ittifak (padisah yetkileri kisitlandi)\nAnayasaciligin ilk adimi: Tanzimat Fermani (kanun ustunlugu)\nIlk anayasa: Kanun-i Esasi (1876)" },
+    { "c": "Abdulmecid Donemi", "o": "Ilk dis borc kimden, neden ve hangi donemde alindi?", "a": "Ingiltere'den alindi.\nKirim Savasi doneminde donanma kurmak icin.\nAbdulmecid donemi.\nEn cok dis borc: Fransa'dan." },
+    { "c": "Abdulmecid Donemi", "o": "Osmanli'da ilk demiryolu hatti nereye, hangi donemde kuruldu?", "a": "Izmir-Aydin arasina.\nAbdulmecid donemi.\nNafia Nazirligi (Bayindirlik Bakanligi) kurdu.\nOABT cikmis sorusu." },
+    { "c": "Abdulmecid Donemi", "o": "Bank-i Dersaadet ve Bank-i Osmani farkini acikla.", "a": "Bank-i Dersaadet (1847): Osmanli'nin ilk bankasi, Galata bankerlerinden borcla kuruldu.\nBank-i Osmani: yabanci sermayeli (Ingiliz) ilk banka.\nAbdulaziz'de Bank-i Osmani-i Sahane oldu, para basma yetkisi aldi." },
+    { "c": "Abdulmecid Donemi", "o": "Mekteb-i Mulkiye nedir, gunumuzde ne oldu?", "a": "Kaymakam, kaza muduru, mal muduru gibi\nidarecilerin yetistirilmesini saglayan kurum.\nAbdulmecid donemi.\nAnkara Universitesi Siyasal Bilgiler Fakultesi'nin temeli." },
+    { "c": "Abdulmecid Donemi", "o": "Sirket-i Hayriye nedir?", "a": "Osmanli Devleti'nin ilk sirketi.\nBogazici'nde yolcu tasima sirketi.\nAbdulmecid donemi." },
+    { "c": "Abdulmecid Donemi", "o": "Kaime nedir?", "a": "Osmanli'nin ilk kagit parasi.\nAbdulmecid doneminde basildi." },
+    { "c": "Abdulmecid Donemi", "o": "Ilk telgraf hatti nereye, hangi olay sirasinda kuruldu?", "a": "Istanbul - Edirne - Sumla arasina.\nKirim Savasi sirasinda.\nAbdulmecid donemi." },
+    { "c": "Abdulmecid Donemi", "o": "Darulmuallimin nedir, hangi donemde kuruldu?", "a": "Erkek ogretmen okulu.\nAbdulmecid donemi.\n(Darulmuallimat = kiz ogretmen okulu -> Abdulaziz)" },
+    { "c": "Abdulmecid Donemi", "o": "Maarif-i Umumiye Nezareti nedir?", "a": "Osmanli'nin Milli Egitim Bakanligi.\nAbdulmecid doneminde kuruldu.\n(Maarif-i Umumiye Nizamnamesi ise Abdulaziz donemi)" },
+    { "c": "Abdulmecid Donemi", "o": "Encumen-i Danis ne ise yarar?", "a": "Kitaplarin basimi ve hazirlanmasindan sorumlu,\nhalkin gelisimine odaklanan kurum.\nGunumuzun Talim Terbiye Kurulu.\nAbdulmecid donemi." },
+    { "c": "Abdulmecid Donemi", "o": "1859 Kuleli Vakasi nedir?", "a": "Abdulmecid'i tahttan indirip Abdulaziz'i tahta gecirmeye yonelik\nbasarisiz darbe girisimi.\nMuhtemel soru adayi." },
+    { "c": "Abdulmecid Donemi", "o": "Islah-i Sanayi Komisyonu neden kuruldu?", "a": "Avrupa'daki sanayi gelismelerini izleyip\nOsmanli'da uygulamak icin.\nAbdulmecid donemi.\nAncak kadin/cocuk isci gruplari sebebiyle etkin uygulanamadi." },
+    { "c": "Abdulmecid Donemi", "o": "Muhassallik Meclisleri neden kuruldu?", "a": "Iltizam usulu yerine vergi toplamak icin.\nMuhasil = hasilati toplayan.\nAbdulmecid donemi." },
+    { "c": "Abdulaziz Donemi", "o": "Abdulaziz neden yurt disi seyahati duzenledi? (3 sebep)", "a": "1. Borc para bulmak\n2. Rusya'nin tarihi emellerini Avrupalilara anlatmak\n3. Azinliklara padisaha gosterilen saygiyi gostermek\nKod: Abdulaziz elinde valiz" },
+    { "c": "Abdulaziz Donemi", "o": "Darulfunun'un kronolojik sureci nedir?", "a": "1. Darulfunun (Abdulaziz) - ilk universite\n2. Kapandi\n3. Darulfunun-u Sahane (Abdulhamit) - yeniden acildi\n4. Istanbul Universitesi (1933, Albert Malche reformu)" },
+    { "c": "Abdulaziz Donemi", "o": "Mecelle nedir, kim hazirladi, hangi donemlerde?", "a": "Osmanli'nin ilk medeni kanunu.\nKomisyon baskani: Ahmet Cevdet Pasa (C=C kodlamasi).\nHazirlanmaya baslandigi: Abdulaziz donemi.\nTamami yururluge girdigi: Abdulhamit donemi." },
+    { "c": "Abdulaziz Donemi", "o": "Memleket Sandiklari ve Ziraat Bankasi iliskisi?", "a": "Memleket Sandiklari: Mithat Pasa, Abdulaziz donemi, ciftciye kredi.\nZiraat Bankasi: Abdulhamit sandiklari birlestirdi.\nOsmanli'dan gunumuze kalan tek banka." },
+    { "c": "Abdulaziz Donemi", "o": "Abdulaziz donemi 2016 KPSS sorusu: 2 onemli bilgi neydi?", "a": "1. Dunyanin 3. buyuk donanmasini (filosunu) kurdu.\n2. Beylerbeyi ve Ciragan Saraylarini yaptirdi." },
+    { "c": "Abdulaziz Donemi", "o": "Darulmuallimat nedir, hangi donemde?", "a": "Kiz ogretmen okulu.\nAbdulaziz donemi.\nT eki = Arapca disilik eki -> kiz okulu.\nDarulmuallimin (erkek) = Abdulmecid." },
+    { "c": "Abdulaziz Donemi", "o": "Darusafaka neden kuruldu?", "a": "Anne veya babasini kaybetmis cocuklarin egitimi icin.\nAbdulaziz donemi.\nGunumuzde de varligini surduruyor." },
+    { "c": "Abdulaziz Donemi", "o": "Ilk resim sergisini kim acti, hangi donemde?", "a": "Seker Ahmet Pasa.\nAbdulaziz tarafindan Paris'e gonderildi, bati resim teknigini ogrendi.\nOsmanli'nin ilk resim sergisini acti." },
+    { "c": "Abdulaziz Donemi", "o": "Vilayet Nizamnamesi (1871) ne degistirdi?", "a": "Kaza (ilce) ile koyun arasina\nyeni yonetim birimi NAHIYE eklendi.\nAbdulaziz donemi." },
+    { "c": "Abdulaziz Donemi", "o": "Nizamiye Mahkemeleri ne ise bakar?", "a": "Seri konular disindaki davalara bakan mahkemeler.\nAbdulaziz donemi." },
+    { "c": "Abdulaziz Donemi", "o": "Suveys Kanali ne zaman, kim acti, Ingiltere ne yapti?", "a": "1869'da Fransa hegomonyasinda acildi.\nMisir henuz Osmanli'nin topragi.\nIngiltere somurge yollarini korumak icin Kibris'i aldi." },
+    { "c": "II. Abdulhamit Donemi", "o": "I. Mesrutiyet'in ilan sebebi ve etkili grup?", "a": "Sebep: Balkan bunalimini cozmek icin toplanan Tersane Konferansi kararlarinda etkili olmak.\nEtkili grup: Genc Osmanlilar (Jon Turkler).\nNAMAZ SINASI: Namik Kemal, Agah Ef., Mithat Pasa, Ali Suavi, Ziya Pasa, Sinasi." },
+    { "c": "II. Abdulhamit Donemi", "o": "Kanun-i Esasi'nin demokratik olmayan 5 maddesi?", "a": "1. Son soz padisaha ait\n2. Kanun teklifi meclis degil hukumetten\n3. Hukumet padisaha karsi sorumlu (meclise olmali)\n4. Padisah meclisi istediginde kapatabilir\n5. Padisah surgun/angarya cezasi verebilir" },
+    { "c": "II. Abdulhamit Donemi", "o": "Ayan Meclisi ile Mebusan Meclisi farki?", "a": "Ayan Meclisi: padisah secer, omur boyu gorevde (demokratik degil).\nMebusan Meclisi: halk secer, 4 yil gorevde.\nCift parlamento sistemi." },
+    { "c": "II. Abdulhamit Donemi", "o": "Istibdat donemi nedir, ne zaman, neden basladi?", "a": "1878-1908 arasi 30 yillik donem.\n93 Harbi (1877-78 Osmanli-Rus Savasi) sebebiyle meclis kapatildi.\nGazete/dergilere sansur, dusunce sucundan surgunler.\nPolitika: Islamcilik. Yakinlasilan devlet: Almanya." },
+    { "c": "II. Abdulhamit Donemi", "o": "Ciragan Baskini / Ali Suavi Olayi nedir?", "a": "Abdulhamit'i indirip 5. Murat'i tahta gecirme amaciyla yapilan basarisiz darbe.\nAli Suavi liderliginde.\n78 Hasan Pasa, Ali Suavi'yi odunla vurarak oldurdu." },
+    { "c": "II. Abdulhamit Donemi", "o": "Sanayi-i Nefise Mektebi'ni kim kurdu, ne oldu?", "a": "Osman Hamdi Bey kurdu, Abdulhamit donemi.\nGuzel Sanatlar Fakultesi'nin temeli.\nOsman Hamdi Bey: ilk Turk muze muduru, Kaplumbaga Terbiyecisi eseri." },
+    { "c": "II. Abdulhamit Donemi", "o": "Himaye-i Etfal, Hamidiye Etfal, Darulaceze ne ise yarar?", "a": "Himaye-i Etfal: cocuk esirgeme kurumu (etfal=tifil=cocuk)\nHamidiye Etfal: ilk cocuk hastanesi\nDarulaceze: yasli ve duskunler icin (aciz kelimesinden)\nHepsi Abdulhamit donemi." },
+    { "c": "II. Abdulhamit Donemi", "o": "Abdulhamit neden 'Maarifperver Padisah' olarak bilinir?", "a": "Ilkokulu tum Osmanli'da zorunlu hale getirdi.\nCamiden cok okul kurdu.\nBaytar, ziraat, asiret okullari acti.\nMaarifperver = egitim sever." },
+    { "c": "II. Abdulhamit Donemi", "o": "Asiret okullari neden acildi?", "a": "Dogu bolgesindeki asiretleri devlete baglamak.\nAsiret reislerinin cocuklari birlikte buyudu.\nKan davalarinin cozumunu kolaylastirdi." },
+    { "c": "II. Abdulhamit Donemi", "o": "3B Demiryolu nedir?", "a": "Berlin - Bagdat - Bosfor (Bogazici) Demiryolu projesi.\nAlmanya (Prusya) yardimi ile yapildi.\nAbdulhamit donemi." },
+    { "c": "II. Abdulhamit Donemi", "o": "Ertugrul Firkateyni olayi nedir?", "a": "Abdulhamit Japonya'daki kitliga yardim icin gonderdi.\nPara ve erzak ulastirdi.\nDonuste okyanusta batti.\nTurk-Japon dostlugunun temeli." },
+    { "c": "31 Mart & II. Mesrutiyet", "o": "II. Mesrutiyet neden ilan edildi? (2 sebep)", "a": "1. Reval Gorusmeleri: Ingiltere-Rusya Osmanli'yi paylasmak istedi.\n2. Hurriyet Taburlarinin isyani (Resneli Niyazi).\nAbdulhamit mesrutiyeti ilan etmek zorunda kaldi (1908)." },
+    { "c": "31 Mart & II. Mesrutiyet", "o": "II. Mesrutiyet karisikliklarinda kaybedilen yerler?", "a": "BBG kodu: Bosna, Bulgaristan, Girit.\nBerlin Antlasmasi kayiplari: SAKAR = Sirbistan, Karadag, Romanya.\nIkisini karistirma!" },
+    { "c": "31 Mart & II. Mesrutiyet", "o": "31 Mart Isyani nedir, kim bastirdi?", "a": "Osmanli'da ilk gerici (irticai) ayaklanma.\nMesrutiyeti yikip istibdata donmek istediler.\nHareket Ordusu bastirdi (Ittihat ve Terakki'nin Balkan ordusu).\nKomutan: Mahmut Sevket Pasa, Kurmay Yuzbasi: Mustafa Kemal." },
+    { "c": "31 Mart & II. Mesrutiyet", "o": "31 Mart Isyanina sebep olanlar kimler?", "a": "Serbesti ve Volkan gazeteleri\nIttihad-i Muhammedi Firkasi\nAvci Taburlari\nIlk basin sehidi: Hasan Fehmi" },
+    { "c": "31 Mart & II. Mesrutiyet", "o": "31 Mart Isyani sonrasi ne oldu?", "a": "Abdulhamit meclis karariyla tahttan indirilen ilk padisah oldu.\nYerine 5. Mehmet Resat gecti.\n5. Mehmet Resat donemi: Trablus, I-II. Balkan Savaslari, I. Dunya Savasi baslangici." },
+    { "c": "31 Mart & II. Mesrutiyet", "o": "Turk tarihinde ilk cok partili hayat ne zaman, hangi partiler?", "a": "II. Mesrutiyetle ilk cok partili hayata gecildi.\nIttihat ve Terakki Partisi\nHurriyet ve Itilaf (muhalif)\nIttihad-i Muhammedi Firkasi (31 Mart sebebi)\nAhrar Firkasi (Prens Sebahattin)" },
+    { "c": "Kurtarma Fikirleri", "o": "Osmanlicilik nedir, temsilcileri kimler?", "a": "Din/dil/irk fark etmeksizin herkesi Osmanli catisi altinda birlestirme.\nTemsilciler: Genc Osmanlilar/Jon Turkler\n(NAMAZ SINASI: Namik Kemal, Agah Ef., Mithat Pasa, Ali Suavi, Ziya Pasa, Sinasi)" },
+    { "c": "Kurtarma Fikirleri", "o": "Turancilik nedir, Mustafa Kemal ne dedi?", "a": "Dunyadaki butun Turkleri bir cati altinda birlestirme ideali.\nTemsilciler: Ittihat ve Terakki uyeleri.\nMustafa Kemal: 'biraz hayalperestlik' olarak niteledi." },
+    { "c": "Kurtarma Fikirleri", "o": "Turkculuk temsilcileri kimler? (6 isim)", "a": "Ziya Gokalp (Turkolog)\nOmer Seyfettin (hikayeci, Balkan esiri)\nMehmet Emin Yurdakul (Ceng'e Giderken)\nYusuf Akcura (Uc Tarz-i Siyaset)\nIsmail Gasprali (Dilde, fikirde, iste birlik)\nZeki Velidi Togan (IU Turk tarih kursusu)" },
+    { "c": "Kurtarma Fikirleri", "o": "Baticilik nedir, temsilcileri?", "a": "Batinin ilmini/bilmini alirken kendi kulturunu kaybetmeme.\nAbdullah Cevdet (2024 KPSS sorusu)\nCelal Nuri\nTevfik Fikret" },
+    { "c": "Kurtarma Fikirleri", "o": "Islamcilik nedir, ne zaman uygulandi, temsilcileri?", "a": "Butun Muslumanlari bir cati altinda birlestirme.\nDiger adlar: ummetcilik, pan-Islamizm.\nAbdulhamit istibdat doneminde uyguladi.\nMehmet Akif Ersoy, Cemalettin Afgani, Sait Halim Pasa, Ahmet Hamdi Akseki." },
+    { "c": "Kurtarma Fikirleri", "o": "Adem-i merkeziyetcilik nedir, temsilcisi kim?", "a": "Yerinden yonetim, eyalet sistemi.\nTemsilci: Prens Sebahattin.\nKurdugu parti: Ahrar Firkasi." },
+    { "c": "Onemli Ilkler", "o": "Osmanli'nin ilk bankasi, ilk yabanci sermayeli bankasi, ilk kagit parasi, ilk sirketi?", "a": "Ilk banka: Bank-i Dersaadet (1847, Abdulmecid)\nIlk yabanci sermayeli: Bank-i Osmani (Ingiliz)\nIlk kagit para: Kaime (Abdulmecid)\nIlk sirket: Sirket-i Hayriye (Bogazici yolcu tasima)" },
+    { "c": "Onemli Ilkler", "o": "Gazete ilkleri: resmi, yari resmi, ozel?", "a": "Ilk resmi: Takvim-i Vekayi (II. Mahmut)\nIlk yari resmi: Ceride-i Havadis (Abdulmecid)\nIlk ozel: Tercuman-i Ahval (Sinasi & Agah Efendi)" }
+  ],
+  "tuzak": [
+    { "q": "Osmanli'da ilk demokratiklesme hareketi hangisidir?", "o": ["Sened-i Ittifak", "Tanzimat Fermani", "Kanun-i Esasi"], "c": 0, "n": "Sened-i Ittifak = ilk demokratiklesme (padisah yetkileri kisitlandi). Tanzimat = anayasaciligin ilk adimi. Kanun-i Esasi = ilk anayasa." },
+    { "q": "Cizye vergisi hangi belgeyle kaldirildi?", "o": ["Tanzimat Fermani", "Islahat Fermani"], "c": 1, "n": "Tanzimat'ta askerlik vatan hizmeti oldu ama cizye devam etti. Cizye ancak Islahat Fermaniyla resmen kalkti." },
+    { "q": "Nizam-i Cedid hangi padisah donemine aittir?", "o": ["III. Selim", "II. Mahmut"], "c": 0, "n": "Nizam-i Cedid = III. Selim. Sekban-i Cedid ve Eskinci = II. Mahmut. Isimleri cok benzer, donemleri farkli." },
+    { "q": "Musadereyi resmen kaldiran belge/donem hangisidir?", "o": ["II. Mahmut donemi", "Tanzimat Fermani"], "c": 1, "n": "II. Mahmut uygulamadan kaldirdi, Tanzimat Fermani resmen (kanun olarak) kaldirdi." },
+    { "q": "Yurt disi seyahati duzenleyen ilk padisah kimdir?", "o": ["II. Mahmut", "Abdulaziz"], "c": 1, "n": "II. Mahmut = ilk YURT ICI seyahati. Abdulaziz = ilk YURT DISI seyahati. 'Abdulaziz elinde valiz' kodlamasi." },
+    { "q": "Osmanli'nin ilk bankasi hangisidir?", "o": ["Bank-i Dersaadet", "Bank-i Osmani"], "c": 0, "n": "Bank-i Dersaadet = ilk banka (1847). Bank-i Osmani = yabanci sermayeli ilk banka." },
+    { "q": "Darulmuallimin hangi donemdedir?", "o": ["Abdulmecid", "Abdulaziz"], "c": 0, "n": "Darulmuallimin (erkek ogretmen) = Abdulmecid. Darulmuallimat (kiz ogretmen, T=disilik eki) = Abdulaziz." },
+    { "q": "Maarif-i Umumiye Nezareti ile Maarif-i Umumiye Nizamnamesi farki?", "o": ["Ikisi de Abdulmecid", "Nezaret Abdulmecid, Nizamname Abdulaziz"], "c": 1, "n": "Nezaret (MEB bakanligi) = Abdulmecid. Nizamname (egitim esaslari) = Abdulaziz." },
+    { "q": "Tanzimat Fermani'ni hazirlayan kimdir?", "o": ["Mustafa Resit Pasa", "Mehmet Emin Ali Pasa"], "c": 0, "n": "Mustafa Resit Pasa = Tanzimat hazirlayicisi. Mehmet Emin Ali Pasa = Islahat hazirlayicisi." },
+    { "q": "Kanun-i Esasi'yi hazirlayan kimdir?", "o": ["Mithat Pasa", "Mustafa Resit Pasa", "Ahmet Cevdet Pasa"], "c": 0, "n": "Mithat Pasa = Kanun-i Esasi. Mustafa Resit Pasa = Tanzimat. Ahmet Cevdet Pasa = Mecelle." },
+    { "q": "I. Mesrutiyet ilaninda etkili grup kimdir?", "o": ["Genc Osmanlilar (Jon Turkler)", "Ittihat ve Terakki"], "c": 0, "n": "Genc Osmanlilar = I. Mesrutiyet. Ittihat ve Terakki = II. Mesrutiyet." },
+    { "q": "Berlin Antlasmasi kayiplari hangi kodla ifade edilir?", "o": ["SAKAR", "BBG"], "c": 0, "n": "SAKAR (Sirbistan, Karadag, Romanya) = Berlin Ant. BBG (Bosna, Bulgaristan, Girit) = II. Mesrutiyet karisikliklari." },
+    { "q": "Vaka-i Hayriye ile Vaka-i Vakvakiye farki?", "o": ["Hayriye: Yeniceri kaldirilmasi, Vakvakiye: 30 devlet adaminin cinari asilmasi", "Ikisi de ayni olay"], "c": 0, "n": "Vaka-i Hayriye = Yeniceri Ocaginin kaldirilmasi (II. Mahmut). Vaka-i Vakvakiye = 4. Mehmet'te 30+ devlet adaminin oldurulup cinar agacina asilmasi." },
+    { "q": "Enderun Mektebi'ni kim kurdu?", "o": ["I. Murat", "II. Mahmut", "Orhan Bey"], "c": 0, "n": "I. Murat kurdu, II. Mahmut kaldirdi. Orhan Bey Divan-i Humayun'u kurdu, karistirma!" },
+    { "q": "Kuleli Vakasi kime karsi yapildi?", "o": ["Abdulmecid'e karsi", "Abdulhamit'e karsi"], "c": 0, "n": "Kuleli Vakasi (1859) = Abdulmecid'i indirip Abdulaziz'i gecirme. Ciragan Baskini = Abdulhamit'i indirip 5. Murat'i gecirme. Ikisi de basarisiz darbe." },
+    { "q": "Mecelle hangi donemde tamamlandi?", "o": ["Abdulaziz", "Abdulhamit"], "c": 1, "n": "Hazirlanmaya BASLAMA: Abdulaziz. Tamami yururluge girme: Abdulhamit. Hazirlayan: Ahmet Cevdet Pasa." },
+    { "q": "Dolmabahce Sarayi'ni kim yaptirdi?", "o": ["Abdulmecid", "Abdulaziz"], "c": 0, "n": "Dolmabahce = Abdulmecid (bati ornekli ilk saray). Beylerbeyi ve Ciragan = Abdulaziz." },
+    { "q": "Darulfunun (ilk universite) kim doneminde kuruldu?", "o": ["Abdulaziz", "Abdulhamit"], "c": 0, "n": "Ilk kurulan: Abdulaziz (Darulfunun). Kapanip yeniden acilan: Abdulhamit (Darulfunun-u Sahane). 1933'te Istanbul Univ." },
+    { "q": "Osmanli tahtinda en kisa sure kalan padisah kimdir?", "o": ["5. Murat (93 gun)", "Abdulhamit"], "c": 0, "n": "5. Murat sadece 93 gun tahtta kaldi. Abdulhamit ise 1876-1909 arasi uzun sure tahtta kaldi." },
+    { "q": "Ilkokulu tum Osmanli'da zorunlu hale getiren padisah?", "o": ["II. Mahmut", "II. Abdulhamit"], "c": 1, "n": "II. Mahmut ilkokulu sadece Istanbul'da zorunlu kildi. II. Abdulhamit tum Osmanli'da zorunlu kildi -> Maarifperver padisah." },
+    { "q": "Memleket Sandiklarini kim, hangi donemde kurdu?", "o": ["Mithat Pasa, Abdulaziz donemi", "Mithat Pasa, Abdulhamit donemi"], "c": 0, "n": "Memleket Sandiklari = Mithat Pasa, Abdulaziz donemi. Ziraat Bankasi'na cevirme = Abdulhamit donemi." },
+    { "q": "Meclis karariyla tahttan indirilen ilk padisah kimdir?", "o": ["II. Abdulhamit", "5. Murat"], "c": 0, "n": "II. Abdulhamit, 31 Mart Isyani sonrasi Hareket Ordusu'nun mudahalesiyle meclis karariyla indirildi. 5. Murat ise akli melekeleri bozuldugu icin indirilmisti." },
+    { "q": "Heykelini yaptiran ilk Osmanli padisahi kimdir?", "o": ["Abdulaziz", "Fatih Sultan Mehmet"], "c": 0, "n": "Fatih = ilk portre/resim (Nakkas Sinan Bey, Bellini). Abdulaziz = ilk heykel. Resim ve heykel farkli sanat dallari." },
+    { "q": "Osmanli'nin ilk resmi gazetesi hangisidir?", "o": ["Takvim-i Vekayi", "Ceride-i Havadis", "Tercuman-i Ahval"], "c": 0, "n": "Takvim-i Vekayi = ilk resmi (II. Mahmut). Ceride-i Havadis = ilk yari resmi (Abdulmecid). Tercuman-i Ahval = ilk ozel." },
+    { "q": "Ramazan Kararnamesi ile Muharrem Kararnamesi farki?", "o": ["Ramazan: borclarimi odeyemem; Muharrem: iflas", "Ikisi de iflas kararnesi"], "c": 0, "n": "Ramazan Kararnamesi (Abdulaziz): borc odeyememe beyani. Muharrem Kararnamesi (Abdulhamit): resmi iflas + Duyun-u Umumiye Idaresi kuruldu." },
+    { "q": "Tanzimat doneminde hangi padisahlar tahtta oldu?", "o": ["Abdulmecid, Abdulaziz, 5. Murat", "Abdulmecid, Abdulaziz, Abdulhamit"], "c": 0, "n": "Tanzimat donemi: 1839 Tanzimat Fermani - 1876 I. Mesrutiyet. Padisahlar: Abdulmecid, Abdulaziz, 5. Murat. Abdulhamit mesrutiyet padisahi, Tanzimat donemi degil." },
+    { "q": "Turk tarihinde ilk cok partili hayata ne zaman gecildi?", "o": ["II. Mesrutiyetle (1908)", "I. Mesrutiyetle (1876)"], "c": 0, "n": "I. Mesrutiyet'te meclis acildi ama cok partili hayat olmadi. II. Mesrutiyetle ilk kez Ittihat-Terakki, Hurriyet-Itilaf gibi partiler kuruldu." },
+    { "q": "Osmanli'nin ilk medeni kanunu hangisidir?", "o": ["Mecelle", "Kanun-i Esasi", "Arazi Kanunnamesi"], "c": 0, "n": "Mecelle = ilk medeni kanun (Ahmet Cevdet Pasa). Kanun-i Esasi = ilk anayasa. Arazi Kanunnamesi = toprak hukuku." },
+    { "q": "31 Mart Isyani'ni bastiran Hareket Ordusu komutani kim?", "o": ["Mahmut Sevket Pasa", "Mustafa Kemal"], "c": 0, "n": "Komutan: Mahmut Sevket Pasa. Mustafa Kemal ise Kurmay Yuzbasi olarak orduda yer aldi. Ilk kez tarih sahnesine cikti." },
+    { "q": "Ekber ve erses sistemi ilk kez kim getirdi, ne zaman yaziya gecirildi?", "o": ["I. Ahmet getirdi, Kanun-i Esasi'yle yaziya gecti", "Kanun-i Esasi'yle hem getirildi hem yaziya gecti"], "c": 0, "n": "I. Ahmet ekber ve erses'i getirdi (veraseti kesin kurala bagladi). Kanun-i Esasi ile ilk kez yazili kanun haline geldi." },
+    { "q": "Yildiz Sarayi'nin yapimina kim basladi, kim bitirdi?", "o": ["III. Selim basladi, II. Abdulhamit bitirdi", "II. Mahmut basladi, Abdulaziz bitirdi"], "c": 0, "n": "Yildiz Sarayi: III. Selim basladi, II. Abdulhamit bitirdi ve yonetim merkezi yapti." },
+    { "q": "Reval Gorusmeleri kiminle kim arasinda yapildi?", "o": ["Ingiltere ile Rusya", "Osmanli ile Rusya"], "c": 0, "n": "Reval Gorusmeleri = Ingiltere (Edward) ve Rusya (Nikola) arasinda. Osmanli'yi paylasma plani. Osmanli taraf degil!" }
+  ],
+  "deneme": [
+    { "q": "Asagidakilerden hangisi Sened-i Ittifak (1808) icin soylenemez?", "o": ["Padisahin yetkileri ilk kez kisitlanmistir.", "Osmanli'daki ilk demokratiklesme hareketi kabul edilir.", "Ayanlar ile II. Mahmut arasinda imzalanmistir.", "Alemdar Mustafa Pasa imzalanmasinda etkili olmustur.", "Osmanlicilik politikasi dogrultusunda ilan edilmistir."], "c": 4, "e": "Sened-i Ittifak Osmanlicilik politikasiyla degil, ayanlarin baskisiyla imzalandi. Osmanlicilik Tanzimat ve Islahat fermanlarinda etkili olmustur." },
+    { "q": "Asagidakilerden hangisi II. Mahmut doneminde kurulan askeri birliklerden biri degildir?", "o": ["Sekban-i Cedid", "Eskinci Ocagi", "Asakir-i Mansure-i Muhammediye", "Redif Birlikleri", "Nizam-i Cedid"], "c": 4, "e": "Nizam-i Cedid III. Selim doneminde kurulmustur. Diger dordunun tamami II. Mahmut donemine aittir." },
+    { "q": "Tanzimat Fermani'nin ilan edilmesinde asagidaki gelismelerden hangisi dogrudan etkili olmustur?", "o": ["Kirim Savasi sonrasi Paris Konferansi", "Balkan bunalimi sonrasi Tersane Konferansi", "Misir meselesinin gorusulecegi Londra Konferansi", "Reval Gorusmeleri", "93 Harbi"], "c": 2, "e": "Tanzimat Fermani, Misir meselesinin gorusulecegi Londra Konferansi kararlarinda etkili olmak amaciyla 1839'da ilan edilmistir." },
+    { "q": "Asagidaki maddelerden hangisi Islahat Fermani'na degil Tanzimat Fermani'na aittir?", "o": ["Gayrimuslimlere devlet gorevine girme hakki tanindi.", "Cizye vergisi kaldirildi.", "Il genel meclislerine gayrimuslim uyelik hakki verildi.", "Vergiler herkesin gelirine gore alinacak.", "Gayrimuslimlere kucuk dusurulme yasaklandi."], "c": 3, "e": "Tanzimat sifresi HERKES: vergiler herkesin gelirine gore alinacak. Diger secenekler gayrimuslim vurgulu olup Islahat Fermani'na aittir." },
+    { "q": "I. Osmanli'da anayasaciligin ilk adimi\nII. Osmanli'daki ilk demokratiklesme hareketi\nIII. Osmanli'nin ilk yazili anayasasi\nYukaridaki ifadelerle asagidaki belgeler eslestirildiqinde hangisi dogru olur?", "o": ["I-Tanzimat, II-Sened-i Ittifak, III-Kanun-i Esasi", "I-Sened-i Ittifak, II-Tanzimat, III-Kanun-i Esasi", "I-Kanun-i Esasi, II-Sened-i Ittifak, III-Tanzimat", "I-Tanzimat, II-Kanun-i Esasi, III-Sened-i Ittifak", "I-Sened-i Ittifak, II-Kanun-i Esasi, III-Tanzimat"], "c": 0, "e": "Anayasaciligin ilk adimi = Tanzimat (kanun ustunlugu). Ilk demokratiklesme = Sened-i Ittifak (padisah yetkileri kisitlandi). Ilk anayasa = Kanun-i Esasi (1876)." },
+    { "q": "Cizye vergisiyle ilgili asagidaki ifadelerden hangisi doqrudur?", "o": ["Tanzimat Fermaniyla kaldirilmistir.", "Sened-i Ittifak ile kaldirilmistir.", "I. Mesrutiyetin ilaniyla kaldirilmistir.", "Islahat Fermaniyla kaldirilmistir.", "II. Mahmut doneminde kaldirilmistir."], "c": 3, "e": "Tanzimat'ta askerlik vatan hizmeti oldu ama cizye devam etti. Cizye Islahat Fermaniyla (1856) kalkti, yerine bedelli askerlik geldi." },
+    { "q": "Asagidakilerden hangisi Abdulmecid doneminde gerceklesmemistir?", "o": ["Ilk dis borc Ingiltere'den alindi.", "Ilk demiryolu hatti Izmir-Aydin arasina kuruldu.", "Mekteb-i Mulkiye acildi.", "Darulfunun (ilk universite) kuruldu.", "Ilk telgraf hatti Istanbul-Edirne-Sumla arasina cekildi."], "c": 3, "e": "Darulfunun Abdulaziz doneminde kurulmustur. Diger seceneklerin tamami Abdulmecid donemine aittir." },
+    { "q": "Osmanli'nin ilk bankasi ve yabanci sermayeli ilk bankasi asagidakilerin hangisinde dogru verilmistir?", "o": ["Ilk banka: Bank-i Osmani, Yabanci sermayeli: Bank-i Dersaadet", "Ilk banka: Bank-i Dersaadet, Yabanci sermayeli: Bank-i Osmani", "Ilk banka: Ziraat Bankasi, Yabanci sermayeli: Bank-i Osmani", "Ilk banka: Bank-i Dersaadet, Yabanci sermayeli: Ziraat Bankasi", "Ilk banka: Bank-i Osmani, Yabanci sermayeli: Ziraat Bankasi"], "c": 1, "e": "Bank-i Dersaadet (1847) Osmanli'nin ilk bankasi, Bank-i Osmani Ingiliz sermayeli ilk yabanci bankasidir." },
+    { "q": "Abdulaziz donemiyle ilgili asagidaki bilgilerden hangisi yanlistir?", "o": ["Ilk yurt disi seyahatini duzenledi.", "Heykelini yaptiran ilk padisahtir.", "Beylerbeyi ve Ciragan saraylarini yaptirdi.", "Darulmuallimin'i (erkek ogretmen okulu) kurdu.", "Vilayet Nizamnamesiyle nahiye yonetim birimi eklendi."], "c": 3, "e": "Darulmuallimin (erkek ogretmen okulu) Abdulmecid doneminde kuruldu. Abdulaziz Darulmuallimat'i (kiz ogretmen okulu) kurdu." },
+    { "q": "Mecelle ile ilgili asagidaki bilgilerden hangisi dogrudur?", "o": ["Osmanli'nin ilk anayasasidir.", "Tamami Abdulaziz doneminde yururluge girmistir.", "Hazirlanmasinda Mustafa Resit Pasa etkili olmustur.", "Osmanli'nin ilk medeni kanunudur.", "Tanzimat Fermani dogrultusunda hazirlanmistir."], "c": 3, "e": "Mecelle Osmanli'nin ilk medeni kanunudur. Ahmet Cevdet Pasa komisyon baskanligi yapmistir. Hazirlanmaya Abdulaziz'de baslanmis, Abdulhamit'te tamamlanmistir." },
+    { "q": "I. Mesrutiyetin ilan edilmesinde etkili olan grup ve gelisme asagidakilerin hangisinde dogru verilmistir?", "o": ["Ittihat ve Terakki - Reval Gorusmeleri", "Genc Osmanlilar - Tersane Konferansi", "Ittihat ve Terakki - Tersane Konferansi", "Genc Osmanlilar - Paris Konferansi", "Genc Osmanlilar - Londra Konferansi"], "c": 1, "e": "I. Mesrutiyetin ilaninda Genc Osmanlilar (Jon Turkler) etkili olmustur. Balkan bunalimini cozmek icin toplanan Tersane Konferansi kararlarinda etkili olmak amaciyla ilan edilmistir." },
+    { "q": "Kanun-i Esasi'nin asagidaki maddelerinden hangisi demokratik niteliktedir?", "o": ["Son soz padisaha aittir.", "Padisah surgun ve angarya cezasi verebilir.", "Meclisi dagitmak padisahin tasarrufundadir.", "Devletin dili Turkce, dini Islam'dir.", "Kanun yapma teklifini hukumet sunar."], "c": 3, "e": "Devletin dili ve dini belirlenmesi temel anayasal duzenleme olup demokratik bir devlet isi tanimidir. Diger secenekler padisaha asiri yetki veren antidemokratik maddelerdir." },
+    { "q": "Istibdat donemiyle ilgili asagidaki bilgilerden hangisi yanlistir?", "o": ["1878-1908 yillari arasinda 30 yil surmustur.", "93 Harbi gerekce gosterilerek meclis kapatilmistir.", "Islamcilik politikasi uygulanmistir.", "Almanya ile yakinlasilmistir.", "Bu donemde hicbir egitim kurulusu acilmamistir."], "c": 4, "e": "Istibdat doneminde Abdulhamit camiden cok okul acmis, Maarifperver (egitim sever) padisah olarak anilmistir. Baytar, ziraat, asiret okullari bu donemde kurulmustur." },
+    { "q": "31 Mart Isyani ile ilgili asagidaki bilgilerden hangisi dogrudur?", "o": ["Osmanli'da ilk askeri isyandir.", "Hareket Ordusu tarafindan bastirilmistir.", "Mebusan Meclisi karariyla bastirilmistir.", "I. Mesrutiyetin ilanina yol acmistir.", "Abdulaziz donemi isyanidir."], "c": 1, "e": "31 Mart Isyani Osmanli'da ilk gerici (irticai) ayaklanmadir. Ittihat ve Terakki'nin Hareket Ordusu (komutan: Mahmut Sevket Pasa) bastirmistir." },
+    { "q": "Asagidakilerden hangisi Osmanli'yi dagilmaktan kurtarma fikirlerinden Turkculugun temsilcilerinden biri degildir?", "o": ["Ziya Gokalp", "Yusuf Akcura", "Ismail Gasprali", "Abdullah Cevdet", "Mehmet Emin Yurdakul"], "c": 3, "e": "Abdullah Cevdet Baticilik akiminin temsilcisidir. Diger seceneklerin tamami Turkculuk akiminin temsilcileridir." },
+    { "q": "Asagidaki eslesmelerin hangisinde kurum ve isleviyle ilgili bir hata vardir?", "o": ["Evkaf Nezareti - vakiflari yonetme", "Ihtisap Nezareti - belediye/zabita isleri", "Dar-i Sura-yi Bab-i Ali - askerlik isleri", "Rüsumat Emaneti - liman ve kiyi guvenligi", "Muhassallik Meclisleri - vergi toplama"], "c": 2, "e": "Dar-i Sura-yi Bab-i Ali hukumet islerinin gorusulmesi ve sadarete danismanlik icin kuruldu. Askerlik isleri icin kurulan kurum Dar-i Sura-yi Askeri'dir." },
+    { "q": "II. Mesrutiyetin ilaniyla ilgili asagidakilerden hangisi yanlistir?", "o": ["1908'de ilan edilmistir.", "Ittihat ve Terakki etkili olmustur.", "Reval Gorusmeleri ilan sebebidir.", "Hurriyet Taburlari isyan etmistir.", "Tersane Konferansi sonucu ilan edilmistir."], "c": 4, "e": "Tersane Konferansi I. Mesrutiyetin ilaniyla iliskilidir (1876, Balkan bunalimi). II. Mesrutiyet Reval Gorusmeleri ve Hurriyet Taburlari isyani sonucu ilan edilmistir (1908)." },
+    { "q": "Ziraat Bankasi'nin temeli olan memleket sandiklarini kuran kisi ve donem hangisidir?", "o": ["Mithat Pasa - Abdulaziz donemi", "Ahmet Cevdet Pasa - Abdulhamit donemi", "Mustafa Resit Pasa - Abdulmecid donemi", "Mithat Pasa - Abdulhamit donemi", "Mahmut Sevket Pasa - Abdulaziz donemi"], "c": 0, "e": "Memleket Sandiklari Mithat Pasa tarafindan Abdulaziz doneminde ciftciye kredi vermek icin kuruldu. Abdulhamit doneminde birlestirilerek Ziraat Bankasi oldu." },
+    { "q": "I. Balta Limani Ticaret Antlasmasi\nII. Ilk nufus sayimi\nIII. Posta Teskilati'nin kurulmasi\nYukaridaki gelismelerden hangileri II. Mahmut doneminde gerceklesmistir?", "o": ["Yalniz I", "Yalniz II", "I ve II", "II ve III", "I, II ve III"], "c": 4, "e": "Her ucu de II. Mahmut doneminde gerceklesmistir. Balta Limani Ingiltere ile, nufus sayimi asker/vergi icin, Posta Teskilati haberlesme icin kurulmustur." },
+    { "q": "Asagidaki darbe girisimlerinden hangisi Abdulmecid'e karsi yapilmistir?", "o": ["Ciragan Baskini", "31 Mart Isyani", "Kuleli Vakasi (1859)", "Kabakci Mustafa Isyani", "Patrona Halil Isyani"], "c": 2, "e": "Kuleli Vakasi (1859) Abdulmecid'i indirip Abdulaziz'i gecirme amacli basarisiz darbedir. Ciragan Baskini Abdulhamit'e karsidir." }
+  ],
+  "eslestir": [
+    {
+      "ad": "II. Mahmut: Kaldirilan - Yerine Kurulan",
+      "p": [
+        ["Divan-i Humayun", "Heyet-i Vukela (nazirliklari)"],
+        ["Sadrazamlik", "Basvekalet (Basbakanlik)"],
+        ["Reisulkuttaplik", "Hariciye Nazirligi (Disisleri)"],
+        ["Yeniceri Ocagi", "Asakir-i Mansure-i Muhammediye"],
+        ["Mehterhane", "Mizika-i Humayun"],
+        ["Enderun Mektebi", "Mekteb-i Maarif-i Adliye"],
+        ["Ayanliklar", "Muhtarliklar"]
+      ]
+    },
+    {
+      "ad": "Padisah - Islahat Eslestirmesi",
+      "p": [
+        ["II. Mahmut", "Ilk nufus sayimi"],
+        ["Abdulmecid", "Tanzimat Fermani"],
+        ["Abdulaziz", "Ilk yurt disi seyahati"],
+        ["II. Abdulhamit", "I. Mesrutiyet ilani"],
+        ["Abdulmecid", "Ilk dis borc (Ingiltere)"],
+        ["II. Mahmut", "Takvim-i Vekayi (ilk resmi gazete)"],
+        ["Abdulaziz", "Darulfunun (ilk universite)"]
+      ]
+    },
+    {
+      "ad": "Belge/Olay - Hazirlayan/Etkili Kisi",
+      "p": [
+        ["Sened-i Ittifak", "Alemdar Mustafa Pasa"],
+        ["Tanzimat Fermani", "Mustafa Resit Pasa"],
+        ["Islahat Fermani", "Mehmet Emin Ali Pasa"],
+        ["Kanun-i Esasi", "Mithat Pasa"],
+        ["Mecelle", "Ahmet Cevdet Pasa"],
+        ["Memleket Sandiklari", "Mithat Pasa"],
+        ["Sanayi-i Nefise Mektebi", "Osman Hamdi Bey"]
+      ]
+    },
+    {
+      "ad": "Osmanli'yi Kurtarma Fikirleri - Tanimi",
+      "p": [
+        ["Osmanlicilik", "Din/dil/irk ayirmadan Osmanli catisi altinda birlestirme"],
+        ["Turancilik", "Dunyadaki butun Turkleri birlestirme"],
+        ["Turkculuk", "Osmanli'daki Turkleri birlestirme"],
+        ["Islamcilik", "Butun Muslumanlari birlestirme"],
+        ["Baticilik", "Batinin ilmini alirken kulturunu koruma"],
+        ["Adem-i merkeziyetcilik", "Yerinden yonetim (eyalet sistemi)"]
+      ]
+    },
+    {
+      "ad": "Osmanli Ilkleri - Donem/Padisah",
+      "p": [
+        ["Ilk resmi gazete (Takvim-i Vekayi)", "II. Mahmut"],
+        ["Ilk banka (Bank-i Dersaadet)", "Abdulmecid"],
+        ["Ilk kagit para (Kaime)", "Abdulmecid"],
+        ["Ilk sirket (Sirket-i Hayriye)", "Abdulmecid"],
+        ["Ilk universite (Darulfunun)", "Abdulaziz"],
+        ["Ilk medeni kanun (Mecelle)", "Abdulaziz (baslama)"],
+        ["Ilk yazili anayasa (Kanun-i Esasi)", "II. Abdulhamit"],
+        ["Ilk cocuk hastanesi (Hamidiye Etfal)", "II. Abdulhamit"]
+      ]
+    }
+  ]
+}

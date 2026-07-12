@@ -1,0 +1,419 @@
+{
+  "meta": {
+    "gun": 5,
+    "baslik": "Osmanlı Kültür ve Medeniyeti - II (Ordu, Toprak, Ekonomi, Sanat)",
+    "ozet": "Osmanlı ordu teşkilatı (kapıkulu/eyalet/donanma), toprak sistemi (mülk/miri/vakıf), vergiler, ekonomik ilkeler, bankacılık, ilim insanları, mimari, sanat dalları, basın-yayın ve spor.",
+    "tahminiSoru": "KPSS'de ~5-7 soru",
+    "duzeltmeler": [
+      "Culüs → Cülus bahşişi",
+      "Penç yek → Pençik sistemi",
+      "Mukata → Mukataa arazi",
+      "Kınalı Ali → Kınalızade Ali Efendi",
+      "Takihdin Erraşid → Takiyüddin er-Raşid",
+      "Kompte Boneval → Comte de Bonneval",
+      "Yanyala Esat → Yanyalı Esat Efendi"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Ordu Kuruluş Süreci",
+      "i": [
+        {"k":"Osman → Alpler/Gaziler","m":"Osman Bey döneminde düzenli ordu YOK, Alpler ve Gaziler fetih yapıyor.","s":"z"},
+        {"k":"Orhan → Yaya ve Müsellem","m":"Osmanlı'nın İLK DÜZENLİ ordusu. Sonra 1. Murat geri hizmet birliğine dönüştürdü.","s":"z"},
+        {"k":"1. Murat → Kapıkulu","m":"Yaya-Müsellem yetersiz → Kapıkulu Ordusu kuruldu. 3 kıtaya hükmetmeyi sağlayan ordu.","s":"z"}
+      ]
+    },
+    {
+      "b": "Asker Alma Sistemleri",
+      "i": [
+        {"k":"Penç-yek = 5'te 1","m":"Pençik: savaş esirlerinin 1/5'inin askere alınması. 1. Murat başlattı.","s":"z"},
+        {"k":"Devşirme: uygulayan 1. Mehmet","m":"Çelebi Mehmet savaş kazanamıyor → esir yok → 5-7 yaş Hristiyan çocukları devşiriliyor.","s":"z"},
+        {"k":"Devşirme: kanun yapan 2. Murat","m":"Devşirme sistemini KANUN haline getiren padişah 2. Murat'tır.","s":"z"},
+        {"k":"Bektaşi + Gülbank","m":"Yeniçeriler Bektaşi geleneğinden gelir, sefere giderken Gülbank duası okunur. (çıkmış soru)","s":"z"}
+      ]
+    },
+    {
+      "b": "Ulufe ve Cülus",
+      "i": [
+        {"k":"Ulufe ≠ Bistegani","m":"Ulufe: Kapıkulu ordusunun 3 aylık maaşı (Osmanlı). Bistegani: Türk-İslam devletlerinde 3 aylık maaş.","s":"z"},
+        {"k":"Cülus bahşişi","m":"Her padişah değişikliğinde Kapıkulu'na dağıtılan bahşiş. İlk: Yıldırım Bayezit. Kaldıran: 1. Abdülhamit.","s":"z"}
+      ]
+    },
+    {
+      "b": "Kapıkulu Piyadeleri (yaya)",
+      "i": [
+        {"k":"Acemi Oğlanlar Ocağı","m":"İlk askeri eğitim (er eğitimi) yeri.","s":"z"},
+        {"k":"Bedergaha/kapıya çıkma","m":"Acemi Oğlanlar Ocağı → Yeniçeri Ocağı'na geçiş.","s":"z"},
+        {"k":"Esame defteri","m":"Yeniçerilerin kaydedildiği defter.","s":"z"},
+        {"k":"Humbaracı = el bombası + havan topu","m":"El bombası ve havan topu yapıp kullanan sınıf.","s":"z"},
+        {"k":"Cebeci = silah bakımı","m":"Silah yapım, bakım ve onarımından sorumlu birlik.","s":"z"},
+        {"k":"Topçu + Top Arabacıları","m":"Topçular ateşler, arabacılar taşır. İlk top kullanımı: 1. Kosova.","s":"z"},
+        {"k":"Lağımcı = tünel kazıcı","m":"Kalelerin altından tünel kazarak içeri girmeyi sağlayan sınıf.","s":"z"},
+        {"k":"Bostancı = saray koruması","m":"Sarayı ve çevresini (bostanını) koruyan birlik.","s":"z"}
+      ]
+    },
+    {
+      "b": "Kapıkulu Süvarileri (6/atlı bölük halkı)",
+      "i": [
+        {"k":"Sağ-Sol Garipler → hazine","m":"Hazineyi korurlar ama dokunamazlar, o yüzden 'garip'.","s":"z"},
+        {"k":"Sağ-Sol Ulufeciler → bayrak","m":"Bayrağı ve sancağı korurlar.","s":"z"},
+        {"k":"Sipahi + Silahtar → çadır","m":"Padişahın çadırını korurlar.","s":"z"}
+      ]
+    },
+    {
+      "b": "Eyalet Askerleri",
+      "i": [
+        {"k":"Tımarlı Sipahi: en KALABALIK","m":"Ordunun en kalabalık (≠ en güçlü) kısmı. Maaş yok, ganimet toplar. Hepsi Türk (devşirme değil). Her bir askere Cebelü denir.","s":"z"},
+        {"k":"Turna = haberleşme birimi","m":"'Turnam selam götür yare' → turna kuşu değil, haberleşme birimi.","s":"z"},
+        {"k":"Saka = su","m":"Ordunun su ihtiyacını karşılayan birlik. (Saka su markası)","s":"z"},
+        {"k":"Beşliler: her 5 evden 1 asker","m":"Her beş evden bir erkek alınarak oluşturulan birlik.","s":"z"},
+        {"k":"Deliler: ordunun önü","m":"Cesaretlerinden dolayı 'deli'. Göğüslerinde 'Allah'ın dediği olur' yazar.","s":"z"},
+        {"k":"Azap = bekar","m":"Bekar erkeklerden kurulan birlik. 'Bekarlık azap çekmektir.'","s":"z"},
+        {"k":"Derbent → yol/köprü/geçit","m":"Derbentçiler: yol, köprü ve geçitlerin güvenliğini sağlar. Derbent vergisi de buradan.","s":"z"},
+        {"k":"Voyn → toynak → at bakımı","m":"Hristiyan askerler. Voynlar atların bakımından sorumlu. (2014 sorusu)","s":"z"}
+      ]
+    },
+    {
+      "b": "Donanma",
+      "i": [
+        {"k":"İlk donanma: Karesi → Orhan Bey","m":"Karesioğulları Beyliği ele geçirilince donanmaları da Osmanlı'ya geçti.","s":"z"},
+        {"k":"Tersane sıralaması","m":"Karamürsel = İLK. Gelibolu = ilk BÜYÜK. Haliç = EN BÜYÜK.","s":"z"},
+        {"k":"Levent = donanma askeri","m":"Kaptan-ı Derya = donanma kaptanı. Levent = deniz askeri.","s":"z"},
+        {"k":"HEPİMİZ → Hint Deniz Seferleri","m":"Hadım Süleyman Paşa, Piri Reis, Murat Reis, Seydi Ali Reis. Barbaros YOK!","s":"z"},
+        {"k":"Abdülaziz: 3. büyük donanma","m":"Osmanlı donanmasını dünyanın 3. büyük filosu yaptı. (2016 KPSS)","s":"z"}
+      ]
+    },
+    {
+      "b": "Toprak Sistemi (3'lü ayrım)",
+      "i": [
+        {"k":"Mülk → kişi / Miri → devlet / Vakıf → hayır","m":"Osmanlı'da toprak üç ana gruba ayrılır.","s":"z"},
+        {"k":"Öşri: Müslüman, 1/10 ürün","m":"Mülk arazi alt türü. Öşür vergisi alınır.","s":"z"},
+        {"k":"Haraci: Gayrimüslim, 2/10 ürün","m":"Mülk arazi alt türü. Haraç vergisi alınır. Öşürün 2 katı → Müslümanlığa özendirme.","s":"z"},
+        {"k":"Dirlik: Has > Zeamet > Tımar","m":"Has: 100.000+ akçe, üst düzey. Zeamet: 20-100 bin, orta. Tımar: 20.000 altı.","s":"z"},
+        {"k":"Mevat: kullanMA-AT","m":"Kullanılamayan arazi (bataklık vb.). Metruk ile karıştırma!","s":"z"},
+        {"k":"Metruk = halkın ortak kullanımı","m":"Köy meydanları, meralar, mezarlıklar.","s":"z"}
+      ]
+    },
+    {
+      "b": "Miri Arazi Türleri",
+      "i": [
+        {"k":"Paşmaklık → saray kadınları","m":"Yaşmak (başörtüsü) → geliri saray kadınlarına ayrılan toprak.","s":"z"},
+        {"k":"Yurtluk → sınır boyları","m":"Geliri yurdu (sınırı) koruyanlara ayrılan toprak.","s":"z"},
+        {"k":"Ocaklık → kale + tersane","m":"Geliri kale ve tersane giderlerine ayrılan toprak.","s":"z"},
+        {"k":"Mukataa → hazineye nakit","m":"İltizam sistemi uygulanan, hazineye nakit para getiren arazi.","s":"z"},
+        {"k":"Malikane → yararlılık","m":"Geliri yararlılık gösterenlere ömür boyu verilen arazi.","s":"z"},
+        {"k":"Arpalık → emekli maaşı","m":"Devlet adamlarının emekli maaşı yerine verilen arazi.","s":"z"}
+      ]
+    },
+    {
+      "b": "Ekonomik İlkeler",
+      "i": [
+        {"k":"İaşecilik = 3İ","m":"İstendik miktarda, İstendik fiyatta, İstendik kalitede mal bulundurma = arz-talep dengesi. (2023-24 sorusu)","s":"z"},
+        {"k":"Fiskalizm → Yavuz","m":"Hazineyi en dolu tutma çabası. En iyi uygulayan 1. Selim (Topkapı'da mühür hâlâ duruyor).","s":"z"},
+        {"k":"Gelenekçilik → düzeni koru","m":"Kıtlığı engelleme, mevcut düzeni koruma ilkesi.","s":"z"},
+        {"k":"Yed-i Vahit = tekelcilik","m":"7 temel hammaddenin yurt dışına çıkışını engelleyen uygulama. 1838 Balta Limanı ile kaldırıldı.","s":"z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c":"Ordu Teşkilatı","o":"Osmanlı'nın ilk düzenli ordusu nedir ve kim kurdu?","a":"Yaya ve Müsellem ordusu.\nKuran: Orhan Bey."},
+    {"c":"Ordu Teşkilatı","o":"Kapıkulu Ordusu'nu kim kurdu?","a":"1. Murat.\nYaya ve Müsellem yetersiz kalınca kuruldu."},
+    {"c":"Ordu Teşkilatı","o":"Ulufe nedir? Türk-İslam'daki karşılığı ne?","a":"Kapıkulu ordusunun 3 aylık maaşı.\nTürk-İslam'daki karşılığı: Bistegani."},
+    {"c":"Ordu Teşkilatı","o":"Cülus bahşişini ilk dağıtan ve kaldıran padişahlar?","a":"İlk dağıtan: Yıldırım Bayezit.\nKaldıran: 1. Abdülhamit."},
+    {"c":"Ordu Teşkilatı","o":"Pençik sistemi nedir, kim başlattı?","a":"Savaş esirlerinin 1/5'inin askere alınması.\nBaşlatan: 1. Murat."},
+    {"c":"Ordu Teşkilatı","o":"Devşirme sistemini ilk uygulayan ve kanun haline getiren?","a":"İlk uygulayan: 1. Mehmet (Çelebi).\nKanun haline getiren: 2. Murat."},
+    {"c":"Ordu Teşkilatı","o":"Bedergaha (kapıya) çıkma ne demektir?","a":"Acemi Oğlanlar Ocağı'ndan Yeniçeri Ocağı'na geçiş."},
+    {"c":"Ordu Teşkilatı","o":"Esame defteri nedir?","a":"Yeniçerilerin kaydedildiği defter."},
+    {"c":"Ordu Teşkilatı","o":"Humbaracılar ne yapar?","a":"El bombası ve havan topu yapıp kullanan askeri sınıf."},
+    {"c":"Ordu Teşkilatı","o":"Osmanlı ordusunun en kalabalık kısmı hangisi?","a":"Tımarlı Sipahiler (eyalet ordusu).\nEn güçlü kısım ise Yeniçerilerdir."},
+    {"c":"Ordu Teşkilatı","o":"Tımarlı sipahilerin özellikleri (3 madde)?","a":"1) Hepsi Türk (devşirme değil)\n2) Maaş almaz, ganimet toplar\n3) Barışta bölge güvenliği sağlar"},
+    {"c":"Ordu Teşkilatı","o":"Kapıkulu süvarileri (6 bölük halkı) kimler, neyi korur?","a":"Sağ-Sol Garipler → hazine\nSağ-Sol Ulufeciler → bayrak/sancak\nSipahi + Silahtar → padişah çadırı"},
+    {"c":"Ordu Teşkilatı","o":"'Turnam selam götür yare' — Turna nedir?","a":"Osmanlı ordusundaki haberleşme birimi.\nKuş değil, askeri haberci."},
+    {"c":"Donanma","o":"Osmanlı ilk donanmasını nasıl elde etti?","a":"Karesioğulları Beyliği'nin ele geçirilmesiyle.\nOrhan Bey dönemi."},
+    {"c":"Donanma","o":"Osmanlı tersaneleri: ilk / ilk büyük / en büyük?","a":"İlk: Karamürsel\nİlk büyük: Gelibolu\nEn büyük: Haliç"},
+    {"c":"Donanma","o":"Hint Deniz Seferleri'ne katılan denizciler (HEPİMİZ)?","a":"Hadım Süleyman Paşa\nPiri Reis\nMurat Reis\nSeydi Ali Reis\n(Barbaros katılmadı!)"},
+    {"c":"Donanma","o":"Divana katılan ilk kaptan-ı derya kim, hangi dönem?","a":"Barbaros Hayrettin Paşa.\nKanuni Sultan Süleyman dönemi."},
+    {"c":"Toprak Sistemi","o":"Osmanlı'da toprak kaça ayrılır? (Ana gruplar)","a":"1) Mülk: şahıslara ait\n2) Miri: devlete ait\n3) Vakıf: geliri hayır kurumlarına"},
+    {"c":"Toprak Sistemi","o":"Öşri ve Haraci arazi farkı?","a":"Öşri: Müslümanlara ait, 1/10 ürün vergisi.\nHaraci: Gayrimüslimlere ait, 2/10 ürün vergisi."},
+    {"c":"Toprak Sistemi","o":"Dirlik arazi türleri ve gelir sınırları?","a":"Has: 100.000 akçe üstü (üst düzey)\nZeamet: 20.000-100.000 (orta düzey)\nTımar: 20.000 altı (alt düzey)"},
+    {"c":"Toprak Sistemi","o":"Yurtluk, Ocaklık, Paşmaklık ne?","a":"Yurtluk: sınır koruyanlara\nOcaklık: kale/tersane giderlerine\nPaşmaklık: saray kadınlarına"},
+    {"c":"Toprak Sistemi","o":"Metruk ve Mevat arasındaki fark?","a":"Metruk: halkın ortak kullanımına bırakılan (mera, mezarlık).\nMevat: kullanılamayan arazi (bataklık). 'Mevat = kullanMA-AT'"},
+    {"c":"Toprak Sistemi","o":"Arpalık arazi nedir?","a":"Devlet adamlarına emekli maaşı yerine verilen arazi.\nEmekli olunca geçimini sağlasın diye."},
+    {"c":"Vergiler","o":"Müslüman ürün/toprak vergileri?","a":"Ürün vergisi: Öşür (1/10)\nToprak vergisi: Resm-i Çift"},
+    {"c":"Vergiler","o":"Gayrimüslim ürün/toprak/askerlik vergileri?","a":"Ürün: Haraç (2/10)\nToprak: İspenç\nAskerlik muafiyeti: Cizye"},
+    {"c":"Vergiler","o":"Avarız vergisi ne, ne zaman başladı?","a":"Olağanüstü hal vergisi. 'Avarız, o halde VARIZ.'\nİlk alan: 2. Bayezit. Sonra sürekli hale geldi."},
+    {"c":"Vergiler","o":"Osmanlı'nın aldığı ilk vergi?","a":"Bac (Pazar) vergisi.\nOsman Bey döneminde alındı."},
+    {"c":"Vergiler","o":"İmdad-ı Seferiye ve İmdad-ı Hazariye farkı?","a":"Seferiye: savaş zamanı 'imdat' vergisi.\nHazariye: barış zamanı 'imdat' vergisi.\n(Hazar = barış)"},
+    {"c":"Vergiler","o":"Çift bozan vergisi nedir?","a":"Toprağını üst üste boş bırakanlardan alınan vergi.\nÜretimde sürekliliği sağlamak amaçlı."},
+    {"c":"Vergiler","o":"Amediye ve Reftiye ne?","a":"Amediye: ithalat vergisi.\nReftiye: ihracat vergisi."},
+    {"c":"Ekonomi","o":"İaşecilik ilkesi nedir? (3İ)","a":"İstendik miktarda, İstendik fiyatta, İstendik kalitede mal bulundurma.\nYani arz-talep dengesini sağlama. (2023-24 sorusu)"},
+    {"c":"Ekonomi","o":"Fiskalizm ne, en iyi uygulayan kim?","a":"Hazineyi en dolu tutma çabası.\n1. Selim (Yavuz): Mısır hazinelerini getirdi, Topkapı'da mühür hâlâ duruyor."},
+    {"c":"Ekonomi","o":"Yed-i Vahit uygulaması ne, nasıl sona erdi?","a":"Temel hammaddenin yurt dışına çıkışını engelleyen tekelcilik.\n1838 Balta Limanı Ticaret Antlaşması ile kaldırıldı (2. Mahmut)."},
+    {"c":"Ekonomi","o":"Lonca ile Ahilik arasındaki 2 temel fark?","a":"1) Ahilik: sadece Müslümanlar / Lonca: Müslüman + Gayrimüslim\n2) Ahilik: askere giderler / Lonca: askere gitmezler"},
+    {"c":"Ekonomi","o":"Narh kesmek ne demek?","a":"Mala fiyat biçmek.\nDevlet her ürüne narh keser → fiyat her yerde aynı."},
+    {"c":"Ekonomi","o":"Muhtesip, Ehli Hibre, Hirfet ne?","a":"Muhtesip: çarşı-pazar denetçisi (zabıta)\nEhli Hibre: kalite kontrol (gurme)\nHirfet: küçük esnaf grupları"},
+    {"c":"Ekonomi","o":"Mekkari taifesi, Menzil ve Derbent teşkilatları?","a":"Mekkari: taşımacılık (kargo)\nMenzil: yollarda haberleşme\nDerbent: yol/köprü/geçit güvenliği"},
+    {"c":"Ekonomi","o":"Gedik, Berat, İcazetname farkı?","a":"Gedik: iş yeri açma belgesi\nBerat: atama belgesi\nİcazetname: diploma"},
+    {"c":"Bankacılık","o":"Osmanlı'nın ilk bankası ve yabancı sermayeli ilk bankası?","a":"İlk banka: Bank-ı Dersaadet (Abdülmecid, 1847)\nYabancı sermayeli ilk: Bank-ı Osmani (Abdülmecid)"},
+    {"c":"Bankacılık","o":"Memleket Sandıkları → Ziraat Bankası süreci?","a":"Mithat Paşa çiftçiye kredi vermek için kurdu.\n2. Abdülhamit birleştirip Ziraat Bankası yaptı.\nOsmanlı'dan günümüze kalan tek banka."},
+    {"c":"Bankacılık","o":"İtibar-ı Milli Bankası'nı kim kurdu, önemi?","a":"İttihat ve Terakki kurdu.\nMilli banka, para basma yetkisi var.\nParası İş Bankası'na devredildi."},
+    {"c":"Paralar","o":"Osmanlı'da para basımı sıralaması?","a":"Osman Bey: bakır (ilk para)\nOrhan Bey: gümüş\nFatih: altın (sultani/sikke-i hasene)\nAbdülmecid: kağıt para (kaime)"},
+    {"c":"Paralar","o":"Esham senetleri ne, kim hazırladı/uyguladı?","a":"Osmanlı'nın kendi halkına borçlanması (iç borçlanma).\nKağıt paraya geçişin ilk aşaması.\nHazırlayan: 3. Mustafa. Uygulayan: 1. Abdülhamit."},
+    {"c":"Sosyal Hayat","o":"Millet sistemi nedir?","a":"Osmanlı'nın halkını IRKA göre değil, DİN VE MEZHEP esasına göre yönetmesi."},
+    {"c":"Sosyal Hayat","o":"Adalet çemberi kime aittir?","a":"Kınalızade Ali Efendi.\nAhlak-ı Alai eserinde yönetimin ortasında adaletin bulunması gerektiğini savunur."},
+    {"c":"Sosyal Hayat","o":"İlk kapitülasyonlar kime, hangi dönemde verildi?","a":"Orhan Bey döneminde Ceneviz'e verildi.\n(MEB kitabı netleştirdi.)"},
+    {"c":"İlim İnsanları","o":"Akşemseddin'in önemi ve eseri?","a":"Mikrop ve kanser üzerine ilk çalışmalar.\nEseri: Maddetül Hayat.\nFatih'in manevi hocası, İstanbul'un manevi fatihi."},
+    {"c":"İlim İnsanları","o":"Sabuncuoğlu Şerafeddin neden önemli?","a":"Deneysel farmakolojinin + plastik cerrahinin lideri.\nEserleri: Cerrahiye-i İlhaniye, Mücerrebname.\n(Muhtemel soru adayı)"},
+    {"c":"İlim İnsanları","o":"Ali Kuşçu'nun özellikleri (5 madde)?","a":"1) Matematikçi + astronom\n2) Ay haritası çizdi\n3) İstanbul'un enlem-boylamını hesapladı\n4) Aydaki kratere adı verildi\n5) Fatih döneminde Osmanlı'ya geldi"},
+    {"c":"İlim İnsanları","o":"Osmanlı'nın ilk şeyhülislamı kim, hangi dönem?","a":"Molla Fenari.\n2. Murat dönemi."},
+    {"c":"İlim İnsanları","o":"Divana katılan ilk şeyhülislam?","a":"Ebusuud Efendi.\nKanuni Sultan Süleyman dönemi."},
+    {"c":"İlim İnsanları","o":"Osmanlı'nın ilk rasathanesini kuran kim?","a":"Takiyüddin er-Raşid.\n3. Murat dönemi. (Sonra yıktırıldı.)"},
+    {"c":"İlim İnsanları","o":"Katip Çelebi'nin diğer adı ve eserleri?","a":"Diğer adı: Hacı Kalfa.\nEserleri: Cihannüma, Keşf-i Zünun.\n(2016 KPSS sorusu)"},
+    {"c":"İlim İnsanları","o":"İlk vakanüvist ve en önemli vakanüvist?","a":"İlk: Naima (Halepli Mustafa Naima Efendi).\nEn önemli: Ahmet Cevdet Paşa (Tarih-i Cevdet, Kısas-ı Enbiya, Mecelle)."},
+    {"c":"İlim İnsanları","o":"Nefi kimdir, nasıl öldü?","a":"Hiciv şairi (taşlama ustası). Eseri: Siham-ı Kaza.\n4. Murat döneminde yazdığı hicivler yüzünden idam edildi."},
+    {"c":"Mimari","o":"Osmanlı mimarisi dönem ayrımı?","a":"Erken: Kuruluş dönemi\nKlasik (büyük külliyeler): Yükselme + Duraklama\nGeç: Gerileme + Dağılma"},
+    {"c":"Mimari","o":"Mimar Sinan'ın 3 eseri?","a":"Çıraklık: Şehzade Cami\nKalfalık: Süleymaniye Cami\nUstalık: Selimiye Cami (2. Selim dönemi)"},
+    {"c":"Mimari","o":"Batı örnek alınarak ilk sivil ve ilk dini mimari?","a":"İlk sivil: 3. Ahmet Çeşmesi\nİlk dini: Nuruosmaniye Cami"},
+    {"c":"Mimari","o":"Osmanlı'nın ilk camisi?","a":"Hacı Özbek Cami.\nOrhan Bey dönemi (erken dönem eseri)."},
+    {"c":"Sanat","o":"Osmanlı'da ilk portresini yaptıran padişah, kime?","a":"Fatih Sultan Mehmet.\nNakkaş Sinan Bey'e + İtalyan Bellini'ye yaptırdı."},
+    {"c":"Sanat","o":"Şeker Ahmet Paşa'nın önemi?","a":"Paris'te batı resim tekniğini öğrendi.\nOsmanlı'nın ilk resim sergisini açtı.\n(Abdülaziz döneminde gönderildi)"},
+    {"c":"Sanat","o":"Osman Hamdi Bey kimdir? (3 bilgi)","a":"1) İlk Türk müze müdürü\n2) Sanayi-i Nefise Mektebi kurucusu\n3) Eserleri: Kaplumbağa Terbiyecisi, Silah Tacirleri"},
+    {"c":"Sanat","o":"Osmanlı'da hat sanatının en önemli isimleri?","a":"Şeyh Hamdullah: hattatların kıblesi\nAhmet Karahisari: günümüz Kur'an hattını yazdı\nHafız Osman: önemli hattat"},
+    {"c":"Sanat","o":"Levni kimdir?","a":"Lale Devri nakkaşı.\nMinyatür sanatını icra edenler: Nakkaş/Musavvir."},
+    {"c":"Müzik","o":"Mızıka-yı Hümayun ne, kim kurdu?","a":"2. Mahmut Mehterhane'yi kaldırıp yerine kurdurdu.\nKuran: Donizetti Paşa.\nGünümüzde: Cumhurbaşkanlığı Senfoni Orkestrası."},
+    {"c":"Müzik","o":"3. Selim'in müzikteki önemi?","a":"Mahlası: İlhami.\nSuzi Dilara makamını buldu.\nMüzisyen padişah. (Muhtemel soru adayı)"},
+    {"c":"Müzik","o":"Itri (Buharizade Mustafa) ne buldu?","a":"Nevakar ve Segah makamlarını buldu.\n(100 TL üzerinde görseli var.)"},
+    {"c":"Basın-Yayın","o":"Osmanlı'da ilk özel / resmi / yarı resmi gazeteler?","a":"İlk özel: Tercüman-ı Ahval\nİlk resmi: Takvim-i Vekayi (2. Mahmut)\nİlk yarı resmi: Ceride-i Havadis (William Churchill)"},
+    {"c":"Basın-Yayın","o":"İlk dergi ve ilk mizah dergisi?","a":"İlk dergi: Vekayi-i Tıbbiye\nİlk mizah dergisi: Diyojen (Teodor Kasap)"},
+    {"c":"Basın-Yayın","o":"Fatma Aliye, Afife Jale, Mihri Müşfik — ilkleri?","a":"Fatma Aliye: ilk kadın romancı (Muhadarat)\nAfife Jale: ilk kadın tiyatrocu (2016 KPSS)\nMihri Müşfik: ilk kadın ressam"},
+    {"c":"Basın-Yayın","o":"Güllü Agop ve Şair Evlenmesi?","a":"Güllü Agop: ilk modern tiyatroyu kuran kişi.\nŞair Evlenmesi: Şinasi'nin yazdığı ilk tiyatro eseri."},
+    {"c":"Spor","o":"Selim Sırrı Tarcan'ın önemi?","a":"Osmanlı: Milli Olimpiyat Cemiyeti → Stockholm (ilk olimpiyat)\nTC: Milli Olimpiyat Komitesi → Paris 1924 (ilk olimpiyat)"},
+    {"c":"Spor","o":"Padişah mahlasları: Fatih, Kanuni, Genç Osman, 3. Selim?","a":"Fatih: Avni\nKanuni: Muhibbi\nGenç Osman: Farisi\n3. Selim: İlhami"}
+  ],
+  "tuzak": [
+    {"q":"Osmanlı'nın ilk düzenli ordusu hangisidir?","o":["Kapıkulu Ordusu","Yaya ve Müsellem"],"c":1,"n":"Kapıkulu'yu 1. Murat kurdu ama İLK düzenli ordu Orhan Bey'in Yaya ve Müsellem'idir."},
+    {"q":"Osmanlı ordusunun en güçlü kısmı hangisidir?","o":["Tımarlı Sipahiler","Yeniçeriler"],"c":1,"n":"Tımarlı sipahiler en KALABALIK kısım, Yeniçeriler en GÜÇLÜ kısım."},
+    {"q":"3 aylık maaşa Osmanlı'da ne denir?","o":["Bistegani","Ulufe"],"c":1,"n":"Bistegani Türk-İslam devletlerinin, Ulufe Osmanlı'nın 3 aylık maaşıdır."},
+    {"q":"Devşirme sistemini ilk uygulayan padişah?","o":["2. Murat","1. Mehmet (Çelebi)"],"c":1,"n":"2. Murat kanun haline getirdi ama ilk UYGULAYAN 1. Mehmet'tir."},
+    {"q":"Cülus bahşişini ilk dağıtan padişah?","o":["1. Murat","Yıldırım Bayezit"],"c":1,"n":"Kapıkulu'yu 1. Murat kurdu ama ilk cülus bahşişini YILDIRIM BAYEZİT dağıttı."},
+    {"q":"Osmanlı'nın ilk tersanesi hangisidir?","o":["Gelibolu","Karamürsel"],"c":1,"n":"Gelibolu ilk BÜYÜK tersane, Karamürsel İLK tersanedir."},
+    {"q":"Hint Deniz Seferleri'ne katılan denizci hangisidir?","o":["Barbaros Hayrettin Paşa","Hadım Süleyman Paşa"],"c":1,"n":"Barbaros en ünlü denizcidir ama Hint seferlerine katılmadı. HEPİMİZ: Hadım, Piri, Murat, Seydi Ali."},
+    {"q":"Müslümanlardan alınan TOPRAK vergisi hangisidir?","o":["Öşür","Resm-i Çift"],"c":1,"n":"Öşür ÜRÜN vergisidir. Müslümanlardan alınan TOPRAK vergisi Resm-i Çift'tir."},
+    {"q":"Gayrimüslimlerden alınan ÜRÜN vergisi hangisidir?","o":["İspenç","Haraç"],"c":1,"n":"İspenç TOPRAK vergisidir. Gayrimüslimlerden alınan ÜRÜN vergisi Haraç'tır."},
+    {"q":"Osmanlı'nın aldığı ilk vergi hangisidir?","o":["Öşür","Bac (Pazar) vergisi"],"c":1,"n":"Öşür İslam hukukundan gelir. İlk vergi Osman Bey'in aldığı BAC vergisidir."},
+    {"q":"Avarız vergisini ilk alan padişah?","o":["1. Murat","2. Bayezit"],"c":1,"n":"Avarız olağanüstü hal vergisidir, ilk alan 2. Bayezit'tir."},
+    {"q":"Osmanlı'nın ilk bankası hangisidir?","o":["Bank-ı Osmani","Bank-ı Dersaadet"],"c":1,"n":"Bank-ı Osmani yabancı sermayeli İLK bankadır. İLK banka Bank-ı Dersaadet'tir."},
+    {"q":"Ziraat Bankası'nın temelini atan kişi?","o":["2. Abdülhamit","Mithat Paşa"],"c":1,"n":"Abdülhamit birleştirip Ziraat Bankası yaptı ama temeli atan (memleket sandıkları) Mithat Paşa'dır."},
+    {"q":"İlk altın parayı basan padişah?","o":["Orhan Bey","Fatih Sultan Mehmet"],"c":1,"n":"Orhan Bey GÜMÜŞ para bastı. İlk ALTIN parayı Fatih bastı (sultani)."},
+    {"q":"Osmanlı mimarisinde 'klasik dönem' hangi dönemleri kapsar?","o":["Kuruluş + Yükselme","Yükselme + Duraklama"],"c":1,"n":"Kuruluş dönemi 'erken dönem'dir. Klasik dönem = Yükselme + Duraklama."},
+    {"q":"Mimar Sinan'ın ustalık eseri hangisidir?","o":["Süleymaniye Cami","Selimiye Cami"],"c":1,"n":"Süleymaniye kalfalık eseridir. Ustalık eseri Selimiye Cami'dir (2. Selim dönemi)."},
+    {"q":"Batı örnek alınarak yapılan ilk SİVİL mimari eser?","o":["Nuruosmaniye Cami","3. Ahmet Çeşmesi"],"c":1,"n":"Nuruosmaniye ilk DİNİ eserdir. İlk SİVİL eser 3. Ahmet Çeşmesi'dir."},
+    {"q":"Osmanlı'nın ilk vakanüvisti kimdir?","o":["Ahmet Cevdet Paşa","Naima"],"c":1,"n":"Ahmet Cevdet Paşa en ÖNEMLİ vakanüvisttir. İLK vakanüvist Naima'dır."},
+    {"q":"Osmanlı'nın ilk şeyhülislamı kimdir?","o":["Ebusuud Efendi","Molla Fenari"],"c":1,"n":"Ebusuud Efendi divana katılan ilk şeyhülislamdır. İLK şeyhülislam Molla Fenari'dir."},
+    {"q":"Mehterhane'yi kaldırıp Mızıka-yı Hümayun'u kurdurtan padişah?","o":["3. Selim","2. Mahmut"],"c":1,"n":"3. Selim müzisyen padişahtır (Suzi Dilara makamı). Mehterhane'yi kaldıran 2. Mahmut'tur."},
+    {"q":"Osmanlı'nın ilk resmi gazetesi hangisidir?","o":["Tercüman-ı Ahval","Takvim-i Vekayi"],"c":1,"n":"Tercüman-ı Ahval ilk ÖZEL gazetedir. İlk RESMİ gazete Takvim-i Vekayi'dir."},
+    {"q":"Halkın ortak kullanımına bırakılan arazi türü?","o":["Mevat","Metruk"],"c":1,"n":"Mevat kullanılamayan arazidir (bataklık). Ortak kullanıma bırakılan METRUK'tur."},
+    {"q":"İlk kağıt parayı (kaime) basan padişah?","o":["3. Mustafa","Abdülmecid"],"c":1,"n":"3. Mustafa esham senetlerini hazırladı. İlk kağıt para (kaime) Abdülmecid dönemindedir."},
+    {"q":"Dirlik arazide 100.000 akçe üstü geliri olan toprak türü?","o":["Zeamet","Has"],"c":1,"n":"Zeamet 20-100 bin akçedir. 100.000 ÜSTÜ Has arazidir."},
+    {"q":"Fiskalizm ilkesini en iyi uygulayan padişah?","o":["Kanuni","1. Selim (Yavuz)"],"c":1,"n":"Kanuni en parlak dönem padişahıdır ama fiskalizm'de en başarılı Yavuz'dur (Mısır hazineleri)."},
+    {"q":"Osmanlı'ya bağlı ilk olimpiyatlar nerede yapıldı?","o":["Paris","Stockholm"],"c":1,"n":"Paris Türkiye Cumhuriyeti'nin ilk olimpiyatıdır (1924). Osmanlı'nın ilk olimpiyatı Stockholm'dür."},
+    {"q":"Osmanlı'da ilk modern tiyatroyu kuran kişi?","o":["Şinasi","Güllü Agop"],"c":1,"n":"Şinasi ilk tiyatro ESERİNİ yazdı (Şair Evlenmesi). İlk modern tiyatroyu KURAN Güllü Agop'tur."},
+    {"q":"Kadızade-i Rumi ile Ali Kuşçu ilişkisi?","o":["Ali Kuşçu, Kadızade'nin öğrencisidir","Kadızade, Ali Kuşçu'nun öğrencisidir"],"c":0,"n":"Kadızade-i Rumi Ali Kuşçu'ya ve Uluğ Bey'e hocalık yapmıştır."},
+    {"q":"Yed-i Vahit uygulamasını kaldıran antlaşma?","o":["1856 Paris Antlaşması","1838 Balta Limanı Ticaret Antlaşması"],"c":1,"n":"Paris Antlaşması Kırım Savaşı sonrasıdır. Tekelciliği kaldıran 1838 Balta Limanı'dır."},
+    {"q":"Muallim-i Salis (üçüncü öğretmen) kim?","o":["Ali Kuşçu","Yanyalı Esat Efendi"],"c":1,"n":"Ali Kuşçu matematikçi-astronomdur. Muallim-i Salis Yanyalı Esat Efendi'dir (Lale Devri)."},
+    {"q":"Osmanlı'nın dünyanın 3. büyük donanmasını oluşturan padişahı?","o":["Kanuni","Sultan Abdülaziz"],"c":1,"n":"Kanuni'de Barbaros'la Akdeniz Türk gölü oldu ama 3. büyük donanmayı oluşturan Abdülaziz'dir. (2016 KPSS)"}
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi Kapıkulu piyadelerinden biri değildir?",
+      "o": ["Humbaracılar","Cebeciler","Lağımcılar","Sipahiler","Bostancılar"],
+      "c": 3,
+      "e": "Sipahiler Kapıkulu SÜVARİLERİ arasında yer alır, piyade değildir."
+    },
+    {
+      "q": "Osmanlı'da devşirme sistemini ilk kez uygulayan padişah aşağıdakilerden hangisidir?",
+      "o": ["1. Murat","Yıldırım Bayezit","1. Mehmet (Çelebi)","2. Murat","Fatih Sultan Mehmet"],
+      "c": 2,
+      "e": "Çelebi Mehmet savaş kazanıp esir alamadığı için pençikten devşirmeye geçmiştir."
+    },
+    {
+      "q": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": ["Ulufe – Kapıkulu'nun 3 aylık maaşı","Cülus – Her padişah değişikliğinde verilen bahşiş","Bistegani – Osmanlı'da 3 aylık maaş","Pençik – Esirlerin 1/5'inin askere alınması","Esame – Yeniçeri kayıt defteri"],
+      "c": 2,
+      "e": "Bistegani Türk-İslam devletlerindeki 3 aylık maaştır, Osmanlı'daki karşılığı Ulufe'dir."
+    },
+    {
+      "q": "I. Derbentçiler – Yol, köprü ve geçitlerin güvenliği\nII. Turnalar – Ordunun su ihtiyacı\nIII. Sakalar – Haberleşme\n\nYukarıdaki eşleştirmelerden hangileri doğrudur?",
+      "o": ["Yalnız I","Yalnız II","I ve II","I ve III","I, II ve III"],
+      "c": 0,
+      "e": "Turnalar haberleşme, Sakalar su ihtiyacı ile görevlidir. Yalnız I doğrudur."
+    },
+    {
+      "q": "Osmanlı'da Hint Deniz Seferleri'ne katılan denizciler arasında aşağıdakilerden hangisi yer almaz?",
+      "o": ["Hadım Süleyman Paşa","Piri Reis","Barbaros Hayrettin Paşa","Seydi Ali Reis","Murat Reis"],
+      "c": 2,
+      "e": "HEPİMİZ kodlaması: Hadım, Piri, Murat, Seydi Ali. Barbaros Hint seferlerine katılmamıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi miri arazi türlerinden biri değildir?",
+      "o": ["Paşmaklık","Ocaklık","Yurtluk","Haraci","Arpalık"],
+      "c": 3,
+      "e": "Haraci arazi MÜLK arazi alt türüdür (gayrimüslimlere ait). Diğerleri miri arazi türüdür."
+    },
+    {
+      "q": "Osmanlı'da geliri kale ve tersane giderlerine ayrılan toprak türü aşağıdakilerden hangisidir?",
+      "o": ["Yurtluk","Paşmaklık","Mukataa","Ocaklık","Malikane"],
+      "c": 3,
+      "e": "Yurtluk sınır koruma, Paşmaklık saray kadınları, Mukataa nakit gelir, Malikane yararlılık için ayrılır."
+    },
+    {
+      "q": "Osmanlı ekonomisine yön veren iaşecilik ilkesi ile ilgili olarak aşağıdakilerden hangisi söylenemez?",
+      "o": ["Arz-talep dengesini sağlamayı amaçlar","İstendik miktarda mal bulundurmayı hedefler","Hazineyi en dolu tutma çabasını ifade eder","İstendik fiyatta mal arzını esas alır","İstendik kalitede üretimi destekler"],
+      "c": 2,
+      "e": "Hazineyi en dolu tutma çabası FİSKALİZM'dir, iaşecilik değildir."
+    },
+    {
+      "q": "1838 Balta Limanı Ticaret Antlaşması ile kaldırılan uygulama aşağıdakilerden hangisidir?",
+      "o": ["Lonca teşkilatı","Narh sistemi","Yed-i Vahit (tekelcilik)","Menzil teşkilatı","Muhtesiplik"],
+      "c": 2,
+      "e": "Yed-i Vahit temel hammaddelerin yurt dışına çıkışını engellerdi; Balta Limanı ile kaldırılınca Osmanlı açık pazar oldu."
+    },
+    {
+      "q": "Osmanlı Devleti'nin ilk bankası aşağıdakilerden hangisidir?",
+      "o": ["Ziraat Bankası","Bank-ı Osmani","İtibar-ı Milli","Bank-ı Dersaadet","Memleket Sandıkları"],
+      "c": 3,
+      "e": "Bank-ı Dersaadet 1847'de Abdülmecid döneminde kurulmuş ilk bankadır."
+    },
+    {
+      "q": "Aşağıdaki vergilerden hangisi şeri (İslam hukukuna dayalı) vergiler arasında yer almaz?",
+      "o": ["Öşür","Haraç","Cizye","Zekat","Avarız"],
+      "c": 4,
+      "e": "Avarız olağanüstü hal vergisidir ve örfi vergiler arasında yer alır."
+    },
+    {
+      "q": "I. Resm-i Çift – Müslümanlardan alınan toprak vergisi\nII. İspenç – Gayrimüslimlerden alınan toprak vergisi\nIII. Haraç – Gayrimüslimlerden alınan ürün vergisi\n\nYukarıdakilerden hangileri doğrudur?",
+      "o": ["Yalnız I","I ve II","I ve III","II ve III","I, II ve III"],
+      "c": 4,
+      "e": "Üç eşleştirme de doğrudur. Resm-i Çift Müslüman toprak, İspenç gayrimüslim toprak, Haraç gayrimüslim üründür."
+    },
+    {
+      "q": "Osmanlı'da dirlik arazi türlerinden olan 'Has' arazi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": ["Geliri 20.000 akçenin altındadır","Kadı ve müderrislere verilir","Tımar sistemi uygulanmaz","Geliri 100.000 akçe ve üstüdür","Alt dereceli memurlara ayrılmıştır"],
+      "c": 3,
+      "e": "Has arazi 100.000+ akçe gelirli, üst düzey yöneticilere (padişah, beylerbeyi, divan üyeleri) verilen arazidir."
+    },
+    {
+      "q": "Osmanlı'da mikrop ve kanser üzerine ilk çalışmaları yapan ve Maddetül Hayat adlı eseri kaleme alan ilim insanı aşağıdakilerden hangisidir?",
+      "o": ["Ali Kuşçu","Sabuncuoğlu Şerafeddin","Akşemseddin","Kadızade-i Rumi","Takiyüddin er-Raşid"],
+      "c": 2,
+      "e": "Akşemseddin, Fatih'in manevi hocasıdır ve Maddetül Hayat'ta mikrop-kanser çalışmaları yer alır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Sabuncuoğlu Şerafeddin ile ilgili doğru bir bilgi değildir?",
+      "o": ["Deneysel farmakolojide öncüdür","Plastik cerrahi alanında çalışmıştır","Cerrahiye-i İlhaniye eserini yazmıştır","Osmanlı'nın ilk rasathanesini kurmuştur","Mücerrebname eserinin sahibidir"],
+      "c": 3,
+      "e": "İlk rasathaneyi kuran Takiyüddin er-Raşid'dir, Sabuncuoğlu Şerafeddin değil."
+    },
+    {
+      "q": "Mimar Sinan'ın eserleri ile ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "o": ["Şehzade Cami – Ustalık","Süleymaniye – Çıraklık","Selimiye – Kalfalık","Şehzade Cami – Çıraklık","Selimiye – Çıraklık"],
+      "c": 3,
+      "e": "Şehzade = çıraklık, Süleymaniye = kalfalık, Selimiye = ustalık."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı basın tarihinde bir 'ilk' olarak yanlış eşleştirilmiştir?",
+      "o": ["Tercüman-ı Ahval – İlk özel gazete","Takvim-i Vekayi – İlk resmi gazete","Diyojen – İlk mizah dergisi","Ceride-i Havadis – İlk dergi","Vekayi-i Tıbbiye – İlk dergi"],
+      "c": 3,
+      "e": "Ceride-i Havadis ilk YARI RESMİ gazetedir, ilk dergi değildir. İlk dergi Vekayi-i Tıbbiye'dir."
+    },
+    {
+      "q": "Selim Sırrı Tarcan ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "o": ["Milli Olimpiyat Cemiyeti'ni kurmuştur","Osmanlı'yı Stockholm Olimpiyatları'na götürmüştür","TC'nin ilk olimpiyatı Paris'e katılımını sağlamıştır","Osmanlı'nın ilk spor gazetesini çıkarmıştır","Beden eğitimi öğretmenidir"],
+      "c": 3,
+      "e": "Transkriptte Selim Sırrı Tarcan'ın gazete çıkardığına dair bilgi yoktur. Diğerleri doğrudur."
+    },
+    {
+      "q": "Osmanlı Devleti'nde Lonca teşkilatı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": ["Ahiliğin devamı niteliğindedir","Hem üreticiyi hem tüketiciyi korur","Sadece Müslüman esnaflar üye olabilir","Arz-talep dengesini sağlar","Liderlerine şeyh ya da pir denir"],
+      "c": 2,
+      "e": "Lonca'da hem Müslümanlar hem gayrimüslimler üye olabilir. Sadece Ahilik'te yalnız Müslümanlar vardı."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı'da ilk kağıt para olan 'kaime'yi basan padişahtır?",
+      "o": ["3. Mustafa","1. Abdülhamit","2. Mahmut","Abdülmecid","Abdülaziz"],
+      "c": 3,
+      "e": "3. Mustafa esham senetlerini hazırladı, 1. Abdülhamit uyguladı. İlk kağıt para (kaime) Abdülmecid dönemindedir."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Kapıkulu Piyadeleri — Görevleri",
+      "p": [
+        ["Humbaracılar","El bombası ve havan topu"],
+        ["Cebeciler","Silah bakım ve onarım"],
+        ["Lağımcılar","Tünel kazma"],
+        ["Bostancılar","Saray ve çevre koruması"],
+        ["Topçular","Top ateşleme"],
+        ["Acemi Oğlanlar","İlk askeri eğitim (er eğitimi)"]
+      ]
+    },
+    {
+      "ad": "Miri Arazi Türleri — Gelir Ayrımı",
+      "p": [
+        ["Paşmaklık","Saray kadınlarına"],
+        ["Yurtluk","Sınır koruyanlara"],
+        ["Ocaklık","Kale ve tersane giderlerine"],
+        ["Mukataa","Hazineye nakit para"],
+        ["Malikane","Yararlılık gösterenlere"],
+        ["Arpalık","Emekli maaşı yerine"]
+      ]
+    },
+    {
+      "ad": "Osmanlı Vergileri — Tanımlar",
+      "p": [
+        ["Öşür","Müslümanlardan alınan ürün vergisi"],
+        ["Haraç","Gayrimüslimlerden alınan ürün vergisi"],
+        ["Resm-i Çift","Müslümanlardan alınan toprak vergisi"],
+        ["İspenç","Gayrimüslimlerden alınan toprak vergisi"],
+        ["Cizye","Gayrimüslim askerlik muafiyet vergisi"],
+        ["Avarız","Olağanüstü hal vergisi"],
+        ["Çift bozan","Toprağını boş bırakanlardan alınan vergi"]
+      ]
+    },
+    {
+      "ad": "İlim İnsanları — Katkıları",
+      "p": [
+        ["Akşemseddin","Mikrop ve kanser (Maddetül Hayat)"],
+        ["Sabuncuoğlu Şerafeddin","Deneysel farmakoloji + plastik cerrahi"],
+        ["Ali Kuşçu","Ay haritası, İstanbul enlem-boylam"],
+        ["Takiyüddin er-Raşid","Osmanlı'nın ilk rasathanesi"],
+        ["Piri Reis","Kitab-ı Bahriye, Dünya Haritası"],
+        ["Katip Çelebi","Cihannüma, Keşf-i Zünun (Hacı Kalfa)"],
+        ["Naima","Osmanlı'nın ilk vakanüvisti"]
+      ]
+    },
+    {
+      "ad": "Osmanlı Paraları — Dönem Eşleştirme",
+      "p": [
+        ["Bakır para","Osman Bey"],
+        ["Gümüş para","Orhan Bey"],
+        ["Altın para (Sultani)","Fatih Sultan Mehmet"],
+        ["Kaime (kağıt para)","Abdülmecid"],
+        ["Esham senetleri (hazırlayan)","3. Mustafa"],
+        ["Esham senetleri (uygulayan)","1. Abdülhamit"]
+      ]
+    },
+    {
+      "ad": "Basın-Yayın İlkleri",
+      "p": [
+        ["Tercüman-ı Ahval","İlk özel gazete"],
+        ["Takvim-i Vekayi","İlk resmi gazete"],
+        ["Ceride-i Havadis","İlk yarı resmi gazete"],
+        ["Vekayi-i Tıbbiye","İlk dergi"],
+        ["Diyojen","İlk mizah dergisi"],
+        ["Terakki Muhaderat","İlk kadın dergisi"],
+        ["Şair Evlenmesi","İlk tiyatro eseri"]
+      ]
+    }
+  ]
+}

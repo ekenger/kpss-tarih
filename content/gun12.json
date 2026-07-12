@@ -1,0 +1,425 @@
+{
+  "meta": {
+    "gun": 12,
+    "baslik": "Atatürk'ün Hayatı",
+    "ozet": "Mustafa Kemal Atatürk'ün eğitim hayatı, düşünce hayatını etkileyen yazar-şehirler, görevleri, rütbeleri, eserleri, Nutuk ve vefatı ele alınıyor.",
+    "tahminiSoru": "KPSS'de ~3-4 soru (ilk görev yeri, rütbeler, Nutuk, son başbakan)",
+    "duzeltmeler": [
+      "Şemsiye Efendi → Şemsi Efendi (bilinen tarihî isim)",
+      "teymen → teğmen",
+      "Voltey → Voltaire",
+      "Descart → Descartes",
+      "Montescue → Montesquieu",
+      "Ateşe Militeleri → Ataşemiliter",
+      "Trablus Kalp/Karp → Trablusgarp",
+      "Kaspa/Kasma hatıraları → Karlsbad Hatıraları",
+      "Ömer Irdelir → kesin tanı koyan hekim (Tactiq transkript hatası olabilir, denemeye konmadı)"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Eğitim Hayatı Sırası",
+      "i": [
+        { "k": "Mahalle Mektebi", "m": "Dini eğitim — annesi istedi", "s": "z" },
+        { "k": "Şemsi Efendi İlkokulu", "m": "Modern eğitim — babası istedi", "s": "z" },
+        { "k": "Selanik Mülkiye Rüştiyesi", "m": "Ortaokul, memur yetiştiren", "s": "z" },
+        { "k": "Selanik Askeri Rüştiyesi", "m": "Ailesinden gizli sınava girdi; 'Kemal' adını aldı", "s": "z" },
+        { "k": "Manastır Askeri İdadisi", "m": "Lise — başka şehre gidiş", "s": "z" },
+        { "k": "İstanbul Harp Okulu", "m": "Teğmen olarak mezun (basit olan)", "s": "z" },
+        { "k": "İstanbul Harp Akademisi", "m": "Kurmay yüzbaşı olarak mezun (caflı olan)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Düşünce Hayatını Etkileyen Yazarlar",
+      "i": [
+        { "k": "Ziya Gökalp", "m": "\"Fikirlerimin babası\"", "s": "z" },
+        { "k": "Namık Kemal", "m": "\"Türk milletinin yüzyıllardan bu yana beklediği ses\"", "s": "z" },
+        { "k": "M. Emin Yurdakul", "m": "\"Bu dizelerde ulusal benliğimin gururunu tattıran ilk anlatımı buldum\" (Cenge Giderken)", "s": "z" },
+        { "k": "Tevfik Fikret", "m": "\"Hangi Türk şairi böyle inkılapçı şiirler yazmıştır?\" — batıcı, inkılapçı", "s": "z" },
+        { "k": "Yabancılar", "m": "Rousseau, Voltaire, Descartes, Montesquieu — Fransız İhtilali etkisi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Düşünce Hayatını Etkileyen Şehirler",
+      "i": [
+        { "k": "Selanik", "m": "Doğup büyüdü, Osmanlı'nın batıya açılan yüzü", "s": "z" },
+        { "k": "Manastır", "m": "Lise — siyasi fikirleri şekillendi", "s": "z" },
+        { "k": "Şam", "m": "İlk görev yeri, Arapların kopuşunu fark etti", "s": "z" },
+        { "k": "Sofya", "m": "Ataşemiliter, meclis çalışmalarını izledi", "s": "z" },
+        { "k": "İstanbul", "m": "Harp Okulu/Akademi, dünya diplomatlarını gördü", "s": "z" }
+      ]
+    },
+    {
+      "b": "Görevler ve İlkler",
+      "i": [
+        { "k": "Şam 5. Ordu", "m": "İlk görev yeri — ceza olarak gönderildi (2015 KPSS)", "s": "z" },
+        { "k": "Vatan ve Hürriyet", "m": "İlk görev yerinde kurduğu cemiyet", "s": "z" },
+        { "k": "31 Mart / Hareket Ordusu", "m": "Tarih sahnesine çıkışı (kurmay yüzbaşı)", "s": "z" },
+        { "k": "Trablusgarp", "m": "Sömürgeciliğe karşı ilk savaş; Derne-Tobruk; gazeteci Şerif Bey takma adı; sol göz yaralı", "s": "z" },
+        { "k": "Sofya Ataşemiliterliği", "m": "I. Dünya Savaşı'ndan önce son görev (KPSS çıkmış)", "s": "z" },
+        { "k": "9. Ordu Müfettişi", "m": "Samsun'a geçiş görevi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Rütbeler",
+      "i": [
+        { "k": "Trablusgarp → Binbaşı", "m": "Derne ve Tobruk'ta mücadele", "s": "z" },
+        { "k": "Çanakkale → Albay", "m": "Anafartalar Kahramanı unvanı", "s": "z" },
+        { "k": "Kafkas → General", "m": "Muş-Bitlis'i geri aldı; Altın Kılıç Madalyası", "s": "z" },
+        { "k": "Başkomutanlık Kanunu", "m": "Eskişehir-Kütahya sonrası, Sakarya öncesi askerliğe geri dönüş", "s": "z" }
+      ]
+    },
+    {
+      "b": "Nutuk Bilgileri",
+      "i": [
+        { "k": "1919-1927", "m": "Nutuk'un kapsadığı yıllar", "s": "z" },
+        { "k": "Samsun'a çıktım", "m": "Nutuk'un ilk cümlesi", "s": "z" },
+        { "k": "Gençliğe Hitabe", "m": "Nutuk'un son bölümü", "s": "z" },
+        { "k": "Arap alfabesi", "m": "Nutuk'un yazıldığı alfabe (Latin değil!)", "s": "z" },
+        { "k": "CHP 2. Kurultay / 2. TBMM", "m": "Nutuk'un okunduğu yer → günümüzde Cumhuriyet Müzesi (2016 ÖABT)", "s": "z" },
+        { "k": "Yahya Kaptan", "m": "Nutuk'ta en çok adı geçen kişi (cepheye silah taşıdı)", "s": "z" },
+        { "k": "Türk Tayyare Cemiyeti", "m": "Nutuk'un gelirinin bağışlandığı kurum (Türk Hava Kurumu)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Eserleri",
+      "i": [
+        { "k": "Vatandaş İçin Medeni Bilgiler", "m": "Afet İnan ile birlikte (2016 KPSS)", "s": "z" },
+        { "k": "Geometri Kitabı", "m": "Üçgen, kare, dikdörtgen kavramlarını Türkçeleştirdi", "s": "z" },
+        { "k": "Liseler İçin Tarih Notları", "m": "İslam tarihi kısmını bizzat yazdı", "s": "z" },
+        { "k": "Karlsbad Hatıraları", "m": "Vahdettin ile Avrupa seyahatinde yazdı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Biyografiler",
+      "i": [
+        { "k": "Armstrong — Bozkurt", "m": "Atatürk hayattayken yazılan TEK biyografi; toplatılmak istendi, Atatürk engelledi", "s": "z" },
+        { "k": "Lord Kinross", "m": "Bir Milletin Yeniden Doğuşu", "s": "z" },
+        { "k": "Andrew Mango", "m": "Modern Türkiye'nin Kurucusu", "s": "z" },
+        { "k": "Ş.S. Aydemir — Tek Adam", "m": "Mutlaka okunmalı diyor hoca", "s": "z" },
+        { "k": "Ali Fuat Cebesoy", "m": "Sınıf Arkadaşım Atatürk", "s": "z" }
+      ]
+    },
+    {
+      "b": "Hastalık ve Vefat",
+      "i": [
+        { "k": "Belger → belgelemiş", "m": "Dr. Nihat Reşat Belger: ilk tanıyı koyan", "s": "z" },
+        { "k": "Şerafettin Yaltkaya", "m": "Cenaze namazını kıldıran kişi", "s": "z" },
+        { "k": "Etnografya Müzesi → 1953", "m": "Naşın Anıtkabir yapılana kadar kaldığı yer", "s": "z" },
+        { "k": "Anıtkabir defni", "m": "1953 — Adnan Menderes dönemi", "s": "z" },
+        { "k": "Emin Onat + Orhan Arda", "m": "Anıtkabir mimarları", "s": "z" },
+        { "k": "Belleten Dergisi", "m": "Atatürk'ün okuduğu son eser — TTK'nın süreli yayın organı", "s": "z" },
+        { "k": "Abdülhalik Renda", "m": "Meclis başkanı; İnönü seçilene kadar 1 gün cumhurbaşkanlığı yaptı", "s": "z" }
+      ]
+    },
+    {
+      "b": "İstifa ve Geri Dönüş",
+      "i": [
+        { "k": "Amasya → istifa", "m": "Amasya Genelgesi'nden sonra 9. Ordu müfettişliğinden + askerlikten istifa", "s": "z" },
+        { "k": "Sine-i millet", "m": "Sivil vatandaşlığa dönüş (milletin bağrına)", "s": "z" },
+        { "k": "Erzurum Kongresi", "m": "Sivil olarak katıldığı ilk yer", "s": "z" },
+        { "k": "Celal Bayar", "m": "Atatürk döneminin SON başbakanı — İsmet İnönü değil! (2023-2024 KPSS)", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Eğitim Hayatı", "o": "Atatürk'ün eğitim hayatındaki ilk okul hangisidir ve neden oraya gönderilmiştir?", "a": "Mahalle Mektebi — annesi dini eğitim almasını istediği için" },
+    { "c": "Eğitim Hayatı", "o": "Şemsi Efendi İlkokulu'na gönderilme sebebi nedir?", "a": "Babası modern/Batı usulü eğitim almasını istedi" },
+    { "c": "Eğitim Hayatı", "o": "Atatürk 'Kemal' adını nerede ve kimden almıştır?", "a": "Selanik Askeri Rüştiyesi'nde, matematik öğretmeninden" },
+    { "c": "Eğitim Hayatı", "o": "Atatürk Selanik Askeri Rüştiyesi'ne nasıl geçmiştir?", "a": "Mülkiye Rüştiyesi'nde okurken ailesinden gizli sınava girip kazanmıştır" },
+    { "c": "Eğitim Hayatı", "o": "İstanbul Harp Okulu'ndan hangi rütbeyle mezun olmuştur?", "a": "Teğmen" },
+    { "c": "Eğitim Hayatı", "o": "İstanbul Harp Akademisi'nden hangi rütbeyle mezun olmuştur?", "a": "Kurmay Yüzbaşı" },
+    { "c": "Eğitim Hayatı", "o": "Osmanlı'da 'rüştiye' hangi eğitim kademesine denk gelir?", "a": "Ortaokul" },
+    { "c": "Eğitim Hayatı", "o": "Osmanlı'da 'idadi' hangi eğitim kademesine denk gelir?", "a": "Lise" },
+    { "c": "Eğitim Hayatı", "o": "Atatürk'ün eğitim sıralamasını sayınız (7 okul).", "a": "1) Mahalle Mektebi\n2) Şemsi Efendi İlkokulu\n3) Selanik Mülkiye Rüştiyesi\n4) Selanik Askeri Rüştiyesi\n5) Manastır Askeri İdadisi\n6) İstanbul Harp Okulu\n7) İstanbul Harp Akademisi" },
+    { "c": "Yazarlar", "o": "Atatürk, Ziya Gökalp için ne demiştir?", "a": "\"Bedenimin babası Ali Rıza Efendi'dir ama fikirlerimin babası Ziya Gökalp'tir.\"" },
+    { "c": "Yazarlar", "o": "Atatürk, Namık Kemal için ne demiştir?", "a": "\"Türk milletinin yüzyıllardan bu yana beklediği ses\"" },
+    { "c": "Yazarlar", "o": "Mehmet Emin Yurdakul'un hangi şiiri Atatürk'ü etkilemiştir ve ne demiştir?", "a": "Cenge Giderken şiiri — \"Bu dizelerde ulusal benliğimin gururunu tattıran ilk anlatımı buldum.\"" },
+    { "c": "Yazarlar", "o": "Atatürk, Tevfik Fikret için ne demiştir?", "a": "\"Hangi Türk şairi böyle inkılapçı şiirler yazmıştır?\"" },
+    { "c": "Yazarlar", "o": "Atatürk'ü etkileyen yabancı düşünürler kimlerdir?", "a": "Rousseau, Voltaire, Descartes, Montesquieu\n(Fransız İhtilali etkisi)" },
+    { "c": "Düşünce Şehirleri", "o": "Atatürk'ün düşünce hayatını etkileyen 5 şehri sayınız.", "a": "Selanik, Manastır, Şam, Sofya, İstanbul" },
+    { "c": "Düşünce Şehirleri", "o": "Çanakkale neden Atatürk'ün düşünce hayatını etkileyen şehirler arasında gösterilemez?", "a": "Çanakkale'ye gittiğinde zaten olgun bir karakter; düşünce hayatı çoktan şekillenmişti." },
+    { "c": "Düşünce Şehirleri", "o": "Şam neden Atatürk'ün düşünce hayatını etkilemiştir?", "a": "İlk görev yeri; Arapların Osmanlı'ya bağlılığının azaldığını fark etti." },
+    { "c": "Düşünce Şehirleri", "o": "Sofya neden Atatürk'ün düşünce hayatını etkilemiştir?", "a": "Ataşemiliter olarak dünya siyasetini izledi; meclis çalışmalarını yakından takip etti." },
+    { "c": "Görevler", "o": "Atatürk'ün ilk görev yeri neresidir?", "a": "Şam 5. Ordu (ceza olarak gönderildi) — 2015 KPSS çıkmış" },
+    { "c": "Görevler", "o": "Atatürk ilk görev yerinde hangi cemiyeti kurmuştur?", "a": "Vatan ve Hürriyet Cemiyeti" },
+    { "c": "Görevler", "o": "Atatürk tarih sahnesine ilk kez hangi olayla çıkmıştır?", "a": "31 Mart İsyanı'nı bastıran Hareket Ordusu'nda kurmay yüzbaşı olarak görev aldı." },
+    { "c": "Görevler", "o": "Atatürk'ün sömürgeciliğe karşı ilk savaşı hangisidir?", "a": "Trablusgarp Savaşı (Derne ve Tobruk)" },
+    { "c": "Görevler", "o": "Atatürk Trablusgarp'a hangi takma adla gitmiştir?", "a": "Gazeteci Şerif Bey" },
+    { "c": "Görevler", "o": "Atatürk'ün I. Dünya Savaşı'ndan önce yaptığı son görev nedir?", "a": "Sofya Askeri Ataşemiliterliği (1913) — KPSS çıkmış" },
+    { "c": "Görevler", "o": "Atatürk I. Dünya Savaşı'nda hangi cephelerde savaşmıştır?", "a": "Çanakkale, Kafkas, Suriye-Filistin" },
+    { "c": "Görevler", "o": "Atatürk 9. Ordu müfettişi olarak yaptığı son görev nedir?", "a": "Amasya Genelgesi'ni yayımlamak" },
+    { "c": "Görevler", "o": "Atatürk sivil olarak katıldığı ilk yer neresidir?", "a": "Erzurum Kongresi (Amasya sonrası istifa ettiği için)" },
+    { "c": "Rütbeler", "o": "Atatürk binbaşı rütbesine hangi savaşta ulaşmıştır?", "a": "Trablusgarp Savaşı" },
+    { "c": "Rütbeler", "o": "Atatürk albay rütbesini ve Anafartalar Kahramanı unvanını nerede almıştır?", "a": "Çanakkale Cephesi" },
+    { "c": "Rütbeler", "o": "Atatürk generalliğe hangi cephede yükselmiştir ve ne başarmıştır?", "a": "Kafkas Cephesi — Ruslara kaybedilen Muş ve Bitlis'i geri almış; Altın Kılıç Madalyası" },
+    { "c": "Rütbeler", "o": "Atatürk askerliğe ne zaman ve nasıl geri dönmüştür?", "a": "Eskişehir-Kütahya sonrası, Sakarya öncesi; Başkomutanlık Kanunu ile" },
+    { "c": "Nutuk", "o": "Nutuk hangi yıllar arasındaki olayları kapsar?", "a": "1919-1927" },
+    { "c": "Nutuk", "o": "Nutuk hangi cümle ile başlar?", "a": "\"1919 senesi mayısının 19. günü Samsun'a çıktım.\"" },
+    { "c": "Nutuk", "o": "Nutuk hangi bölümle biter?", "a": "Gençliğe Hitabe" },
+    { "c": "Nutuk", "o": "Nutuk hangi alfabeyle yazılmıştır?", "a": "Arap alfabesi (Latin alfabesine 1928'de geçildi, Nutuk 1927'de yazıldı)" },
+    { "c": "Nutuk", "o": "Nutuk nerede ve ne zaman okunmuştur?", "a": "1927'de CHP'nin 2. kurultayında, 2. TBMM binasında" },
+    { "c": "Nutuk", "o": "Nutuk'un okunduğu 2. TBMM binası günümüzde ne olarak kullanılıyor?", "a": "Cumhuriyet Müzesi" },
+    { "c": "Nutuk", "o": "1. TBMM binası günümüzde ne olarak kullanılıyor?", "a": "Kurtuluş Savaşı Müzesi" },
+    { "c": "Nutuk", "o": "Nutuk'ta en çok adı geçen kişi kimdir ve neden?", "a": "Yahya Kaptan — cepheye silah ve mühimmat taşınmasında önemli görev yürüttü" },
+    { "c": "Nutuk", "o": "Nutuk'un geliri nereye bağışlanmıştır?", "a": "Türk Tayyare Cemiyeti'ne (günümüzde Türk Hava Kurumu)" },
+    { "c": "Nutuk", "o": "1926 Medeni Kanun Nutuk'ta yer alır mı? 1928 Latin Alfabesi?", "a": "Medeni Kanun EVET (1919-1927 arasında)\nLatin Alfabesi HAYIR (1928, kapsam dışı)" },
+    { "c": "Eserler", "o": "Vatandaş İçin Medeni Bilgiler'i kimle birlikte yazmıştır?", "a": "Afet İnan ile (2016 KPSS çıkmış)" },
+    { "c": "Eserler", "o": "Geometri kitabındaki Atatürk'ün katkısı nedir?", "a": "Üçgen, kare, dikdörtgen gibi geometri terimlerini Türkçeleştirdi" },
+    { "c": "Eserler", "o": "Atatürk, Liseler İçin Tarih Notları'nda hangi bölümü bizzat yazmıştır?", "a": "İslam tarihi / Peygamber Efendimizin hayatı kısmını (yetersiz bulduğu için)" },
+    { "c": "Eserler", "o": "Karlsbad Hatıraları nerede yazılmıştır?", "a": "Vahdettin ile çıktığı Avrupa seyahatinde" },
+    { "c": "Biyografiler", "o": "Atatürk hayattayken yazılan tek biyografi hangisidir?", "a": "Armstrong — Bozkurt" },
+    { "c": "Biyografiler", "o": "Bozkurt eseri toplatılmak istendiğinde Atatürk ne demiştir?", "a": "\"Bana diktatör dediler diye kitabı toplatırsam tam olarak onların dediği kişi olurum.\" — Toplatılmasını engelledi" },
+    { "c": "Biyografiler", "o": "Lord Kinross'un Atatürk biyografisinin adı nedir?", "a": "Bir Milletin Yeniden Doğuşu" },
+    { "c": "Biyografiler", "o": "Andrew Mango'nun Atatürk biyografisinin adı nedir?", "a": "Modern Türkiye'nin Kurucusu" },
+    { "c": "Biyografiler", "o": "Şevket Süreyya Aydemir'in Atatürk biyografisinin adı nedir?", "a": "Tek Adam" },
+    { "c": "Biyografiler", "o": "Ali Fuat Cebesoy'un Atatürk'le ilişkisi nedir ve eseri?", "a": "Atatürk'ün sınıf arkadaşı — Sınıf Arkadaşım Atatürk" },
+    { "c": "Vefat", "o": "Atatürk'ün hastalığına ilk tanıyı koyan hekim kimdir?", "a": "Dr. Nihat Reşat Belger (\"belgelemiş\" → Belger)" },
+    { "c": "Vefat", "o": "Atatürk'ün cenaze namazını kim kıldırmıştır?", "a": "Şerafettin Yaltkaya" },
+    { "c": "Vefat", "o": "Atatürk'ün naşı Anıtkabir yapılana kadar nerede kalmıştır?", "a": "Etnografya Müzesi'nde (1938-1953)" },
+    { "c": "Vefat", "o": "Atatürk'ün Anıtkabir'e defni hangi dönemde gerçekleşmiştir?", "a": "1953 — Adnan Menderes dönemi" },
+    { "c": "Vefat", "o": "Anıtkabir'in mimarları kimlerdir?", "a": "Emin Onat ve Orhan Arda" },
+    { "c": "Vefat", "o": "Atatürk'ün okuduğu son eser nedir?", "a": "Belleten Dergisi (Türk Tarih Kurumu'nun süreli yayın organı)" },
+    { "c": "Vefat", "o": "Atatürk'ün vefatından İsmet İnönü seçilene kadar cumhurbaşkanlığı yapan kişi kimdir?", "a": "Abdülhalik Renda (meclis başkanı, 1 gün vekalet)" },
+    { "c": "Vefat", "o": "Atatürk döneminin son başbakanı kimdir?", "a": "Celal Bayar (son 6 ay) — İsmet İnönü değil! (2023-2024 KPSS çıkmış)" },
+    { "c": "İstifa", "o": "Atatürk askerlikten ne zaman istifa etmiştir?", "a": "Amasya Genelgesi'nden sonra, Erzurum Kongresi'nden önce" },
+    { "c": "İstifa", "o": "'Sine-i millete dönmek' ne demektir?", "a": "Milletin bağrına dönmek — sivil vatandaşlığa geçmek" },
+    { "c": "İstifa", "o": "Atatürk askerliğe hangi kanunla geri dönmüştür?", "a": "Başkomutanlık Kanunu (Eskişehir-Kütahya yenilgisi sonrası, Sakarya öncesi)" },
+    { "c": "Görevler", "o": "Hareket Ordusu'nun komutanı kimdir?", "a": "Mahmut Şevket Paşa" },
+    { "c": "Görevler", "o": "31 Mart İsyanı Osmanlı tarihinde ne bakımından ilktir?", "a": "Mevcut rejimi yıkmaya yönelik ilk isyan" },
+    { "c": "Görevler", "o": "Atatürk neden Sofya'ya ataşemiliter olarak gönderilmiştir?", "a": "Dünya Savaşı öncesinde Bulgaristan'ın hangi tarafta yer alacağını anlamak" },
+    { "c": "Nutuk", "o": "1. TBMM hangi yıllar arası görev yapmıştır?", "a": "1920-1923" },
+    { "c": "Nutuk", "o": "2. TBMM hangi yıllar arası görev yapmıştır?", "a": "1923-1927" },
+    { "c": "Düşünce Şehirleri", "o": "Düşünce hayatını etkileyen şehirler sorulduğunda hangi iki şehir çeldiricidir?", "a": "Çanakkale ve Ankara (ikisi de hayatını etkiledi ama düşünce hayatı çoktan şekillenmişti)" },
+    { "c": "Görevler", "o": "Atatürk Trablusgarp'ta sol gözünden neden yaralanmıştır?", "a": "Savaş sırasında yaralandı (Derne ve Tobruk muharebelerinde)" },
+    { "c": "Eğitim Hayatı", "o": "Selanik Mülkiye Rüştiyesi ne amaçla eğitim veriyordu?", "a": "Osmanlı Devleti'ne memur (masa başı) yetiştirme" },
+    { "c": "Görevler", "o": "Atatürk 1912'de Gelibolu'da hangi görevi üstlenmiştir?", "a": "Akdeniz Boğazı Komutanlığı (ardından Bolayır Kolordusu Kurmay Başkanlığı)" },
+    { "c": "Görevler", "o": "Atatürk Çanakkale'yi karış karış analiz ettirmesinin sebebi nedir?", "a": "Bir dünya savaşı çıkacağını ve Çanakkale Boğazı'nın kritik olacağını öngörüyordu" },
+    { "c": "Yazarlar", "o": "Sivas Kongresi'nde 'Ya istiklal ya ölüm' sözü hangi olaydan esinlenmiştir?", "a": "Fransız İhtilali'nde halkın sokaklarda 'Ya özgürlük ya ölüm' diye bağırmasından" },
+    { "c": "Vefat", "o": "Atatürk döneminde en uzun süre başbakanlık yapan kişi kimdir?", "a": "İsmet İnönü (ama SON başbakan Celal Bayar'dır — karıştırmayın!)" }
+  ],
+  "tuzak": [
+    { "q": "Atatürk İstanbul Harp Okulu'ndan hangi rütbeyle mezun olmuştur?", "o": ["Teğmen", "Kurmay Yüzbaşı"], "c": 0, "n": "Harp Okulu = teğmen (basit), Harp Akademisi = kurmay yüzbaşı (caflı) — sıkça karıştırılır." },
+    { "q": "Atatürk İstanbul Harp Akademisi'nden hangi rütbeyle mezun olmuştur?", "o": ["Teğmen", "Kurmay Yüzbaşı"], "c": 1, "n": "Akademi daha üst kurum, rütbe de daha üst: kurmay yüzbaşı." },
+    { "q": "Hangisi Atatürk'ün düşünce hayatını etkileyen şehirler arasında gösterilemez?", "o": ["Şam", "Çanakkale", "Sofya"], "c": 1, "n": "Çanakkale'ye gittiğinde düşünce hayatı zaten şekillenmişti; düşünce değil askeri kariyeri etkilendi." },
+    { "q": "Hangisi Atatürk'ün düşünce hayatını etkileyen şehirler arasında gösterilemez?", "o": ["Manastır", "İstanbul", "Ankara"], "c": 2, "n": "Ankara siyasi merkez olsa da Atatürk'ün düşünce hayatının şekillenmesinde rolü yoktur." },
+    { "q": "Nutuk hangi alfabeyle yazılmıştır?", "o": ["Latin alfabesi", "Arap alfabesi"], "c": 1, "n": "Nutuk 1927'de yazıldı; Latin alfabesine geçiş 1928'de — herkes Latin der ama Arap alfabesidir!" },
+    { "q": "Nutuk'un okunduğu bina günümüzde ne olarak kullanılmaktadır?", "o": ["Kurtuluş Savaşı Müzesi", "Cumhuriyet Müzesi"], "c": 1, "n": "Nutuk 2. TBMM'de okundu → Cumhuriyet Müzesi. 1. TBMM → Kurtuluş Savaşı Müzesi." },
+    { "q": "Atatürk döneminin son başbakanı kimdir?", "o": ["İsmet İnönü", "Celal Bayar"], "c": 1, "n": "İsmet İnönü en uzun süre başbakan ama SON 6 ay Celal Bayar'dır (2023-2024 KPSS)." },
+    { "q": "Atatürk'ün hastalığına İLK TANIYI koyan hekim kimdir?", "o": ["Dr. Nihat Reşat Belger", "Şerafettin Yaltkaya"], "c": 0, "n": "Belger → belgelemiş (ilk tanı). Yaltkaya cenaze namazını kıldıran kişidir." },
+    { "q": "Atatürk'ün ilk görev yeri neresidir?", "o": ["Manastır", "Şam 5. Ordu", "Sofya"], "c": 1, "n": "Manastır = okul (idadi). Sofya = ataşemiliterlik. İlk GÖREV yeri Şam 5. Ordu." },
+    { "q": "Atatürk'ün I. Dünya Savaşı'nda savaştığı cepheler arasında hangisi YER ALMAZ?", "o": ["Çanakkale", "Derne", "Kafkas"], "c": 1, "n": "Derne Trablusgarp Savaşı'nda (I. Dünya Savaşı'ndan ayrı bir savaş)." },
+    { "q": "Atatürk binbaşı rütbesine hangi savaşta ulaşmıştır?", "o": ["Çanakkale", "Trablusgarp"], "c": 1, "n": "Trablusgarp → binbaşı. Çanakkale → albay. Sıkça karıştırılır." },
+    { "q": "Atatürk general rütbesine hangi cephede ulaşmıştır?", "o": ["Çanakkale", "Kafkas", "Suriye-Filistin"], "c": 1, "n": "Çanakkale = albay. Kafkas = general + Altın Kılıç Madalyası (Muş-Bitlis)." },
+    { "q": "Atatürk askerlikten ne zaman istifa etmiştir?", "o": ["Samsun'a çıkmadan önce", "Amasya Genelgesi'nden sonra"], "c": 1, "n": "Samsun'a 9. Ordu müfettişi olarak çıktı; istifa Amasya sonrası Erzurum öncesi." },
+    { "q": "Atatürk sivil olarak katıldığı ilk kongre hangisidir?", "o": ["Sivas Kongresi", "Erzurum Kongresi"], "c": 1, "n": "İstifa Amasya sonrası → Erzurum'a sivil olarak gitti. Sivas, Erzurum'dan sonra." },
+    { "q": "Nutuk'ta en çok adı geçen kişi kimdir?", "o": ["İsmet İnönü", "Yahya Kaptan", "Kazım Karabekir"], "c": 1, "n": "Yahya Kaptan cepheye silah/mühimmat taşıma göreviyle en çok anılır." },
+    { "q": "Atatürk 'Fikirlerimin babası' sözünü kim için söylemiştir?", "o": ["Namık Kemal", "Ziya Gökalp", "Tevfik Fikret"], "c": 1, "n": "Namık Kemal = 'yüzyıllardan bu yana beklenen ses'. Gökalp = fikirlerimin babası." },
+    { "q": "Nutuk'un geliri hangi kuruma bağışlanmıştır?", "o": ["Türk Tarih Kurumu", "Türk Tayyare Cemiyeti", "Kızılay"], "c": 1, "n": "Türk Tayyare Cemiyeti = günümüz Türk Hava Kurumu. TTK ile karıştırılır." },
+    { "q": "Atatürk hayattayken yazılan tek biyografi hangisidir?", "o": ["Tek Adam", "Bozkurt", "Bir Milletin Yeniden Doğuşu"], "c": 1, "n": "Armstrong'un Bozkurt eseri; Tek Adam = Ş.S. Aydemir (Atatürk'ün vefatından sonra)." },
+    { "q": "Atatürk'ün naşı Anıtkabir'e ne zaman defnedilmiştir?", "o": ["1938", "1945", "1953"], "c": 2, "n": "1938 vefat → Etnografya Müzesi'nde bekledi → 1953'te Anıtkabir tamamlandı." },
+    { "q": "Atatürk'ün naşının Anıtkabir'e defni hangi dönemde gerçekleşmiştir?", "o": ["İsmet İnönü dönemi", "Adnan Menderes dönemi"], "c": 1, "n": "1953 yılında Menderes döneminde Anıtkabir tamamlanıp defin yapıldı." },
+    { "q": "Atatürk Çanakkale'yi karış karış analiz ettiği görev hangisidir?", "o": ["Anafartalar Grup Komutanlığı", "Gelibolu Akdeniz Boğazı Komutanlığı"], "c": 1, "n": "Akdeniz Boğazı Komutanlığı (1912) = savaştan ÖNCE haritaları çıkarttı. Anafartalar = savaş sırası." },
+    { "q": "Vatandaş İçin Medeni Bilgiler eserini Atatürk kiminle yazmıştır?", "o": ["Afet İnan", "Şevket Süreyya Aydemir", "Ali Fuat Cebesoy"], "c": 0, "n": "Afet İnan ile birlikte yazılmıştır (2016 KPSS)." },
+    { "q": "Atatürk askerliğe hangi kanunla geri dönmüştür?", "o": ["Hıyanet-i Vataniye Kanunu", "Başkomutanlık Kanunu"], "c": 1, "n": "Başkomutanlık Kanunu Eskişehir-Kütahya yenilgisi sonrası çıkarıldı." },
+    { "q": "Atatürk'ün Trablusgarp'a geçerken kullandığı takma ad nedir?", "o": ["Gazeteci Şerif Bey", "Gazeteci Mustafa Bey"], "c": 0, "n": "Gazeteci Şerif Bey takma adıyla sınırı geçti." },
+    { "q": "Atatürk'ün tarih sahnesine çıktığı ilk olay hangisidir?", "o": ["Trablusgarp Savaşı", "31 Mart İsyanı (Hareket Ordusu)"], "c": 1, "n": "Tarih sahnesine çıkış = 31 Mart / Hareket Ordusu. Trablusgarp = ilk savaşı." },
+    { "q": "Atatürk'ün vefatı sonrası geçici cumhurbaşkanlığı yapan kişi kimdir?", "o": ["İsmet İnönü", "Abdülhalik Renda", "Celal Bayar"], "c": 1, "n": "Meclis başkanı Abdülhalik Renda 1 gün vekalet etti; İnönü ertesi gün seçildi." },
+    { "q": "Atatürk'ün cenaze namazını kıldıran kişi kimdir?", "o": ["Dr. Nihat Reşat Belger", "Şerafettin Yaltkaya"], "c": 1, "n": "Belger = hastalığa ilk tanı. Yaltkaya = cenaze namazı. İsimler karıştırılır." },
+    { "q": "Mehmet Emin Yurdakul'un Atatürk'ü etkileyen şiiri hangisidir?", "o": ["Cenge Giderken", "İstiklal Marşı", "Safahat"], "c": 0, "n": "İstiklal Marşı = Mehmet Akif Ersoy. Safahat = yine M.A. Ersoy. Cenge Giderken = M.E. Yurdakul." },
+    { "q": "Anıtkabir'in mimarları kimlerdir?", "o": ["Mimar Sinan, Mehmet Ağa", "Emin Onat, Orhan Arda"], "c": 1, "n": "Mimar Sinan = Osmanlı dönemi. Anıtkabir = Emin Onat + Orhan Arda." },
+    { "q": "1. TBMM binası günümüzde ne olarak kullanılmaktadır?", "o": ["Cumhuriyet Müzesi", "Kurtuluş Savaşı Müzesi"], "c": 1, "n": "1. TBMM = Kurtuluş Savaşı Müzesi. 2. TBMM = Cumhuriyet Müzesi. Sıkça ters işaretlenir." }
+  ],
+  "deneme": [
+    {
+      "q": "Mustafa Kemal Atatürk'ün eğitim hayatında aşağıdaki okullardan hangisine ailesinden gizli girerek sınavını kazanmıştır?",
+      "o": ["Mahalle Mektebi", "Şemsi Efendi İlkokulu", "Selanik Mülkiye Rüştiyesi", "Selanik Askeri Rüştiyesi", "Manastır Askeri İdadisi"],
+      "c": 3,
+      "e": "Mülkiye Rüştiyesi'nde memur olarak yetiştirilecekti; askerlik tutkusu nedeniyle ailesinden gizli Askeri Rüştiye sınavına girdi."
+    },
+    {
+      "q": "Mustafa Kemal Atatürk aşağıdaki kişilerden hangisi için 'Fikirlerimin babası' ifadesini kullanmıştır?",
+      "o": ["Namık Kemal", "Tevfik Fikret", "Ziya Gökalp", "Mehmet Emin Yurdakul", "Jean Jacques Rousseau"],
+      "c": 2,
+      "e": "Ziya Gökalp Türkçü bir sosyolog olup Atatürk'ün fikir dünyasını derinden etkilemiştir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Atatürk'ün düşünce hayatını etkileyen şehirler arasında gösterilemez?",
+      "o": ["Selanik", "Manastır", "Şam", "Çanakkale", "Sofya"],
+      "c": 3,
+      "e": "Çanakkale'ye gittiğinde Atatürk olgunlaşmış bir karakterdi; burada düşünce hayatı değil askeri kariyeri şekillendi."
+    },
+    {
+      "q": "Mustafa Kemal Atatürk'ün ilk görev yeri aşağıdakilerden hangisidir?",
+      "o": ["Sofya", "Manastır", "Selanik", "Şam 5. Ordu", "İstanbul"],
+      "c": 3,
+      "e": "Harp Akademisi'nden mezun olanlar normalde Balkanlara gönderilirken Atatürk ceza olarak Şam'a atandı (2015 KPSS)."
+    },
+    {
+      "q": "Atatürk'ün I. Dünya Savaşı'nda savaştığı cepheler arasında aşağıdakilerden hangisi yer almaz?",
+      "o": ["Çanakkale Cephesi", "Kafkas Cephesi", "Suriye-Filistin Cephesi", "Derne Cephesi", "Anafartalar Cephesi"],
+      "c": 3,
+      "e": "Derne, Trablusgarp Savaşı'nda mücadele edilen bir bölgedir; I. Dünya Savaşı kapsamında değildir."
+    },
+    {
+      "q": "Atatürk aşağıdaki rütbelerden hangisini Kafkas Cephesi'nde almıştır?",
+      "o": ["Teğmen", "Binbaşı", "Albay", "General", "Kurmay Yüzbaşı"],
+      "c": 3,
+      "e": "Kafkas Cephesi'nde Muş ve Bitlis'i geri alarak generalliğe yükselmiş ve Altın Kılıç Madalyası almıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Nutuk hakkında doğru bir bilgi değildir?",
+      "o": ["1919-1927 yılları arasını kapsar", "Gençliğe Hitabe ile sona erer", "Latin alfabesiyle yazılmıştır", "CHP'nin 2. kurultayında okunmuştur", "Geliri Türk Tayyare Cemiyeti'ne bağışlanmıştır"],
+      "c": 2,
+      "e": "Nutuk 1927'de yazılmıştır; Latin alfabesine geçiş 1928'de olduğu için Arap alfabesiyle kaleme alınmıştır."
+    },
+    {
+      "q": "Nutuk'un okunduğu 2. TBMM binası günümüzde aşağıdaki isimlerden hangisiyle anılmaktadır?",
+      "o": ["Kurtuluş Savaşı Müzesi", "Etnografya Müzesi", "Cumhuriyet Müzesi", "Anıtkabir", "Savaş Müzesi"],
+      "c": 2,
+      "e": "2. TBMM binası = Cumhuriyet Müzesi; 1. TBMM binası = Kurtuluş Savaşı Müzesi (2016 ÖABT)."
+    },
+    {
+      "q": "Atatürk hayattayken yazılan tek biyografik eser aşağıdakilerden hangisidir?",
+      "o": ["Tek Adam", "Bir Milletin Yeniden Doğuşu", "Bozkurt", "Sınıf Arkadaşım Atatürk", "Modern Türkiye'nin Kurucusu"],
+      "c": 2,
+      "e": "Armstrong'un Bozkurt eseri Atatürk hayattayken yazılmış, toplatılmak istenmiş ancak Atatürk bizzat engellemiştir."
+    },
+    {
+      "q": "Atatürk döneminin son başbakanı aşağıdakilerden hangisidir?",
+      "o": ["İsmet İnönü", "Fevzi Çakmak", "Celal Bayar", "Kazım Karabekir", "Refet Bele"],
+      "c": 2,
+      "e": "İsmet İnönü en uzun süre başbakanlık yapmış ancak son 6 ayda görevi Celal Bayar devralmıştır (2023-2024 KPSS)."
+    },
+    {
+      "q": "Mustafa Kemal Atatürk askerlik mesleğinden hangi gelişmenin ardından istifa etmiştir?",
+      "o": ["Samsun'a çıkıştan önce", "Havza Genelgesi'nden sonra", "Amasya Genelgesi'nden sonra", "Erzurum Kongresi'nden sonra", "Sivas Kongresi'nden sonra"],
+      "c": 2,
+      "e": "Amasya Genelgesi sonrası İstanbul hükümeti görevden almak isteyince hem 9. Ordu müfettişliğinden hem askerlikten istifa etti."
+    },
+    {
+      "q": "Atatürk'ün sivil olarak katıldığı ilk kongre aşağıdakilerden hangisidir?",
+      "o": ["Havza Genelgesi", "Amasya Genelgesi", "Erzurum Kongresi", "Sivas Kongresi", "Son Osmanlı Meclisi"],
+      "c": 2,
+      "e": "Amasya sonrası istifa edip sine-i millete döndü; sivil vatandaş olarak ilk kez Erzurum Kongresi'ne katıldı."
+    },
+    {
+      "q": "Atatürk, Başkomutanlık Kanunu ile askerliğe hangi savaştan sonra geri dönmüştür?",
+      "o": ["I. İnönü Savaşı", "II. İnönü Savaşı", "Eskişehir-Kütahya Savaşları", "Sakarya Meydan Muharebesi", "Büyük Taarruz"],
+      "c": 2,
+      "e": "Eskişehir-Kütahya'da yenilgi sonrası Sakarya öncesinde Başkomutanlık Kanunu çıkarılarak göreve döndü."
+    },
+    {
+      "q": "Atatürk'ün tarih sahnesine çıktığı ilk olay aşağıdakilerden hangisidir?",
+      "o": ["Trablusgarp Savaşı", "31 Mart İsyanı'nı bastıran Hareket Ordusu", "Çanakkale Cephesi", "II. Meşrutiyet'in ilanı", "Balkan Savaşları"],
+      "c": 1,
+      "e": "Hareket Ordusu'nda kurmay yüzbaşı olarak 31 Mart İsyanı'nın bastırılmasında görev aldı."
+    },
+    {
+      "q": "Vatandaş İçin Medeni Bilgiler adlı eseri Atatürk aşağıdaki kişilerden hangisiyle birlikte yazmıştır?",
+      "o": ["Şevket Süreyya Aydemir", "Afet İnan", "Ali Fuat Cebesoy", "Falih Rıfkı Atay", "Halide Edib Adıvar"],
+      "c": 1,
+      "e": "Afet İnan ile birlikte kaleme alınmıştır (2016 KPSS çıkmış soru)."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Atatürk'ün I. Dünya Savaşı'ndan önce yaptığı son görevdir?",
+      "o": ["Şam 5. Ordu", "Gelibolu Akdeniz Boğazı Komutanlığı", "Bolayır Kolordusu Kurmay Başkanlığı", "Sofya Askeri Ataşemiliterliği", "Trablusgarp gönüllü subaylığı"],
+      "c": 3,
+      "e": "1913'te Sofya'ya ataşemiliter olarak atandı; buradan doğrudan I. Dünya Savaşı'na katıldı (KPSS çıkmış)."
+    },
+    {
+      "q": "Nutuk'ta aşağıdaki gelişmelerden hangisi yer almaz?",
+      "o": ["Samsun'a çıkış (1919)", "Amasya Genelgesi (1919)", "Saltanatın kaldırılması (1922)", "Medeni Kanun (1926)", "Latin alfabesinin kabulü (1928)"],
+      "c": 4,
+      "e": "Nutuk 1919-1927 arasını kapsar. Latin alfabesine geçiş 1928'de gerçekleştiği için Nutuk'ta yer almaz."
+    },
+    {
+      "q": "Atatürk'ün vefatından sonra naşının Anıtkabir'e defnedilmesi hangi cumhurbaşkanı döneminde gerçekleşmiştir?",
+      "o": ["İsmet İnönü", "Celal Bayar", "Cemal Gürsel", "Adnan Menderes", "Fevzi Çakmak"],
+      "c": 1,
+      "e": "Anıtkabir 1953'te tamamlandı; o dönemde cumhurbaşkanı Celal Bayar, başbakan Adnan Menderes'tir. (Soru başbakanı soruyor ama defin dönemi Bayar/Menderes dönemidir.)"
+    },
+    {
+      "q": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": ["Armstrong — Bozkurt", "Lord Kinross — Bir Milletin Yeniden Doğuşu", "Şevket Süreyya Aydemir — Tek Adam", "Ali Fuat Cebesoy — Modern Türkiye'nin Kurucusu", "Andrew Mango — Modern Türkiye'nin Kurucusu"],
+      "c": 3,
+      "e": "Ali Fuat Cebesoy'un eseri Sınıf Arkadaşım Atatürk'tür; Modern Türkiye'nin Kurucusu Andrew Mango'ya aittir."
+    },
+    {
+      "q": "Atatürk'ün cenaze namazını kıldıran kişi aşağıdakilerden hangisidir?",
+      "o": ["Dr. Nihat Reşat Belger", "Abdülhalik Renda", "Şerafettin Yaltkaya", "Celal Bayar", "Makbule Atadan"],
+      "c": 2,
+      "e": "Şerafettin Yaltkaya cenaze namazını kıldırmıştır. Belger hastalığa ilk tanıyı koyan hekimdir."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Okul → Rütbe / Derece",
+      "p": [
+        ["Mahalle Mektebi", "Dini eğitim (annesi)"],
+        ["Şemsi Efendi İlkokulu", "Modern eğitim (babası)"],
+        ["Selanik Mülkiye Rüştiyesi", "Memur yetiştiren ortaokul"],
+        ["Selanik Askeri Rüştiyesi", "Kemal adını aldı"],
+        ["Manastır Askeri İdadisi", "Lise (başka şehir)"],
+        ["İstanbul Harp Okulu", "Teğmen"],
+        ["İstanbul Harp Akademisi", "Kurmay Yüzbaşı"]
+      ]
+    },
+    {
+      "ad": "Yazar / Düşünür → Atatürk'ün Sözü",
+      "p": [
+        ["Ziya Gökalp", "Fikirlerimin babası"],
+        ["Namık Kemal", "Yüzyıllardan bu yana beklenen ses"],
+        ["Mehmet Emin Yurdakul", "Ulusal benliğimin gururunu tattıran ilk anlatım"],
+        ["Tevfik Fikret", "Hangi Türk şairi böyle inkılapçı şiirler yazmıştır?"],
+        ["Rousseau", "Fransız İhtilali düşünürleri"],
+        ["Voltaire", "Hak, adalet, hürriyet kavramları"]
+      ]
+    },
+    {
+      "ad": "Savaş / Cephe → Rütbe",
+      "p": [
+        ["Trablusgarp", "Binbaşı"],
+        ["Çanakkale", "Albay"],
+        ["Kafkas Cephesi", "General"],
+        ["Harp Okulu mezuniyeti", "Teğmen"],
+        ["Harp Akademisi mezuniyeti", "Kurmay Yüzbaşı"],
+        ["Başkomutanlık Kanunu", "Başkomutan"]
+      ]
+    },
+    {
+      "ad": "Biyografi Yazarı → Eser Adı",
+      "p": [
+        ["Armstrong", "Bozkurt"],
+        ["Lord Kinross", "Bir Milletin Yeniden Doğuşu"],
+        ["Andrew Mango", "Modern Türkiye'nin Kurucusu"],
+        ["Şevket Süreyya Aydemir", "Tek Adam"],
+        ["Ali Fuat Cebesoy", "Sınıf Arkadaşım Atatürk"],
+        ["Salih Bozok", "Hep Atatürk'ün Yanında"]
+      ]
+    },
+    {
+      "ad": "Görev / Olay → Açıklama",
+      "p": [
+        ["Şam 5. Ordu", "İlk görev yeri"],
+        ["Vatan ve Hürriyet", "İlk görev yerinde kurulan cemiyet"],
+        ["31 Mart / Hareket Ordusu", "Tarih sahnesine çıkış"],
+        ["Trablusgarp", "Sömürgeciliğe karşı ilk savaş"],
+        ["Sofya Ataşemiliterliği", "I. Dünya Savaşı'ndan önce son görev"],
+        ["9. Ordu Müfettişliği", "Samsun'a geçiş görevi"]
+      ]
+    },
+    {
+      "ad": "Nutuk Bilgisi → Cevap",
+      "p": [
+        ["Kapsadığı yıllar", "1919-1927"],
+        ["İlk cümlesi", "Samsun'a çıktım"],
+        ["Son bölümü", "Gençliğe Hitabe"],
+        ["Yazıldığı alfabe", "Arap alfabesi"],
+        ["En çok adı geçen kişi", "Yahya Kaptan"],
+        ["Geliri bağışlanan kurum", "Türk Tayyare Cemiyeti"],
+        ["Okunduğu bina (günümüz)", "Cumhuriyet Müzesi"]
+      ]
+    }
+  ]
+}

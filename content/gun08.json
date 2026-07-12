@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "gun": 8,
+    "baslik": "Osmanlı Devleti Duraklama Dönemi (17. Yüzyıl)",
+    "ozet": "Duraklama döneminin iç ve dış nedenleri, Osmanlı-Safevi/Avusturya/Venedik/Lehistan/Rus savaşları, 17. yüzyıl isyanları ve TOKMAK ıslahatçıları.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Nasup Paşa → Nasuh Paşa",
+      "Meşaleler savaşıı → Meşaleler Savaşı",
+      "Tökeli İmre → Thököly İmre (Tökeli İmre)",
+      "Şehrin anlaşması → Çehrin Anlaşması",
+      "Zit ve Toruk → Zitvatoruk"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Duraklama Dönemi İç Nedenleri",
+      "i": [
+        { "k": "Merkezi otorite bozulması", "m": "Padişah yöneticilere, halka, taşraya söz geçiremiyor", "s": "z" },
+        { "k": "Sancak sisteminin kaldırılması", "m": "3. Mehmet kaldırdı → padişahlar tecrübesiz kaldı", "s": "z" },
+        { "k": "Sık padişah değişikliği", "m": "17. yy = en çok padişah değişen dönem", "s": "z" },
+        { "k": "Küçük yaşta tahta geçme", "m": "4. Mehmet (Avcı) = en küçük yaşta (6) tahta geçen padişah", "s": "z" },
+        { "k": "Rüşvet ve iltimas", "m": "Fuzuli → Şikayetname: 'Selam verdim rüşvet değil diye almadılar'", "s": "z" },
+        { "k": "Ordunun bozulması", "m": "Şaklabanlar, hak etmeyenler orduya alındı", "s": "z" },
+        { "k": "Devlet ocak içindir", "m": "'Ocak devlet içindir' anlayışı bozuldu → yeniçeriler savaşmıyor", "s": "z" },
+        { "k": "Tımar sisteminin bozulması", "m": "Üretim, güvenlik, ordu, ekonomi hep bozuldu", "s": "z" },
+        { "k": "Saray kadınları", "m": "Kösem Sultan, Hatice Turhan Sultan → yönetim tecrübeleri yok", "s": "z" },
+        { "k": "Beşik ulemalığı", "m": "Alimin oğlu alimdir anlayışı → eğitim bozuldu", "s": "z" },
+        { "k": "Pozitif bilimler çıkarıldı", "m": "Medreselerden çıkarılınca savaş teknolojisinde geri kalındı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Duraklama Dönemi Dış Nedenleri",
+      "i": [
+        { "k": "Doğal sınırlara ulaşılma", "m": "Atlas Okyanusu (3. Murat/Fas), Baltık Denizi (Lehistan himaye)", "s": "z" },
+        { "k": "Rönesans ve Reform", "m": "Avrupa bilim/sanat + eğitim kilise kontrolünden çıktı", "s": "z" },
+        { "k": "Güçlü devletlere komşuluk", "m": "Kutsal Roma-Germen, Avusturya İmparatorluğu", "s": "z" },
+        { "k": "Coğrafi Keşifler", "m": "İpek/Baharat yolları önem kaybetti, Akdeniz ticareti azaldı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Osmanlı-Safevi Anlaşmaları",
+      "i": [
+        { "k": "1590 Ferhat Paşa", "m": "3. Murat · Doğuda EN GENİŞ sınırlar (Azerbaycan, Dağıstan) · Meşaleler Savaşı", "s": "z" },
+        { "k": "Meşaleler Savaşı", "m": "Komutan: Özdemiroğlu Osman Paşa · MEB kitabı bilgisi", "s": "z" },
+        { "k": "1611 Nasuh Paşa", "m": "1. Ahmet · Doğuda toprak kaybedilen İLK anlaşma", "s": "z" },
+        { "k": "1618 Serava", "m": "2. Osman (Genç Osman) · Nasuh Paşa'nın küçük değişikliklerle tekrarı", "s": "z" },
+        { "k": "1639 Kasrı Şirin", "m": "4. Murat (Bağdat Fatihi) · Günümüz Türk-İran sınırı · Zagros Dağları", "s": "z" }
+      ]
+    },
+    {
+      "b": "Osmanlı-Avusturya Savaşları & Anlaşmaları",
+      "i": [
+        { "k": "1596 Haçova", "m": "3. Mehmet (Eğri Fatihi) · Kepçe-kürekle kazanıldı · Eğri+Kanije+Estergon kaleleri", "s": "z" },
+        { "k": "1606 Zitvatoruk", "m": "Protokol üstünlüğü KAYBEDİLDİ · Mütekabiliyet (denklik) ilkesi başladı", "s": "z" },
+        { "k": "1664 Vasvar", "m": "Uyvar Kalesi fethi · Köprülü Fazıl Ahmet Paşa (Uyvar Fatihi)", "s": "z" },
+        { "k": "'Uyvar önünde bir Türk kadar güçlü'", "m": "Avrupa'da kullanılan deyim · Vasvar Anlaşması döneminde", "s": "z" },
+        { "k": "1683 II. Viyana Kuşatması", "m": "4. Mehmet · Merzifonlu Kara Mustafa Paşa · Padişahtan HABERSİZ · Başarısız", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kutsal İttifak & Karlovça",
+      "i": [
+        { "k": "MAL VAR", "m": "Kutsal İttifak: Malta-Avusturya-Lehistan-Venedik-Rusya", "s": "z" },
+        { "k": "1699 Karlovça", "m": "2. Mustafa · Batıda İLK büyük çapta toprak kaybı · Arabulucu: İngiltere+Hollanda · Garantör: Avusturya", "s": "z" },
+        { "k": "1700 İstanbul", "m": "Karlovça'nın devamı · Rusya ile · Azak Kalesi → Karadeniz Türk gölü olmaktan çıktı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Diğer Cepheler",
+      "i": [
+        { "k": "1681 Bahçesaray (Çehrin)", "m": "4. Mehmet · Merzifonlu · Osmanlı-Rus İLK resmi anlaşma", "s": "z" },
+        { "k": "Girit Fethi", "m": "4. Mehmet · 24 yıl (en uzun kuşatma) · Kadırgadan Kalyona geçiş", "s": "z" },
+        { "k": "1620 Hotin Seferi", "m": "Genç Osman · Yeniçeriler savaşmadı → yeniçerileri kaldırmayı düşündü", "s": "z" },
+        { "k": "1672 Bucaş", "m": "4. Mehmet · Podolya → BATIDA en geniş sınırlar (B=Batı)", "s": "z" },
+        { "k": "Kameniçe Kalesi", "m": "4. Mehmet · Batıda fethedilen SON kale · 'Ukrayna'nın kilidi'", "s": "z" }
+      ]
+    },
+    {
+      "b": "TOKMAK — 17. yy Islahatçıları",
+      "i": [
+        { "k": "TOKMAK", "m": "Tarhuncu-Osman-Kuyucu-Murat-Ahmet-Köprülüler", "s": "z" },
+        { "k": "Tarhuncu Ahmet Paşa", "m": "İlk denk (modern) bütçe · 4. Mehmet dönemi", "s": "z" },
+        { "k": "Genç Osman (2. Osman)", "m": "İlk ıslahatçı padişah · Saray dışından evlendi · Başkenti taşımayı düşünen ilk padişah", "s": "z" },
+        { "k": "4. Murat — Yasakçı", "m": "İçki+tütün+kahvehane+gece ışıksız sokağa çıkma yasakları · Risale/layiha hazırlattı", "s": "z" },
+        { "k": "Koçbey + Katip Çelebi", "m": "4. Murat'a risale (layiha/rapor) hazırlayanlar", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Duraklama İç Nedenleri", "o": "Sancak sistemini kaldıran padişah kim? Yerine ne geldi?", "a": "3. Mehmet kaldırdı.\n1. Ahmet → Kafes usulü (Şimşirlik) + Ekber ve Erşet sistemi getirdi." },
+    { "c": "Duraklama İç Nedenleri", "o": "17. yüzyılda en küçük yaşta tahta geçen padişah kim, kaç yaşında?", "a": "4. Mehmet (Avcı Mehmet) — 6 yaşında." },
+    { "c": "Duraklama İç Nedenleri", "o": "Beşik ulemalığı nedir?", "a": "Alimin oğlu alimdir anlayışı.\nHak etmeyenlerin eğitimde yükselmesine neden olmuştur." },
+    { "c": "Duraklama İç Nedenleri", "o": "Osmanlı'nın en uzun kuşatması hangisidir, kaç yıl sürmüştür?", "a": "Girit kuşatması — 24 yıl.\n4. Mehmet döneminde fethedildi." },
+    { "c": "Duraklama İç Nedenleri", "o": "Fuzuli'nin Şikayetname'si neyi eleştirir?", "a": "'Selam verdim rüşvet değil diye almadılar.'\nOsmanlı'daki rüşvetçiliği ve adam kayırmayı (iltiması) eleştirir." },
+    { "c": "Duraklama İç Nedenleri", "o": "'Ocak devlet içindir' anlayışının bozulması ne demektir?", "a": "Yeniçeriler 'Devlet bizim için var' demeye başladı.\nSavaşlarda savaşmama, isyan etme gibi sonuçlar doğurdu." },
+    { "c": "Duraklama Dış Nedenleri", "o": "Osmanlı doğal sınırlara hangi dönemde, nerelerde ulaştı?", "a": "3. Murat dönemi:\n- Batı: Atlas Okyanusu (Fas/Vadiüs Sel Savaşı)\n- Kuzey: Baltık Denizi (Lehistan himaye)" },
+    { "c": "Duraklama Dış Nedenleri", "o": "Coğrafi Keşifler Osmanlı'yı nasıl etkiledi?", "a": "İpek Yolu ve Baharat Yolu önem kaybetti.\nAkdeniz ticareti azaldı → Osmanlı ekonomisi zarar gördü." },
+    { "c": "Osmanlı-Safevi", "o": "Osmanlı'nın doğuda en geniş sınırlara ulaştığı anlaşma hangisi, kimin dönemi?", "a": "1590 Ferhat Paşa Anlaşması — 3. Murat dönemi.\nAzerbaycan ve Dağıstan alındı." },
+    { "c": "Osmanlı-Safevi", "o": "Meşaleler Savaşı'nda Osmanlı ordularının komutanı kim?", "a": "Özdemiroğlu Osman Paşa.\nFerhat Paşa Anlaşması'na giden yolda kazanıldı (MEB bilgisi)." },
+    { "c": "Osmanlı-Safevi", "o": "Osmanlı'nın doğuda toprak kaybettiği İLK anlaşma hangisi?", "a": "1611 Nasuh Paşa Anlaşması — 1. Ahmet dönemi." },
+    { "c": "Osmanlı-Safevi", "o": "Kasrı Şirin Anlaşması'nın önemi ve padişahı?", "a": "1639 · 4. Murat (Bağdat Fatihi)\nGünümüz Türk-İran sınırının temeli atıldı.\nSınır: Zagros Dağları." },
+    { "c": "Osmanlı-Safevi", "o": "Serava Anlaşması kimin döneminde, neyin tekrarıdır?", "a": "1618 · 2. Osman (Genç Osman) dönemi.\nNasuh Paşa Anlaşması'nın küçük değişikliklerle tekrarıdır." },
+    { "c": "Osmanlı-Avusturya", "o": "Haçova Meydan Muharebesi nasıl kazanıldı? Padişaha hangi unvan verildi?", "a": "1596 · Avusturya askerleri ganimet için çadırlara dağılınca birliği bozuldu.\nAşçılar/yamaklar kepçe-kürekle saldırdı.\n3. Mehmet'e 'Eğri Fatihi' unvanı verildi." },
+    { "c": "Osmanlı-Avusturya", "o": "1533 İstanbul'da kazanılan protokol üstünlüğü hangi anlaşmayla kaybedildi?", "a": "1606 Zitvatoruk Anlaşması.\nAvusturya arşidükü Osmanlı padişahına denk sayıldı → Mütekabiliyet (denklik) ilkesi." },
+    { "c": "Osmanlı-Avusturya", "o": "Mütekabiliyet ilkesi ne demektir?", "a": "Uluslararası anlaşmalardaki denklik.\nZitvatoruk'ta Avusturya kralı ile Osmanlı padişahı eşit statüye geldi." },
+    { "c": "Osmanlı-Avusturya", "o": "Vasvar Anlaşması'yla hangi kale alındı, kim fethetti?", "a": "1664 · Uyvar Kalesi.\nKöprülü Fazıl Ahmet Paşa (Uyvar Fatihi + Girit Fatihi)." },
+    { "c": "Osmanlı-Avusturya", "o": "II. Viyana Kuşatması neden başarısız oldu? Sonucu ne?", "a": "1683 · Merzifonlu padişahtan habersiz kuşattı.\nLehistan 120.000 askerle yardıma geldi.\nSonuç: Kutsal İttifak kuruldu → 16 yıl savaş → Karlovça." },
+    { "c": "Kutsal İttifak & Karlovça", "o": "Kutsal İttifak devletleri kimler? (Şifre: MAL VAR)", "a": "Malta · Avusturya · Lehistan · Venedik · Rusya" },
+    { "c": "Kutsal İttifak & Karlovça", "o": "Karlovça Anlaşması'nın önemi, arabulucusu ve garantörü?", "a": "1699 · 2. Mustafa dönemi.\nBatıda ilk büyük çapta toprak kaybı.\nArabulucu: İngiltere + Hollanda\nGarantör: Avusturya" },
+    { "c": "Kutsal İttifak & Karlovça", "o": "Rusya neden Karlovça'yı imzalayamadı? Ne yapıldı?", "a": "Rus elçisinin imza yetkisi yoktu, Rusya'ya dönüp geldi ama masa dağılmıştı.\n1700 İstanbul Anlaşması yapıldı (Karlovça'nın devamı)." },
+    { "c": "Kutsal İttifak & Karlovça", "o": "Karadeniz ne zaman Türk gölü olmaktan çıktı?", "a": "1700 İstanbul Anlaşması ile.\nAzak Kalesi Rusya'ya verildi." },
+    { "c": "Osmanlı-Rus", "o": "Osmanlı ile Rusya arasındaki ilk resmi anlaşma hangisi?", "a": "1681 Bahçesaray (Çehrin) Anlaşması.\n4. Mehmet dönemi · Merzifonlu Kara Mustafa Paşa." },
+    { "c": "Osmanlı-Lehistan", "o": "Osmanlı batıda en geniş sınırlara hangi anlaşmayla ulaştı?", "a": "1672 Bucaş Anlaşması — 4. Mehmet.\nPodolya alındı. (B=Batı ile akılda tutulur)" },
+    { "c": "Osmanlı-Lehistan", "o": "Kameniçe Kalesi'nin özelliği nedir?", "a": "Batıda fethedilen SON kale.\n'Ukrayna'nın kilidi' olarak bilinir · 4. Mehmet dönemi." },
+    { "c": "Osmanlı-Venedik", "o": "Girit'in fethinden sonra donanmada ne değişti?", "a": "Donanmanın eskisi kadar güçlü olmadığı anlaşıldı.\nKadırgadan (küçük gemi) Kalyona (büyük gemi) geçildi." },
+    { "c": "İlk Anlaşmalar", "o": "Osmanlı'nın ilk anlaşmalarını eşleştir: Avusturya / İran / Rusya", "a": "Avusturya: 1533 İstanbul (Kanuni)\nİran: 1555 Amasya (Kanuni)\nRusya: 1681 Bahçesaray (4. Mehmet)" },
+    { "c": "17. yy İsyanları", "o": "Yeniçeri isyanlarında rejimi değiştirme amacı var mıdır?", "a": "HAYIR. Rejim değiştirme (monarşi→cumhuriyet vb.) amaçları yoktur.\nEn büyük çeldirici budur." },
+    { "c": "17. yy İsyanları", "o": "Vaka-i Vakvakiye nedir? Ne zaman yaşandı?", "a": "4. Mehmet dönemi.\n30 devlet adamı öldürülüp Sultan Ahmet Meydanı'ndaki çınar ağacına asıldı.\n(Vakvak ağacı = meyvesi insan olan mitolojik ağaç)" },
+    { "c": "17. yy İsyanları", "o": "Celali isyanları adını nereden alır?", "a": "Yavuz Sultan Selim dönemindeki Bozoklu Celal ayaklanmasından.\nAnadolu (taşra) isyanları olarak da bilinir." },
+    { "c": "17. yy İsyanları", "o": "Büyük Kaçkun (Büyük Kaçış) nedir?", "a": "Celali isyanları sebebiyle köyden kente göç hareketi.\n(2024 KPSS genel kültür sorusu)" },
+    { "c": "17. yy İsyanları", "o": "17. yy eyalet isyanlarının nedenlerinde olmayan etki nedir?", "a": "Milliyetçilik etkisi YOKTUR.\n(1789 Fransız İhtilali'nden sonra yayılacak — henüz 17. yy)" },
+    { "c": "17. yy İsyanları", "o": "Kuyucu Murat Paşa adını nereden alır? Yanındaki komutan kim?", "a": "İsyancıları kuyulara doldurduğu için.\nYanında: Tiryaki Hasan Paşa (Kanije Fatihi)." },
+    { "c": "TOKMAK Islahatları", "o": "Tarhuncu Ahmet Paşa'nın önemi ve dönemi?", "a": "Osmanlı'da ilk denk (modern) bütçeyi hazırladı.\n4. Mehmet dönemi.\n(Sınıf öğretmenliği ÖABT + 2024 ÖABT sorusu)" },
+    { "c": "TOKMAK Islahatları", "o": "Genç Osman hangi 'ilk'lere sahiptir? (4 madde)", "a": "1) İlk ıslahatçı padişah\n2) Yeniçerileri kaldırmayı düşünen ilk padişah\n3) Başkenti Anadolu'ya taşımayı düşünen ilk padişah\n4) Yeniçeriler tarafından öldürülen ilk padişah" },
+    { "c": "TOKMAK Islahatları", "o": "4. Murat hangi yasakları getirdi?", "a": "1) İçki\n2) Tütün\n3) Kahvehaneler\n4) Gece ışıksız sokağa çıkma\n+ Saray kadınlarını yönetimden uzaklaştırdı." },
+    { "c": "TOKMAK Islahatları", "o": "4. Murat'a risale (layiha) hazırlayan iki isim kim?", "a": "Koçbey ve Katip Çelebi.\n(Risale = Layiha = Rapor)" },
+    { "c": "TOKMAK Islahatları", "o": "1. Ahmet'in getirdiği Ekber ve Erşet sistemi nedir?", "a": "En yaşlı ve en akıllı (akli melekeleri yerinde) kişinin tahta geçmesi.\nVeraset kesin kurala bağlandı.\nİlk yazılı yer: 1876 Kanun-i Esasi." },
+    { "c": "Köprülüler Devri", "o": "Köprülü Mehmet Paşa'nın sadrazamlık şartları neler?", "a": "1) Yargılamadan idam edilmeyecek\n2) Harcama kararlarına karışılmayacak\n3) Söylentilere sormadan inanılmayacak\n→ Şart koşarak sadrazam olan İLK kişi." },
+    { "c": "Köprülüler Devri", "o": "Köprülü Fazıl Ahmet Paşa hangi unvanlarla bilinir?", "a": "1) Girit Fatihi (Girit'i 24 yıllık kuşatma sonunda aldı)\n2) Uyvar Fatihi (Vasvar Anlaşması)" },
+    { "c": "Köprülüler Devri", "o": "Köprülüler devri neden 'duraklama içinde yükselme' olarak adlandırılır?", "a": "Köprülü ailesi 4. Mehmet döneminde başarılı fetihler yaptı.\n(Karşılaştırma: Yükselme içinde duraklama = 2. Bayezit dönemi / Cem Sultan)" },
+    { "c": "Fatih Unvanları", "o": "Bağdat Fatihi kim?", "a": "4. Murat — 1639 Kasrı Şirin Anlaşması." },
+    { "c": "Fatih Unvanları", "o": "Eğri Fatihi kim?", "a": "3. Mehmet — 1596 Haçova Meydan Muharebesi." },
+    { "c": "Fatih Unvanları", "o": "Girit Fatihi + Uyvar Fatihi kim?", "a": "Köprülü Fazıl Ahmet Paşa." },
+    { "c": "Fatih Unvanları", "o": "Kanije Fatihi kim?", "a": "Tiryaki Hasan Paşa." },
+    { "c": "Genel Karıştırılanlar", "o": "Vaka-i Vakvakiye ile Vaka-i Hayriye arasındaki fark nedir?", "a": "Vakvakiye: 4. Mehmet · 30 devlet adamı çınar ağacına asıldı (isyan).\nHayriye: 2. Mahmut · Yeniçeri Ocağı kaldırıldı (ıslahat)." },
+    { "c": "Genel Karıştırılanlar", "o": "17. yy ıslahatlarında batı örnek alınmış mıdır?", "a": "HAYIR. Yükselme dönemi (Kanun-ı Kadim) örnek alınmıştır.\nBatı 18. yy'dan itibaren örnek alınacaktır." },
+    { "c": "Çıkmış Soru Bilgisi", "o": "Genç Osman'ın Hotin seferi hangi sınavda soruldu?", "a": "2016 KPSS Genel Kültür.\n(Lehistan üzerine yapıldı, 2. Osman dönemi)" },
+    { "c": "Çıkmış Soru Bilgisi", "o": "Merzifonlu'nun II. Viyana Kuşatması hangi sınavda soruldu?", "a": "2016 AYT sınavı." }
+  ],
+  "tuzak": [
+    { "q": "Osmanlı doğuda en geniş sınırlara hangi anlaşmayla ulaştı?", "o": ["Ferhat Paşa Anlaşması (1590)", "Bucaş Anlaşması (1672)"], "c": 0, "n": "Bucaş BATIDA en geniş sınırlardır; doğuda Ferhat Paşa. B=Batı=Bucaş." },
+    { "q": "Osmanlı batıda en geniş sınırlara hangi anlaşmayla ulaştı?", "o": ["Bucaş Anlaşması (1672)", "Ferhat Paşa Anlaşması (1590)"], "c": 0, "n": "Ferhat Paşa DOĞUDA en geniş sınırlardır; batıda Bucaş." },
+    { "q": "Osmanlı'nın doğuda toprak kaybettiği İLK anlaşma hangisi?", "o": ["Nasuh Paşa Anlaşması (1611)", "Serava Anlaşması (1618)", "Kasrı Şirin Anlaşması (1639)"], "c": 0, "n": "Serava sadece Nasuh Paşa'nın tekrarıdır; Kasrı Şirin daha sonra gelir." },
+    { "q": "Osmanlı-Rus ilişkilerinde ilk resmi anlaşma hangisi?", "o": ["1681 Bahçesaray (Çehrin)", "1700 İstanbul Anlaşması"], "c": 0, "n": "1700 İstanbul, Karlovça'nın devamıdır ve ikinci anlaşmadır." },
+    { "q": "Karlovça Anlaşması'nı imzalamayan Kutsal İttifak devleti?", "o": ["Rusya", "Malta"], "c": 0, "n": "Malta Karlovça masasına çağrılmadı bile ama savaşlarda da yoktu; Rusya savaştı fakat elçinin imza yetkisi yoktu." },
+    { "q": "Karadeniz'in Türk gölü olmaktan çıktığı anlaşma?", "o": ["1700 İstanbul Anlaşması", "1699 Karlovça Anlaşması"], "c": 0, "n": "Karlovça'da Rusya imza atamadı; Azak Kalesi 1700 İstanbul ile verildi." },
+    { "q": "1533 İstanbul Anlaşması'nda mütekabiliyet (denklik) ilkesi var mıdır?", "o": ["Hayır — Osmanlı üstün", "Evet — denklik var"], "c": 0, "n": "Mütekabiliyet 1606 Zitvatoruk ile başladı; İstanbul'da Osmanlı protokolde üstündü." },
+    { "q": "Girit Fatihi kimdir?", "o": ["Köprülü Fazıl Ahmet Paşa", "Köprülü Mehmet Paşa"], "c": 0, "n": "Köprülü Mehmet Paşa baba; Fazıl Ahmet Paşa oğul ve Girit+Uyvar Fatihi." },
+    { "q": "Sancak sistemini kaldıran padişah kim?", "o": ["3. Mehmet", "1. Ahmet"], "c": 0, "n": "1. Ahmet kafes usulünü GETİRDİ ama kaldıran 3. Mehmet'tir." },
+    { "q": "Ekber ve Erşet sistemini ilk yazılı hale getiren belge?", "o": ["1876 Kanun-i Esasi", "Tanzimat Fermanı (1839)", "Sened-i İttifak (1808)"], "c": 0, "n": "Tanzimat ve Sened-i İttifak değil; ilk yazılı yer Kanun-i Esasi'dir." },
+    { "q": "Yeniçerileri kaldırmayı DÜŞÜNEN ilk padişah kim?", "o": ["2. Osman (Genç Osman)", "2. Mahmut"], "c": 0, "n": "2. Mahmut kaldıran (Vaka-i Hayriye) padişahtır; düşünen ilk kişi Genç Osman." },
+    { "q": "Yükselme içinde duraklama hangi döneme denir?", "o": ["2. Bayezit dönemi", "Köprülüler devri"], "c": 0, "n": "Köprülüler 'duraklama içinde yükselme'dir; 2. Bayezit ise 'yükselme içinde duraklama'." },
+    { "q": "Vaka-i Vakvakiye hangi padişah döneminde yaşandı?", "o": ["4. Mehmet", "2. Mahmut"], "c": 0, "n": "2. Mahmut dönemi Vaka-i Hayriye'dir (yeniçeri kaldırma); Vakvakiye 4. Mehmet." },
+    { "q": "Osmanlı'nın batıda ilk büyük çapta toprak kaybettiği anlaşma?", "o": ["Karlovça (1699)", "Küçük Kaynarca (1774)"], "c": 0, "n": "Küçük Kaynarca en ağır anlaşmalardan biri ama batıda ilk büyük kayıp Karlovça'dır." },
+    { "q": "Genç Osman nerede öldürüldü?", "o": ["Yedikule Zindanları", "Belgrad Kalesi"], "c": 0, "n": "Belgrad Kalesi'nde öldürülen Merzifonlu Kara Mustafa Paşa'dır." },
+    { "q": "Haçova Meydan Muharebesi hangi devletle yapıldı?", "o": ["Avusturya", "Lehistan", "Safeviler"], "c": 0, "n": "Lehistan ile Hotin Seferi; Safevilerle Meşaleler Savaşı yapıldı." },
+    { "q": "Ordunun başında sefere gitmeyen İLK padişah kim?", "o": ["2. Selim (Sarı Selim)", "3. Mehmet"], "c": 0, "n": "3. Mehmet zorla Haçova'ya gittirildi ama ilk gitmeyen 2. Selim'dir." },
+    { "q": "Celali isyanları örneklerinden hangisi 17. yüzyılda DEĞİLDİR?", "o": ["Bozoklu Celal (Yavuz dönemi)", "Can Bolatoğlu"], "c": 0, "n": "Bozoklu Celal Yavuz Sultan Selim döneminde; sadece isyanların adı oradan gelir." },
+    { "q": "Tarhuncu Ahmet Paşa hangi padişah dönemindedir?", "o": ["4. Mehmet", "4. Murat"], "c": 0, "n": "4. Murat yasakçı padişah; Tarhuncu (ilk denk bütçe) 4. Mehmet dönemindedir." },
+    { "q": "Kasrı Şirin ile belirlenen sınır hangi dağlardır?", "o": ["Zagros Dağları", "Toros Dağları"], "c": 0, "n": "Toros Dağları Türkiye iç sınırdır; Türk-İran sınırı Zagros Dağları." },
+    { "q": "II. Viyana Kuşatması'nın başarısızlığına yardıma gelen devlet?", "o": ["Lehistan (120.000 asker)", "Avusturya"], "c": 0, "n": "Avusturya zaten kuşatılan taraf; yardıma gelen Lehistan." },
+    { "q": "Köprülü Mehmet Paşa'nın en önemli icraatı nedir?", "o": ["Çanakkale'deki Venedik ablukasını kaldırdı", "Girit'i fethetti"], "c": 0, "n": "Girit'i fetheden oğlu Köprülü Fazıl Ahmet Paşa'dır." },
+    { "q": "Karlovça Anlaşması'nın garantör devleti kim?", "o": ["Avusturya", "İngiltere"], "c": 0, "n": "İngiltere arabulucudur; garantör Avusturya'dır." },
+    { "q": "Hotin Seferi hangi padişah döneminde yapıldı?", "o": ["2. Osman (Genç Osman)", "4. Mehmet"], "c": 0, "n": "4. Mehmet döneminde Bucaş yapıldı; Hotin Seferi Genç Osman'dır." },
+    { "q": "İlk denk bütçeyi hazırlayan devlet adamı kim?", "o": ["Tarhuncu Ahmet Paşa", "Köprülü Mehmet Paşa"], "c": 0, "n": "Köprülü Mehmet Paşa şartlı sadrazam olan ilk kişi; ilk denk bütçe Tarhuncu'nundur." },
+    { "q": "17. yüzyıl ıslahatlarında örnek alınan dönem hangisi?", "o": ["Yükselme dönemi (Kanun-ı Kadim)", "Batı (Avrupa)"], "c": 0, "n": "Batı 18. yy'da örnek alınacak; 17. yy'da Osmanlı'nın kendi geçmişi örnek alınır." },
+    { "q": "Büyük Kaçkun'un sebebi nedir?", "o": ["Celali isyanları (Anadolu isyanları)", "Yeniçeri isyanları"], "c": 0, "n": "Yeniçeri isyanları İstanbul'dadır; köyden kente göç Anadolu'daki Celali isyanlarından." },
+    { "q": "Merzifonlu Kara Mustafa Paşa nerede idam edildi?", "o": ["Belgrad Kalesi", "Yedikule Zindanları"], "c": 0, "n": "Yedikule'de öldürülen Genç Osman'dır; Merzifonlu Belgrad Kalesi'nde idam edildi." },
+    { "q": "Şartlar öne sürerek sadrazam olan ilk kişi kim?", "o": ["Köprülü Mehmet Paşa", "Merzifonlu Kara Mustafa Paşa"], "c": 0, "n": "Merzifonlu Köprülü ailesindendir ama şart koşan ilk kişi Köprülü Mehmet Paşa." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi Osmanlı Devleti'nin duraklama dönemine girmesinin dış nedenlerinden biri değildir?",
+      "o": ["Doğal sınırlara ulaşılması", "Güçlü devletlere komşu olunması", "Coğrafi Keşifler", "Rönesans ve Reform hareketleri", "Beşik ulemalığının yaygınlaşması"],
+      "c": 4,
+      "e": "Beşik ulemalığı eğitim sisteminin bozulmasıdır ve iç nedendir; dış nedenler Osmanlı'nın müdahale edemeyeceği gelişmelerdir."
+    },
+    {
+      "q": "1590 Ferhat Paşa Anlaşması ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": ["1. Ahmet döneminde imzalanmıştır", "Osmanlı'nın doğuda toprak kaybettiği ilk anlaşmadır", "Osmanlı'nın doğuda en geniş sınırlarına ulaştığı anlaşmadır", "Günümüz Türk-İran sınırını belirlemiştir", "Osmanlı'nın batıda en geniş sınırlarına ulaştığı anlaşmadır"],
+      "c": 2,
+      "e": "Ferhat Paşa Anlaşması 3. Murat döneminde imzalanmış olup Azerbaycan ve Dağıstan'ın alınmasıyla doğuda en geniş sınırlara ulaşılmıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 4. Mehmet döneminde gerçekleşmemiştir?",
+      "o": ["Girit'in fethi", "Vaka-i Vakvakiye", "II. Viyana Kuşatması", "Bucaş Anlaşması", "Kasrı Şirin Anlaşması"],
+      "c": 4,
+      "e": "Kasrı Şirin Anlaşması 4. Murat dönemindedir; diğer dört olay 4. Mehmet döneminde yaşanmıştır."
+    },
+    {
+      "q": "Osmanlı Devleti'nde aşağıdaki 'ilk' anlaşmalardan hangisi yanlış eşleştirilmiştir?",
+      "o": ["İlk Osmanlı-Avusturya anlaşması — 1533 İstanbul", "İlk Osmanlı-İran anlaşması — 1555 Amasya", "İlk Osmanlı-Rus anlaşması — 1700 İstanbul", "Doğuda ilk toprak kaybı — 1611 Nasuh Paşa", "Batıda ilk büyük toprak kaybı — 1699 Karlovça"],
+      "c": 2,
+      "e": "İlk Osmanlı-Rus resmi anlaşması 1681 Bahçesaray (Çehrin) Anlaşması'dır; 1700 İstanbul ise Karlovça'nın devamıdır."
+    },
+    {
+      "q": "Kutsal İttifak savaşları sonucunda imzalanan Karlovça Anlaşması ile ilgili;\nI. Batıda ilk büyük çapta toprak kaybedilmiştir.\nII. Garantör devlet İngiltere'dir.\nIII. 2. Mustafa döneminde imzalanmıştır.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız III", "I ve II", "I ve III", "I, II ve III"],
+      "c": 3,
+      "e": "I doğru (batıda ilk büyük kayıp), III doğru (2. Mustafa). II yanlış: İngiltere arabulucu, garantör Avusturya'dır."
+    },
+    {
+      "q": "1606 Zitvatoruk Anlaşması'nın en önemli sonucu aşağıdakilerden hangisidir?",
+      "o": ["Osmanlı'nın doğuda en geniş sınırlara ulaşması", "Karadeniz'in Türk gölü olmaktan çıkması", "Osmanlı'nın Avusturya karşısında protokol üstünlüğünü kaybetmesi", "Osmanlı'nın batıda büyük toprak kaybetmesi", "Yeniçeri Ocağı'nın kaldırılması"],
+      "c": 2,
+      "e": "Zitvatoruk ile Avusturya arşidükü Osmanlı padişahına denk sayılmış, 1533'teki protokol üstünlüğü kaybedilmiş ve mütekabiliyet ilkesi başlamıştır."
+    },
+    {
+      "q": "Aşağıdaki padişah-unvan eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["4. Murat — Bağdat Fatihi", "3. Mehmet — Eğri Fatihi", "4. Mehmet — Avcı Mehmet", "2. Osman — Genç Osman", "Köprülü Fazıl Ahmet Paşa — Kameniçe Fatihi"],
+      "c": 4,
+      "e": "Köprülü Fazıl Ahmet Paşa, Girit Fatihi ve Uyvar Fatihi olarak bilinir; Kameniçe Kalesi 4. Mehmet döneminde fethedilmiştir ancak bu unvan Fazıl Ahmet Paşa'ya ait değildir."
+    },
+    {
+      "q": "II. Viyana Kuşatması'nın başarısızlıkla sonuçlanmasının en önemli sebebi aşağıdakilerden hangisidir?",
+      "o": ["Osmanlı ordusunun sayıca az olması", "Merzifonlu'nun kuşatmayı padişahtan habersiz yapması", "Lehistan'ın 120.000 askerle Viyana'ya yardıma gelmesi", "Venedik donanmasının Osmanlı'yı engellemesi", "Kutsal İttifak'ın kuşatmadan önce kurulmuş olması"],
+      "c": 2,
+      "e": "Kuşatma sürerken Lehistan'ın büyük bir orduyla yardıma gelmesi kuşatmanın başarısız olmasının doğrudan sebebidir; Kutsal İttifak ise başarısızlıktan sonra kurulmuştur."
+    },
+    {
+      "q": "Genç Osman (II. Osman) ile ilgili;\nI. Yeniçerileri kaldırmayı düşünen ilk padişahtır.\nII. Hotin Seferi'ni Avusturya'ya karşı düzenlemiştir.\nIII. Yedikule Zindanları'nda öldürülmüştür.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 2,
+      "e": "I doğru, III doğru. II yanlış: Hotin Seferi Lehistan (Polonya) üzerine yapılmıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 17. yüzyıl Celali isyanlarının nedenlerinden biri değildir?",
+      "o": ["Tımar sisteminin bozulması", "Ağır vergilerin alınması", "Mültezim zulmü", "Milliyetçilik akımının etkisi", "Haçova'dan kaçan askerlerin Anadolu'ya gitmesi"],
+      "c": 3,
+      "e": "Milliyetçilik 1789 Fransız İhtilali'nden sonra etkili olmuştur; 17. yüzyılda eyalet ve Celali isyanlarında milliyetçilik etkisi yoktur."
+    },
+    {
+      "q": "Büyük Kaçkun ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": ["Yeniçeri isyanları sonucu yaşanmıştır", "İstanbul'dan Anadolu'ya göç hareketidir", "Celali isyanları sebebiyle köyden kente göç hareketidir", "Eyalet isyanları sonucu ortaya çıkmıştır", "Suhte isyanları nedeniyle yaşanmıştır"],
+      "c": 2,
+      "e": "Büyük Kaçkun, Anadolu'da Celali isyanları ve Osmanlı paşaları arasında sıkışan halkın köylerden büyük kentlere göç etmesidir."
+    },
+    {
+      "q": "Vaka-i Vakvakiye olayı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": ["4. Mehmet döneminde yaşanmıştır", "Yeniçerilerin isyanıdır", "30 kadar devlet adamı öldürülmüştür", "Yeniçeri Ocağı bu olayla kaldırılmıştır", "Cesetler Sultan Ahmet Meydanı'ndaki çınar ağacına asılmıştır"],
+      "c": 3,
+      "e": "Yeniçeri Ocağı'nı kaldıran olay Vaka-i Hayriye'dir (2. Mahmut dönemi); Vaka-i Vakvakiye bir isyan olayıdır, ıslahat değildir."
+    },
+    {
+      "q": "Osmanlı Devleti'nde ilk denk (modern) bütçeyi hazırlayan devlet adamı ve dönemi aşağıdakilerden hangisinde doğru verilmiştir?",
+      "o": ["Köprülü Mehmet Paşa — 4. Mehmet", "Tarhuncu Ahmet Paşa — 4. Murat", "Tarhuncu Ahmet Paşa — 4. Mehmet", "Merzifonlu Kara Mustafa Paşa — 4. Mehmet", "Koçbey — 4. Murat"],
+      "c": 2,
+      "e": "İlk denk bütçeyi Tarhuncu Ahmet Paşa hazırlamıştır ve 4. Mehmet dönemindendir."
+    },
+    {
+      "q": "17. yüzyıl Osmanlı ıslahatları ile ilgili;\nI. Sorunların kökenlerine inilmemiştir.\nII. Batı örnek alınmıştır.\nIII. Kişilere bağlı kalmıştır.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 2,
+      "e": "I ve III doğru. II yanlış: 17. yüzyılda batı değil, yükselme dönemi (Kanun-ı Kadim) örnek alınmıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Köprülü Mehmet Paşa'nın sadrazamlık için öne sürdüğü şartlardan biri değildir?",
+      "o": ["Yargılamadan idam edilmeyecek", "Harcama kararlarına karışılmayacak", "Söylentilere sormadan inanılmayacak", "Padişah sefere çıkacak", "Yargısız infaz yapılmayacak"],
+      "c": 3,
+      "e": "Padişahın sefere çıkması Köprülü Mehmet Paşa'nın şartları arasında yer almamaktadır."
+    },
+    {
+      "q": "1700 İstanbul Anlaşması ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": ["Avusturya ile yapılmıştır", "Lehistan ile yapılmıştır", "Karadeniz'in Türk gölü olmaktan çıkmasına neden olmuştur", "Batıda en geniş sınırlara ulaşılmıştır", "İlk Osmanlı-Rus anlaşmasıdır"],
+      "c": 2,
+      "e": "1700 İstanbul Anlaşması Rusya ile yapılmış, Azak Kalesi verilmiş ve Karadeniz ilk kez Türk gölü olmaktan çıkmıştır."
+    },
+    {
+      "q": "4. Murat'ın ıslahatları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": ["İçki ve tütünü yasaklamıştır", "Kahvehaneleri kapatmıştır", "Koçbey ve Katip Çelebi'den risale hazırlatmıştır", "Yeniçeri Ocağı'nı kaldırmıştır", "Saray kadınlarını yönetimden uzaklaştırmıştır"],
+      "c": 3,
+      "e": "Yeniçeri Ocağı'nı kaldıran 2. Mahmut'tur (1826 Vaka-i Hayriye); 4. Murat yasaklar getirmiş ve risaleler hazırlatmıştır."
+    },
+    {
+      "q": "Aşağıdaki anlaşmalardan hangisi 'günümüz Türk-İran sınırının temeli' olarak kabul edilir?",
+      "o": ["Ferhat Paşa Anlaşması", "Nasuh Paşa Anlaşması", "Serava Anlaşması", "Kasrı Şirin Anlaşması", "Bahçesaray Anlaşması"],
+      "c": 3,
+      "e": "1639 Kasrı Şirin Anlaşması ile Zagros Dağları sınır kabul edilmiş ve günümüz Türk-İran sınırının temeli atılmıştır."
+    },
+    {
+      "q": "Osmanlı Devleti'nde 'duraklama içinde yükselme' olarak nitelendirilen dönem aşağıdakilerden hangisidir?",
+      "o": ["2. Bayezit dönemi", "Lale Devri", "Köprülüler devri", "Tanzimat dönemi", "4. Murat dönemi"],
+      "c": 2,
+      "e": "Köprülüler devri başarılı faaliyetleri nedeniyle 'duraklama içinde yükselme'dir; 2. Bayezit ise 'yükselme içinde duraklama'dır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1672 Bucaş Anlaşması'nın bir sonucudur?",
+      "o": ["Doğuda en geniş sınırlara ulaşılmıştır", "Günümüz Türk-İran sınırı belirlenmiştir", "Batıda en geniş sınırlara ulaşılmıştır", "Protokol üstünlüğü kaybedilmiştir", "Karadeniz Türk gölü olmaktan çıkmıştır"],
+      "c": 2,
+      "e": "Bucaş Anlaşması ile Podolya alınmış ve Osmanlı batıda en geniş sınırlarına ulaşmıştır (4. Mehmet dönemi)."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Anlaşma → Padişah Dönemi",
+      "p": [
+        ["Ferhat Paşa (1590)", "3. Murat"],
+        ["Nasuh Paşa (1611)", "1. Ahmet"],
+        ["Serava (1618)", "2. Osman"],
+        ["Kasrı Şirin (1639)", "4. Murat"],
+        ["Bahçesaray (1681)", "4. Mehmet"],
+        ["Zitvatoruk (1606)", "1. Ahmet"],
+        ["Karlovça (1699)", "2. Mustafa"]
+      ]
+    },
+    {
+      "ad": "Unvan → Kişi",
+      "p": [
+        ["Bağdat Fatihi", "4. Murat"],
+        ["Eğri Fatihi", "3. Mehmet"],
+        ["Girit Fatihi", "Köprülü Fazıl Ahmet Paşa"],
+        ["Uyvar Fatihi", "Köprülü Fazıl Ahmet Paşa"],
+        ["Kanije Fatihi", "Tiryaki Hasan Paşa"],
+        ["Avcı", "4. Mehmet"],
+        ["Genç Osman", "2. Osman"]
+      ]
+    },
+    {
+      "ad": "Anlaşma → Tarihsel Önemi",
+      "p": [
+        ["Ferhat Paşa", "Doğuda en geniş sınırlar"],
+        ["Bucaş", "Batıda en geniş sınırlar"],
+        ["Nasuh Paşa", "Doğuda ilk toprak kaybı"],
+        ["Karlovça", "Batıda ilk büyük toprak kaybı"],
+        ["Zitvatoruk", "Protokol üstünlüğü kaybı"],
+        ["1700 İstanbul", "Karadeniz Türk gölü olmaktan çıktı"],
+        ["Kasrı Şirin", "Günümüz Türk-İran sınırı"]
+      ]
+    },
+    {
+      "ad": "İsyan Türü → Özellik",
+      "p": [
+        ["Yeniçeri (İstanbul)", "Rejim değiştirme amacı YOK"],
+        ["Celali (Anadolu)", "Bozoklu Celal'den adını alır"],
+        ["Eyalet", "Milliyetçilik etkisi YOK"],
+        ["Suhte", "Öğrenci isyanları"],
+        ["Büyük Kaçkun", "Köyden kente göç"],
+        ["Vaka-i Vakvakiye", "Çınar ağacına asma"]
+      ]
+    },
+    {
+      "ad": "TOKMAK Islahatçı → Icraatı",
+      "p": [
+        ["Tarhuncu Ahmet Paşa", "İlk denk bütçe"],
+        ["Genç Osman", "Yeniçerileri kaldırmayı düşündü"],
+        ["Kuyucu Murat Paşa", "İsyanları şiddetle bastırdı"],
+        ["4. Murat", "İçki-tütün-kahvehane yasakladı"],
+        ["1. Ahmet", "Ekber ve Erşet sistemi"],
+        ["Köprülü Mehmet Paşa", "Şartlı sadrazam olan ilk kişi"]
+      ]
+    },
+    {
+      "ad": "Duraklama İç Nedeni → Açıklama",
+      "p": [
+        ["Sancak sisteminin kaldırılması", "Padişahlar tecrübesiz kaldı"],
+        ["Beşik ulemalığı", "Alimin oğlu alimdir anlayışı"],
+        ["Tımar sisteminin bozulması", "Üretim, güvenlik, ordu bozuldu"],
+        ["Ocak devlet içindir bozulması", "Yeniçeriler savaşmıyor"],
+        ["Pozitif bilimlerin çıkarılması", "Savaş teknolojisinde geri kalındı"],
+        ["Sık padişah değişikliği", "Politika sürekliliği sağlanamadı"]
+      ]
+    }
+  ]
+}

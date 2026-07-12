@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "gun": 10,
+    "baslik": "Osmanlı Devleti Dağılma Dönemi — 19. Yüzyıl Siyasi Olayları",
+    "ozet": "Denge politikası, Sırp ve Yunan isyanları, Kavalalı Mehmet Ali Paşa sorunu, Hünkar İskelesi, Baltalimanı, Kırım Savaşı, Paris Anlaşması, 93 Harbi, Berlin Anlaşması, Meşrutiyet ve İstibdat dönemleri.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Transkriptte 'Kara Yörgi' → Karayorgi (Đorđe Petrović) olarak düzeltildi",
+      "Transkriptte 'Filikie Eterya' → Filiki Eterya olarak düzeltildi",
+      "Transkriptte 'Ipsilent' → İpsilanti olarak düzeltildi",
+      "Transkriptte 'Lord Barron' → Lord Byron olarak düzeltildi",
+      "Transkriptte '7 vahit' → yed-i vahit olarak düzeltildi",
+      "Transkriptte 'Ayfanos' → Ayastefanos olarak düzeltildi",
+      "Transkriptte 'Döke' → Dömeke olarak düzeltildi"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Sırpların Bağımsızlık Süreci",
+      "i": [
+        { "k": "BEB", "m": "Bükreş (imtiyaz) → Edirne (özerklik) → Berlin (bağımsız)", "s": "z" },
+        { "k": "1804 Sırp İsyanı", "m": "Milliyetçilik etkisiyle isyan eden İLK azınlık; lider Karayorgi", "s": "z" },
+        { "k": "1812 Bükreş Ant.", "m": "1806-12 Osmanlı-Rus Savaşı sonucu; Sırplara imtiyaz → imtiyaz kazanan ilk azınlık", "s": "z" }
+      ]
+    },
+    {
+      "b": "Yunan İsyanı ve Edirne Anlaşması",
+      "i": [
+        { "k": "Filiki Eterya", "m": "Yunan isyanına destek cemiyeti; kurucu: Rus Alexander İpsilanti", "s": "z" },
+        { "k": "Lord Byron", "m": "Yunan isyanına destek veren İngiliz şair", "s": "z" },
+        { "k": "Tepedelenli Ali Paşa", "m": "Yanya valisi; görevden alınınca isyanı → Yunan isyanının büyümesine neden oldu", "s": "z" },
+        { "k": "Kavalalı yardımı", "m": "Mora+Girit valiliği karşılığında Yunan isyanını bastırdı → merkezi otorite zayıflığı", "s": "z" },
+        { "k": "Navarin Baskını", "m": "İng+Fr+Rus Osmanlı donanmasını yaktı; Restorasyon dönemi sona erdi", "s": "z" },
+        { "k": "1829 Edirne Ant.", "m": "1827-28 Osmanlı-Rus Savaşı sonucu; Yunanlılar bağımsız (ilk), Sırplar özerk", "s": "z" }
+      ]
+    },
+    {
+      "b": "Viyana Kongresi ve Restorasyon",
+      "i": [
+        { "k": "1815 Viyana Kongresi", "m": "Meternich sistemi: milliyetçilik isyanlarını birlikte bastırma kararı", "s": "z" },
+        { "k": "Restorasyon dönemi", "m": "1815'te başladı → Navarin baskınıyla (1827) sona erdi", "s": "z" },
+        { "k": "Şark sorunu", "m": "Osmanlı Devleti kastedilir; ilk kez Viyana Kongresi'nde gündeme geldi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kavalalı Sorunu ve Hünkar İskelesi",
+      "i": [
+        { "k": "Nizip Savaşı", "m": "Osmanlı kendi valisi Kavalalı'ya yenildi (Gaziantep)", "s": "z" },
+        { "k": "1833 Kütahya Ant.", "m": "Kavalalı'ya Şam, Girit, Adana, Cidde valilik hakları tanındı", "s": "z" },
+        { "k": "Denize düşen yılana sarılır", "m": "II. Mahmut'un sözü; İng ve Fr yardım etmeyince Rusya'dan yardım istendi", "s": "z" },
+        { "k": "1833 Hünkar İskelesi", "m": "Osmanlı saldırıya uğrarsa Rusya yardıma gelecek; Rusya saldırıya uğrarsa Osmanlı boğazları kapatacak (8 yıllık, dostluk ant.)", "s": "z" },
+        { "k": "Hünkar İskelesi = SON", "m": "Osmanlı'nın boğazlar üzerindeki egemenlik haklarını SON KEZ tek başına kullandığı anlaşma", "s": "z" }
+      ]
+    },
+    {
+      "b": "Baltalimanı ve Ekonomi",
+      "i": [
+        { "k": "1838 Baltalimanı", "m": "Osmanlı-İngiltere; kapitülasyonlar genişletildi; Osmanlı ekonomisini baltalayan anlaşma", "s": "z" },
+        { "k": "Yed-i vahit", "m": "Osmanlı'nın tekelcilik sistemi; Baltalimanı ile kaldırıldı → hammadde dışarı aktı", "s": "z" },
+        { "k": "Lonca çöküşü", "m": "Sanayi inkılabı + kapitülasyonlar → ucuz İngiliz malları → Lonca teşkilatı çöktü", "s": "z" },
+        { "k": "Açık pazar", "m": "Baltalimanı sonrası Osmanlı Avrupa'nın açık pazarı / yarı sömürgesi oldu", "s": "z" }
+      ]
+    },
+    {
+      "b": "Tanzimat-Islahat ve Londra Konferansı",
+      "i": [
+        { "k": "1839 Tanzimat Fermanı", "m": "Mısır meselesinin görüşüleceği Londra Konferansı öncesi Avrupalılara şirin görünmek için ilan edildi", "s": "z" },
+        { "k": "1840 Londra Konferansı", "m": "Mısır sorunu çözüldü; Kavalalı'ya verilen yerler geri alındı; Mısır sorunu iç→dış sorun oldu", "s": "z" },
+        { "k": "1841 Londra Boğazlar Söz.", "m": "Boğazlar ilk kez uluslararası sorun haline geldi", "s": "z" },
+        { "k": "1856 Islahat Fermanı", "m": "Paris Konferansı kararlarında etkili olmak için ilan edildi (Abdülmecid)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kırım Savaşı İlkleri",
+      "i": [
+        { "k": "İlk dış borç", "m": "İngiltere'den alındı (Kırım Savaşı sırasında, Sinop'ta donanma yakılınca)", "s": "z" },
+        { "k": "En çok dış borç", "m": "Fransa'dan alındı", "s": "z" },
+        { "k": "İlk telgraf hattı", "m": "İstanbul-Edirne-Şumnu (Kırım Savaşı sırasında, İngilizlerin yardımıyla)", "s": "z" },
+        { "k": "Florence Nightingale", "m": "Selimiye Kışlası'nda modern hemşireliğin kurucusu; 'lambalı kadın'", "s": "z" },
+        { "k": "Hasta adam", "m": "Osmanlı'yı 'hasta adam' niteleyen: Rusya / Çar I. Nikolay (2015 KPSS)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Donanma Yakılan Yerler",
+      "i": [
+        { "k": "İÇİN(S)", "m": "İnebahtı-Çeşme-Navarin-Sinop", "s": "z" },
+        { "k": "İnebahtı", "m": "Haçlılar / Kıbrıs fethi / II. Selim", "s": "z" },
+        { "k": "Çeşme", "m": "Rusya / 1768-74 savaşı / III. Mustafa", "s": "z" },
+        { "k": "Navarin", "m": "İng+Fr+Rus / Rum isyanı bastırıldığı için / II. Mahmut", "s": "z" },
+        { "k": "Sinop", "m": "Rusya / Kırım Savaşı / Abdülmecid", "s": "z" }
+      ]
+    },
+    {
+      "b": "93 Harbi Kahramanları",
+      "i": [
+        { "k": "Gazi Osman Paşa", "m": "Plevne müdafii (Balkan cephesi); adına mehter marşları yazıldı", "s": "z" },
+        { "k": "Nene Hatun", "m": "Erzurum Aziziye tabyası; 'çocuklarım anasız yaşar da vatansız yaşayamaz'; 93 harbinde (Kurtuluş Savaşı'nda DEĞİL)", "s": "z" },
+        { "k": "Gazi Ahmet Muhtar Paşa", "m": "Kafkas cephesi kahramanı (93 Harbi)", "s": "z" },
+        { "k": "Süleyman Hüsnü Paşa", "m": "Şıpka kahramanı (Balkan cephesi)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kuzey Afrika Kayıpları",
+      "i": [
+        { "k": "1830 Cezayir", "m": "K.Afrika'da kaybedilen İLK toprak; Fransa işgali", "s": "z" },
+        { "k": "1881 Tunus", "m": "Fransa işgali", "s": "z" },
+        { "k": "1882 Mısır", "m": "İngiltere işgali (Süveyş kanalı nedeniyle)", "s": "z" },
+        { "k": "1912 Trablusgarp", "m": "K.Afrika'da kaybedilen SON toprak; İtalya (Uşi Ant.); 3 kıta → 2 kıta", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Sırp İsyanı", "o": "Osmanlı'da milliyetçilik etkisiyle isyan eden İLK azınlık kimdir?", "a": "Sırplar (1804, Karayorgi liderliğinde)" },
+    { "c": "Sırp İsyanı", "o": "Milliyetçilik etkisiyle imtiyaz kazanan ilk azınlık ve anlaşma?", "a": "Sırplar — 1812 Bükreş Anlaşması\n(1806-12 Osmanlı-Rus Savaşı sonucu)" },
+    { "c": "Sırp İsyanı", "o": "Sırpların bağımsızlık sürecini hangi şifreyle kodluyoruz? Aşamaları neler?", "a": "BEB\nBükreş → imtiyaz\nEdirne → özerklik\nBerlin → bağımsızlık" },
+    { "c": "Sırp İsyanı", "o": "1806-1812 Osmanlı-Rus Savaşı'nın sebebi nedir?", "a": "Osmanlı'nın Sırp isyanını bastırması\nSonuç: Bükreş Anlaşması" },
+    { "c": "Sırp İsyanı", "o": "Sırplar hangi anlaşmayla özerk oldu?", "a": "1829 Edirne Anlaşması\n(iç işlerinde serbest, dış işlerinde Osmanlı'ya bağlı)" },
+    { "c": "Sırp İsyanı", "o": "Sırplar hangi anlaşmayla tam bağımsız oldu?", "a": "1878 Berlin Anlaşması" },
+    { "c": "Viyana Kongresi", "o": "1815 Viyana Kongresi'ni kim topladı ve temel kararı neydi?", "a": "Avusturya Başbakanı Meternich\nKarar: Milliyetçilik isyanları birlikte bastırılacak (Meternich sistemi)" },
+    { "c": "Viyana Kongresi", "o": "Restorasyon dönemi ne zaman başladı, ne zaman sona erdi?", "a": "Başlangıç: 1815 Viyana Kongresi\nSon: Navarin Baskını (1827)\nNeden: Avrupalılar kendi kararına uymadı" },
+    { "c": "Viyana Kongresi", "o": "Şark sorunu ne demek ve ilk kez nerede gündeme geldi?", "a": "Şark sorunu = Osmanlı Devleti meselesi\nİlk kez 1815 Viyana Kongresi'nde gündeme geldi" },
+    { "c": "Yunan İsyanı", "o": "Filiki Eterya nedir, kim kurdu?", "a": "Yunan isyanına destek cemiyeti\nKurucu: Rus Alexander İpsilanti\n(İleride Etnik-i Eterya olacak)" },
+    { "c": "Yunan İsyanı", "o": "Lord Byron kimdir?", "a": "Yunan isyanına destek veren İngiliz şair" },
+    { "c": "Yunan İsyanı", "o": "Tepedelenli Ali Paşa'nın Yunan isyanındaki rolü nedir?", "a": "Yanya valisi; Yunan isyanlarını bastırıyordu\nRum devlet adamları onu Mahmut'a şikâyet etti\nGörevden alınınca isyan etti → Yunanlılar Mora'da büyük isyan çıkardı" },
+    { "c": "Yunan İsyanı", "o": "Kavalalı Mehmet Ali Paşa Yunan isyanında ne yaptı?", "a": "Mora+Girit valiliği karşılığında Osmanlı'ya yardım etti\n→ Merkezi otorite zayıflığının göstergesi" },
+    { "c": "Yunan İsyanı", "o": "Navarin Baskını nedir? Sonuçları?", "a": "İngiltere+Fransa+Rusya Osmanlı donanmasını yaktı\n(Rum isyanını bastırdık diye)\nSonuç: Restorasyon dönemi sona erdi" },
+    { "c": "Yunan İsyanı", "o": "Milliyetçilik etkisiyle bağımsız olan İLK azınlık? Hangi anlaşmayla?", "a": "Yunanlılar — 1829 Edirne Anlaşması\n(1827-28 Osmanlı-Rus Savaşı sonucu)" },
+    { "c": "Yunan İsyanı", "o": "Osmanlı donanmasının yakıldığı yerlerin şifresi ve sırası?", "a": "İÇİN(S)\nİnebahtı → Çeşme → Navarin → Sinop" },
+    { "c": "Kavalalı Sorunu", "o": "Nizip Savaşı nedir?", "a": "Osmanlı kendi valisi Kavalalı'ya yenildi\nYer: Gaziantep\nArdından Kavalalı'nın ordusu Kütahya'ya kadar geldi" },
+    { "c": "Kavalalı Sorunu", "o": "1833 Kütahya Anlaşması ile Kavalalı'ya ne verildi?", "a": "Şam (Suriye), Girit, Adana ve Cidde valilik hakları" },
+    { "c": "Kavalalı Sorunu", "o": "'Denize düşen yılana sarılır' sözü kime ait, neden söylendi?", "a": "II. Mahmut\nİng ve Fr yardım etmeyince Kavalalı'ya karşı Rusya'dan yardım istendi" },
+    { "c": "Kavalalı Sorunu", "o": "Mısır sorunu hangi konferansta çözüldü?", "a": "1840 Londra Konferansı\nKavalalı'ya verilen yerler geri alındı\nMısır sorunu iç sorunken dış sorun haline geldi" },
+    { "c": "Kavalalı Sorunu", "o": "İç sorunun dış sorun haline gelen Osmanlı meseleleri?", "a": "1. Cem Sultan olayı\n2. Mısır meselesi (1840 Londra Konferansı)" },
+    { "c": "Hünkar İskelesi ve Boğazlar", "o": "1833 Hünkar İskelesi Anlaşması'nın maddeleri neler?", "a": "1) Osmanlı saldırıya uğrarsa → Rusya yardıma gelecek\n2) Rusya saldırıya uğrarsa → Osmanlı boğazları Rusya lehine kapatacak\n8 yıllık, dostluk antlaşması" },
+    { "c": "Hünkar İskelesi ve Boğazlar", "o": "Osmanlı'nın boğazlar üzerindeki egemenlik haklarını SON KEZ tek başına kullandığı anlaşma?", "a": "1833 Hünkar İskelesi Anlaşması\n(Ardından 1841 Londra Boğazlar Sözleşmesi ile boğazlar uluslararası sorun oldu)" },
+    { "c": "Hünkar İskelesi ve Boğazlar", "o": "Boğazlar ilk kez hangi anlaşmayla uluslararası sorun haline geldi?", "a": "1841 Londra Boğazlar Sözleşmesi" },
+    { "c": "Hünkar İskelesi ve Boğazlar", "o": "Osmanlı ile Rusya arasındaki ilk dostluk anlaşması hangisidir?", "a": "1724 İstanbul Anlaşması\n(Osmanlı-Rusya İran topraklarını paylaştı)\nHünkar İskelesi de dostluk antlaşmasıdır" },
+    { "c": "Baltalimanı ve Ekonomi", "o": "1838 Baltalimanı Ticaret Anlaşması nedir, kimlerle yapıldı?", "a": "Osmanlı-İngiltere\nİngiltere'ye kapitülasyonlar genişletildi\n(Hünkar İskelesi'nde kızdırılan İngiltere'nin gönlünü almak için)" },
+    { "c": "Baltalimanı ve Ekonomi", "o": "Yed-i vahit uygulaması nedir? Ne zaman kaldırıldı?", "a": "Osmanlı'nın tekelcilik sistemi\nBazı hammaddelerin yurt dışına çıkmasını engelliyordu\n1838 Baltalimanı ile kaldırıldı" },
+    { "c": "Baltalimanı ve Ekonomi", "o": "Baltalimanı Ticaret Anlaşması'nın Osmanlı ekonomisine etkileri?", "a": "1) Ucuz İngiliz malları pazarı doldurdu\n2) Lonca teşkilatı çöktü\n3) Osmanlı Avrupa'nın açık pazarı / yarı sömürgesi oldu\n4) Yed-i vahit kaldırıldı → hammadde dışarı aktı" },
+    { "c": "Tanzimat ve Islahat", "o": "Tanzimat Fermanı neden ilan edildi?", "a": "Mısır meselesinin görüşüleceği 1840 Londra Konferansı'nda\nAvrupalılara şirin görünmek için (1839, Abdülmecid)" },
+    { "c": "Tanzimat ve Islahat", "o": "Islahat Fermanı neden ilan edildi?", "a": "Kırım Savaşı'ndan sonra Paris Konferansı kararlarında\netkili olabilmek için (1856, Abdülmecid)" },
+    { "c": "Tanzimat ve Islahat", "o": "Islahat Fermanı'nın Paris Anlaşması'na madde olarak eklenmesinin sonucu?", "a": "Osmanlı'nın iç işlerine karışılmasının önü açıldı" },
+    { "c": "Kırım Savaşı", "o": "Kırım Savaşı'nın (1853-56) nedenleri neler?", "a": "1) Rusya Osmanlı'yı parçalamak istiyor\n2) Sıcak denizlere inme arzusu\n3) Panslavizm\n4) Kutsal yerler sorunu\n5) Mülteciler sorunu\n6) Mençikov'un istekleri" },
+    { "c": "Kırım Savaşı", "o": "Kırım Savaşı'nda Osmanlı'nın müttefikleri kimler?", "a": "İngiltere, Fransa, Avusturya, Piemonte (İtalya)\n5'e karşı 1 (Rusya) → Osmanlı kazandı" },
+    { "c": "Kırım Savaşı", "o": "Osmanlı ilk dış borcunu kimden, ne zaman, neden aldı?", "a": "İngiltere'den / Kırım Savaşı sırasında\nNeden: Sinop'ta yakılan donanmayı yenilemek için" },
+    { "c": "Kırım Savaşı", "o": "Osmanlı'da ilk telgraf hattı ne zaman, nereye kuruldu?", "a": "Kırım Savaşı sırasında\nİstanbul — Edirne — Şumnu hattı\n(İngilizlerle haberleşmek için)" },
+    { "c": "Kırım Savaşı", "o": "Florence Nightingale kimdir?", "a": "Dünyada modern hemşireliğin kurucusu\nKırım Savaşı'nda Selimiye Kışlası'nda yaralıları tedavi etti\nAskerler tarafından 'lambalı kadın' olarak bilinir" },
+    { "c": "Kırım Savaşı", "o": "Osmanlı'yı 'hasta adam' olarak niteleyen devlet ve kişi? (2015 KPSS)", "a": "Rusya — Çar I. Nikolay\n(Kırım Savaşı öncesi İngiltere'ye söyledi)" },
+    { "c": "Paris Anlaşması", "o": "1856 Paris Anlaşması'nın önemli maddeleri neler?", "a": "1) Osmanlı toprak bütünlüğü Avrupalılarca korunacak\n2) Osmanlı ilk kez Avrupa devleti sayıldı\n3) Hem Osmanlı hem Rusya Karadeniz'de donanma bulunduramaz\n4) Islahat Fermanı anlaşmaya eklendi" },
+    { "c": "Paris Anlaşması", "o": "Paris Anlaşması'nda savaşta yer almadığı halde anlaşmada yer alan devlet?", "a": "Prusya (Almanya)" },
+    { "c": "Paris Anlaşması", "o": "Osmanlı Kırım Savaşı'nı kazandığı halde neden yenilmiş sayılır?", "a": "Hem Osmanlı hem Rusya Karadeniz'de donanma bulunduramaz maddesi\n→ Kazanan devlet yenilmiş muamelesi gördü\n→ Savaş meydanında kazanılan, masada kaybedildi" },
+    { "c": "93 Harbi", "o": "1877-78 Osmanlı-Rus Savaşı'nın (93 Harbi) sebebi?", "a": "1876 Tersane Konferansı'nda Rusya'nın isteklerinin reddedilmesi\nve Rus elçisinin konferanstan kovulması" },
+    { "c": "93 Harbi", "o": "93 Harbi'nde Kafkas cephesi kahramanları kimlerdir?", "a": "1) Gazi Ahmet Muhtar Paşa\n2) Nene Hatun (Erzurum Aziziye tabyası)\n'Çocuklarım anasız yaşar da vatansız yaşayamaz'" },
+    { "c": "93 Harbi", "o": "Plevne müdafii kimdir?", "a": "Gazi Osman Paşa (Balkan cephesi)\nRuslara uzun süre geçiş izni vermedi\nAdına mehter marşları yazıldı" },
+    { "c": "93 Harbi", "o": "Şıpka kahramanı kimdir?", "a": "Süleyman Hüsnü Paşa (Balkan cephesi)" },
+    { "c": "93 Harbi", "o": "Nene Hatun hangi savaşta görev aldı? (KPSS tuzağı)", "a": "93 Harbi (1877-78 Osmanlı-Rus Savaşı)\nKurtuluş Savaşı'nda DEĞİL!" },
+    { "c": "Berlin Anlaşması", "o": "Berlin Anlaşması ile bağımsız olan devletler?", "a": "SAKAR: Sırbistan + Karadağ + Romanya\n(Panslavizm politikasının sonucu)" },
+    { "c": "Berlin Anlaşması", "o": "İngiltere Berlin Anlaşması öncesi Osmanlı'dan ne aldı, neden?", "a": "Kıbrıs'ı geçici olarak aldı\nNeden: Fransa'nın açtığı Süveyş Kanalı sömürge yollarını tehdit ediyordu\n(Hakimlik sınavında soruldu)" },
+    { "c": "Berlin Anlaşması", "o": "Ermeni sorunu ilk kez hangi anlaşmayla uluslararası hale geldi?", "a": "1878 Berlin Anlaşması\n(Ermenilerin bulunduğu bölgelerde ıslahat maddesi)" },
+    { "c": "Berlin Anlaşması", "o": "1878 Halepa Fermanı nedir?", "a": "Berlin Anlaşması gereğince çıkarıldı\nOsmanlı'nın Giritli Rumlara özerklik verdiği belge" },
+    { "c": "Berlin Anlaşması", "o": "Elviye-i Selase neresidir? Ne zaman geri alındı?", "a": "Kars, Ardahan, Batum\nBerlin Anlaşması ile Rusya'ya bırakıldı\nI. Dünya Savaşı'nda geri alındı" },
+    { "c": "Berlin Anlaşması", "o": "93 Harbi sonrası Osmanlı'nın denge politikasında ne değişti?", "a": "İngiltere Osmanlı'nın toprak bütünlüğünü korumaktan vazgeçti\n→ Osmanlı Almanya'ya (Prusya) yakınlaştı (Abdülhamit dönemi)" },
+    { "c": "Meşrutiyet ve İstibdat", "o": "Osmanlı'nın ilk yazılı anayasası hangisidir, ne zaman yürürlüğe girdi?", "a": "Kanun-i Esasi (1876)\nI. Meşrutiyet ile birlikte (Abdülhamit)" },
+    { "c": "Meşrutiyet ve İstibdat", "o": "I. Meşrutiyet neden ilan edildi?", "a": "Balkan bunalımını çözmek için toplanan Tersane Konferansı'nda\netkili olabilmek amacıyla (1876, Abdülhamit)" },
+    { "c": "Meşrutiyet ve İstibdat", "o": "İstibdat dönemi ne kadar sürdü?", "a": "1878-1908 (30 yıl)\nAbdülhamit 93 Harbi'ni bahane ederek meclisi feshetti" },
+    { "c": "Meşrutiyet ve İstibdat", "o": "II. Meşrutiyet neden ilan edildi? (iki sebep)", "a": "1) Reval görüşmeleri (İng-Rus Osmanlı'yı paylaşma planı)\n2) Hürriyet Taburlarının isyanı\n→ 1908'de Abdülhamit II. Meşrutiyeti ilan etmek zorunda kaldı" },
+    { "c": "Meşrutiyet ve İstibdat", "o": "II. Meşrutiyet karışıklıklarında Osmanlı'dan ayrılan yerler?", "a": "BBG: Bulgaristan + Bosna + Girit\n(Berlin'de bağımsız olan SAKAR ile karıştırma!)" },
+    { "c": "Meşrutiyet ve İstibdat", "o": "31 Mart İsyanı'nın önemi nedir?", "a": "Osmanlı tarihinde mevcut rejime karşı ilk isyan\n(İlk irticai/gerici ayaklanma)\nİsyan edenler: II. Meşrutiyeti istemiyor, istibdata dönmek istiyor" },
+    { "c": "Meşrutiyet ve İstibdat", "o": "31 Mart İsyanı'nı kim bastırdı? Sonucu ne oldu?", "a": "Hareket Ordusu bastırdı\nSonuç: Abdülhamit meclis kararıyla tahttan indirilen ilk padişah oldu\nYerine V. Mehmet Reşat geçti" },
+    { "c": "Meşrutiyet ve İstibdat", "o": "Osmanlı tahtında en az süreyle kalan padişah?", "a": "V. Murat (93 gün, 1876)" },
+    { "c": "Kuzey Afrika", "o": "Osmanlı'nın Kuzey Afrika'da kaybettiği ilk ve son topraklar?", "a": "İLK: Cezayir (1830, Fransa)\nSON: Trablusgarp (1912, İtalya/Uşi Ant.)\nTrablusgarp kaybıyla 3 kıta → 2 kıta" },
+    { "c": "Kuzey Afrika", "o": "Kuzey Afrika'daki kayıpların kronolojisi ve işgalci devletler?", "a": "1830 Cezayir → Fransa\n1881 Tunus → Fransa\n1882 Mısır → İngiltere (Süveyş)\n1912 Trablusgarp → İtalya" },
+    { "c": "Kuzey Afrika", "o": "1897 Dömeke Meydan Muharebesi'nin önemi?", "a": "Osmanlı-Yunanistan arasında\nOsmanlı'nın batıda yaptığı SON meydan savaşı\nOsmanlı zaferi (Abdülhamit dönemi)" },
+    { "c": "Kuzey Afrika", "o": "Mustafa Kemal'in 'gençliğin verdiği heyecan ile katılmak istediği' savaş?", "a": "1897 Dömeke Meydan Muharebesi\n(Manastır Askeri İdadisi'nde öğrenci, 16 yaşında)" },
+    { "c": "Padişah Kronolojisi", "o": "Dağılma dönemi padişah sırası ve tarihleri?", "a": "II. Mahmut (1808-1839)\nAbdülmecid (1839-1861)\nAbdülaziz (1861-1876)\nV. Murat (1876, 93 gün)\nII. Abdülhamit (1876-1909)" },
+    { "c": "Padişah Kronolojisi", "o": "19. yy politikası nedir? 18. yy'dan farkı?", "a": "19. yy: Denge politikası\n18. yy: 1) Kaybedilen toprakları geri alma\n         2) Var olan toprakları koruma\nDenge politikası ilk kez Napolyon'un Mısır işgalinde uygulandı" },
+    { "c": "Padişah Kronolojisi", "o": "Panslavizm nedir?", "a": "Slav birliği; Rusya'nın politikası\nBalkan slavlarını birleştirip tek devlet yaparak\nRusya'ya bağlamak ve sıcak denizlere inmek" },
+    { "c": "Padişah Kronolojisi", "o": "Abdülmecid döneminin mülteciler sorunu nedir?", "a": "Macar ve Leh mülteciler Rusya'dan kaçıp Osmanlı'ya sığındı\nAbdülmecid: 'Tacımı tahtımı veririm de mültecileri geri vermem'\n→ Kırım Savaşı nedenlerinden biri" },
+    { "c": "Padişah Kronolojisi", "o": "1875 Balkan Bunalımı nedir? Hangi padişah döneminde?", "a": "Balkan devletlerinin vergi vermek istememesi ve isyan süreçleri\nAbdülaziz dönemi\n(Çözmek için Tersane Konferansı → Abdülhamit dönemi)" }
+  ],
+  "tuzak": [
+    { "q": "Milliyetçilik etkisiyle isyan eden İLK azınlık hangisidir?", "o": ["Sırplar", "Yunanlılar"], "c": 0, "n": "Sırplar isyan eden ilk, Yunanlılar bağımsız olan ilk azınlıktır." },
+    { "q": "Milliyetçilik etkisiyle bağımsızlığını kazanan İLK azınlık hangisidir?", "o": ["Sırplar", "Yunanlılar"], "c": 1, "n": "Sırplar imtiyaz/özerklik kazandı ama bağımsızlığa ilk ulaşan Yunanlılardır (1829 Edirne)." },
+    { "q": "Osmanlı ilk dış borcunu hangi devletten aldı?", "o": ["İngiltere", "Fransa"], "c": 0, "n": "İlk dış borç İngiltere'den; en çok dış borç Fransa'dan alınmıştır." },
+    { "q": "Osmanlı en çok dış borcunu hangi devletten aldı?", "o": ["İngiltere", "Fransa"], "c": 1, "n": "İlk dış borç İngiltere, en çok dış borç Fransa — karıştırılır." },
+    { "q": "Osmanlı donanması Navarin'de kim tarafından yakıldı?", "o": ["Sadece Rusya", "İngiltere + Fransa + Rusya"], "c": 1, "n": "Çeşme ve Sinop'ta sadece Rusya yaktı; Navarin'de üç devlet birlikte yaktı." },
+    { "q": "Osmanlı donanmasının Sinop'ta yakılması hangi savaş sırasında oldu?", "o": ["1827-28 Osmanlı-Rus Savaşı", "Kırım Savaşı (1853-56)"], "c": 1, "n": "Navarin 1827-28 savaşıyla ilgili; Sinop ise Kırım Savaşı sırasındadır." },
+    { "q": "Restorasyon dönemini sona erdiren olay hangisidir?", "o": ["Navarin Baskını", "Berlin Anlaşması"], "c": 0, "n": "Avrupalılar Viyana kararına uymayıp Navarin'de donanma yakınca restorasyon sona erdi." },
+    { "q": "Boğazlar ilk kez hangi anlaşmayla uluslararası sorun haline geldi?", "o": ["1833 Hünkar İskelesi", "1841 Londra Boğazlar Sözleşmesi"], "c": 1, "n": "Hünkar İskelesi'nde Osmanlı tek başına kullandı; uluslararası sorun 1841'de başladı." },
+    { "q": "Osmanlı'nın boğazlar üzerindeki egemenliğini son kez tek başına kullandığı anlaşma?", "o": ["1841 Londra Boğazlar Sözleşmesi", "1833 Hünkar İskelesi Anlaşması"], "c": 1, "n": "Hünkar İskelesi son kez tek başına kullanım; Londra Sözleşmesi'yle uluslararası hal aldı." },
+    { "q": "Tanzimat Fermanı hangi konferans öncesi ilan edildi?", "o": ["Paris Konferansı", "Londra Konferansı (Mısır)"], "c": 1, "n": "Tanzimat → Londra Konferansı (Mısır); Islahat → Paris Konferansı — kronoloji karışır." },
+    { "q": "Islahat Fermanı hangi konferans öncesi ilan edildi?", "o": ["Londra Konferansı (Mısır)", "Paris Konferansı"], "c": 1, "n": "Islahat Fermanı Paris Konferansı için; Tanzimat Fermanı Londra Konferansı için ilan edildi." },
+    { "q": "Osmanlı'yı 'hasta adam' olarak niteleyen devlet hangisidir?", "o": ["İngiltere", "Rusya"], "c": 1, "n": "İngiltere 'hasta adamı iyileştirelim' dedi; 'hasta adam' diyen Rusya (Çar I. Nikolay)." },
+    { "q": "Berlin Anlaşması'yla bağımsız olan devletler hangileridir?", "o": ["Bulgaristan, Bosna, Girit", "Sırbistan, Karadağ, Romanya"], "c": 1, "n": "Berlin'de SAKAR (Sırbistan-Karadağ-Romanya); BBG (Bulgaristan-Bosna-Girit) II. Meşrutiyet karışıklığında ayrıldı." },
+    { "q": "II. Meşrutiyet karışıklıklarında ayrılan yerler hangileridir?", "o": ["Sırbistan, Karadağ, Romanya", "Bulgaristan, Bosna, Girit"], "c": 1, "n": "SAKAR Berlin'de bağımsız; BBG II. Meşrutiyet karışıklığında ayrıldı — çok karışır!" },
+    { "q": "Nene Hatun hangi savaşta yer aldı?", "o": ["Kurtuluş Savaşı", "93 Harbi (1877-78)"], "c": 1, "n": "Nene Hatun 93 Harbi'nde Erzurum Aziziye tabyasında; Kurtuluş Savaşı'nda değil (KPSS'de soruldu)." },
+    { "q": "Plevne müdafii olarak bilinen kişi kimdir?", "o": ["Gazi Ahmet Muhtar Paşa", "Gazi Osman Paşa"], "c": 1, "n": "Gazi Ahmet Muhtar Paşa Kafkas cephesi; Gazi Osman Paşa Plevne müdafii (Balkan cephesi)." },
+    { "q": "Şıpka kahramanı kimdir?", "o": ["Gazi Osman Paşa", "Süleyman Hüsnü Paşa"], "c": 1, "n": "Gazi Osman Paşa = Plevne müdafii; Süleyman Hüsnü Paşa = Şıpka kahramanı." },
+    { "q": "Osmanlı'nın Kuzey Afrika'da kaybettiği İLK toprak hangisidir?", "o": ["Tunus", "Cezayir"], "c": 1, "n": "Cezayir 1830'da ilk kaybedilen; Tunus 1881'de kaybedildi — tarih sırasına dikkat." },
+    { "q": "Kıbrıs'ı hangi anlaşma öncesi İngiltere'ye bıraktık?", "o": ["Paris Anlaşması", "Berlin Anlaşması"], "c": 1, "n": "Berlin Anlaşması'nda İngiltere'nin desteğini almak için Kıbrıs geçici verildi; Paris'te değil." },
+    { "q": "Osmanlı'nın batıda yaptığı son meydan savaşı hangisidir?", "o": ["Kırım Savaşı", "Dömeke Meydan Muharebesi"], "c": 1, "n": "Kırım büyük savaştır ama batıda son meydan savaşı 1897 Dömeke'dir (Osmanlı-Yunanistan)." },
+    { "q": "Osmanlı ilk kez hangi anlaşmayla Avrupa devleti sayıldı?", "o": ["Berlin Anlaşması", "Paris Anlaşması"], "c": 1, "n": "Paris (1856) ilk kez Avrupa devleti; Berlin (1878) farklı konuları içerir." },
+    { "q": "Ermeni sorunu ilk kez uluslararası belgeye hangi anlaşmayla yansıdı?", "o": ["Paris Anlaşması", "Berlin Anlaşması"], "c": 1, "n": "Paris'te Ermeni maddesi yok; Berlin Anlaşması'nda Ermeni bölgelerinde ıslahat maddesi var." },
+    { "q": "Osmanlı tarihinde mevcut rejime karşı ilk isyan hangisidir?", "o": ["Kabakçı Mustafa İsyanı", "31 Mart İsyanı"], "c": 1, "n": "Kabakçı Mustafa padişahı deviren isyan; 31 Mart İsyanı rejimi (meşrutiyeti) yıkmaya yönelik ilk isyandır." },
+    { "q": "1840 Londra Konferansı'nın konusu nedir?", "o": ["Boğazlar sorunu", "Mısır meselesi"], "c": 1, "n": "Mısır meselesi 1840 Londra Konferansı; Boğazlar 1841 Londra Boğazlar Sözleşmesi — aynı yerde ama farklı yıl." },
+    { "q": "Osmanlı donanmasının İnebahtı'da yakılma sebebi nedir?", "o": ["Yunan isyanını bastırdık diye", "Kıbrıs'ı fethettik diye"], "c": 1, "n": "İnebahtı = Kıbrıs fethi sonrası; Navarin = Yunan isyanını bastırdık diye. Neden-yer eşleşmesi karışır." },
+    { "q": "Meclis kararıyla tahttan indirilen ilk padişah kimdir?", "o": ["V. Murat", "II. Abdülhamit"], "c": 1, "n": "V. Murat akıl sağlığı sebebiyle indirildi; meclis kararıyla ilk indirilen II. Abdülhamit'tir." },
+    { "q": "Yed-i vahit uygulamasını kaldıran anlaşma hangisidir?", "o": ["Kütahya Anlaşması", "Baltalimanı Ticaret Anlaşması"], "c": 1, "n": "Kütahya Kavalalı sorunuyla ilgili; yed-i vahit'i kaldıran Baltalimanı'dır." },
+    { "q": "Osmanlı'da ilk telgraf hattı hangi savaş sırasında kuruldu?", "o": ["93 Harbi", "Kırım Savaşı"], "c": 1, "n": "İlk telgraf hattı Kırım Savaşı sırasında İstanbul-Edirne-Şumnu arasına kuruldu." },
+    { "q": "Halepa Fermanı kime özerklik verdi?", "o": ["Ermeniler", "Giritli Rumlar"], "c": 1, "n": "Ermeniler için ıslahat sözü verildi ama Halepa Fermanı özellikle Giritli Rumlara özerklik belgesidir." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi 1815 Viyana Kongresi'nin kararlarından biri değildir?",
+      "o": ["Milliyetçilik isyanları birlikte bastırılacak", "Restorasyon dönemi başlatılacak", "Şark sorunu ilk kez gündeme geldi", "Osmanlı Avrupa devleti kabul edildi", "Meternich sistemi oluşturuldu"],
+      "c": 3,
+      "e": "Osmanlı'nın Avrupa devleti kabul edilmesi 1856 Paris Anlaşması'ndadır, Viyana Kongresi'nde değil."
+    },
+    {
+      "q": "Osmanlı Devleti'nde milliyetçilik etkisiyle isyan ederek bağımsızlığına kavuşan ilk azınlık aşağıdakilerden hangisidir?",
+      "o": ["Sırplar", "Yunanlılar", "Bulgarlar", "Romenler", "Arnavutlar"],
+      "c": 1,
+      "e": "Sırplar ilk isyan eden ve imtiyaz kazanan azınlıktır; ancak bağımsızlığa ulaşan ilk azınlık 1829 Edirne Anlaşması'yla Yunanlılardır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Kırım Savaşı sırasında Osmanlı Devleti'nde gerçekleşen ilklerden biri değildir?",
+      "o": ["İlk dış borcun alınması", "İlk telgraf hattının kurulması", "Florence Nightingale'in ortaya çıkması", "İlk kez Avrupa devleti sayılması", "Sinop'ta donanmanın yakılması"],
+      "c": 3,
+      "e": "Osmanlı ilk kez Avrupa devleti sayılması Kırım Savaşı sonrasında 1856 Paris Anlaşması'yla olmuştur, savaş sırasında değil."
+    },
+    {
+      "q": "Osmanlı Devleti'nin boğazlar üzerindeki egemenlik haklarını son kez tek başına kullandığı anlaşma aşağıdakilerden hangisidir?",
+      "o": ["1841 Londra Boğazlar Sözleşmesi", "1856 Paris Anlaşması", "1833 Hünkar İskelesi Anlaşması", "1878 Berlin Anlaşması", "1829 Edirne Anlaşması"],
+      "c": 2,
+      "e": "Hünkar İskelesi'nde Osmanlı boğazları tek başına kullandı; ardından 1841 Londra Sözleşmesi'yle boğazlar uluslararası sorun oldu."
+    },
+    {
+      "q": "I. Osmanlı'nın ilk dış borcu İngiltere'den alınmıştır.\nII. Osmanlı en çok dış borcu Fransa'dan almıştır.\nIII. İlk dış borç Kırım Savaşı sırasında alınmıştır.\n\nYukarıdaki ifadelerden hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız II", "I ve II", "I ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Üç ifade de doğrudur: ilk borç İngiltere'den Kırım Savaşı sırasında; en çok borç Fransa'dan alınmıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1838 Baltalimanı Ticaret Anlaşması'nın sonuçlarından biri değildir?",
+      "o": ["Lonca teşkilatının çökmesi", "Osmanlı'nın açık pazar haline gelmesi", "Yed-i vahit uygulamasının kaldırılması", "Osmanlı'nın ilk dış borç alması", "Kapitülasyonların genişletilmesi"],
+      "c": 3,
+      "e": "İlk dış borç Kırım Savaşı sırasında (1854) alındı; Baltalimanı (1838) ile ilgisi yoktur."
+    },
+    {
+      "q": "Osmanlı Devleti'ni 'hasta adam' olarak niteleyen devlet aşağıdakilerden hangisidir?",
+      "o": ["İngiltere", "Fransa", "Avusturya", "Rusya", "Prusya"],
+      "c": 3,
+      "e": "Rus Çarı I. Nikolay Osmanlı'ya 'hasta adam' demiştir. İngiltere ise 'hasta adamı iyileştirelim' demiştir (2015 KPSS)."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1856 Paris Anlaşması'nın maddelerinden biri değildir?",
+      "o": ["Osmanlı'nın toprak bütünlüğü korunacak", "Osmanlı Avrupa devleti sayılacak", "Karadeniz'de Rusya donanma bulunduramaz", "Islahat Fermanı anlaşmaya eklendi", "Boğazlar uluslararası sorun haline geldi"],
+      "c": 4,
+      "e": "Boğazların uluslararası sorun haline gelmesi 1841 Londra Boğazlar Sözleşmesi'yledir; Paris Anlaşması'nda bu madde yoktur."
+    },
+    {
+      "q": "1877-78 Osmanlı-Rus Savaşı'nda (93 Harbi) Plevne müdafii olarak tanınan kişi aşağıdakilerden hangisidir?",
+      "o": ["Gazi Ahmet Muhtar Paşa", "Süleyman Hüsnü Paşa", "Nene Hatun", "Gazi Osman Paşa", "Tepedelenli Ali Paşa"],
+      "c": 3,
+      "e": "Gazi Osman Paşa Plevne müdafiidir (Balkan cephesi). Gazi Ahmet Muhtar Paşa Kafkas cephesinde, Süleyman Hüsnü Paşa Şıpka'dadır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1878 Berlin Anlaşması'nın sonuçlarından biri değildir?",
+      "o": ["Sırbistan bağımsız oldu", "Kıbrıs geçici olarak İngiltere'ye bırakıldı", "Ermeni sorunu uluslararası hale geldi", "Yunanlılar bağımsız oldu", "Bosna-Hersek geçici olarak Avusturya'ya bırakıldı"],
+      "c": 3,
+      "e": "Yunanlılar 1829 Edirne Anlaşması'yla bağımsız olmuştur; Berlin Anlaşması'yla bağımsız olan SAKAR'dır (Sırbistan-Karadağ-Romanya)."
+    },
+    {
+      "q": "I. Tanzimat Fermanı Londra Konferansı öncesi ilan edilmiştir.\nII. Islahat Fermanı Paris Konferansı öncesi ilan edilmiştir.\nIII. Her iki ferman da Abdülmecid döneminde ilan edilmiştir.\n\nYukarıdaki ifadelerden hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız II", "I ve II", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Üçü de doğru: Tanzimat (1839) Londra Konf. için, Islahat (1856) Paris Konf. için ilan edildi; ikisi de Abdülmecid dönemindedir."
+    },
+    {
+      "q": "Osmanlı Devleti'nin iç sorununun dış sorun haline gelmesine ilk örnek aşağıdakilerden hangisidir?",
+      "o": ["Mısır meselesi", "Cem Sultan olayı", "Kavalalı isyanı", "Balkan bunalımı", "Ermeni sorunu"],
+      "c": 1,
+      "e": "İç sorunun dış sorun olmasına ilk örnek Cem Sultan olayıdır; Mısır meselesi ikinci örnektir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi II. Meşrutiyet karışıklıklarında Osmanlı'dan ayrılan yerlerden biri değildir?",
+      "o": ["Bulgaristan", "Bosna", "Girit", "Romanya", "Hepsi ayrıldı"],
+      "c": 3,
+      "e": "Romanya 1878 Berlin Anlaşması'yla bağımsız oldu (SAKAR). II. Meşrutiyet karışıklığında ayrılan BBG'dir (Bulgaristan-Bosna-Girit)."
+    },
+    {
+      "q": "Fransa'nın Süveyş Kanalı'nı açması aşağıdaki gelişmelerden hangisine doğrudan neden olmuştur?",
+      "o": ["Kırım Savaşı'nın başlaması", "Osmanlı'nın ilk dış borç alması", "İngiltere'nin Kıbrıs'ı işgali", "Baltalimanı Anlaşması'nın imzalanması", "93 Harbi'nin çıkması"],
+      "c": 2,
+      "e": "Süveyş Kanalı İngiltere'nin sömürge yollarını tehdit edince İngiltere, Berlin Anlaşması öncesi Kıbrıs'ı Osmanlı'dan aldı."
+    },
+    {
+      "q": "Osmanlı Devleti'nin Kuzey Afrika'da kaybettiği ilk toprak parçası aşağıdakilerden hangisidir?",
+      "o": ["Tunus", "Mısır", "Trablusgarp", "Cezayir", "Libya"],
+      "c": 3,
+      "e": "Cezayir 1830'da Fransa tarafından işgal edildi ve Kuzey Afrika'da kaybedilen ilk toprak oldu."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Navarin Baskını'nın sonuçlarından biri değildir?",
+      "o": ["Restorasyon döneminin sona ermesi", "1827-28 Osmanlı-Rus Savaşı'nın başlaması", "Osmanlı donanmasının yakılması", "Boğazların uluslararası sorun olması", "Edirne Anlaşması'na giden sürecin başlaması"],
+      "c": 3,
+      "e": "Boğazların uluslararası sorun olması 1841 Londra Sözleşmesi'yledir; Navarin (1827) ile doğrudan ilgisi yoktur."
+    },
+    {
+      "q": "31 Mart İsyanı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": ["Osmanlı'da rejime yönelik ilk isyandır", "İsyan edenler meşrutiyet istemiştir", "1909 yılında çıkmıştır", "Hareket Ordusu tarafından bastırılmıştır", "Abdülhamit tahttan indirilmiştir"],
+      "c": 1,
+      "e": "İsyan edenler meşrutiyeti DEĞİL, istibdat dönemine dönmeyi istemiştir. Meşrutiyet karşıtı (irticai) isyandır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1833 Kütahya Anlaşması'yla Kavalalı Mehmet Ali Paşa'ya tanınan haklardan biridir?",
+      "o": ["Mora valiliği", "Mısır bağımsızlığı", "Şam valiliği", "İstanbul valiliği", "Kıbrıs valiliği"],
+      "c": 2,
+      "e": "Kütahya Anlaşması'yla Kavalalı'ya Şam, Girit, Adana, Cidde valilik hakları tanındı."
+    },
+    {
+      "q": "Mustafa Kemal Atatürk'ün 'gençliğin verdiği heyecan ile katılmayı çok istemiştim' dediği savaş aşağıdakilerden hangisidir?",
+      "o": ["Kırım Savaşı", "93 Harbi", "Trablusgarp Savaşı", "Dömeke Meydan Muharebesi", "Balkan Savaşları"],
+      "c": 3,
+      "e": "1897 Dömeke Meydan Muharebesi sırasında Mustafa Kemal Manastır Askeri İdadisi'nde 16 yaşında bir öğrenciydi."
+    },
+    {
+      "q": "Aşağıdaki Osmanlı-Rusya anlaşmalarından hangisi dostluk antlaşması niteliğindedir?",
+      "o": ["1812 Bükreş Anlaşması", "1829 Edirne Anlaşması", "1833 Hünkar İskelesi Anlaşması", "1856 Paris Anlaşması", "1878 Berlin Anlaşması"],
+      "c": 2,
+      "e": "Hünkar İskelesi karşılıklı yardım içerir (dostluk ant.). Diğerleri Osmanlı'nın mağlubiyetiyle biten savaşların sonucudur (Paris hariç — o da çok taraflı)."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Anlaşma → Sonucu",
+      "p": [
+        ["Bükreş (1812)", "Sırplara imtiyaz"],
+        ["Edirne (1829)", "Yunanlılar bağımsız, Sırplar özerk"],
+        ["Kütahya (1833)", "Kavalalı'ya Şam-Girit-Adana-Cidde hakları"],
+        ["Hünkar İskelesi (1833)", "Boğazlar son kez tek başına kullanıldı"],
+        ["Baltalimanı (1838)", "Kapitülasyonlar genişledi, yed-i vahit kalktı"],
+        ["Paris (1856)", "Osmanlı ilk kez Avrupa devleti sayıldı"],
+        ["Berlin (1878)", "SAKAR bağımsız, Ermeni sorunu uluslararası"]
+      ]
+    },
+    {
+      "ad": "Donanma yakılan yer → Sebep + Kim yaktı",
+      "p": [
+        ["İnebahtı", "Kıbrıs fethi / Haçlılar"],
+        ["Çeşme", "1768-74 savaşı / Rusya"],
+        ["Navarin", "Rum isyanı bastırıldı / İng+Fr+Rus"],
+        ["Sinop", "Kırım Savaşı / Rusya"]
+      ]
+    },
+    {
+      "ad": "Kişi → Unvanı / Rolü",
+      "p": [
+        ["Karayorgi", "Sırp isyanı lideri"],
+        ["Alexander İpsilanti", "Filiki Eterya kurucusu (Rus)"],
+        ["Kavalalı M. Ali Paşa", "Mısır valisi, Nizip'te Osmanlı'yı yendi"],
+        ["Gazi Osman Paşa", "Plevne müdafii"],
+        ["Nene Hatun", "Erzurum Aziziye tabyası (93 Harbi)"],
+        ["Süleyman Hüsnü Paşa", "Şıpka kahramanı"],
+        ["Florence Nightingale", "Modern hemşireliğin kurucusu"],
+        ["I. Nikolay", "Osmanlı'ya 'hasta adam' diyen Rus Çarı"]
+      ]
+    },
+    {
+      "ad": "Ferman / Anayasa → Neden ilan edildi",
+      "p": [
+        ["Tanzimat Fermanı (1839)", "Londra Konf. öncesi şirin görünmek"],
+        ["Islahat Fermanı (1856)", "Paris Konf. kararlarında etkili olmak"],
+        ["Kanun-i Esasi (1876)", "Tersane Konf. kararlarında etkili olmak"],
+        ["Halepa Fermanı (1878)", "Berlin Ant. gereği Girit'e özerklik"],
+        ["II. Meşrutiyet (1908)", "Reval görüşmeleri + Hürriyet Taburları isyanı"]
+      ]
+    },
+    {
+      "ad": "Kuzey Afrika toprağı → İşgalci devlet + Yıl",
+      "p": [
+        ["Cezayir (ilk kayıp)", "Fransa — 1830"],
+        ["Tunus", "Fransa — 1881"],
+        ["Mısır", "İngiltere — 1882"],
+        ["Trablusgarp (son kayıp)", "İtalya — 1912"],
+        ["Kıbrıs", "İngiltere — 1878 (geçici)"]
+      ]
+    },
+    {
+      "ad": "Kavram → Tanımı",
+      "p": [
+        ["Denge politikası", "19. yy; Avrupa'nın çıkarlarını kullanarak ömür uzatma"],
+        ["Panslavizm", "Slav birliği; Rusya'nın Balkan politikası"],
+        ["Meternich sistemi", "Milliyetçilik isyanlarını birlikte bastırma"],
+        ["Restorasyon", "Napolyon sonrası Avrupa'yı eski haline getirme"],
+        ["Yed-i vahit", "Osmanlı tekelcilik sistemi"],
+        ["Şark sorunu", "Avrupalıların Osmanlı meselesine verdiği ad"],
+        ["Elviye-i Selase", "Kars, Ardahan, Batum"]
+      ]
+    }
+  ]
+}

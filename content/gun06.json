@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "gun": 6,
+    "baslik": "Osmanlı Devleti Kuruluş Dönemi",
+    "ozet": "Osman Bey'den II. Murat'a kuruluş dönemi padişahları, savaşlar, teşkilatlanma ve fetret devri.",
+    "tahminiSoru": "KPSS'de ~5-7 soru",
+    "duzeltmeler": [
+      "Koyunisar → Koyunhisar",
+      "Nibolu → Niğbolu",
+      "Palekan → Palekanon",
+      "Bufeon → Bafeus/Bafeon",
+      "Çamurlu → Çamurlu Ova",
+      "Edirne Segedin → Edirne-Segedin"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "SINAV 2 — Kuruluş Dönemi Haçlı Savaşları",
+      "i": [
+        {"k":"S-I-N-A-V 2","m":"Sırpındığı · I. Kosova · Niğbolu · Ankara · Varna · II. Kosova. İlk 2 = I. Murat, orta 2 = Yıldırım, son 2 = II. Murat.","s":"z"},
+        {"k":"Sırpındığı → ilk Haçlı","m":"İlk Osmanlı-Haçlı savaşı. Hacı İl Bey komutasında kazanıldı (2022 KPSS iptal).","s":"z"},
+        {"k":"I. Kosova → Balkan hakimiyeti SAĞLANDI","m":"İlk top kullanımı + Türk bayrağı efsanesi + I. Murat şehit (savaş meydanında ilk ve tek).","s":"z"},
+        {"k":"Niğbolu → Sultan-ı İklimi Rum","m":"Halife tarafından Yıldırım'a verilen unvan. Defalarca soruldu.","s":"z"},
+        {"k":"Ankara → Fetret Devri","m":"Timur kazandı. Haçlı savaşı DEĞİL ama kronolojiye uygun.","s":"z"},
+        {"k":"Varna → Bulgar toprakları","m":"II. Murat Haçlıları yendi; Bulgar toprakları ele geçirildi.","s":"z"},
+        {"k":"II. Kosova → Balkan hakimiyeti KESİNLEŞTİ","m":"Sağlandı = I. Kosova, kesinleşti = II. Kosova. İkisini karıştırma!","s":"z"}
+      ]
+    },
+    {
+      "b": "Para Şifresi (Bakır-Gümüş-Altın-Kağıt)",
+      "i": [
+        {"k":"Bakır → Osman","m":"Osmanlı'nın ilk parası bakır madeninden basıldı.","s":"z"},
+        {"k":"Gümüş → Orhan","m":"Gümüş para = ekonomi iyileşmesi.","s":"z"},
+        {"k":"Altın → Fatih","m":"Sultanî altın para.","s":"z"},
+        {"k":"Kağıt (kaime) → Abdülmecid","m":"İlk kağıt para.","s":"z"}
+      ]
+    },
+    {
+      "b": "Aşiretten İmparatorluğa Üçlüsü",
+      "i": [
+        {"k":"Aşiret → Beylik = OSMAN","m":"Siyasi kimlik yükledi, beylik kurdu.","s":"z"},
+        {"k":"Beylik → Devlet = ORHAN","m":"Teşkilatlanma çalışmalarıyla devletleştirdi.","s":"z"},
+        {"k":"Devlet → İmparatorluk = FATİH","m":"İstanbul fethiyle imparatorluğa dönüştürdü (2025 AGS).","s":"z"}
+      ]
+    },
+    {
+      "b": "Kuruluşa Yardım Eden Gruplar (…-ı Rum)",
+      "i": [
+        {"k":"Ahiyan-ı Rum","m":"Anadolu ahileri → ekonomik + siyasi + askeri destek.","s":"z"},
+        {"k":"Baciyan-ı Rum","m":"Anadolu kadınları/bacıları.","s":"z"},
+        {"k":"Gaziyan-ı Rum","m":"Anadolu gazileri → Osman Bey'in savaş arkadaşları.","s":"z"},
+        {"k":"Abdalan-ı Rum","m":"Anadolu dervişleri → halk arasında tanıtım/propaganda.","s":"z"},
+        {"k":"Fatihan-ı Rum","m":"Rumeli'ye iskan ettirilenler (dikkat: Fetih = Rumeli).","s":"z"}
+      ]
+    },
+    {
+      "b": "Osmanlı'nın Kısa Sürede Büyüme Nedenleri",
+      "i": [
+        {"k":"Yetenekli padişahlar","m":"Kuruluş döneminin tamamında hep yetenekli padişah var.","s":"z"},
+        {"k":"Anadolu'daki otorite boşluğu","m":"1243 Kösedağ → Selçuklu yıkılış → beylikler dönemi.","s":"z"},
+        {"k":"Müdara politikası","m":"Görünüşte dost gibi geçinme → sonra tekfurları (Bizans valisi) ezme.","s":"z"},
+        {"k":"Tımar sistemi","m":"Hazineden para çıkmadan ordu + üretim + güvenlik.","s":"z"},
+        {"k":"İskan politikası","m":"Yerleştirme → kalıcılık sağlama; Türk-İslam kültürü yayılması.","s":"z"},
+        {"k":"İstimalet politikası","m":"Hoşgörü: din, dil, ırk, örf-adete karışmama.","s":"z"},
+        {"k":"Bizans ile komşu olunması","m":"Gaza-cihat sürekli yapılabilir.","s":"z"},
+        {"k":"Balkanların parçalı olması","m":"Lokmalar halinde yutulabilir.","s":"z"},
+        {"k":"Yüzyıl Savaşları","m":"İngiltere-Fransa birbirini yiyor; Osmanlı'yı fark edemiyorlar.","s":"z"}
+      ]
+    },
+    {
+      "b": "Osman Bey Dönemi İlkleri",
+      "i": [
+        {"k":"Koyunhisar (Bafeus) 1301","m":"İlk Osmanlı-Bizans savaşı. Osmanlı kazandı (2016 KPSS).","s":"z"},
+        {"k":"Şeyh Edebali kızı","m":"Ahi lideriyle evlilik → ahilerin tam desteği.","s":"z"},
+        {"k":"İlk kadı: Dursun Fakih","m":"Hukuka/adalete önem verildiğini gösterir.","s":"z"},
+        {"k":"İlk vergi: BAC","m":"Pazar vergisi. Osmanlı tarihinin ilk vergisi.","s":"z"},
+        {"k":"Bilecik fethi → demir madeni","m":"Demir madeni için fethedildi; silah/teçhizat üretimi.","s":"z"}
+      ]
+    },
+    {
+      "b": "Orhan Bey Dönemi Teşkilatlanması",
+      "i": [
+        {"k":"Bursa 1326 başkent","m":"Orhan'ın ilk fethi ve başkenti.","s":"z"},
+        {"k":"Palekanon/Maltepe 1329","m":"Bizans mağlup → İznik + İzmit fethinin önü açıldı.","s":"z"},
+        {"k":"İznik başkent","m":"Hem Osmanlı'ya hem Anadolu Selçuklu'ya başkentlik yapan TEK yer.","s":"z"},
+        {"k":"Karesioğulları = İlk beylik","m":"ATSB'de ilk adım + donanma kazanıldı (Balıkesir-Çanakkale).","s":"z"},
+        {"k":"Çimpe Kalesi","m":"Rumeli'deki ilk toprak parçası → üs olarak kullanıldı.","s":"z"},
+        {"k":"Süleyman Paşa = Gelibolu Fatihi","m":"Tekirdağ, Malkara, Çorlu fethetti; attan düşerek öldü.","s":"z"},
+        {"k":"İlk kapitülasyon → Ceneviz","m":"İlk ticari imtiyaz/ayrıcalık Orhan döneminde.","s":"z"},
+        {"k":"Teşkilat: Divan + Vezir + Medrese + Ordu","m":"Divan-ı Hümayun · İlk vezir Alaaddin Paşa · İznik Orhaniyesi (ilk medrese) · Yaya-Müsellem (ilk düzenli ordu).","s":"z"},
+        {"k":"İlk tersane: Karamürsel","m":"Karesioğulları donanmasının bakım-onarımı için.","s":"z"},
+        {"k":"Sancak sistemi: Orhan kurdu","m":"Sancaktan gelen ilk padişah = I. Murat. Yasalaştıran = Fatih. Kaldıran = I. Ahmet.","s":"z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c":"Kuruluş Genel","o":"Osmanlı ailesi hangi boydan gelir?","a":"Oğuzların Bozok kolunun Günhan soyunun KAYI boyu."},
+    {"c":"Kuruluş Genel","o":"Kayıların Anadolu'da yerleşim sırası nedir?","a":"1. Ahlat → 2. Karacadağ (Ankara yakını) → 3. Söğüt-Domaniç (yaylak-kışlak)."},
+    {"c":"Kuruluş Genel","o":"Osmanlı'nın kuruluş tarihi tartışması nedir?","a":"Genel kabul 1299; Halil İnalcık'a göre 1301 (Koyunhisar Savaşı ile gerçek kuruluş)."},
+    {"c":"Kuruluş Genel","o":"Tekfur nedir?","a":"Bizans valisi. Müdara politikasıyla önce dost gibi geçinilip sonra toprakları alındı."},
+    {"c":"Kuruluş Genel","o":"İstimalet politikası nedir?","a":"Hoşgörü politikası: fethedilen halkın din, dil, ırk ve örfüne karışılmaz."},
+    {"c":"Kuruluş Genel","o":"Osmanlı'nın kayı boyundan geldiğini vurgulayan, paralara kayı damgası vurduran padişah kim?","a":"II. Murat."},
+    {"c":"Kuruluş Genel","o":"Aşiret → Beylik → Devlet → İmparatorluk dönüşümünü gerçekleştiren padişahlar kimlerdir?","a":"Osman (beylik) → Orhan (devlet) → Fatih (imparatorluk)."},
+    {"c":"Osman Bey","o":"Koyunhisar (Bafeus) Savaşı'nın (1301) önemi nedir?","a":"Osmanlı-Bizans arasındaki İLK savaş. Osmanlı kazandı. 2016 KPSS sorusu."},
+    {"c":"Osman Bey","o":"Osman Bey'in ahi desteğini nasıl aldı?","a":"Ahi lideri Şeyh Edebali'nin kızıyla evlenerek (ekonomik + siyasi + askeri destek)."},
+    {"c":"Osman Bey","o":"Osmanlı'nın ilk kadısı kimdir ve ne gösterir?","a":"Dursun Fakih. Hukuka ve adalete önem verildiğini gösterir."},
+    {"c":"Osman Bey","o":"Osmanlı'nın ilk vergisi nedir?","a":"BAC vergisi (pazar vergisi)."},
+    {"c":"Osman Bey","o":"Bilecik neden fethedildi?","a":"Demir madeni — silah/teçhizat üretimi için."},
+    {"c":"Osman Bey","o":"Osman Bey'in kabri nerededir?","a":"Bursa, Gümüş Kümbet."},
+    {"c":"Osman Bey","o":"Osmanlı'nın ilk parası hangi madenden basılmıştır?","a":"Bakır (Osman Bey dönemi)."},
+    {"c":"Orhan Bey","o":"Orhan Bey döneminde başkent değişim sırası nedir?","a":"Bursa (1326) → İznik (Palekanon sonrası). Fetih yönüne göre değişir."},
+    {"c":"Orhan Bey","o":"Palekanon (Maltepe) Savaşı (1329) sonucu nedir?","a":"Bizans mağlup → İznik ve İzmit fethinin önü açıldı."},
+    {"c":"Orhan Bey","o":"Hem Osmanlı'ya hem Anadolu Selçuklu'ya başkentlik yapan tek şehir neresidir?","a":"İznik."},
+    {"c":"Orhan Bey","o":"Karesioğulları Beyliği'nin alınmasının 3 önemi nedir?","a":"1) İlk beylik ele geçirildi\n2) ATSB'de ilk adım\n3) Donanma kazanıldı → denizci devlet."},
+    {"c":"Orhan Bey","o":"Çimpe Kalesi neden önemlidir?","a":"Osmanlı'nın Rumeli'deki İLK toprak parçası. Kantakuzenos'un yardım karşılığı vermesiyle alındı."},
+    {"c":"Orhan Bey","o":"Gelibolu Fatihi kimdir?","a":"Süleyman Paşa (Orhan Bey'in oğlu). Tekirdağ-Malkara-Çorlu fethi. Attan düşerek öldü."},
+    {"c":"Orhan Bey","o":"İlk kapitülasyonlar/imtiyazlar kime verilmiştir?","a":"Orhan Bey döneminde Ceneviz devletine."},
+    {"c":"Orhan Bey","o":"İlk Osmanlı sarayı hangisidir?","a":"Bursa Bey Sarayı (Orhan Bey dönemi)."},
+    {"c":"Orhan Bey","o":"Divan-ı Hümayun'u kim kurdu, kim kaldırdı?","a":"Kuran: Orhan Bey. Kaldıran: II. Mahmut (yerine Heyet-i Vükela kurdu)."},
+    {"c":"Orhan Bey","o":"İlk vezir kimdir?","a":"Alaaddin Paşa (Orhan Bey dönemi). İlk Vezir-i Azam ise Çandarlı Halil Hayrettin Paşa (I. Murat dönemi)."},
+    {"c":"Orhan Bey","o":"Osmanlı'nın ilk düzenli ordusu nedir?","a":"Yaya ve Müsellem ordusu (Orhan Bey dönemi)."},
+    {"c":"Orhan Bey","o":"Osmanlı'nın ilk medresesi ve ilk müderrisi?","a":"İznik Medresesi (İznik Orhaniyesi). İlk müderris: Davud-u Kayseri."},
+    {"c":"Orhan Bey","o":"İlk Osmanlı camisi hangisidir?","a":"İznik Hacı Özbek Camii."},
+    {"c":"Orhan Bey","o":"Orhan Bey'in Osmanlı tarihindeki 'sultan' unvanı önemi nedir?","a":"Osmanlı'da sultan unvanını kullanan İLK kişidir (Türk-İslam'da ilk = Gazneli Mahmut)."},
+    {"c":"Orhan Bey","o":"İlk vakıf teşkilatını kim kurmuştur ve ne gösterir?","a":"Orhan Bey. Sosyal devlet anlayışıyla hareket ettiğini gösterir."},
+    {"c":"Orhan Bey","o":"İlk Osmanlı tersanesi neresidir?","a":"Karamürsel Tersanesi."},
+    {"c":"Orhan Bey","o":"İbn Batuta Orhan Bey için ne demiştir?","a":"'Türkmen hükümdarlarının en ulusu, en yücesidir.'"},
+    {"c":"I. Murat","o":"Sazlıdere Savaşı'nın önemi nedir?","a":"Osmanlı-Bizans arasında yapıldı; Osmanlı kazandı → Edirne fethedildi."},
+    {"c":"I. Murat","o":"Edirne ne zaman başkent yapıldı ve neden hemen yapılmadı?","a":"Sırp Sındığı Savaşı'ndan SONRA. Güvenlik sağlanmadan başkent yapılmadı."},
+    {"c":"I. Murat","o":"Sırp Sındığı Savaşı kimler arasında yapıldı, önemi nedir?","a":"Osmanlı vs Haçlılar. İlk Osmanlı-Haçlı savaşı. Hacı İl Bey komutanlığında kazanıldı."},
+    {"c":"I. Murat","o":"Çirmen Savaşı kimler arasında yapıldı?","a":"Osmanlı vs Sırplar. Osmanlı kazandı (Sırpların intikam saldırısı)."},
+    {"c":"I. Murat","o":"Ploşnik Bozgunu nedir?","a":"Osmanlı'nın Sırp + Boşnak kuvvetlerine YENİLDİĞİ savaş. Haçlıların tekrar toplanmasına neden oldu."},
+    {"c":"I. Murat","o":"I. Kosova Savaşı'nın 5 önemli sonucu nedir?","a":"1) Osmanlı kazandı\n2) İlk top kullanımı\n3) Türk bayrağı efsanesi\n4) I. Murat şehit\n5) Balkan hakimiyeti sağlandı."},
+    {"c":"I. Murat","o":"Savaş meydanında şehit düşen ilk ve tek Osmanlı padişahı kimdir?","a":"I. Murat (I. Kosova Savaşı)."},
+    {"c":"I. Murat","o":"Germiyanoğulları ve Hamitoğulları toprakları nasıl alındı?","a":"Germiyanoğulları = çeyiz yoluyla (Kütahya). Hamitoğulları = para/satın alma yoluyla (Isparta-Antalya)."},
+    {"c":"I. Murat","o":"Osmanlı tarihinin ilk şehzade isyanı nedir?","a":"Savcı Bey İsyanı (I. Murat dönemi)."},
+    {"c":"I. Murat","o":"Vezir-i Azamlık makamını kim kurmuş, ilk vezir-i azam kimdir?","a":"I. Murat kurdu. İlk vezir-i azam: Çandarlı Halil Hayrettin Paşa."},
+    {"c":"I. Murat","o":"Kazaskerlik makamının görevleri nelerdir?","a":"Kadı + müderris ataması yapar (adalet bakanı + milli eğitim bakanı rolü). Cuma divanında çözülemeyen davalara bakar."},
+    {"c":"I. Murat","o":"Defterdarlık makamının görevi nedir?","a":"Osmanlı maliyesinin mutlak sorumlusu."},
+    {"c":"I. Murat","o":"Rumeli Beylerbeyliği'ni kim kurdu, merkezi neresidir?","a":"I. Murat. Merkez: Manastır."},
+    {"c":"I. Murat","o":"Anadolu Beylerbeyliği'ni kim kurdu, merkezi neresidir?","a":"Yıldırım Bayezit. Merkez: Kütahya."},
+    {"c":"I. Murat","o":"I. Murat veraset sisteminde ne değişiklik yaptı?","a":"'Ülke hanedanın ortak malıdır' → 'Ülke padişahın ve oğullarının malıdır.' Aday sayısı azaltıldı."},
+    {"c":"I. Murat","o":"Kapıkulu ordusunu kim kurdu, asker nasıl alındı?","a":"I. Murat kurdu. Pençik sistemi ile (savaş esirlerinin 1/5'i). Penç-yek = beşte bir."},
+    {"c":"I. Murat","o":"I. Murat'ın lakabı nedir?","a":"Hüdavendigar (Allah dostu)."},
+    {"c":"Yıldırım Bayezit","o":"Yıldırım unvanı nasıl verildi?","a":"I. Murat döneminde Karamanoğulları'na karşı Frenk Yazısı Savaşı'nda çok hızlı hareket etmesi üzerine."},
+    {"c":"Yıldırım Bayezit","o":"Cülus bahşişini ilk dağıtan ve kaldıran padişahlar?","a":"İlk dağıtan: Yıldırım Bayezit. Kaldıran: I. Abdülhamit."},
+    {"c":"Yıldırım Bayezit","o":"Osmanlı'nın ilk hastanesi nerede kuruldu?","a":"Bursa'da, Yıldırım Bayezit dönemi (darüşşifa, ücretsiz → sosyal devlet)."},
+    {"c":"Yıldırım Bayezit","o":"ATSB'yi büyük ölçüde sağlayan padişah ve aldığı beylikler?","a":"Yıldırım Bayezit: Saruhanoğulları + Aydınoğulları + Menteşeoğulları."},
+    {"c":"Yıldırım Bayezit","o":"İstanbul'u kuşatan ilk Osmanlı padişahı kimdir, kaç kez kuşattı?","a":"Yıldırım Bayezit, 4 kez.\n1-2: Beylik saldırıları\n3: Niğbolu Savaşı\n4: Ankara Savaşı."},
+    {"c":"Yıldırım Bayezit","o":"Anadolu Hisarı'nın diğer adı ve yapılış amacı?","a":"Güzelce Hisar. İstanbul kuşatmalarında kullanmak için Yıldırım Bayezit yaptırdı."},
+    {"c":"Yıldırım Bayezit","o":"Niğbolu Savaşı (1396) sonucu nedir?","a":"Osmanlı Haçlıları yendi → Halife, Yıldırım'a 'Sultan-ı İklimi Rum' (Anadolu ikliminin sultanı) unvanını verdi."},
+    {"c":"Yıldırım Bayezit","o":"Ankara Savaşı'nın sebeplerini say.","a":"1) Türk Cihan Hakimiyeti çatışması\n2) Timur'un hakaret mektupları\n3) Biat talebi\n4) Beyliklerin Timur'u kışkırtması\n5) Karakoyunlu-Celayir sığınması."},
+    {"c":"Yıldırım Bayezit","o":"Ankara Savaşı'nda Timur'un kazanma nedenleri?","a":"1) Ordusundaki filler (Osmanlı atları ürktü)\n2) Kara Tatarların Timur tarafına geçmesi\n3) Osmanlı ordusunun yorgun/aç olması."},
+    {"c":"Yıldırım Bayezit","o":"Ankara Savaşı'nın sonuçları nelerdir?","a":"1) Yıldırım + oğlu Çelebi Mustafa esir\n2) ATSB bozuldu (beylikler geri dağıtıldı)\n3) İstanbul fethi 50 yıl gecikti\n4) Fetret devri başladı (11 yıl)."},
+    {"c":"Fetret Devri & Çelebi Mehmet","o":"Fetret devrinde taht için mücadele eden 4 şehzade kimlerdir?","a":"Çelebi İsa, Çelebi Musa, Çelebi Süleyman, Çelebi Mehmet."},
+    {"c":"Fetret Devri & Çelebi Mehmet","o":"Fetret devri nasıl sona erdi?","a":"Çelebi Mehmet, Çamurlu Ova Savaşı'nda Çelebi Musa'yı yendi (Kapıkulu/Bektaşi desteğiyle)."},
+    {"c":"Fetret Devri & Çelebi Mehmet","o":"Çelebi Mehmet'in unvanı nedir ve neden?","a":"İkinci Kurucu — Fetret devrini bitirdiği için."},
+    {"c":"Fetret Devri & Çelebi Mehmet","o":"Çalıbey Savaşı nedir?","a":"Osmanlı vs Venedik. Osmanlı tarihinin İLK deniz savaşı. Osmanlı KAYBETTİ! Çalı Bey şehit düştü."},
+    {"c":"Fetret Devri & Çelebi Mehmet","o":"Şeyh Bedrettin İsyanı'nın önemi nedir?","a":"Osmanlı'nın dini ve toplumsal nitelikli İLK isyanı (Anadolu Selçuklu'da = Baba İshak)."},
+    {"c":"Fetret Devri & Çelebi Mehmet","o":"Düzmece Mustafa İsyanı nedir?","a":"Ankara Savaşı'nda Yıldırım'la esir düşen Çelebi Mustafa, tahtta hak iddia etti. Çelebi Mehmet onu 'düzmece' ilan ederek desteğini kırdı."},
+    {"c":"Fetret Devri & Çelebi Mehmet","o":"Devşirme sistemini ilk uygulayan ve kanunlaştıran padişahlar?","a":"İlk uygulayan: Çelebi Mehmet. Kanunlaştıran: II. Murat."},
+    {"c":"Fetret Devri & Çelebi Mehmet","o":"Surre alaylarını ilk gönderen padişah ve tanımı?","a":"Çelebi Mehmet. Hicaz'a (Mekke-Medine) gönderilen hediyeler."},
+    {"c":"II. Murat","o":"Edirne-Segedin Antlaşması'nın önemi nedir?","a":"Osmanlı'nın Balkanlarda yaptığı İLK barış antlaşması; 10 yıl savaşılmama kararı (Macarlarla)."},
+    {"c":"II. Murat","o":"Tahtı gönüllü olarak terk eden ilk Osmanlı padişahı kimdir?","a":"II. Murat (Manisa'ya çekildi; oğlu Fatih'i başa geçirdi). Lakabı: Ebul Hayr (hayır babası)."},
+    {"c":"II. Murat","o":"Buçuktepe İsyanı nedir?","a":"Osmanlı tarihinin İLK yeniçeri isyanı. Çandarlı Halil Paşa kışkırttı; Fatih tahttan indirildi."},
+    {"c":"II. Murat","o":"Enderun Mektebi'ni kim kurdu, kim kaldırdı?","a":"Kuran: II. Murat. Kaldıran: II. Mahmut."},
+    {"c":"II. Murat","o":"Fatih'in Çandarlı Halil Paşa'ya kin duymasının sebebi nedir?","a":"Çandarlı, Buçuktepe İsyanı'nı çıkararak küçük Fatih'i tahttan indirtti."},
+    {"c":"Savaşlar","o":"İlk Osmanlı-Bizans savaşı hangisidir?","a":"Koyunhisar (Bafeus) Savaşı, 1301, Osman Bey dönemi."},
+    {"c":"Savaşlar","o":"İlk Osmanlı-Haçlı savaşı hangisidir?","a":"Sırp Sındığı Savaşı, I. Murat dönemi, Hacı İl Bey komutasında."},
+    {"c":"Savaşlar","o":"İlk Osmanlı deniz savaşı hangisidir?","a":"Çalıbey Savaşı (Venedik'e karşı, Çelebi Mehmet dönemi). Osmanlı KAYBETTİ."}
+  ],
+  "tuzak": [
+    {"q":"İlk Osmanlı-Bizans savaşı hangisidir?","o":["Koyunhisar (Bafeus) Savaşı","Palekanon (Maltepe) Savaşı"],"c":0,"n":"Palekanon da Bizans'la ama 2. savaş (Orhan dönemi); Koyunhisar Osman dönemi İLK."},
+    {"q":"İlk Osmanlı-Haçlı savaşı hangisidir?","o":["Sırp Sındığı Savaşı","Koyunhisar Savaşı","I. Kosova Savaşı"],"c":0,"n":"Koyunhisar Bizans'la, Kosova 2. Haçlı savaşı; Sırp Sındığı İLK Haçlı."},
+    {"q":"Balkan hakimiyeti SAĞLANAN savaş hangisidir?","o":["I. Kosova Savaşı","II. Kosova Savaşı"],"c":0,"n":"Sağlandı = I. Kosova (I. Murat). Kesinleşti = II. Kosova (II. Murat). Fiiller karışır."},
+    {"q":"İlk vezirlik makamını kuran padişah kimdir?","o":["Orhan Bey","I. Murat"],"c":0,"n":"I. Murat vezir-i AZAMLIĞI kurdu; düz vezirlik Orhan Bey."},
+    {"q":"Kapıkulu ordusunu kuran padişah kimdir?","o":["I. Murat","Orhan Bey"],"c":0,"n":"Orhan ilk düzenli orduyu (Yaya-Müsellem) kurdu; Kapıkulu = I. Murat."},
+    {"q":"Osmanlı'nın ilk başkenti neresidir?","o":["Bursa","Söğüt","İznik"],"c":0,"n":"Söğüt merkez ama resmi başkent değil; İznik ikinci; Bursa ilk resmi başkent."},
+    {"q":"Pençik sistemini ilk uygulayan kimdir?","o":["I. Murat","Çelebi Mehmet"],"c":0,"n":"Çelebi Mehmet devşirme sistemini getirdi; pençik = I. Murat."},
+    {"q":"Devşirme sistemini ilk uygulayan kimdir?","o":["Çelebi Mehmet","II. Murat","I. Murat"],"c":0,"n":"I. Murat pençik, II. Murat kanunlaştırdı; ilk UYGULAYAN = Çelebi Mehmet."},
+    {"q":"Edirne hangi savaşla fethedildi?","o":["Sazlıdere Savaşı","Sırp Sındığı Savaşı"],"c":0,"n":"Sırp Sındığı ile güvenlik sağlanıp başkent yapıldı; fetih = Sazlıdere."},
+    {"q":"Sultan-ı İklimi Rum unvanı hangi savaş sonrası verildi?","o":["Niğbolu Savaşı","I. Kosova Savaşı"],"c":0,"n":"Kosova'da Murat şehit oldu; unvan = Niğbolu (halife tarafından)."},
+    {"q":"Osmanlı'nın ilk deniz savaşı sonucu nedir?","o":["Osmanlı kaybetti (Çalıbey)","Osmanlı kazandı"],"c":0,"n":"İlk deniz savaşı = Çalıbey Savaşı ve Osmanlı KAYBETTİ; kazandı sanılır."},
+    {"q":"İlk Osmanlı camisi hangisidir?","o":["İznik Hacı Özbek Camii","Bursa Ulu Camii"],"c":0,"n":"Bursa Ulu Cami Yıldırım dönemi; İLK cami = İznik Hacı Özbek (Orhan)."},
+    {"q":"Germiyanoğulları toprakları nasıl alındı?","o":["Çeyiz yoluyla","Para/satın alma yoluyla","Savaşla"],"c":0,"n":"Para ile alınan = Hamitoğulları; Germiyanoğulları = çeyiz."},
+    {"q":"Osmanlı'da dini ve toplumsal nitelikli ilk isyan hangisidir?","o":["Şeyh Bedrettin İsyanı","Baba İshak İsyanı","Savcı Bey İsyanı"],"c":0,"n":"Baba İshak Anadolu Selçuklu'da; Savcı Bey şehzade isyanı; Osmanlı'da dini ilk = Şeyh Bedrettin."},
+    {"q":"Osmanlı'nın ilk şehzade isyanı hangisidir?","o":["Savcı Bey İsyanı","Düzmece Mustafa İsyanı","Şeyh Bedrettin İsyanı"],"c":0,"n":"Düzmece = taht iddiası ama şehzade isyanı değil; Bedrettin = dini isyan; İLK şehzade = Savcı Bey."},
+    {"q":"İlk yeniçeri isyanı hangisidir?","o":["Buçuktepe İsyanı","Savcı Bey İsyanı"],"c":0,"n":"Savcı Bey = şehzade isyanı; ilk YENİÇERİ isyanı = Buçuktepe."},
+    {"q":"Osmanlı'da tahtı gönüllü terk eden ilk padişah kimdir?","o":["II. Murat","I. Murat"],"c":0,"n":"I. Murat savaş meydanında şehit; gönüllü terk eden = II. Murat."},
+    {"q":"Anadolu Hisarı'nı kim yaptırdı?","o":["Yıldırım Bayezit","Fatih Sultan Mehmet"],"c":0,"n":"Fatih Rumeli Hisarı'nı (Boğazkesen) yaptırdı; Anadolu/Güzelce Hisarı = Yıldırım."},
+    {"q":"İstanbul'un fethini geciktiren savaş hangisidir?","o":["Ankara Savaşı","Niğbolu Savaşı"],"c":0,"n":"Niğbolu 3. kuşatmayı kaldırdı ama Ankara tüm süreci bitirdi; 50 yıl gecikme = Ankara."},
+    {"q":"Fetret devrine giren padişah kimdir?","o":["Yıldırım Bayezit","Çelebi Mehmet"],"c":0,"n":"Çelebi Mehmet fetret devrini BİTİRDİ; fetrete SOKAN = Yıldırım (Ankara Savaşı)."},
+    {"q":"Çimpe Kalesi hangi dönemde alındı?","o":["Orhan Bey","I. Murat"],"c":0,"n":"I. Murat Edirne'yi aldı; Rumeli'deki İLK toprak Çimpe = Orhan Bey dönemi."},
+    {"q":"Karesioğulları'nın alınmasıyla ne kazanıldı?","o":["Donanma","Tımar sistemi","İlk medrese"],"c":0,"n":"Medrese ve tımar Orhan'ın kendi kurduğu; Karesioğulları'ndan donanma alındı."},
+    {"q":"İlk Osmanlı medresesi hangi şehirdedir?","o":["İznik","Bursa","Edirne"],"c":0,"n":"Bursa = ilk saray; Edirne = sonraki başkent; İLK medrese = İznik Orhaniyesi."},
+    {"q":"Cülus bahşişini ilk dağıtan padişah kimdir?","o":["Yıldırım Bayezit","I. Murat","Orhan Bey"],"c":0,"n":"Murat savaşta şehit oldu; savaş meydanında başa geçen Yıldırım orduyu ikna için bahşiş dağıttı."},
+    {"q":"Edirne-Segedin Antlaşması'nın özelliği nedir?","o":["Balkanlarda ilk barış antlaşması","İlk kapitülasyon"],"c":0,"n":"İlk kapitülasyon = Orhan dönemi Ceneviz'e; Balkanlarda ilk barış = Edirne-Segedin."},
+    {"q":"Ankara Savaşı'nda Yıldırım ile birlikte esir düşen oğlu kimdir?","o":["Çelebi Mustafa","Çelebi Mehmet","Çelebi Musa"],"c":0,"n":"Mehmet ve Musa fetret devrinde savaştı; Yıldırım'la birlikte esir düşen = Çelebi Mustafa."},
+    {"q":"Rumeli Beylerbeyliği'nin merkezi neresidir?","o":["Manastır","Kütahya","Edirne"],"c":0,"n":"Kütahya = Anadolu Beylerbeyliği; Edirne = başkent; Rumeli Beylerbeyliği merkezi = Manastır."},
+    {"q":"İbn Batuta 'Türkmen hükümdarlarının en ulusu' diye kimi övmüştür?","o":["Orhan Bey","Osman Bey","I. Murat"],"c":0,"n":"Osman Bey dönemi daha erken; I. Murat sonra; İbn Batuta bizzat Orhan Bey'i ve Bursa'yı övmüştür."},
+    {"q":"Ploşnik Bozgunu'nda Osmanlı kime yenildi?","o":["Sırp + Boşnak kuvvetleri","Haçlı ordusu","Bizans"],"c":0,"n":"Haçlı ordusu değil; sadece Sırp + Boşnak koalisyonu Osmanlı'yı yendi."},
+    {"q":"Sancak sistemini kuran ve yasalaştıran padişahlar?","o":["Kuran: Orhan, Yasalaştıran: Fatih","Kuran: I. Murat, Yasalaştıran: Fatih"],"c":0,"n":"I. Murat sancaktan gelen ilk padişah; sistemi KURAN = Orhan, yasalaştıran = Fatih."}
+  ],
+  "deneme": [
+    {"q":"Aşağıdakilerden hangisi Osmanlı Devleti'nin kısa sürede büyüme nedenlerinden biri değildir?","o":["Yetenekli padişahlar","Tımar sistemi","Devşirme sistemi","İstimalet politikası","Bizans ile komşu olunması"],"c":2,"e":"Devşirme sistemi Çelebi Mehmet döneminde getirildi; kuruluş döneminde kısa sürede büyüme nedeni olarak sayılmaz."},
+    {"q":"Osmanlı Devleti ile Bizans İmparatorluğu arasında yapılan ilk savaş aşağıdakilerden hangisidir?","o":["Palekanon Savaşı","Sazlıdere Savaşı","Koyunhisar Savaşı","Maltepe Savaşı","Sırp Sındığı Savaşı"],"c":2,"e":"Koyunhisar (Bafeus) 1301 yılında Osman Bey döneminde yapılan ilk Osmanlı-Bizans savaşıdır (2016 KPSS)."},
+    {"q":"Aşağıdakilerden hangisi Orhan Bey dönemine ait bir gelişme değildir?","o":["Bursa'nın başkent yapılması","Divan-ı Hümayun'un kurulması","Kapıkulu ordusunun kurulması","İlk medresenin açılması","Karesioğulları'nın alınması"],"c":2,"e":"Kapıkulu ordusunu I. Murat kurdu; Orhan Bey Yaya ve Müsellem ordusunu kurmuştur."},
+    {"q":"Osmanlı Devleti'nin Rumeli'deki ilk toprak parçası aşağıdakilerden hangisidir?","o":["Edirne","Gelibolu","Çimpe Kalesi","Tekirdağ","Manastır"],"c":2,"e":"Çimpe Kalesi, Kantakuzenos'un yardım karşılığında Orhan Bey'e vermesiyle Rumeli'deki ilk toprak olmuştur."},
+    {"q":"I. Kosova Savaşı ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?","o":["Osmanlı ordusunda ilk kez top kullanılmıştır","Balkan hakimiyeti kesinleşmiştir","I. Murat savaş meydanında şehit olmuştur","Osmanlı Devleti savaşı kazanmıştır","Haçlılara karşı yapılmıştır"],"c":1,"e":"Balkan hakimiyeti I. Kosova'da SAĞLANDI; KESİNLEŞMESİ II. Kosova Savaşı iledir."},
+    {"q":"Aşağıdakilerden hangisi Niğbolu Savaşı'nın sonuçlarından biridir?","o":["Fetret devri başlamıştır","Balkan hakimiyeti sağlanmıştır","Yıldırım Bayezit'e Sultan-ı İklimi Rum unvanı verilmiştir","ATSB bozulmuştur","İstanbul fethedilmiştir"],"c":2,"e":"Niğbolu Savaşı sonrası halife tarafından Yıldırım'a 'Sultan-ı İklimi Rum' unvanı verilmiştir."},
+    {"q":"Ankara Savaşı'nın sonuçları arasında aşağıdakilerden hangisi yer almaz?","o":["ATSB bozulmuştur","İstanbul'un fethi gecikmiştir","Osmanlı fetret devrine girmiştir","Yıldırım Bayezit esir düşmüştür","Balkanlarda Osmanlı hakimiyeti sona ermiştir"],"c":4,"e":"Ankara Savaşı Balkanlardaki hakimiyeti doğrudan sona erdirmemiştir; Balkanlar elde kalmıştır."},
+    {"q":"Aşağıdakilerden hangisi Çelebi Mehmet dönemine ait bir gelişmedir?","o":["Kapıkulu ordusunun kurulması","Niğbolu Savaşı","Devşirme sisteminin uygulanması","Edirne'nin başkent yapılması","Divan-ı Hümayun'un kurulması"],"c":2,"e":"Pençik sistemi yetersiz kalınca Çelebi Mehmet devşirme sistemini ilk kez uygulamıştır."},
+    {"q":"Osmanlı tarihinin ilk deniz savaşı olan Çalıbey Savaşı ile ilgili aşağıdakilerden hangisi doğrudur?","o":["Osmanlı bu savaşı kazanmıştır","Bizans'a karşı yapılmıştır","Orhan Bey döneminde olmuştur","Venedik'e karşı yapılmış ve Osmanlı kaybetmiştir","Fatih döneminde yapılmıştır"],"c":3,"e":"Çalıbey Savaşı Çelebi Mehmet döneminde Venedik'e karşı yapılmış, Osmanlı kaybetmiştir."},
+    {"q":"Aşağıdakilerden hangisi II. Murat dönemine ait bir gelişme değildir?","o":["Edirne-Segedin Antlaşması","Varna Savaşı","II. Kosova Savaşı","Enderun Mektebi'nin kurulması","Fetret devrinin sona ermesi"],"c":4,"e":"Fetret devrini bitiren Çelebi Mehmet'tir (İkinci Kurucu). II. Murat onun oğludur."},
+    {"q":"I. Murat döneminde kurulan aşağıdaki makamlardan hangisinin görevi yanlış verilmiştir?","o":["Vezir-i Azam — Padişahın mutlak vekili","Kazasker — Kadı ve müderris ataması","Defterdar — Maliyenin sorumlusu","Vezir-i Azam — Ordunun başında sefere gitme","Kazasker — Dış politika yönetimi"],"c":4,"e":"Kazasker adalet ve eğitim işleriyle ilgilenir; dış politika sadrazamın/padişahın yetki alanındadır."},
+    {"q":"Osmanlı Devleti'nin kuruluşuna yardımcı olan gruplardan 'Abdalan-ı Rum' aşağıdakilerden hangisini ifade eder?","o":["Anadolu ahileri","Anadolu gazileri","Anadolu kadınları","Anadolu dervişleri","Rumeli'ye iskan edilenler"],"c":3,"e":"Abdalan-ı Rum = Anadolu dervişleri; halk arasında tanıtım/propaganda yaparak Osmanlı'yı benimsettiler."},
+    {"q":"Aşağıdaki eşleştirmelerden hangisi yanlıştır?","o":["Bakır para — Osman Bey","Gümüş para — Orhan Bey","Altın para — Yıldırım Bayezit","Kaime (kağıt para) — Abdülmecid","İlk vergi (BAC) — Osman Bey"],"c":2,"e":"Altın parayı (Sultanî) Fatih Sultan Mehmet bastırmıştır, Yıldırım Bayezit değil."},
+    {"q":"Yıldırım Bayezit'in İstanbul kuşatmalarından üçüncüsünün kaldırılma sebebi aşağıdakilerden hangisidir?","o":["Beyliklerin arkadan saldırması","Timur'un Anadolu'ya girmesi","Niğbolu Savaşı","Fetret devrinin başlaması","Sırp Sındığı Savaşı"],"c":2,"e":"1-2. kuşatma: beylik saldırıları, 3. kuşatma: Niğbolu Savaşı, 4. kuşatma: Ankara Savaşı (Timur)."},
+    {"q":"Edirne-Segedin Antlaşması ile ilgili aşağıdakilerden hangisi söylenemez?","o":["Osmanlı'nın Balkanlardaki ilk barış antlaşmasıdır","10 yıl savaşılmama kararı alınmıştır","Macarlarla yapılmıştır","II. Murat döneminde imzalanmıştır","Osmanlı'nın Balkanlardaki hakimiyetini kesinleştirmiştir"],"c":4,"e":"Balkan hakimiyetinin kesinleşmesi II. Kosova Savaşı iledir; Edirne-Segedin bir barış antlaşmasıdır."},
+    {"q":"Aşağıdakilerden hangisi Osmanlı'nın Anadolu Türk siyasi birliğini sağlama süreciyle ilgili doğru bir bilgidir?","o":["İlk adım Germiyanoğulları'nın alınmasıdır","Büyük ölçüde I. Murat döneminde sağlanmıştır","Ankara Savaşı sonrası bozulmamıştır","Yıldırım Bayezit döneminde büyük ölçüde sağlanmıştır","Fatih döneminde ilk kez sağlanmıştır"],"c":3,"e":"İlk adım Karesioğulları (Orhan); Yıldırım Saruhan+Aydın+Menteşe'yi alarak büyük ölçüde sağladı; Ankara ile bozuldu."},
+    {"q":"Şeyh Bedrettin İsyanı ile ilgili aşağıdakilerden hangisi doğrudur?","o":["I. Murat döneminde çıkmıştır","Osmanlı'nın ilk şehzade isyanıdır","Askeri nitelikli bir isyandır","Osmanlı'nın dini ve toplumsal nitelikli ilk isyanıdır","II. Murat döneminde bastırılmıştır"],"c":3,"e":"Şeyh Bedrettin İsyanı Çelebi Mehmet döneminde çıkmış olup Osmanlı'nın dini-toplumsal ilk isyanıdır."},
+    {"q":"Sancak sistemi ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?","o":["Orhan Bey tarafından kurulmuştur","Sancaktan gelerek tahta çıkan ilk padişah I. Murat'tır","Fatih döneminde yasalaştırılmıştır","I. Ahmet tarafından kaldırılmıştır","II. Murat tarafından kurulmuştur"],"c":4,"e":"Sancak sistemini kuran Orhan Bey'dir; II. Murat devşirme sistemini kanunlaştırmıştır, sancakla ilgisi yoktur."},
+    {"q":"Osmanlı Devleti'nin kuruluş dönemindeki başkent değişim sırası aşağıdakilerden hangisinde doğru verilmiştir?","o":["Söğüt → İznik → Bursa → Edirne","Bursa → İznik → Edirne → İstanbul","Söğüt → Bursa → İznik → Edirne","İznik → Bursa → Edirne → İstanbul","Bursa → Edirne → İznik → İstanbul"],"c":2,"e":"Söğüt (merkez) → Bursa (Orhan 1326) → İznik (Orhan) → Edirne (I. Murat) sıralaması doğrudur."},
+    {"q":"Aşağıdaki olaylardan hangisi fetret devrinin başlamasına doğrudan neden olmuştur?","o":["Niğbolu Savaşı","I. Kosova Savaşı","Ploşnik Bozgunu","Ankara Savaşı","Çirmen Savaşı"],"c":3,"e":"1402 Ankara Savaşı'nda Timur'a yenilen Yıldırım esir düşmüş, Osmanlı 11 yıl padişahsız kalmıştır."}
+  ],
+  "eslestir": [
+    {
+      "ad": "Padişahlar ve İlkleri",
+      "p": [
+        ["Osman Bey","İlk bakır para + ilk kadı (Dursun Fakih)"],
+        ["Orhan Bey","İlk düzenli ordu (Yaya-Müsellem) + ilk medrese"],
+        ["I. Murat","Kapıkulu ordusu + ilk vezir-i azam"],
+        ["Yıldırım Bayezit","İlk İstanbul kuşatması + ilk hastane"],
+        ["Çelebi Mehmet","İlk devşirme uygulaması + İkinci Kurucu"],
+        ["II. Murat","Enderun Mektebi + ilk gönüllü taht terki"]
+      ]
+    },
+    {
+      "ad": "Savaşlar ve Sonuçları",
+      "p": [
+        ["Koyunhisar (1301)","İlk Osmanlı-Bizans savaşı (Osmanlı kazandı)"],
+        ["Palekanon (1329)","İznik-İzmit fethinin önü açıldı"],
+        ["Sırp Sındığı","İlk Osmanlı-Haçlı savaşı (Osmanlı kazandı)"],
+        ["I. Kosova","Balkan hakimiyeti sağlandı + I. Murat şehit"],
+        ["Niğbolu (1396)","Sultan-ı İklimi Rum unvanı verildi"],
+        ["Ankara (1402)","Fetret devri başladı + ATSB bozuldu"],
+        ["Varna","Bulgar toprakları ele geçirildi"],
+        ["II. Kosova","Balkan hakimiyeti kesinleşti"]
+      ]
+    },
+    {
+      "ad": "Beylikler ve Özellikleri",
+      "p": [
+        ["Karesioğulları","İlk alınan beylik + donanma kazanıldı (Orhan)"],
+        ["Germiyanoğulları","Çeyiz yoluyla alındı (I. Murat)"],
+        ["Hamitoğulları","Para/satın alma yoluyla alındı (I. Murat)"],
+        ["Saruhanoğulları","Yıldırım Bayezit tarafından alındı"],
+        ["Aydınoğulları","Yıldırım Bayezit tarafından alındı"],
+        ["Menteşeoğulları","Yıldırım Bayezit tarafından alındı"]
+      ]
+    },
+    {
+      "ad": "İsyanlar ve Özellikleri",
+      "p": [
+        ["Savcı Bey İsyanı","İlk şehzade isyanı (I. Murat dönemi)"],
+        ["Şeyh Bedrettin İsyanı","İlk dini-toplumsal isyan (Çelebi Mehmet dönemi)"],
+        ["Düzmece Mustafa İsyanı","Taht iddiası; Çelebi Mehmet propaganda ile bastırdı"],
+        ["Buçuktepe İsyanı","İlk yeniçeri isyanı (II. Murat dönemi)"],
+        ["Ploşnik Bozgunu","Osmanlı'nın Sırp+Boşnak'a yenilgisi (I. Murat)"],
+        ["Frenk Yazısı Savaşı","Yıldırım'a unvan kazandıran savaş (Karamanoğulları)"]
+      ]
+    },
+    {
+      "ad": "Kurumlar ve Kuranlar",
+      "p": [
+        ["Divan-ı Hümayun","Orhan Bey kurdu — II. Mahmut kaldırdı"],
+        ["Vezir-i Azamlık","I. Murat kurdu (ilk: Çandarlı Halil Hayrettin)"],
+        ["Kapıkulu Ordusu","I. Murat kurdu (pençik sistemiyle)"],
+        ["Enderun Mektebi","II. Murat kurdu — II. Mahmut kaldırdı"],
+        ["Sancak Sistemi","Orhan Bey kurdu — I. Ahmet kaldırdı"],
+        ["Devşirme Sistemi","Çelebi Mehmet başlattı — II. Murat kanunlaştırdı"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "gun": 7,
+    "baslik": "Osmanlı Devleti Yükselme Dönemi",
+    "ozet": "Fatih Sultan Mehmet'ten Sokullu Mehmet Paşa'nın vefatına kadar: İstanbul'un fethi, Yavuz'un doğu seferleri, Kanuni'nin batı-doğu-deniz seferleri ve Sokullu'nun kanal projeleri.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Yedik Ahmet Paşa → Gedik Ahmet Paşa",
+      "Ağaç ayırı → Ağ Çayırı",
+      "Schalken → Şarlken (Karl V)",
+      "Hatay'ye → Hataî'ye",
+      "Grogören → Gregoryen",
+      "Vadiü Seyl → Vâdisseyl",
+      "Süveç → Süveyş",
+      "Irakin → Irakeyn",
+      "155 Amasya → 1555 Amasya"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "İstanbul'un Fethi (1453)",
+      "i": [
+        {"k": "29 Mayıs 1453", "m": "İstanbul'un fethi; Orta Çağ bitti, Yeni Çağ başladı", "s": "z"},
+        {"k": "Ak Şemsettin", "m": "İstanbul'un manevi Fatihi", "s": "z"},
+        {"k": "Derebeylik yıkılışı", "m": "Kavimler Göçü ile güçlendi → İstanbul'un fethiyle yıkıldı (toplarla surlar yıkıldı)", "s": "z"},
+        {"k": "Aşiret→Beylik→Devlet→İmparatorluk", "m": "Osman Bey → Orhan Bey → Orhan Bey → Fatih (İstanbul'un fethiyle)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Fatih'in Unvanları & Reformları",
+      "i": [
+        {"k": "Kayzer-i Rum", "m": "Roma'nın Sezarı — Orhan Bey'in Nilüfer Hatun (Bizans prensesi) ile evliliğine dayandırdı", "s": "z"},
+        {"k": "Sultanü'l-Bahreyn + Hakan-ı Berreyn", "m": "İki denizin sultanı + iki karanın hakanı", "s": "z"},
+        {"k": "Fatih Kanunnamesi", "m": "Kanunname-i Âl-i Osman — Osmanlı'nın ilk kanunnamesi; sancak, cülüs bahşişi, kardeş katli yasalaştı", "s": "z"},
+        {"k": "Cülüs bahşişi zinciri", "m": "İlk dağıtan: Yıldırım · Yasa yapan: Fatih · Kaldıran: I. Abdülhamit", "s": "z"},
+        {"k": "Müsadere zinciri", "m": "İlk uygulayan: Fatih (Çandarlı'ya) · Kaldıran: II. Mahmut · Yasa kalkan: Tanzimat", "s": "z"},
+        {"k": "Sahn-ı Seman + Tetimme", "m": "İstanbul'daki ilk medreseler; Tetimme öğrenci hazırlık medresesi", "s": "z"},
+        {"k": "Türk aristokrasisi sonu", "m": "Fatih devşirme kökenlileri yükselterek Türk aristokrasisinin egemenliğine son verdi (MEB kitabı)", "s": "z"},
+        {"k": "İltizam — ilk", "m": "Toprağı 3 yıllığına kiralama; ilk uygulayan Fatih", "s": "z"}
+      ]
+    },
+    {
+      "b": "Fatih'in Fetihleri",
+      "i": [
+        {"k": "Çeşm-i Cihan", "m": "Amasra — Cenevizlerden alındı (dünyanın göz bebeği, Bartın)", "s": "z"},
+        {"k": "Koyun ot yer → Otlukbeli", "m": "1473 Akkoyunlu (Uzun Hasan) — Fırat'ın batısı alındı (ÖSYM sormuş)", "s": "z"},
+        {"k": "Memleketeyn", "m": "Eflak ve Boğdan; yöneticilerine Voyvoda denir", "s": "z"},
+        {"k": "Gedik Ahmet Paşa", "m": "Kırım Fatihi + Otranto Fatihi (Kırım → Karadeniz Türk gölü)", "s": "z"},
+        {"k": "Belgrad ✗ / Rodos ✗", "m": "Fatih'in karada (Darül Cihat) ve denizde (Akdeniz'in kilidi) kuşatıp alamadığı yerler → Kanuni alacak", "s": "z"},
+        {"k": "Mora + Trabzon Rum", "m": "Bizans'ın yeniden diriltilme umutlarına son veren iki fetih", "s": "z"},
+        {"k": "Ortodoks + Ermeni lider", "m": "Hristiyan birliğini engelleme + hoşgörü (2016 KPSS sorusu)", "s": "z"}
+      ]
+    },
+    {
+      "b": "II. Bayezit Dönemi",
+      "i": [
+        {"k": "Cem Sultan", "m": "İç sorunken dış sorun olan İLK mesele; Papa'nın elinde esir → Avrupa'ya haraç ödendi", "s": "z"},
+        {"k": "Yükselme içinde duraklama", "m": "II. Bayezit; Cem Sultan yüzünden Avrupa seferi yapılamadı (tersi: Köprülüler = duraklama içinde yükselme)", "s": "z"},
+        {"k": "Şahkulu isyanı", "m": "Şah İsmail kışkırtmasıyla çıkan Şii ayaklanması; şehzade Selim bastırdı", "s": "z"},
+        {"k": "Ağ Çayırı Savaşı", "m": "Osmanlı-Memlük ilk savaş (II. Bayezit); sonuçsuz kaldı", "s": "z"}
+      ]
+    },
+    {
+      "b": "Yavuz Sultan Selim Dönemi",
+      "i": [
+        {"k": "8 yıla 80 yıllık iş", "m": "1514 Çaldıran · 1515 Turnadağ · 1516 Mercidabık · 1517 Ridaniye — tümü doğu seferi", "s": "z"},
+        {"k": "Çald-İran → 1514", "m": "Safevilerle; Şah İsmail yenildi; doğuda Şii tehlikesi bertaraf", "s": "z"},
+        {"k": "1515 Turnadağ", "m": "Dulkadiroğulları yıkıldı — Anadolu Türk siyasi birliği KESİN sağlandı", "s": "z"},
+        {"k": "1516 Mercidabık + 1517 Ridaniye", "m": "Memlük: önce Suriye-Filistin-Kudüs alındı; sonra devlet yıkıldı. Halifelik + kutsal emanetler + Mısır hazinesi", "s": "z"},
+        {"k": "Hadimü'l-Haremeyn-i Şerifeyn", "m": "İki kutsal merkezin hizmetkârı — Yavuz kullandı (daha önce Selahaddin Eyyubi)", "s": "z"},
+        {"k": "Bozoklu Celal", "m": "Yavuz bastırdı; 17.yy Celali isyanlarının isim babası", "s": "z"},
+        {"k": "İdris-i Bitlisi", "m": "Yavuz'un doğu (Kürt) politikasını yönetti; eseri Heşt Behşt", "s": "z"}
+      ]
+    },
+    {
+      "b": "Kanuni Sultan Süleyman Dönemi",
+      "i": [
+        {"k": "1521 Belgrad + 1522 Rodos", "m": "Fatih'in alamadığı yerleri Kanuni aldı (Darül Cihat + Akdeniz'in kilidi)", "s": "z"},
+        {"k": "Mohaç 1526", "m": "Dünyanın en kısa meydan savaşı (2 saat); Macaristan alındı, Fransuva kurtarıldı", "s": "z"},
+        {"k": "1533 İstanbul Antlaşması", "m": "Osmanlı-Avusturya ilk antlaşma; protokol üstünlüğü (arşidük=sadrazam) → 1606 Zitvatorok'la biter", "s": "z"},
+        {"k": "1535 Kapitülasyon", "m": "Uhud-u Atik / İmtiyaz-ı Mahsusa — Fransa'ya ayrıcalık; Hristiyan birliğini engelleme + Akdeniz ticareti", "s": "z"},
+        {"k": "1538 Preveze", "m": "Barbaros vs Andrea Doria → Akdeniz Türk gölü (Donanma Günü)", "s": "z"},
+        {"k": "1555 Amasya", "m": "Osmanlı-Safevi ilk resmi antlaşma (3 doğu seferi sonrası)", "s": "z"},
+        {"k": "HEPİMİZ katıldık", "m": "Hint Deniz Seferleri: Hadım Süleyman P., Piri Reis, Murat Reis, Seydi Ali Reis — Barbaros YOK!", "s": "z"},
+        {"k": "TUR-TUR → 1551", "m": "Turgut Reis = Trablus Garp Fatihi, beylerbeyi oldu", "s": "z"},
+        {"k": "Muhibbi / Avni", "m": "Kanuni'nin mahlası Muhibbi; Fatih'in mahlası Avni. 46 yıl tahtta (en uzun)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Sokullu Dönemi & Kanal Projeleri",
+      "i": [
+        {"k": "Sokullu — 3 padişah", "m": "Kanuni (son) + II. Selim + III. Murat; vefatı (1579) = yükselme sonu", "s": "z"},
+        {"k": "İÇİNİZ", "m": "Donanma yangınları: İnebahtı (Haçlı) · Çeşme (Rus) · Navarin (İng-Fra-Rus) · Sinop (Rus)", "s": "z"},
+        {"k": "Sokullu — kol/sakal", "m": "'Kıbrıs'ı almakla kolunuzu kestik; donanmayı yakmakla sakalımızı' → İnebahtı (1571)", "s": "z"},
+        {"k": "Vâdisseyl", "m": "III. Murat; Fas alındı → Atlas Okyanusu'na ulaşıldı; Kuzey Afrika fethi tamamlandı", "s": "z"},
+        {"k": "Don-Volga kanalı", "m": "Orta Asya Türkleriyle bağlantı + Rusları engelleme + İran sevkiyatı → Rusya yaptı", "s": "z"},
+        {"k": "Süveyş kanalı", "m": "Akdeniz-Kızıldeniz; Akdeniz ticareti + baharat yolu canlandırma → İngiltere-Fransa yaptı", "s": "z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c": "İstanbul'un Fethi", "o": "İstanbul ne zaman, kim tarafından fethedildi?", "a": "29 Mayıs 1453\nFatih Sultan Mehmet (II. Mehmet)\nDoğu Roma (Bizans) İmparatorluğu sona erdi"},
+    {"c": "İstanbul'un Fethi", "o": "İstanbul'un fethinin nedenleri nelerdir?", "a": "1) Toprak bütünlüğü (Anadolu-Balkan arası)\n2) Bizans'ın Haçlı seferlerine sebep olması\n3) Bizans'ın şehzadeleri kışkırtması\n4) Boğazlar ve İpek Yolu hakimiyeti\n5) İstanbul'u bilim-kültür merkezi yapma\n6) Hz. Muhammed'in hadisi (dini sebep)"},
+    {"c": "İstanbul'un Fethi", "o": "İstanbul'un fethinin Türk tarihi açısından sonuçları?", "a": "Toprak bütünlüğü sağlandı\nBaşkent İstanbul oldu\nYükselme dönemi başladı (devlet→imparatorluk)\nİslam dünyasında saygınlık arttı\nBoğazlar ve ticaret yolu Osmanlı'ya geçti\nFatih'e Kayzer-i Rum unvanı verildi"},
+    {"c": "İstanbul'un Fethi", "o": "İstanbul'un fethinin dünya tarihi sonuçları?", "a": "Orta Çağ bitti, Yeni Çağ başladı\nCoğrafi keşiflere zemin hazırlandı (ağır vergiler → yeni yol arayışı)\nRönesansa zemin hazırlandı (bilim insanları İtalya'ya kaçtı)\nDerebeylik rejimi yıkıldı (toplarla surlar yıkılabildi)"},
+    {"c": "İstanbul'un Fethi", "o": "Osmanlı'yı aşiretten imparatorluğa taşıyan padişahlar?", "a": "Aşiret → Beylik: Osman Bey\nBeylik → Devlet: Orhan Bey (teşkilatlanma)\nDevlet → İmparatorluk: Fatih (İstanbul'un fethi)"},
+    {"c": "İstanbul'un Fethi", "o": "Fatih, Ortodoks ve Ermenilerin başına neden lider atadı?", "a": "1) Hristiyan birliğini engellemek\n   (Katoliklerle birleşmesinler diye)\n2) Osmanlı'nın hoşgörüsünü göstermek\n(2016 KPSS genel kültür sorusu)"},
+    {"c": "İstanbul'un Fethi", "o": "Derebeylik rejiminin güçlenmesi ve yıkılması?", "a": "Güçlenme: Kavimler Göçü\nYıkılma: İstanbul'un Fethi\n(Toplarla surların yıkılabileceği görüldü)"},
+    {"c": "İstanbul'un Fethi", "o": "Başkentlerin değişim sırası ve sebebi?", "a": "Bursa (Orhan Bey) → İznik (Orhan Bey) → Edirne (I. Murat) → İstanbul (Fatih)\nSebep: Merkezler fetih yönü doğrultusunda değişir\nİstanbul en uzun süre başkentlik yapan şehir"},
+
+    {"c": "Fatih'in Fetihleri", "o": "Fatih'in Anadolu fetihleri nelerdir?", "a": "Cenevizlerden Amasra (Çeşm-i Cihan, Bartın)\nCandaroğullarından Sinop ve Samsun\n1461 Trabzon Rum İmparatorluğu\nKaramanoğullarından Konya ve Karaman\n1473 Otlukbeli (Akkoyunlu)"},
+    {"c": "Fatih'in Fetihleri", "o": "Otlukbeli Savaşı (1473) hakkında ne biliyoruz?", "a": "Osmanlı vs Akkoyunlu (Uzun Hasan)\nFırat Nehri'nin batısındaki topraklar alındı (ÖSYM sormuş)\nEzber: Koyun ot yer → Otlukbeli = Akkoyunlu"},
+    {"c": "Fatih'in Fetihleri", "o": "Fatih'in Balkan fetihleri hangileridir?", "a": "Arnavutluk (İskender Bey'in vefatı sonrası)\nSırbistan (Belgrad HARİÇ)\nBosna-Hersek\nEflak ve Boğdan (Memleketeyn)\nMora yarımadası"},
+    {"c": "Fatih'in Fetihleri", "o": "Fatih'in karada ve denizde kuşatıp alamadığı yerler?", "a": "Karada: Belgrad (Darül Cihat / Avrupa'nın kapısı)\nDenizde: Rodos (Akdeniz'in kilidi)\nİkisini de Kanuni Sultan Süleyman alacak"},
+    {"c": "Fatih'in Fetihleri", "o": "Karadeniz nasıl Türk gölü haline geldi?", "a": "Fatih döneminde Kırım'ın fethiyle\nKomutan: Gedik Ahmet Paşa\nÖncesinde: Amasra + Sinop + Samsun + Trabzon + İstanbul hattı çizilmişti"},
+    {"c": "Fatih'in Fetihleri", "o": "Gedik Ahmet Paşa hangi unvanlarla bilinir?", "a": "Kırım Fatihi + Otranto Fatihi\nOtranto: Roma seferlerinde üs olarak kullanılacaktı\nII. Bayezit döneminde idam edildi"},
+    {"c": "Fatih'in Fetihleri", "o": "Bizans'ın yeniden diriltilme umutlarına son veren fetihler?", "a": "1) Mora yarımadası\n2) Trabzon Rum İmparatorluğu (1461)\nBizans hanedanlık ailesinden gelen herkes ortadan kaldırıldı"},
+    {"c": "Fatih'in Fetihleri", "o": "Karamanoğulları Beyliği'nin son durumu?", "a": "Fatih: Konya ve Karaman'ı aldı (beylik yıkılmadı)\nBeyliğin tamamen yıkılışı: II. Bayezit döneminde"},
+
+    {"c": "Fatih'in Reformları", "o": "Fatih Kanunnamesi ile neleri yasalaştırdı?", "a": "Osmanlı'nın ilk kanunnamesi (Kanunname-i Âl-i Osman)\n1) Sancak sistemi (şehzadeler tecrübe kazansın)\n2) Cülüs bahşişi (her padişah verecek)\n3) Kardeş katli (nizam-ı âlem için)"},
+    {"c": "Fatih'in Reformları", "o": "Cülüs bahşişi kronolojisi?", "a": "İlk dağıtan: Yıldırım Bayezit\nYasa haline getiren: Fatih\nSon veren: I. Abdülhamit"},
+    {"c": "Fatih'in Reformları", "o": "Müsadere kronolojisi?", "a": "İlk uygulayan: Fatih (Çandarlı Halil Paşa'ya)\nUygulamaya son veren: II. Mahmut\nYasa olarak kalkan: Tanzimat Fermanı (Abdülmecit)\nMüsadere varsa → özel mülkiyet gelişmez"},
+    {"c": "Fatih'in Reformları", "o": "Fatih'in kullandığı dört unvan?", "a": "1) Fatih (fetih yapan)\n2) Kayzer-i Rum (Roma'nın Sezarı)\n3) Sultanü'l-Bahreyn (iki denizin sultanı)\n4) Hakan-ı Berreyn (iki karanın hakanı)"},
+    {"c": "Fatih'in Reformları", "o": "Sahn-ı Seman ve Tetimme medreseleri nedir?", "a": "Sahn-ı Seman: İstanbul'daki ilk medreseler (üniversite niteliğinde)\nTetimme: Sahn-ı Seman'a öğrenci hazırlayan medrese\nFatih döneminde kuruldu"},
+    {"c": "Fatih'in Reformları", "o": "İltizam sistemi nedir ve ilk kim uyguladı?", "a": "Toprağı 3 yıllığına kiralama sistemi\nİlk uygulayan: Fatih Sultan Mehmet"},
+    {"c": "Fatih'in Reformları", "o": "Fatih döneminde devşirmelerin yükselmesinin sebebi?", "a": "Çandarlı gibi Türk aileler padişahın otoritesini sarsıyordu\nFatih, Çandarlı Halil Paşa'yı idam ettirdi\nDevşirme kökenlileri sadrazam yaparak eşitlik sağladı\nMEB: 'Türk aristokrasisinin egemenliğine son verdi'"},
+    {"c": "Fatih'in Reformları", "o": "Osmanlı-Memlük ilişkilerinin bozulma kronolojisi?", "a": "Yıldırım Bayezit: İlk anlaşmazlık (Dulkadiroğulları toprakları)\nFatih: Hicaz Su Yolları meselesi\nII. Bayezit: İlk savaş (Ağ Çayırı)\nYavuz: Mercidabık+Ridaniye → Memlük yıkıldı"},
+
+    {"c": "II. Bayezit Dönemi", "o": "Cem Sultan olayı neden iç sorunken dış sorun olan İLK mesele?", "a": "Taht kavgası (iç sorun) olarak başladı\nCem: Karamanoğulları→Memlükler→Rodos→Fransa→Papa\nPapa Cem'i koz olarak kullandı\nOsmanlı Cem salınmasın diye haraç ödedi"},
+    {"c": "II. Bayezit Dönemi", "o": "II. Bayezit dönemi neden 'yükselme içinde duraklama'?", "a": "Cem Sultan Avrupalıların elinde koz\nAvrupa'ya sefer düzenlenemedi\nTersi: Duraklama içinde yükselme = Köprülüler devri"},
+    {"c": "II. Bayezit Dönemi", "o": "Şahkulu isyanı nedir?", "a": "Safevi Şah İsmail'in kışkırtmasıyla çıkan Şii ayaklanması\nII. Bayezit döneminde çıktı\nBastırılmasında Şehzade Selim (Yavuz) etkili oldu\nBayezit Safevilere sefer düzenlemedi"},
+    {"c": "II. Bayezit Dönemi", "o": "Ağ Çayırı Savaşı nedir?", "a": "Osmanlı-Memlük arasındaki ilk savaş\nII. Bayezit döneminde yapıldı\nSonuçsuz kaldı (Müslüman hükümdar araya girdi)"},
+    {"c": "II. Bayezit Dönemi", "o": "II. Bayezit'in Kili ve Akerman kalelerini almasının önemi?", "a": "Kırım'a karadan bağlantı kuruldu\nCem Sultan'ın ölümünden sonra Avrupa'ya sefer düzenlendi"},
+    {"c": "II. Bayezit Dönemi", "o": "II. Bayezit İspanya'daki Yahudi ve Müslümanlar için ne yaptı?", "a": "Katolik zulmünden kurtarıp Osmanlı topraklarına getirdi\nGizli yollarla gemiler gönderildi"},
+    {"c": "II. Bayezit Dönemi", "o": "Yavuz Sultan Selim nasıl tahta geçti?", "a": "Babası II. Bayezit'le Karıştıran Savaşı'nı yaptı (yenildi)\nSonra yeniçerilerin desteğiyle askeri darbe yaparak tahta geçti\nBabasının bedduası: 'Şir pençeye gelesin'"},
+    {"c": "II. Bayezit Dönemi", "o": "Kefe limanının önemi nedir?", "a": "Anadolu dışındaki tek şehzade sancağı\nKanuni (Şehzade Süleyman) burada sancak beyi olarak atandı\nYavuz'un kayın pederi Kırım Hanı'ydı"},
+
+    {"c": "Yavuz Sultan Selim", "o": "Yavuz neden '8 yıla 80 yıllık iş sığdıran' padişah?", "a": "1514 Çaldıran (Safevi)\n1515 Turnadağ (Dulkadiroğulları)\n1516 Mercidabık (Memlük)\n1517 Ridaniye (Memlük)\nTümü doğu seferi, tamamı kazanıldı"},
+    {"c": "Yavuz Sultan Selim", "o": "1514 Çaldıran Savaşı'nın tarafları ve sonuçları?", "a": "Osmanlı (Yavuz) vs Safevi (Şah İsmail)\nDoğu Anadolu Osmanlı hakimiyetine girdi\nDoğudaki Şii tehlikesi bertaraf edildi\nŞah İsmail eşi Taçlı Hatun'u bırakarak kaçtı\nEzber: Çald-İran → İran/Safevilerle"},
+    {"c": "Yavuz Sultan Selim", "o": "1515 Turnadağ Savaşı'nın sonucu?", "a": "Osmanlı vs Dulkadiroğulları\nMaraş-Elbistan alındı\nAnadolu Türk siyasi birliği KESİN olarak sağlandı\nSebep: Çaldıran'da Osmanlı'ya destek vermediler"},
+    {"c": "Yavuz Sultan Selim", "o": "Mercidabık (1516) ve Ridaniye (1517) sonuçları?", "a": "Mercidabık: Suriye, Filistin, Kudüs alındı\nRidaniye: Memlük Devleti yıkıldı\nMısır + hazineler + halifelik + kutsal emanetler Osmanlı'ya\nBaharat yolu Osmanlı egemenliğine girdi\nVenedik Kıbrıs vergisini Osmanlı'ya ödemeye başladı"},
+    {"c": "Yavuz Sultan Selim", "o": "Hadimü'l-Haremeyn-i Şerifeyn unvanı hakkında ne biliyoruz?", "a": "Anlamı: İki kutsal merkezin hizmetkârı\nYavuz 'hükümdar' değil 'hizmetkâr' dedi (cuma namazında)\nDaha önce Selahaddin Eyyubi de kullanmıştı"},
+    {"c": "Yavuz Sultan Selim", "o": "Halifelik Osmanlı'ya geçince ne değişti?", "a": "İlk Osmanlı halifesi: Yavuz Sultan Selim\nPadişahlık + halifelik birleşti (Memlüklerde ayrıydı)\nTeokratik devlet özelliği güçlendi"},
+    {"c": "Yavuz Sultan Selim", "o": "Fiskalizm ilkesini en iyi uygulayan padişah?", "a": "Yavuz Sultan Selim\nMısır hazinelerini İstanbul'a getirdi\n'Torunlarım hazineyi benim kadar dolduramazsa mührümü sökmesin'\nTopkapı Sarayı'nda hâlâ mührü var"},
+    {"c": "Yavuz Sultan Selim", "o": "İdris-i Bitlisi kimdir?", "a": "Yavuz'un doğu (Kürt) politikasını yöneten kişi\nKürt aşiretlerini Osmanlı'ya bağladı\nEseri: Heşt Behşt"},
+    {"c": "Yavuz Sultan Selim", "o": "Bozoklu Celal isyanının önemi?", "a": "Yavuz döneminde Anadolu'da çıkan ayaklanma\nHemen bastırıldı\n17. yüzyıl Anadolu isyanları (Celali isyanları) isim babasıdır\nCelali = Celal gibiler, Celal'e benzeyenler"},
+
+    {"c": "Kanuni Sultan Süleyman", "o": "Kanuni dönemi Avrupa'nın siyasi anatomisi?", "a": "Kutsal Roma-Germen (Şarlken) + Avusturya (Ferdinand) + Macaristan (Layoş) = üçlü ittifak\nOsmanlı + Fransa (Fransuva) = karşı blok\n'Düşmanımın düşmanı dostumdur'"},
+    {"c": "Kanuni Sultan Süleyman", "o": "Kanuni döneminde çıkan dört isyan?", "a": "1) Ahmet Paşa: Sadrazamlık verilmedi diye\n2) Canberdi Gazali: Memlük'ü yeniden kurmak\n3) Kalender Çelebi: Dini görünümlü ekonomik\n4) Baba Zünnun: Dini görünümlü ekonomik"},
+    {"c": "Kanuni Sultan Süleyman", "o": "1526 Mohaç Meydan Muharebesi özellikleri?", "a": "Osmanlı vs Macaristan (Layoş)\nDünyanın en kısa süren meydan savaşı: 2 saat\nMacaristan Osmanlı'ya katıldı\nŞarlken korkarak Fransuva'yı serbest bıraktı"},
+    {"c": "Kanuni Sultan Süleyman", "o": "1533 İstanbul Antlaşması'nın önemi?", "a": "Osmanlı-Avusturya ilk antlaşma (İbrahim Paşa Antlaşması)\nAvusturya arşidükü = Osmanlı sadrazamına denk\nProtokol üstünlüğü sağlandı\nBu üstünlük 1606 Zitvatorok ile sona erecek"},
+    {"c": "Kanuni Sultan Süleyman", "o": "1535 Kapitülasyon Anlaşması nedir?", "a": "Osmanlı → Fransa'ya ticaret ayrıcalıkları\nDiğer adları: Uhud-u Atik / İmtiyaz-ı Mahsusa\nAmaç: Hristiyan birliği engelleme + Akdeniz ticareti canlandırma + Coğrafi keşif zararını azaltma"},
+    {"c": "Kanuni Sultan Süleyman", "o": "1538 Preveze Deniz Savaşı ve sonucu?", "a": "Osmanlı (Barbaros Hayrettin Paşa) vs Haçlılar (Andrea Doria)\nAkdeniz Türk gölü haline geldi\nBu tarih Donanma Günü olarak kutlanır"},
+    {"c": "Kanuni Sultan Süleyman", "o": "Kanuni'nin doğu seferleri ve sonucu?", "a": "3 sefer: Irakeyn, Tebriz, Nahçıvan\n1555 Amasya Antlaşması imzalandı\nOsmanlı-Safevi arasındaki ilk resmi antlaşma\nBağdat, Tebriz, Azerbaycan Osmanlı'da kaldı"},
+    {"c": "Kanuni Sultan Süleyman", "o": "Hint Deniz Seferlerine kimler katıldı, neden başarısız?", "a": "HEPİMİZ: Hadım Süleyman P., Piri Reis, Murat Reis, Seydi Ali Reis\nBarbaros katılMADI!\nBaşarısızlık: Gemiler okyanusa dayanıksız, Portekizliler güçlü, yerel Müslümanlar ihanet\nPiri Reis idam edildi"},
+    {"c": "Kanuni Sultan Süleyman", "o": "Martin Luther'e Osmanlı neden para yardımı yaptı?", "a": "Luther Protestanlığı kurarak Katolik birliğini parçaladı\nOsmanlı Hristiyan birliğinin engellenmesini istiyordu\nMezhep çatışması = Haçlı ittifakı oluşamaz"},
+    {"c": "Kanuni Sultan Süleyman", "o": "Kanuni'nin kuşatıp alamadığı yerler?", "a": "Karada: Viyana (1529, toplar götürülemedi)\nDenizde: Malta (1565, Turgut Reis şehit düştü)"},
+    {"c": "Kanuni Sultan Süleyman", "o": "Pargalı İbrahim Paşa'nın atanmasının önemi?", "a": "Sıra Ahmet Paşa'daydı, Kanuni arkadaşı Pargalı'yı atadı\nUsulsüz atama → usulsüzlüklerin başladığı dönem\nFuzuli Şikayetname: 'Selam verdim rüşvet değil diye almadılar'"},
+    {"c": "Kanuni Sultan Süleyman", "o": "1560 Cerbe Deniz Savaşı ve 1565 Malta kuşatması?", "a": "Cerbe: Akdeniz'deki Türk hakimiyeti güçlendi (Kanuni dönemi)\nMalta: Kuşatma başarısız, Turgut Reis şehit düştü → kuşatma kaldırıldı"},
+
+    {"c": "Sokullu Dönemi", "o": "Sokullu Mehmet Paşa hangi padişahlara sadrazamlık yaptı?", "a": "1) Kanuni Sultan Süleyman (son dönemi)\n2) II. Selim (Sarı Selim)\n3) III. Murat\nYükselme dönemi 1579'da Sokullu'nun vefatıyla sona erdi"},
+    {"c": "Sokullu Dönemi", "o": "Kıbrıs'ın fethi ve İnebahtı Deniz Savaşı (1571)?", "a": "Kıbrıs: II. Selim döneminde Lala Mustafa Paşa fethettti\nSokullu uyarmıştı: 'Almak kolay, sonuçlarına katlanmak zor'\nİnebahtı: Osmanlı donanması tarihte ilk kez yandı\nSokullu: 'Kol kestik / sakal kestiniz' sözü"},
+    {"c": "Sokullu Dönemi", "o": "Osmanlı donanmasının yakıldığı yerler (İÇİNİZ)?", "a": "İnebahtı: Haçlılar (Kıbrıs alındı diye)\nÇeşme: Rusya (1768-74 savaşı)\nNavarin: İng+Fra+Rusya (Yunan isyanı)\nSinop: Rusya (Kırım Savaşı)"},
+    {"c": "Sokullu Dönemi", "o": "III. Murat döneminde alınan topraklar?", "a": "Tunus himaye altına alındı\nLehistan (Polonya) himaye → sınır Baltık'a dayandı\nVâdisseyl Savaşı → Fas → sınır Atlas Okyanusu'na dayandı\nKuzey Afrika fethi tamamlandı"},
+    {"c": "Sokullu Dönemi", "o": "Uluç (Kılıç) Ali Reis kimdir?", "a": "İnebahtı'da kendi gemilerini kurtaran tek kişi\nBu başarısı nedeniyle kaptanıderyalığa getirildi"},
+
+    {"c": "Sokullu'nun Projeleri", "o": "Don-Volga Kanalı projesi nedir?", "a": "Don ve Volga nehirlerini birleştirme\nAmaç: Orta Asya Türkleriyle bağlantı + Rusları güneye indirmeme + İran sevkiyatı\nHayata geçiren: Rusya"},
+    {"c": "Sokullu'nun Projeleri", "o": "Süveyş Kanalı projesi nedir?", "a": "Akdeniz ile Kızıldeniz'i birleştirme\nAmaç: Akdeniz ticaretini + baharat yolunu canlandırma\nCoğrafi keşiflerin zararını azaltma\nHayata geçiren: İngiltere ve Fransa"},
+    {"c": "Sokullu'nun Projeleri", "o": "Marmara-Karadeniz Kanalı projesi?", "a": "Sapanca Gölü üzerinden bağlantı\nDonanmaya alternatif yol + gemi yapımı ağaç ihtiyacı + İstanbul ihtiyaçları\nHayata geçirilemedi"},
+
+    {"c": "Önemli Kişiler", "o": "Barbaros Hayrettin Paşa'nın katkıları?", "a": "Kanuni'nin daveti ile Osmanlı kaptanıderyası oldu\nCezayir'i Osmanlı'ya hediye etti\n1538 Preveze'de Andrea Doria'yı yenerek Akdeniz'i Türk gölü yaptı"},
+    {"c": "Önemli Kişiler", "o": "Turgut Reis'in başarıları ve sonu?", "a": "1551 Trablus Garp'ı fethetti, beylerbeyi oldu\nEzber: TUR-TUR (Turgut=Trablus)\n1565 Malta kuşatmasında şehit düştü"},
+    {"c": "Önemli Kişiler", "o": "Piri Reis ve Seydi Ali Reis'in eserleri?", "a": "Piri Reis: Kitab-ı Bahriye, Dünya Haritası\n(Hint seferlerinde başarısız → idam)\nSeydi Ali Reis: Kitabü'l-Muhit, Miratü'l-Memalik"},
+    {"c": "Önemli Kişiler", "o": "Şah İsmail'in şiir mahlasını neden değiştirdi?", "a": "Önceki mahlas: Hıtaî\nSonraki mahlas: Hataî (hata yapan anlamında)\nÇaldıran'da Yavuz'a yenilince değiştirdi"}
+  ],
+  "tuzak": [
+    {"q": "Karadeniz'i Türk gölü haline getiren padişah kimdir?", "o": ["Kanuni Sultan Süleyman", "Fatih Sultan Mehmet"], "c": 1, "n": "Akdeniz'i Kanuni yaptı (Preveze); Karadeniz'i Fatih yaptı (Kırım fethi)."},
+    {"q": "Akdeniz'i Türk gölü haline getiren padişah kimdir?", "o": ["Fatih Sultan Mehmet", "Kanuni Sultan Süleyman"], "c": 1, "n": "Karadeniz'i Fatih; Akdeniz'i Kanuni (1538 Preveze) yaptı."},
+    {"q": "Fatih'in karada kuşatıp alamadığı tek yer neresidir?", "o": ["Rodos", "Belgrad", "Viyana"], "c": 1, "n": "Rodos denizde kuşatılıp alınamayan yer; Viyana Kanuni'nin alamadığı yer."},
+    {"q": "Kanuni'nin denizde kuşatıp alamadığı yer neresidir?", "o": ["Rodos", "Malta", "Belgrad"], "c": 1, "n": "Rodos'u Kanuni zaten aldı; Malta'yı kuşattı ama alamadı (Turgut Reis şehit)."},
+    {"q": "Karamanoğulları Beyliği'ne kesin olarak son veren padişah?", "o": ["Fatih Sultan Mehmet", "II. Bayezit"], "c": 1, "n": "Fatih Konya-Karaman'ı aldı ama beyliği yıkmadı; tam yıkılış II. Bayezit dönemi."},
+    {"q": "Cülüs bahşişini ilk dağıtan padişah kimdir?", "o": ["Fatih Sultan Mehmet", "Yıldırım Bayezit"], "c": 1, "n": "Fatih yasa haline getirdi; ilk dağıtan ise Yıldırım Bayezit'tir."},
+    {"q": "Müsadereyi ilk uygulayan padişah kimdir?", "o": ["II. Mahmut", "Fatih Sultan Mehmet"], "c": 1, "n": "II. Mahmut müsadereyi kaldırandır; ilk uygulayan Fatih'tir (Çandarlı'ya)."},
+    {"q": "Osmanlı ile Avusturya arasındaki ilk antlaşma hangisidir?", "o": ["1555 Amasya", "1533 İstanbul"], "c": 1, "n": "1555 Amasya Safevilerle yapılmıştır; Avusturya ile ilk antlaşma 1533 İstanbul (İbrahim Paşa)."},
+    {"q": "Osmanlı ile Safeviler arasındaki ilk resmi antlaşma?", "o": ["1533 İstanbul", "1555 Amasya"], "c": 1, "n": "1533 İstanbul Avusturya ile; 1555 Amasya Safevilerle yapılan ilk antlaşmadır."},
+    {"q": "Hint Deniz Seferlerine katılan komutanlardan hangisi değildir?", "o": ["Hadım Süleyman Paşa", "Barbaros Hayrettin Paşa", "Piri Reis"], "c": 1, "n": "Barbaros Hint seferlerine katılmamıştır; HEPİMİZ: Hadım Süleyman, Piri, Murat, Seydi Ali."},
+    {"q": "Anadolu Türk siyasi birliğini kesin olarak sağlayan savaş?", "o": ["Çaldıran", "Turnadağ"], "c": 1, "n": "Çaldıran Safevilerle; Turnadağ (1515) Dulkadiroğullarını yıkarak Anadolu birliğini kesinleştirdi."},
+    {"q": "Osmanlı-Memlük arasındaki ilk savaş hangisidir?", "o": ["Mercidabık", "Ağ Çayırı"], "c": 1, "n": "Mercidabık Yavuz dönemidir; Ağ Çayırı II. Bayezit döneminde yapılan ilk savaştır (sonuçsuz)."},
+    {"q": "Osmanlı'nın iç sorunken dış sorun haline gelen ilk meselesi?", "o": ["Şahkulu isyanı", "Cem Sultan olayı"], "c": 1, "n": "Şahkulu dış güçlerin kışkırttığı iç isyan; Cem Sultan iç taht kavgasıyken Papa'ya ulaşarak dış sorun oldu."},
+    {"q": "Protokol üstünlüğünün sağlandığı antlaşma?", "o": ["1606 Zitvatorok", "1533 İstanbul"], "c": 1, "n": "1606 Zitvatorok protokol üstünlüğünü kaybettiğimiz; 1533 İstanbul sağladığımız antlaşmadır."},
+    {"q": "'Hadimü'l-Haremeyn-i Şerifeyn' unvanını ilk kullanan Osmanlı padişahı?", "o": ["Kanuni Sultan Süleyman", "Yavuz Sultan Selim"], "c": 1, "n": "Kanuni da halife ama unvanı ilk kullanan Osmanlı padişahı Yavuz'dur."},
+    {"q": "İstanbul'un fethiyle yıkılan rejim hangisidir?", "o": ["Feodalite / Derebeylik", "Merkezi monarşi"], "c": 0, "n": "İstanbul'un fethiyle topların surları yıkabildiği görülünce derebeylik yıkıldı."},
+    {"q": "Fatih'in 'Kayzer-i Rum' unvanını almasının sebebi?", "o": ["Sadece İstanbul'u fethetmesi", "Orhan Bey'in Bizans prensesiyle evlenmesine dayanması"], "c": 1, "n": "Sadece fetih değil; Fatih soy bağını Nilüfer Hatun (Bizans prensesi) üzerinden kurdu."},
+    {"q": "Yavuz Sultan Selim'in bütün seferlerinin yönü neresidir?", "o": ["Batı (Avrupa)", "Doğu"], "c": 1, "n": "Yavuz'un tüm seferleri (Çaldıran, Turnadağ, Mercidabık, Ridaniye) doğuyadır."},
+    {"q": "Kırım'ı fetheden komutan kimdir?", "o": ["Barbaros Hayrettin Paşa", "Gedik Ahmet Paşa"], "c": 1, "n": "Barbaros Akdeniz komutanıdır; Kırım ve Otranto Fatihi Gedik Ahmet Paşa'dır."},
+    {"q": "Trablus Garp'ı fetheden denizci kimdir?", "o": ["Barbaros Hayrettin Paşa", "Turgut Reis"], "c": 1, "n": "Barbaros Cezayir'i getirdi; Trablus Garp'ı Turgut Reis fethetti (TUR-TUR)."},
+    {"q": "Mohaç Meydan Muharebesi'nde Osmanlı'nın karşısındaki devlet?", "o": ["Avusturya", "Macaristan"], "c": 1, "n": "Viyana kuşatması Avusturya'yadır; Mohaç'ta karşımızda Macaristan (Layoş) vardı."},
+    {"q": "İnebahtı'da gemilerini kurtaran tek kişi kimdir?", "o": ["Barbaros Hayrettin Paşa", "Uluç (Kılıç) Ali Reis"], "c": 1, "n": "Barbaros İnebahtı'dan önce vefat etmişti; gemilerini kurtaran Uluç Ali Reis'tir."},
+    {"q": "1535 Kapitülasyon Anlaşması hangi devletle yapılmıştır?", "o": ["Avusturya", "Fransa"], "c": 1, "n": "Avusturya ile 1533 İstanbul Antlaşması; Fransa ile 1535 Kapitülasyon yapılmıştır."},
+    {"q": "Don-Volga Kanalı projesini kim hayata geçirdi?", "o": ["İngiltere-Fransa", "Rusya"], "c": 1, "n": "İngiltere-Fransa Süveyş'i yaptı; Don-Volga'yı Rusya hayata geçirdi."},
+    {"q": "Süveyş Kanalı projesini kim hayata geçirdi?", "o": ["Rusya", "İngiltere-Fransa"], "c": 1, "n": "Rusya Don-Volga'yı yaptı; Süveyş'i İngiltere ve Fransa hayata geçirdi."},
+    {"q": "Yükselme dönemi hangi olayla sona ermiştir?", "o": ["Kanuni'nin vefatı", "Sokullu Mehmet Paşa'nın vefatı (1579)"], "c": 1, "n": "Kanuni'nin vefatı değil; Sokullu'nun 1579'daki vefatı yükselme döneminin sonu kabul edilir."},
+    {"q": "Kanuni'nin şiir mahlası hangisidir?", "o": ["Avni", "Muhibbi"], "c": 1, "n": "Avni Fatih'in mahlasıdır; Kanuni'nin mahlası Muhibbi'dir."},
+    {"q": "Dünyanın en kısa süren meydan savaşı hangisidir?", "o": ["Preveze Deniz Savaşı", "Mohaç Meydan Muharebesi"], "c": 1, "n": "Preveze deniz savaşıdır; en kısa meydan savaşı Mohaç'tır (sadece 2 saat)."},
+    {"q": "Fiskalizm ilkesini en iyi uygulayan padişah?", "o": ["Kanuni Sultan Süleyman", "Yavuz Sultan Selim"], "c": 1, "n": "Kanuni en parlak dönem ama fiskalizm (hazineyi en dolu tutma) şampiyonu Yavuz'dur (Mısır hazineleri)."},
+    {"q": "Kanuni'nin son seferi hangisidir?", "o": ["Alman seferi", "Zigetvar seferi"], "c": 1, "n": "Alman seferi 1532'dedir; Kanuni Zigetvar seferinde çadırında vefat etti (son sefer)."},
+    {"q": "Memlüklerde sultanlık ve halifelik makamları birleşik miydi?", "o": ["Evet, birleşikti", "Hayır, ayrıydı"], "c": 1, "n": "Osmanlı'da birleşti; Memlüklerde sultanlık ve halifelik ayrıydı (ilkel laiklik)."}
+  ],
+  "deneme": [
+    {
+      "q": "İstanbul'un fethiyle ilgili aşağıdaki yargılardan hangisi yanlıştır?",
+      "o": ["Orta Çağ sona ermiş, Yeni Çağ başlamıştır.", "Coğrafi keşiflere zemin hazırlamıştır.", "Osmanlı Devleti beylikten imparatorluğa geçmiştir.", "Derebeylik rejiminin yıkılmasına ortam hazırlamıştır.", "Kavimler Göçü'ne neden olmuştur."],
+      "c": 4,
+      "e": "Kavimler Göçü (375) İstanbul'un fethinden (1453) çok önce gerçekleşmiştir; İstanbul'un fethi Kavimler Göçü'ne değil derebeyliğin yıkılmasına zemin hazırlamıştır."
+    },
+    {
+      "q": "Fatih Sultan Mehmet'in Ortodoksların ve Gregoryen Ermenilerin başına yeni liderler atamasının temel amacı aşağıdakilerden hangisidir?",
+      "o": ["Fethedilen toprakları Türkleştirmek", "Hristiyan birliğini engellemek", "Devşirme sistemini güçlendirmek", "Ticaret gelirlerini artırmak", "Bizans'ın mirasını sahiplenmek"],
+      "c": 1,
+      "e": "Fatih, Ortodoks ve Ermenilerin Katoliklerle birleşmesini engelleyerek Haçlı ittifakının oluşmasını önlemek istemiştir (2016 KPSS)."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Fatih Kanunnamesi ile yasa haline getirilen uygulamalardan biri değildir?",
+      "o": ["Sancak sistemi", "Kardeş katli", "Cülüs bahşişi", "Müsadere", "Kardeş katlinin nizam-ı âlem için uygulanması"],
+      "c": 3,
+      "e": "Müsadere Fatih tarafından ilk kez uygulanmıştır ancak Fatih Kanunnamesi'nde yasalaştırılan üç uygulama sancak, cülüs bahşişi ve kardeş katlidir."
+    },
+    {
+      "q": "Fırat Nehri'nin batısındaki toprakların Osmanlı egemenliğine geçtiği savaş aşağıdakilerden hangisidir?",
+      "o": ["Çaldıran Savaşı", "Turnadağ Savaşı", "Otlukbeli Savaşı", "Mercidabık Savaşı", "Ridaniye Savaşı"],
+      "c": 2,
+      "e": "1473 Otlukbeli Savaşı'nda Fatih, Akkoyunluları yenerek Fırat'ın batısındaki toprakları ele geçirmiştir (ÖSYM sormuş)."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Cem Sultan olayının sonuçlarından biri değildir?",
+      "o": ["Osmanlı'nın Avrupa'ya sefer düzenleyememesi", "II. Bayezit döneminin 'yükselme içinde duraklama' olarak nitelendirilmesi", "Osmanlı'nın Papa'ya haraç ödemesi", "Memlük Devleti'nin yıkılması", "İç sorunun dış sorun haline gelmesi"],
+      "c": 3,
+      "e": "Memlük Devleti Yavuz döneminde Ridaniye Savaşı (1517) ile yıkılmıştır; Cem Sultan olayıyla ilgisi yoktur."
+    },
+    {
+      "q": "I. Anadolu Türk siyasi birliğinin kesin olarak sağlanması\nII. Halifeliğin Osmanlı'ya geçmesi\nIII. Doğudaki Şii tehlikesinin bertaraf edilmesi\nYukarıdakilerden hangileri Yavuz Sultan Selim döneminde gerçekleşmiştir?",
+      "o": ["Yalnız I", "Yalnız II", "I ve II", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Turnadağ (1515) ile Anadolu birliği sağlandı, Çaldıran (1514) ile Şii tehlikesi bertaraf edildi, Ridaniye (1517) ile halifelik Osmanlı'ya geçti."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1533 İstanbul Antlaşması'nın özelliklerinden biridir?",
+      "o": ["Osmanlı ile Safeviler arasında imzalanmıştır.", "Osmanlı'nın protokol üstünlüğü sona ermiştir.", "Avusturya arşidükü Osmanlı sadrazamına denk kabul edilmiştir.", "Kapitülasyonlar ilk kez verilmiştir.", "Fransa ile ticaret ayrıcalıkları düzenlenmiştir."],
+      "c": 2,
+      "e": "1533 İstanbul (İbrahim Paşa) Antlaşması Osmanlı-Avusturya ilk antlaşmasıdır ve Avusturya arşidükünü sadrazama denk tutarak protokol üstünlüğü sağlamıştır."
+    },
+    {
+      "q": "Osmanlı Devleti'nin Fransa'ya kapitülasyon vermesinin amaçları arasında aşağıdakilerden hangisi yer almaz?",
+      "o": ["Hristiyan birliğini engellemek", "Akdeniz ticaretini canlandırmak", "Coğrafi keşiflerin zararlarını azaltmak", "Avusturya'yı Osmanlı'ya bağlamak", "Fransa'yı yanına çekmek"],
+      "c": 3,
+      "e": "Kapitülasyonlar Fransa'ya verilmiştir; Avusturya'yı bağlamak amaçlanmamıştır. Amaçlar: Hristiyan birliği engelleme, Akdeniz ticareti canlandırma ve Fransa'yı yanına çekmektir."
+    },
+    {
+      "q": "Aşağıdaki savaşlardan hangisi Osmanlı-Memlük ilişkileri açısından doğru eşleştirilmiştir?",
+      "o": ["Ağ Çayırı — Memlük Devleti yıkıldı", "Ridaniye — Suriye ve Filistin alındı", "Mercidabık — Memlük Devleti yıkıldı", "Ridaniye — Memlük Devleti yıkıldı", "Turnadağ — Memlük Devleti yıkıldı"],
+      "c": 3,
+      "e": "Ağ Çayırı sonuçsuz; Mercidabık ile Suriye-Filistin-Kudüs alındı; Ridaniye ile Memlük Devleti yıkıldı; Turnadağ Dulkadiroğullarıyladır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Kanuni Sultan Süleyman dönemiyle ilgili yanlış bir bilgidir?",
+      "o": ["Mohaç dünyanın en kısa süren meydan savaşıdır.", "Preveze ile Akdeniz Türk gölü olmuştur.", "Viyana kuşatması başarısız olmuştur.", "Barbaros Hint Deniz Seferlerine katılmıştır.", "1555 Amasya Osmanlı-Safevi ilk antlaşmasıdır."],
+      "c": 3,
+      "e": "Barbaros Hayrettin Paşa Hint Deniz Seferlerine katılmamıştır. Katılanlar: Hadım Süleyman Paşa, Piri Reis, Murat Reis, Seydi Ali Reis."
+    },
+    {
+      "q": "Gedik Ahmet Paşa ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "o": ["Preveze Deniz Savaşı'nın komutanıdır.", "Trablus Garp'ı fethetmiştir.", "Kırım ve Otranto Fatihi olarak bilinir.", "İnebahtı'da gemilerini kurtaran tek kişidir.", "Hint Deniz Seferlerine katılmıştır."],
+      "c": 2,
+      "e": "Gedik Ahmet Paşa Fatih döneminde Kırım'ı fethederek Karadeniz'i Türk gölü yaptı ve Otranto'yu fethetti."
+    },
+    {
+      "q": "I. Canberdi Gazali İsyanı\nII. Ahmet Paşa İsyanı\nIII. Bozoklu Celal İsyanı\nYukarıdakilerden hangileri Kanuni Sultan Süleyman döneminde yaşanmıştır?",
+      "o": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 1,
+      "e": "Canberdi Gazali ve Ahmet Paşa isyanları Kanuni dönemindedir; Bozoklu Celal isyanı Yavuz döneminde çıkmıştır."
+    },
+    {
+      "q": "Sokullu Mehmet Paşa'nın Don-Volga Kanalı projesinin amaçları arasında aşağıdakilerden hangisi yoktur?",
+      "o": ["Orta Asya Türkleriyle bağlantı kurmak", "Rusların güneye inmesini engellemek", "İran seferlerinde asker sevkiyatını kolaylaştırmak", "Akdeniz ticaretini canlandırmak", "Hazar Gölü'ne ulaşım sağlamak"],
+      "c": 3,
+      "e": "Akdeniz ticaretini canlandırmak Süveyş Kanalı projesinin amacıdır; Don-Volga Orta Asya bağlantısı, Rusları engelleme ve İran sevkiyatı içindir."
+    },
+    {
+      "q": "Osmanlı donanmasının yakıldığı yerlerle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": ["İnebahtı — Haçlılar", "Çeşme — Rusya", "Navarin — İngiltere, Fransa, Rusya", "Sinop — Avusturya", "İnebahtı — Kıbrıs'ın fethi sonrası"],
+      "c": 3,
+      "e": "Sinop baskınını Avusturya değil Rusya yapmıştır (Kırım Savaşı). İÇİNİZ: İnebahtı, Çeşme, Navarin, Sinop."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi II. Bayezit döneminde gerçekleşmemiştir?",
+      "o": ["Cem Sultan olayı", "Şahkulu isyanı", "Ağ Çayırı Savaşı", "Karıştıran Savaşı", "Çaldıran Savaşı"],
+      "c": 4,
+      "e": "Çaldıran Savaşı (1514) Yavuz Sultan Selim döneminde Safevilerle yapılmıştır."
+    },
+    {
+      "q": "Aşağıdaki antlaşmalardan hangisi Osmanlı'nın protokol üstünlüğünü kaybettiği antlaşmadır?",
+      "o": ["1533 İstanbul", "1535 Kapitülasyon", "1555 Amasya", "1606 Zitvatorok", "1699 Karlofça"],
+      "c": 3,
+      "e": "Protokol üstünlüğü 1533 İstanbul ile sağlandı, 1606 Zitvatorok ile kaybedildi."
+    },
+    {
+      "q": "Yavuz Sultan Selim'in tüm seferlerinin doğuya yapılmış olması aşağıdakilerden hangisiyle açıklanabilir?",
+      "o": ["Avrupa ile barış antlaşması imzalanması", "Cem Sultan'ın hâlâ hayatta olması", "Türk-İslam dünyasının liderliğini ele geçirme hedefi", "Fatih'in vasiyetine uyması", "Yeniçerilerin Avrupa seferine karşı çıkması"],
+      "c": 2,
+      "e": "Yavuz, Türk-İslam dünyasının liderliğini ele geçirmek amacıyla bütün seferlerini doğuya düzenlemiştir."
+    },
+    {
+      "q": "Osmanlı tarihinde 'yükselme içinde duraklama' olarak nitelendirilen dönem aşağıdakilerden hangisidir?",
+      "o": ["Fatih Sultan Mehmet dönemi", "II. Bayezit dönemi", "Yavuz Sultan Selim dönemi", "Kanuni Sultan Süleyman dönemi", "II. Selim dönemi"],
+      "c": 1,
+      "e": "Cem Sultan olayı nedeniyle Avrupa'ya sefer düzenlenemeyen II. Bayezit dönemi 'yükselme içinde duraklama' olarak bilinir."
+    },
+    {
+      "q": "Fuzuli'nin Şikayetname'sindeki 'Selam verdim rüşvet değil diye almadılar' ifadesi Osmanlı'daki hangi soruna işaret eder?",
+      "o": ["Askeri düzensizlik", "Toprak kaybı", "Rüşvet ve usulsüzlüklerin başlaması", "Dini otoritenin zayıflaması", "Saray entrikalarının artması"],
+      "c": 2,
+      "e": "Fuzuli, Kanuni döneminde başlayan rüşvet, iltimas ve usulsüz atamaları eleştirmiştir."
+    },
+    {
+      "q": "Aşağıdaki padişah-unvan eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["Fatih — Kayzer-i Rum", "Yavuz — Hadimü'l-Haremeyn-i Şerifeyn", "Kanuni — Muhibbi", "Fatih — Avni", "Yavuz — Sultanü'l-Bahreyn"],
+      "c": 4,
+      "e": "Sultanü'l-Bahreyn (iki denizin sultanı) Fatih'in unvanıdır, Yavuz'un değil."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Savaş — Taraf",
+      "p": [
+        ["Otlukbeli (1473)", "Akkoyunlu"],
+        ["Çaldıran (1514)", "Safevi"],
+        ["Turnadağ (1515)", "Dulkadiroğulları"],
+        ["Mercidabık (1516)", "Memlük"],
+        ["Mohaç (1526)", "Macaristan"],
+        ["Preveze (1538)", "Haçlılar"],
+        ["Ağ Çayırı", "Memlük (ilk savaş)"]
+      ]
+    },
+    {
+      "ad": "Padişah — İlk / Özellik",
+      "p": [
+        ["Fatih", "İlk kanunname"],
+        ["Fatih", "Karadeniz Türk gölü"],
+        ["Kanuni", "Akdeniz Türk gölü"],
+        ["Yavuz", "İlk Osmanlı halifesi"],
+        ["Yavuz", "Fiskalizm şampiyonu"],
+        ["Kanuni", "En uzun tahtta (46 yıl)"],
+        ["II. Bayezit", "Yükselme içinde duraklama"]
+      ]
+    },
+    {
+      "ad": "Komutan — Fetih / Başarı",
+      "p": [
+        ["Gedik Ahmet Paşa", "Kırım + Otranto"],
+        ["Barbaros Hayrettin Paşa", "Preveze + Cezayir"],
+        ["Turgut Reis", "Trablus Garp"],
+        ["Lala Mustafa Paşa", "Kıbrıs"],
+        ["Uluç (Kılıç) Ali Reis", "İnebahtı'da gemilerini kurtardı"],
+        ["İdris-i Bitlisi", "Doğu (Kürt) politikası"]
+      ]
+    },
+    {
+      "ad": "Antlaşma — Özellik",
+      "p": [
+        ["1533 İstanbul", "Osmanlı-Avusturya ilk antlaşma"],
+        ["1535 Kapitülasyon", "Fransa'ya ticaret ayrıcalığı"],
+        ["1555 Amasya", "Osmanlı-Safevi ilk antlaşma"],
+        ["1606 Zitvatorok", "Protokol üstünlüğü kaybedildi"],
+        ["Uhud-u Atik", "Kapitülasyonun diğer adı"],
+        ["İbrahim Paşa Antlaşması", "İstanbul Antlaşması'nın diğer adı"]
+      ]
+    },
+    {
+      "ad": "Kanal Projesi — Amaç",
+      "p": [
+        ["Don-Volga", "Orta Asya Türkleriyle bağlantı"],
+        ["Don-Volga", "Rusları güneye indirmeme"],
+        ["Süveyş", "Akdeniz ticaretini canlandırma"],
+        ["Süveyş", "Baharat yolunu canlandırma"],
+        ["Marmara-Karadeniz", "Donanmaya alternatif yol"],
+        ["Don-Volga → Rusya", "Hayata geçiren devlet"],
+        ["Süveyş → İng-Fra", "Hayata geçiren devlet"]
+      ]
+    }
+  ]
+}

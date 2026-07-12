@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "gun": 2,
+    "baslik": "Türk İslam Devletleri",
+    "ozet": "Karahanlılar'dan Memlüklere, Moğollar'dan Timur'a Türk İslam devletleri; kültür-medeniyet, ordu, hukuk, toprak yönetimi ve bilim insanları.",
+    "tahminiSoru": "KPSS'de ~3-5 soru",
+    "duzeltmeler": [
+      "Kaşkard → Kaşgar",
+      "Satut Buğra Han → Satuk Buğra Han",
+      "Büveyhoyoğulları → Büveyhoğulları",
+      "Yusuf Asacib / Hascib → Yusuf Has Hacip",
+      "Buhittin Savaşı → Hıttin Savaşı",
+      "Alain Keykubat → Alaaddin Keykubat",
+      "Arsılan Yabguy → Arslan Yabgu",
+      "Romen Dioje → Romen Diyojen",
+      "Cabir bin Hayyam → Câbir bin Hayyân",
+      "Zekeriya Errazi → Zekeriya er-Razi",
+      "Elhaziniy → El-Hazini",
+      "Kaçkarlı Mahmut → Kaşgarlı Mahmut"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Önemli Şehir Unvanları",
+      "i": [
+        {"k": "Ötüken", "m": "Toprak Ana / kutsal başkent / Türk memleketlerinin yüreği", "s": "z"},
+        {"k": "Kaşgar", "m": "Işıldayan İnci", "s": "z"},
+        {"k": "Buhara", "m": "İslam'ın Roma'sı (MEB kitabında geçer)", "s": "z"},
+        {"k": "Semerkant", "m": "Şehirlerin Şahı — Timur dönemi (2015 KPSS)", "s": "z"},
+        {"k": "İsfahan", "m": "Nüsf-ı Cihan = dünyanın yarısı", "s": "z"}
+      ]
+    },
+    {
+      "b": "Mısır'da Kurulan Türk İslam Devletleri",
+      "i": [
+        {"k": "TİM", "m": "Tolunoğulları → İhşidiler → Eyyubiler → Memlükler (kronolojik sıra)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Moğolların Parçalanması",
+      "i": [
+        {"k": "CHUCKY", "m": "Çağatay Hanlığı – Altınorda – Kubilay Hanlığı – İlhanlılar", "s": "z"}
+      ]
+    },
+    {
+      "b": "Anadolu'daki İlk Türk Beylikleri",
+      "i": [
+        {"k": "DD SMAÇ", "m": "Dilmaçoğulları – Danişmentliler – Saltuklular – Mengücekliler – Artuklular – Çaka Beyliği", "s": "z"}
+      ]
+    },
+    {
+      "b": "Kubbetül İslam Şehirleri",
+      "i": [
+        {"k": "BAB", "m": "Belh – Buhara – Ahlat", "s": "z"}
+      ]
+    },
+    {
+      "b": "İslamiyet'le Gelen Hükümdarlık Sembolleri",
+      "i": [
+        {"k": "Tıraz", "m": "Halife tarafından gönderilen elbise", "s": "z"},
+        {"k": "Hilat", "m": "Halife tarafından gönderilen hediyeler bütünü", "s": "z"},
+        {"k": "Menşur", "m": "Halifenin gönderdiği onay belgesi", "s": "z"},
+        {"k": "Çetr", "m": "Halifenin gönderdiği şemsiye (Fetih suresi vb.)", "s": "z"},
+        {"k": "Sikke", "m": "Para bastırma hakkı", "s": "z"},
+        {"k": "Asa", "m": "Halife tarafından gönderilen değnek", "s": "z"},
+        {"k": "Hutbe", "m": "Camide kimin adına okunursa hükümdar odur", "s": "z"}
+      ]
+    },
+    {
+      "b": "Divanlar → Görevlileri",
+      "i": [
+        {"k": "Divan-ı İstifa → Müstevfi", "m": "Mali işler (istif istif para)", "s": "z"},
+        {"k": "Divan-ı Arz → Arzü'l-Ceyş", "m": "Ordu işleri (en çok orduda arz edersin)", "s": "z"},
+        {"k": "Divan-ı İnşa → Münşi", "m": "Yazışma işleri (yeni bir yazı inşa et)", "s": "z"},
+        {"k": "Divan-ı İşraf → Müşrif", "m": "Teftiş / denetleme işleri", "s": "z"},
+        {"k": "Divan-ı Mezalim → Sultan", "m": "Büyük davalar; zalimlerin yargılanması", "s": "z"},
+        {"k": "Divan-ı Berid → Berid", "m": "Haberleşme işleri", "s": "z"}
+      ]
+    },
+    {
+      "b": "Sanat Dalları → İcracıları",
+      "i": [
+        {"k": "Hat → Hattat", "m": "Güzel yazma sanatı", "s": "z"},
+        {"k": "Minyatür → Nakkaş / Musavvir", "m": "İki boyutlu resim; perspektif yok", "s": "z"},
+        {"k": "Tezhip → Müzehhip", "m": "Kitap süsleme; altınlama-yaldızlama", "s": "z"},
+        {"k": "Fresk", "m": "Yaş alçı üzerine duvar resmi (ilk: Uygurlar)", "s": "z"},
+        {"k": "Ebru → Ebruzen", "m": "Bulut sanatı; suyun üzerine boya → kâğıda", "s": "z"},
+        {"k": "Ciltçilik → Mücellit", "m": "Kitap ciltleme sanatı", "s": "z"},
+        {"k": "Malakari", "m": "Duvar süsleme sanatı (mala → sıva aleti)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Dar Eki Kuralı",
+      "i": [
+        {"k": "Dar- (başta)", "m": "Kurum: darülfünun, darülaceze, darülşifa", "s": "z"},
+        {"k": "-dar (sonda)", "m": "Görevli: camedar, silahtar, şarapdar", "s": "z"}
+      ]
+    },
+    {
+      "b": "Hükümdar Çocuğu → Eğitmeni",
+      "i": [
+        {"k": "İslam öncesi: Tigin → Ataman", "m": "Hükümdar çocuğu ve eğitmeni", "s": "z"},
+        {"k": "Türk İslam: Melik → Atabey", "m": "Hükümdar çocuğu ve eğitmeni", "s": "z"},
+        {"k": "Osmanlı: Şehzade → Lala", "m": "Hükümdar çocuğu ve eğitmeni", "s": "z"}
+      ]
+    },
+    {
+      "b": "Türkçeyi Resmi Dil İlan Edenler",
+      "i": [
+        {"k": "Orta Asya → Karahanlılar", "m": "Ulusçu / milliyetçi politika", "s": "z"},
+        {"k": "Anadolu → Karamanoğulları", "m": "1272: dergâhta / bargâhta Türkçe", "s": "z"},
+        {"k": "Mısır → Memlükler", "m": "Ed-Devletü't-Türkiye adıyla bilinen devlet", "s": "z"}
+      ]
+    },
+    {
+      "b": "Bilim İnsanlarının Avrupalı Adları",
+      "i": [
+        {"k": "Avicenna", "m": "İbn Sina — Şeyhül Felasife", "s": "z"},
+        {"k": "Alfarabius", "m": "Farabi — Muallim-i Sani (2. öğretmen)", "s": "z"},
+        {"k": "Averroes", "m": "İbn Rüşt — Aristo'yu Avrupalılara tanıtan yorumcu", "s": "z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c": "Karahanlılar", "o": "Orta Asya'da İslamiyet'i kabul eden ilk Türk devleti hangisidir?", "a": "Karahanlılar\nKarluk, Yağma, Çiğil boylarının birleşmesiyle kuruldu.\nTürklük ile İslam'ı birleştirip Türk İslam sentezi yarattılar."},
+    {"c": "Karahanlılar", "o": "Karahanlıların kurucusu kimdir? (2024 KPSS)", "a": "Bilge Kül Kadir Han"},
+    {"c": "Karahanlılar", "o": "Karahanlıların en parlak dönemi hangi hükümdardır?", "a": "Yusuf Kadir Han dönemi"},
+    {"c": "Karahanlılar", "o": "İslamiyet'i kabul eden ilk Karahanlı hükümdarı kim, halife tarafından tanınan ilk hükümdar kim?", "a": "İlk kabul eden: Satuk Buğra Han\nHalife tarafından tanınan ilk: Ebu Nasr Han\nBu iki ismi birbirine karıştırmamak gerekir."},
+    {"c": "Karahanlılar", "o": "Gulam sistemi nedir ve ilk hangi devlette uygulanmıştır?", "a": "Savaşlarda elde edilen kişilerin orduda asker yapılması.\nİlk uygulayan: Karahanlılar"},
+    {"c": "Karahanlılar", "o": "İlk Türk İslam medresesi hangisidir ve hangi devlete aittir?", "a": "Semerkant Medresesi — Karahanlılar\nDünya tarihinde burslu eğitime de ilk geçen devlet Karahanlılardır."},
+    {"c": "Karahanlılar", "o": "Karahanlıların ulusçu (milliyetçi) politika izlediğinin kanıtları nelerdir?", "a": "1. İkili teşkilatı devam ettirdiler\n2. Türkçeyi resmi dil ilan ettiler\n3. Uygur alfabesini kullandılar"},
+    {"c": "Karahanlılar", "o": "Karahanlıları hangi devletler yıkmıştır? (ÖABT sorusu)", "a": "Önce ikiye ayrıldılar:\n• Bir kısmını Kara Hitaylar yıktı\n• Diğer kısmını Harzemşahlar yıktı"},
+    {"c": "Karahanlılar", "o": "Divan-ı Lügat-it Türk eserinin önemi ve yazarı kimdir?", "a": "Kaşgarlı Mahmut\n• Arapça-Türkçe sözlük; Türkçenin Arapçadan üstünlüğünü savunur\n• Sonunda Türk Dünyası haritası → ilk Türk kartograf\n• Sözlük yaptığı için → ilk Türk filolog\nTürk kelimesi = olgunluk çağı (2015 KPSS: Türk'ün kanadı = at)"},
+    {"c": "Karahanlılar", "o": "Divan-ı Hikmet'in yazarı ve önemi nedir? (Muhtemel soru adayı)", "a": "Ahmet Yesevi\n• Türklerin arasında İslamiyet'in yayılması ve anlaşılmasını sağladı\n• Piri Türkistan unvanı verildi\n• Türk tarihinin ilk tasavvuf eseri\n• Ahmet Yesevi = ilk Türk tasavvufçu"},
+
+    {"c": "Gazneliler", "o": "Gaznelilerin diğer adı nedir?", "a": "Yeminiler\nGazne şehrinde kuruldukları için Gazneliler adını almışlardır."},
+    {"c": "Gazneliler", "o": "Gaznelilerin kurucusu ve en parlak dönem hükümdarı kimdir?", "a": "Kurucu: Alptigin\nEn parlak dönem: Gazneli Mahmut"},
+    {"c": "Gazneliler", "o": "Türk İslam tarihinde sultan unvanını kullanan ilk hükümdar kimdir ve neden?", "a": "Gazneli Mahmut\nAbbasi halifesini Şii Büveyhoğulları baskısından kurtardığı için halife tarafından sultan unvanı verildi."},
+    {"c": "Gazneliler", "o": "Gazneli Mahmut'un Hindistan seferleri hakkında neler bilinir?", "a": "• 17 sefer düzenledi\n• İslamiyet'i yaydı, kast sistemine darbe vurdu\n• Günümüzde Pakistan ve Bangladeş o dönemin mirası\n• Unvanları: Hindistan Fatihi, Put Kırıcı, Alemin Arslanı, Zamanın Yeganesi"},
+    {"c": "Gazneliler", "o": "Biruni'yi 'sarayımın en değerli hazinesi' olarak niteleyen hükümdar kimdir? (2024 EKYS)", "a": "Gazneli Mahmut\nBiruni'nin eserleri: El Asarül Bakiye, Tahkikül Malil Hint, Kitabül Seydele fit Tıp"},
+    {"c": "Gazneliler", "o": "Gazneliler neden Karahanlılara göre daha kısa sürede yıkıldı?", "a": "Karahanlılarda hem yönetici hem halk Türk (homojen).\nGaznelilerde yönetici Türk ama halk çok etnikli (Hint, Arap, Acem).\nFarklı etnik yapı siyasi istikrarsızlığa yol açtı."},
+    {"c": "Gazneliler", "o": "Maveraünnehir Görüşmeleri (1025) ne hakkındadır?", "a": "Gazneliler + Karahanlılar → Büyük Selçuklu'ya karşı ittifak\nArslan Yabgu'yu yemeğe davet edip ele geçirdiler → Kalincar Kalesi'nde hapsedip öldürdüler."},
+
+    {"c": "Büyük Selçuklu", "o": "Büyük Selçuklu hangi boydan kurulmuştur?", "a": "Oğuzların Üç Ok kolunun Kınık boyu\n(Osmanlı ise Kayı boyundan kurulacaktır)"},
+    {"c": "Büyük Selçuklu", "o": "Selçuk Bey'in babası kimdir ve lakabı nedir?", "a": "Dukak Bey — lakabı Demiryaylı\nSelçuk Bey, Oğuz Yabgu Devleti'nden ayrılıp Cent şehrine geldi ve İslamiyet'i kabul etti."},
+    {"c": "Büyük Selçuklu", "o": "Büyük Selçuklu hükümdarlarını sıralayınız.", "a": "Dukak → Selçuk → Arslan Yabgu → Tuğrul + Çağrı → Alparslan → Melikşah (en parlak) → Fetret → Sultan Sencer"},
+    {"c": "Büyük Selçuklu", "o": "1040 Dandanakan Savaşı'nın önemi nedir?", "a": "Büyük Selçuklu vs Gazneliler\n• Selçuklu kazandı → Tuğrul Bey hutbe okuttu, para bastırdı = resmen kuruluş\n• Gazneliler yıkılış sürecine girdi"},
+    {"c": "Büyük Selçuklu", "o": "1048 Pasinler Savaşı'nın önemi nedir?", "a": "Büyük Selçuklu vs Bizans (+ Ermeni ve Gürcü kuvvetleri)\n• Selçuklu-Bizans arasındaki ilk büyük savaş\n• Gürcü kralı Liparit esir alındı"},
+    {"c": "Büyük Selçuklu", "o": "1055 Bağdat Seferi'nde neler oldu?", "a": "Tuğrul Bey Şii Büveyhoğulları'nı tarih sahnesinden sildi.\n• \"Doğunun ve Batının Sultanı\" unvanı aldı\n• Halifenin siyasi yetkilerini devraldı (halifede sadece dini yetki kaldı)"},
+    {"c": "Büyük Selçuklu", "o": "Alparslan'a Ebul Feth (fetihlerin babası) unvanı neden verildi?", "a": "1064'te Hristiyanlarca kutsal ve fethedilemez kabul edilen Ani Kalesi'ni sadece bir günde ele geçirdi.\nVezir Nizamülmülk'ün önerisiyle bu sefere çıkmıştı."},
+    {"c": "Büyük Selçuklu", "o": "1071 Malazgirt Savaşı'nın sonuçları nelerdir?", "a": "• Bizans imparatoru Romen Diyojen esir alındı\n• Anadolu'nun kapıları Türklere açıldı\n• Alparslan'a İslam ülkelerinin sultanı unvanı verildi\n• Alparslan komutanlarına kılıç hakkı tanıdı → İlk Türk beylikleri kuruldu (DD SMAÇ)"},
+    {"c": "Büyük Selçuklu", "o": "Kılıç hakkı nedir? (MSÜ 2019)", "a": "Fethedilen yerin fethedene ait olması.\nAlparslan Anadolu'nun fethini / Türkleşmesini / Müslümanlaşmasını hızlandırmak için komutanlarına tanıdı."},
+    {"c": "Büyük Selçuklu", "o": "Büyük Selçuklu'nun yıkılış sebepleri nelerdir?", "a": "1. 1141 Katvan Savaşı (Kara Hitaylara yenilgi)\n2. Taht kavgaları / fetret devri\n3. Atabey bağımsızlık faaliyetleri\n4. Oğuzların devlete küsmesi\n5. Batınilik faaliyetleri (Hasan Sabbah)\n6. Abbasi halifelerinin siyasi yetki çalışmaları"},
+    {"c": "Büyük Selçuklu", "o": "Batınilik faaliyetleri nedir?", "a": "Hasan Sabbah, Alamut Kalesi'nde haşhaş ile kandırdığı gençleri suikastçi olarak yetiştirdi.\n\"Assassin\" kelimesinin kökü Haşailerden gelir.\nMelikşah ve Nizamülmülk'e suikast girişimlerinde bulundular."},
+
+    {"c": "Mısır Türk İslam Devletleri", "o": "Tevaif-i mülk devleti ne demektir? (ÖABT)", "a": "Abbasi Devleti'nin zayıflamasıyla ortaya çıkan ve Abbasi komutanlarınca kurulan devletler.\nÖrnek: Tolunoğulları, İhşidiler"},
+    {"c": "Mısır Türk İslam Devletleri", "o": "Mısır'da kurulan ilk Türk İslam devleti hangisidir?", "a": "Tolunoğulları\nKurucu: Tolunoğlu Ahmet\nParlak dönem: Humaraveyh\nMaristan (ücretsiz hastane) kurdu → sosyal devlet anlayışı"},
+    {"c": "Mısır Türk İslam Devletleri", "o": "Kutsal bölgelere (Hicaz: Mekke-Medine) sahip olan ilk Türk İslam devleti hangisidir?", "a": "İhşidiler (Akşitler)\nTevaif-i mülk devletidir. Şii Fatımiler tarafından yıkıldı."},
+    {"c": "Mısır Türk İslam Devletleri", "o": "Selahaddin Eyyubi'nin unvanları nelerdir?", "a": "• Kudüs Fatihi (Hıttin Savaşı ile Kudüs'ü Haçlılardan aldı)\n• Şarkın en sevgili sultanı (Mehmet Akif Ersoy)\n• Hadimül Harameyn = iki kutsal merkezin hizmetkârı (bu unvanı kullanan ilk kişi)"},
+    {"c": "Mısır Türk İslam Devletleri", "o": "Memlüklerin (Kölemenlerin) kuruluş hikâyesi nedir?", "a": "Eyyubiler, Karadeniz kuzeyindeki Kıpçak çocuklarını asker olarak yetiştirdi.\nBu köle çocuklar zamanla güçlenip Eyyubi'yi devirerek kendi devletlerini kurdu.\nKurucu: Aybek (Kıpçak Türkü)"},
+    {"c": "Mısır Türk İslam Devletleri", "o": "Moğolları yenmeyi başaran ilk devlet hangisidir?", "a": "Memlükler\n• Ayn Calut Savaşı (ilk yenilgi)\n• Elbistan Savaşı (ikinci yenilgi)"},
+    {"c": "Mısır Türk İslam Devletleri", "o": "Memlüklerde sultanlık ve halifelik ilişkisi nasıldı?", "a": "Birleştirilmedi → ilkel laiklik\n• Sultan: güçlü komutan usulüyle (veraset yok)\n• Halife: Abbasi ailesinden babadan oğula\nOsmanlı'da ise padişah hem sultan hem halifeydi."},
+    {"c": "Mısır Türk İslam Devletleri", "o": "Memlükleri kim, hangi savaşlarla yıktı?", "a": "Yavuz Sultan Selim\n• 1516 Mercidabık → Suriye, Filistin, Kudüs ele geçirildi\n• 1517 Ridaniye → Memlükler tamamen tarih sahnesinden silindi"},
+    {"c": "Mısır Türk İslam Devletleri", "o": "Hıttin Savaşı'nın önemi nedir? (Muhtemel soru adayı)", "a": "Selahaddin Eyyubi Kudüs'ü Haçlılardan geri aldı.\n\"Kudüs Hristiyanların elinde esirken bana gülmek ve uyumak haramdır\" sözü Selahaddin Eyyubi'ye aittir."},
+
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "Yasaname-i Büzürk nedir? (Muhtemel soru adayı)", "a": "Cengiz Han döneminde Türk töresi örnek alınarak hazırlanan Moğol yasaları.\n\"Bir kız çocuğu cepleri altın dolu İtalya'dan Orta Asya'ya yürüse bir altın bile eksilmez\" denecek kadar sert."},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "Kubilay Hanlığı'nın özelliği nedir?", "a": "Türkleşmeyen ve Müslümanlaşmayan tek Moğol devleti.\nÇin'e yerleşip asimile oldular.\nMarco Polo burada yaşadı (Orta Asya = Büyük Türkiye, Anadolu = Küçük Türkiye)."},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "Altınorda Devleti'nin Türk tarihi açısından önemi nedir?", "a": "Karadeniz'in kuzeyinde yaşadı.\n• Rusların güneye inmesini engelledi\n• Rusların teşkilatlanmasını engelledi\nTimur tarafından yıkılınca Rusların önü açıldı."},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "İlhanlıların yıkılışına neden olduğu devletler hangileridir?", "a": "1. Anadolu Selçuklu (1243 Kösedağ)\n2. Abbasiler (1258, Bağdat yakılıp yağmalandı)\n3. Haşailer (Alamut Kalesi alındı)\n4. Harzemşahlar"},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "Timur'un Türk tarihine verdiği iki zarar nedir?", "a": "1. Altınorda'yı yıktı → Rusların güneye inmesinin önünü açtı\n2. Ankara Savaşı'nda Yıldırım Bayezit'i esir alarak Osmanlı'yı fetret devrine soktu"},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "Timur'un unvanları nelerdir?", "a": "• Sahip Kıran: köleyken liderliğe yükseldi\n• Timurleng: aksak Timur (bir bacağı kısa)\n• Emir Timur: Çağatay Hanlığı'nda emir olarak görev yaptı"},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "Tac Mahal'i kim yaptırdı? (Dikkat: Karıştırılır!)", "a": "Şah Cihan (Babür İmparatorluğu hükümdarı)\nEşi Mümtaz Hatun için yaptırdı.\nDikkat: Babür Şah kurucu, Tac Mahal'i yaptıran Şah Cihan'dır!"},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "Otrar Faciası nedir?", "a": "Harzemşahlar'ın Otrar valisi İnal, Moğol kervanlarını casuslukla suçlayıp el koydu.\nMoğollar gelip Otrar'da taş üstünde taş bırakmadı."},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "1230 Yassıçemen Savaşı neden kazanıldığı hâlde kötü sonuçlandı?", "a": "Anadolu Selçuklu kazandı, Harzemşahlar yıkılış sürecine girdi.\nAma Harzemşahlar yıkılınca tampon bölge ortadan kalktı → İlhanlılar Anadolu Selçuklu ile komşu oldu."},
+    {"c": "Moğollar, Timur ve Diğerleri", "o": "1473 Otlukbeli Savaşı hakkında neler bilinir?", "a": "Fatih Sultan Mehmet (Büyük Türk) vs Uzun Hasan (Küçük Türk / Akkoyunlu)\nOsmanlı kazandı → Fırat Nehri'nin batısı Osmanlı'ya geçti.\nÇağrışım: Koyun ot yer → Otlukbeli = Akkoyunlu"},
+
+    {"c": "Devlet Teşkilatı", "o": "Mevali politikası nedir ve etkisi ne olmuştur?", "a": "Emevilerin Arap olmayan Müslümanları 'azat edilmiş köle' sayması.\nArap üstünlüğüne dayalı bu politika Türklerin İslamiyet'e girişini geciktirmiştir."},
+    {"c": "Devlet Teşkilatı", "o": "Hacip'in görevi nedir?", "a": "Hükümdar ile halk / devlet adamları arasında bağlantıyı sağlar (günümüzün WhatsApp'ı).\nHükümdar ve vezirden sonra gelen en yetkili kişidir (3. adam)."},
+    {"c": "Devlet Teşkilatı", "o": "Naip ne anlama gelir ve Niyabet-i Saltanat nedir? (Çıkmış soru)", "a": "Naip = vekil\nNiyabet-i Saltanat = hükümdar yokken toplanan divan."},
+    {"c": "Devlet Teşkilatı", "o": "Muhtesip'in görevi nedir?", "a": "Çarşı ve pazarı denetler (günümüzdeki zabıta gibi).\nHSP kökü → hesap kitap yapar."},
+    {"c": "Devlet Teşkilatı", "o": "Karahanlılarda vezire ne denir, Gaznelilerde vezire ne denir?", "a": "Karahanlılarda: Yuğruş\nGaznelilerde: Hace-i Büzürk"},
+    {"c": "Devlet Teşkilatı", "o": "Emiri Ahur'un görevi nedir? (2014 KPSS)", "a": "Atların bakımından sorumlu görevli.\nAhırda ne bulunur → atlar → Emiri Ahur."},
+    {"c": "Devlet Teşkilatı", "o": "Büyük Selçuklu'nun yıkılışıyla ortaya çıkan atabeylikler hangileridir? (AYT)", "a": "• Böriler → Şam\n• Zengiler → Musul\n• Salgurlular → Fars\n• Begteginoğulları → Erbil\n• İldenizliler → Azerbaycan"},
+    {"c": "Devlet Teşkilatı", "o": "Askeri vali ve sivil vali karşılaştırması (İslam öncesi → Türk İslam)?", "a": "Askeri vali: Tutuk → Şıhne\nSivil vali: Apa → Amid\nSübaşı: İslam öncesi ordu komutanı → Türk İslam'da güvenlikten sorumlu (görev düştü)"},
+
+    {"c": "Hukuk, Ordu ve Toprak", "o": "İkta sistemi nedir ve faydaları nelerdir?", "a": "Toprağı işleme sistemi (Osmanlı'daki tımar).\nFaydaları:\n• Hazineden para çıkmadan ordu (cebelü)\n• Düzenli vergi, memur maaşı\n• Üretimde süreklilik\n• Taşrada güvenlik → merkezi otorite artışı"},
+    {"c": "Hukuk, Ordu ve Toprak", "o": "İkta ordusundaki her bir askere ne denir? (Çıkmış soru)", "a": "Cebelü"},
+    {"c": "Hukuk, Ordu ve Toprak", "o": "Gulaman-ı Saray ile Hassa Ordusu arasındaki fark nedir?", "a": "Gulaman-ı Saray: Sarayı ve sultanı koruyan muhafızlar\nHassa Ordusu: Merkez ordusu; her an savaşa hazır\nHer ikisi de gulam (savaş esiri) askerlerinden oluşur."},
+    {"c": "Hukuk, Ordu ve Toprak", "o": "Şeri hukukun ve örfi hukukun en yüksek yetkilisi kimdir?", "a": "Şeri hukuk (İslam / Kuran) → uygulayan: kadılar → en yetkili: Kadil Kudat\nÖrfi hukuk (Türk gelenek) → en yetkili: Emiri Dat"},
+    {"c": "Hukuk, Ordu ve Toprak", "o": "Askeri davalara bakan görevliye ne denir?", "a": "Kadı Leşker (leşker = asker)\nOsmanlı'da bu görev Kadıasker olarak devam edecektir."},
+    {"c": "Hukuk, Ordu ve Toprak", "o": "Miri arazi (devlet arazisi) kaça ayrılır?", "a": "1. Has: Geliri en yüksek arazi → hükümdara ait\n2. Vakıf: Geliri hayır kurumlarına → sosyal devlet\n3. İkta: İkta sistemiyle işletilen arazi"},
+    {"c": "Hukuk, Ordu ve Toprak", "o": "Öşri arazi ile haraci arazi arasındaki fark nedir?", "a": "Her ikisi de mülk (şahıs) arazidir / tapulu.\nÖşri: Müslümanlara ait\nHaraci: Gayrimüslimlere ait (haraç = kötü çağrışım → gayrimüslim)"},
+    {"c": "Hukuk, Ordu ve Toprak", "o": "Gaza ve cihat savaşı olabilmesi için ne gerekir?", "a": "Müslüman olmayanlarla yapılması gerekir.\nÖrnek: Pasinler, Malazgirt, Ani → cihat sayılır.\nNesa, Serah, Dandanakan → iki Müslüman devlet arası, cihat SAYILMAZ."},
+
+    {"c": "Edebi Eserler", "o": "Türk İslam dünyasının ilk edebi eseri hangisidir?", "a": "Kutadgu Bilig — Yusuf Has Hacip\nSiyasetname özelliği de taşır.\nHatırlatma: Kutadgu (U) → Yusuf (U) — U vurguları"},
+    {"c": "Edebi Eserler", "o": "Atabetül Hakayık eseri kime aittir ve ne anlama gelir?", "a": "Edip Ahmet Yükneki\nAnlamı: Hakikatlerin eşiği"},
+    {"c": "Edebi Eserler", "o": "Siyasetname kimin eseridir?", "a": "Nizamülmülk — Büyük Selçuklu'nun en önemli veziri.\n\"Mülke nizam veren adam\" olarak bilinir."},
+    {"c": "Edebi Eserler", "o": "Muhakemetül Lügateyn kime aittir ve önemi nedir?", "a": "Ali Şir Nevai (Timur İmparatorluğu)\nTürkçe-Farsça sözlük.\nBu eseriyle Çağatay Türkçesinin en büyük şairi unvanını aldı."},
+    {"c": "Edebi Eserler", "o": "Şehname kimin eseridir? (Dikkat: Türk değildir!)", "a": "Firdevsi (Fars / İran kökenli)\nTürk-İran savaşlarını anlatır.\nAlper Tunga = Afrasiyab adıyla geçer.\nGazneli Mahmut'a sunulmuştur."},
+    {"c": "Edebi Eserler", "o": "Tarih-i Yemin eserinin önemi nedir?", "a": "Utbi tarafından yazıldı.\nGaznelilerin (Yeminilerin) tarihini anlatır."},
+    {"c": "Edebi Eserler", "o": "Celali takvimini kim hazırladı?", "a": "Ömer Hayyam\n• Astronomi ve matematik uzmanı\n• Edebiyatta rubaileriyle ünlü\n• Celali takvimi Sultan Melikşah'ın tahta oturuşuyla başlar."},
+
+    {"c": "Bilim İnsanları", "o": "İbn Sina'nın (Avicenna) en önemli eserleri nelerdir? (2017 KPSS)", "a": "• El Kanun fit Tıp\n• Kitabül Şifa\nŞeyhül Felasife olarak bilinir. En önemli alanı tıptır."},
+    {"c": "Bilim İnsanları", "o": "Farabi neden Muallim-i Sani (2. öğretmen) olarak bilinir? (2025 AGS)", "a": "1. öğretmen Aristo, 2. öğretmen Farabi.\nAvrupalılar: Alfarabius\nEserleri: İhsaül Ulüm, Kitabül Musiki, El Medinetül Fazıla\nBirleşmiş Milletler fikrini ilk ortaya atan kişi."},
+    {"c": "Bilim İnsanları", "o": "Harezmi hangi alanın kurucusudur?", "a": "Cebrin kurucusu (sıfırı bulan kişi olarak da geçer).\nEseri: Hisabül Cebr vel Mukabele\nDikkat: Câbir bin Hayyân ile karıştırılır! O modern kimyanın kurucusudur."},
+    {"c": "Bilim İnsanları", "o": "İbn Heysem hangi bilimin kurucusudur?", "a": "Optik biliminin kurucusu.\nEseri: Kitabül Menazir\nBazı kaynaklarda fotoğraf makinesinin mucidi.\nÇağrışım: Hey Sem seni göremiyorum → optik; menzil menzil → Kitabül Menazir"},
+    {"c": "Bilim İnsanları", "o": "Câbir bin Hayyân hangi alanın kurucusudur? (Dikkat: karıştırılır!)", "a": "Modern kimyanın kurucusu.\nEseri: Kitabül Kimya\nDikkat: Cebrin kurucusu DEĞİLDİR — o Harezmi'dir!"},
+    {"c": "Bilim İnsanları", "o": "İmam Gazali hakkında neler bilinir?", "a": "Nizamiye Medreselerinde baş müderrislik yaptı.\nEserleri: İhyaül Ulumiddin, Tehafütül Felasife\nMuhtemel soru adayı."},
+    {"c": "Bilim İnsanları", "o": "İbn Rüşt (Averroes) neden önemlidir?", "a": "Avrupalılara Aristo'yu tanıtan kişi.\nAristo'yu yorumladığı için \"yorumcu\" olarak bilinir."},
+    {"c": "Bilim İnsanları", "o": "Ali Kuşçu ve Uluğ Bey hakkında ortak özellik nedir?", "a": "İkisinin de adı aydaki bir kratere verilmiştir.\nUluğ Bey: matematikçi + astronom (2024 çıkmış soru)\nAli Kuşçu: Fatih döneminde İstanbul'un enlem-boylamını hesapladı, Ayasofya'da müderrislik yaptı."},
+    {"c": "Bilim İnsanları", "o": "Zekeriya er-Razi hangi hastalıklar konusunda öncüdür?", "a": "Kızamık ve çiçek hastalıklarının farklı hastalıklar olduğunu ortaya koydu.\nEseri: El-Havi ansiklopedisi"},
+
+    {"c": "Mimari ve Sosyal Yapılar", "o": "Külliye nedir?", "a": "Cami merkezli kompleks yapılar.\nÇevresinde aşevi, medrese, hamam, tabhane vb. bulunur."},
+    {"c": "Mimari ve Sosyal Yapılar", "o": "Türbe ve kümbet arasındaki fark nedir? (2024 EKYS)", "a": "Türbe: Dini kişilerin mezarı\nKümbet: Anıt mezar (hükümdar ve önemli kişiler)"},
+    {"c": "Mimari ve Sosyal Yapılar", "o": "Ribat nedir ve ilk hangi devlette görülür?", "a": "Kervansarayların küçüğü.\n• Ticaret konaklama + din yayma merkezi + güvenlik\nİlk: Karahanlılar"},
+    {"c": "Mimari ve Sosyal Yapılar", "o": "Bedesten, kapan hanı ve arasta arasındaki fark nedir?", "a": "Bedesten: Her türlü mal satılır (günümüz AVM'si)\nKapan Hanı: Tek ürün satılır (un kapanı, kumaş kapanı)\nArasta: Ahi çarşısı (esnaf örgütlenmesi)"},
+    {"c": "Mimari ve Sosyal Yapılar", "o": "Bimaristan ne tür bir yapıdır?", "a": "Akıl hastanesi.\nSu ve müzik sesiyle tedavi yapılırdı.\nDiğer hastane terimleri: Darülşifa, Darülafiye, Maristan, Darülsıhha"},
+    {"c": "Mimari ve Sosyal Yapılar", "o": "Karahanlılara ait mimari eserler hangileridir?", "a": "• Arap Ata Türbesi\n• Ayşe Bibi Türbesi\n• Ribat-ı Melik Kervansarayı\n• Talhatan Baba Camii"},
+    {"c": "Mimari ve Sosyal Yapılar", "o": "Büyük Selçuklu'ya ait mimari eserler hangileridir?", "a": "• Nişabur Medresesi\n• Rey Medresesi\n• İsfahan Mescid-i Cuması\n• Horasan Sultan Sencer Türbesi\nİpucu: Büyük Selçuklu'nun başkentleri ve merkezleridir."}
+  ],
+  "tuzak": [
+    {"q": "Orta Asya'da İslamiyet'i kabul eden ilk Türk devleti hangisidir?", "o": ["Karahanlılar", "İtil Bulgarları"], "c": 0, "n": "İtil Bulgarları Doğu Avrupa'da ilk Türk İslam devletidir; Orta Asya'da ilk olan Karahanlılardır."},
+    {"q": "Karahanlılarda İslamiyet'i kabul eden ilk hükümdar kimdir?", "o": ["Satuk Buğra Han", "Ebu Nasr Han"], "c": 0, "n": "Ebu Nasr Han İslamiyet'i kabul edip halife tarafından tanınan ilk hükümdardır; ilk kabul eden Satuk Buğra Han'dır."},
+    {"q": "Sultan unvanını kullanan ilk Türk-İslam hükümdarı kimdir?", "o": ["Gazneli Mahmut", "Tuğrul Bey", "Alparslan"], "c": 0, "n": "Tuğrul Bey'in unvanı 'Doğunun ve Batının Sultanı'dır; ilk sultan unvanını alan Gazneli Mahmut'tur."},
+    {"q": "1048 Pasinler Savaşı'nda esir alınan kişi kimdir?", "o": ["Gürcü kralı Liparit", "Bizans imparatoru Romen Diyojen"], "c": 0, "n": "Romen Diyojen 1071 Malazgirt'te esir alındı; Pasinler'de esir alınan Gürcü kralı Liparit'tir."},
+    {"q": "Türk İslam tarihinin ilk medresesi hangisidir?", "o": ["Semerkant Medresesi (Karahanlılar)", "Nişabur Medresesi (Büyük Selçuklu)"], "c": 0, "n": "Nişabur Medresesi Büyük Selçuklu'nun ilk medresesidir; Türk İslam tarihinin ilk medresesi Semerkant'tır."},
+    {"q": "Anadolu'da Türkçeyi resmi dil ilan eden devlet hangisidir?", "o": ["Karamanoğulları", "Karahanlılar", "Memlükler"], "c": 0, "n": "Karahanlılar Orta Asya'da, Memlükler Mısır'da; Anadolu'da ilan eden Karamanoğullarıdır."},
+    {"q": "Mısır'da kurulan ilk Türk İslam devleti hangisidir?", "o": ["Tolunoğulları", "İhşidiler", "Eyyubiler"], "c": 0, "n": "TİM sıralamasıyla ilk sırada Tolunoğulları gelir."},
+    {"q": "Cebrin kurucusu kimdir?", "o": ["Harezmi", "Câbir bin Hayyân"], "c": 0, "n": "Câbir bin Hayyân modern kimyanın kurucusudur; cebrin kurucusu Harezmi'dir."},
+    {"q": "Tac Mahal'i hangi Babür hükümdarı yaptırdı?", "o": ["Şah Cihan", "Babür Şah"], "c": 0, "n": "Babür Şah imparatorluğun kurucusudur; Tac Mahal'i eşi için yaptıran Şah Cihan'dır."},
+    {"q": "Kutsal bölgelere (Hicaz) sahip olan ilk Türk İslam devleti hangisidir?", "o": ["İhşidiler (Akşitler)", "Tolunoğulları"], "c": 0, "n": "Tolunoğulları Mısır'da kurulan ilk devlettir; kutsal bölgelere sahip ilk devlet İhşidilerdir."},
+    {"q": "Büyük Selçuklu'yu yıkılış sürecine sokan savaş hangisidir?", "o": ["1141 Katvan", "1040 Dandanakan"], "c": 0, "n": "Dandanakan Gaznelileri yıkılışa sürükledi; Büyük Selçuklu'yu yıkılışa sürükleyen 1141 Katvan'dır."},
+    {"q": "Hadimül Harameyn unvanını ilk kullanan kişi kimdir?", "o": ["Selahaddin Eyyubi", "Yavuz Sultan Selim"], "c": 0, "n": "Yavuz da bu unvanı kullanmıştır ama ilk kullanan Selahaddin Eyyubi'dir."},
+    {"q": "Otlukbeli Savaşı hangi devletle yapılmıştır?", "o": ["Akkoyunlular", "Karakoyunlular", "Safeviler"], "c": 0, "n": "Koyun ot yer → Otlukbeli = Akkoyunlular; Safevilerle yapılan savaş Çaldıran'dır (Çald-İran)."},
+    {"q": "Hattatların kıblesi (Kıbletül Hattatin) olarak bilinen kişi kimdir?", "o": ["Şeyh Hamdullah", "Amasyalı Yakut"], "c": 0, "n": "Amasyalı Yakut ilk büyük Türk hattattır; hattatların kıblesi Şeyh Hamdullah'tır."},
+    {"q": "Karahanlılarda vezire ne denir?", "o": ["Yuğruş", "Hace-i Büzürk"], "c": 0, "n": "Hace-i Büzürk Gaznelilerde vezirdir; Karahanlılarda vezir Yuğruş'tur."},
+    {"q": "Türbe ile kümbet arasındaki fark nedir?", "o": ["Türbe: dini kişilerin mezarı", "Türbe: anıt mezar"], "c": 0, "n": "Anıt mezar kümbettir (hükümdar vb.); türbe dini kişilerin mezarıdır."},
+    {"q": "Divan-ı İstifa hangi işlerle ilgilenir?", "o": ["Mali işler", "Ordu işleri", "Teftiş işleri"], "c": 0, "n": "Ordu = Divan-ı Arz, teftiş = Divan-ı İşraf; İstifa istif istif paradan → mali işler."},
+    {"q": "Türkleşmeyen ve Müslümanlaşmayan tek Moğol devleti hangisidir?", "o": ["Kubilay Hanlığı", "Çağatay Hanlığı", "Altınorda"], "c": 0, "n": "Çağatay ve Altınorda zamanla Türkleşip Müslümanlaştı; Kubilay Çin'de asimile oldu."},
+    {"q": "İbn Rüşt'ün Avrupalıların verdiği isim nedir?", "o": ["Averroes", "Avicenna", "Alfarabius"], "c": 0, "n": "Avicenna = İbn Sina, Alfarabius = Farabi; İbn Rüşt = Averroes."},
+    {"q": "Alparslan'a Ebul Feth unvanı hangi olay sonrasında verildi?", "o": ["1064 Ani Kalesi fethi", "1071 Malazgirt Savaşı"], "c": 0, "n": "Malazgirt'te İslam ülkelerinin sultanı unvanı verildi; Ebul Feth unvanı Ani Kalesi'nin bir günde fethinden sonra verildi."},
+    {"q": "Timur'a Sahip Kıran denmesinin sebebi nedir?", "o": ["Köleyken liderliğe yükselmesi", "Bir bacağının kısa olması"], "c": 0, "n": "Bir bacağının kısa olması = Timurleng (aksak); köleyken yükselmesi = Sahip Kıran."},
+    {"q": "Hansa ile Çaşnigir arasındaki fark nedir?", "o": ["Hansa: sofra; Çaşnigir: yiyeceklere çeşni", "Hansa: yiyeceklere çeşni; Çaşnigir: sofra"], "c": 0, "n": "Hansa sofrayla ilgilenir (-sa → safra/sofra); Çaşnigir yiyeceklere çeşni atar."},
+    {"q": "Ribat ne demektir?", "o": ["Kervansarayın küçüğü", "Medresenin küçüğü"], "c": 0, "n": "Ribat ticaret + din yayma + güvenlik merkezidir; kervansarayın minimal halidir."},
+    {"q": "Bimaristan ne tür bir yapıdır?", "o": ["Akıl hastanesi", "Genel hastane"], "c": 0, "n": "Darülşifa / Maristan gibi terimler genel hastane; bimaristan özellikle akıl hastanesidir (su ve müzik tedavisi)."},
+    {"q": "Gaznelilerin diğer adı nedir?", "o": ["Yeminiler", "Kölemenler"], "c": 0, "n": "Kölemenler Memlüklerin diğer adıdır; Gaznelilerin diğer adı Yeminilerdir."},
+    {"q": "Ali Şir Nevai hangi devlet döneminde yaşamıştır?", "o": ["Timur İmparatorluğu", "Büyük Selçuklu", "Karahanlılar"], "c": 0, "n": "Ali Şir Nevai Çağatay Türkçesinin en büyük şairidir ve Timur İmparatorluğu'nda yaşamıştır."},
+    {"q": "Moğolları yenmeyi başaran ilk devlet hangisidir?", "o": ["Memlükler", "Büyük Selçuklu", "Timur İmparatorluğu"], "c": 0, "n": "Ayn Calut Savaşı'nda Moğolları ilk yenen Memlüklerdir."},
+    {"q": "Şehname'nin yazarı Firdevsi Türk müdür?", "o": ["Hayır, Fars (İran) kökenlidir", "Evet, Türk'tür"], "c": 0, "n": "Firdevsi Fars kökenlidir; sınavda 'hangisi Türk değildir' sorusunda Firdevsi seçilir."},
+    {"q": "Kılıç hakkı kavramı hangi hükümdarla ilişkilidir?", "o": ["Alparslan", "Gazneli Mahmut", "Tuğrul Bey"], "c": 0, "n": "Malazgirt sonrası Alparslan komutanlarına 'fethettiğiniz yer sizin' diyerek kılıç hakkı tanımıştır."},
+    {"q": "Dede Korkut hikâyelerini yazıya geçiren devlet hangisidir?", "o": ["Akkoyunlular", "Karakoyunlular", "Karahanlılar"], "c": 0, "n": "Hikâyeler Oğuzlara aittir ama yazılı hâle getiren Akkoyunlulardır."}
+  ],
+  "deneme": [
+    {"q": "Aşağıdakilerden hangisi Büyük Selçuklu Devleti'nin yıkılış sebepleri arasında gösterilemez?",
+     "o": ["Katvan Savaşı'nın kaybedilmesi", "Atabey bağımsızlık faaliyetleri", "Oğuzların devlete küsmesi", "Haçlı Seferlerinin Anadolu'yu istila etmesi", "Batınilik faaliyetleri"],
+     "c": 3, "e": "Haçlı Seferleri Büyük Selçuklu'nun değil Anadolu Selçuklu'nun yıkılışında etkili olmuştur."},
+
+    {"q": "Karahanlılar ile ilgili;\nI. Gulam sistemini ilk kez uygulamışlardır.\nII. Semerkant Medresesi'ni kurmuşlardır.\nIII. Mısır'da Türkçeyi resmi dil ilan etmişlerdir.\nyargılarından hangileri doğrudur?",
+     "o": ["Yalnız I", "Yalnız II", "I ve II", "II ve III", "I, II ve III"],
+     "c": 2, "e": "Mısır'da Türkçeyi resmi dil ilan eden Karahanlılar değil Memlüklerdir; I ve II doğrudur."},
+
+    {"q": "Gazneli Devleti'nde yönetici kesim Türk olmasına rağmen halk Hint, Arap ve Acem gibi farklı etnik gruplardan oluşmaktaydı. Karahanlılar'da ise hem yönetici hem de halk Türk'tü.\nBu bilgilere dayanarak aşağıdaki yargılardan hangisine ulaşılabilir?",
+     "o": ["Gazneliler Karahanlılardan daha geniş topraklara sahiptir", "Karahanlılar Gaznelilerden daha uzun süre varlığını sürdürmüştür", "Gazneliler daha güçlü bir orduya sahiptir", "Karahanlılar İslamiyet'i daha geç kabul etmiştir", "Gazneliler daha fazla edebi eser vermiştir"],
+     "c": 1, "e": "Homojen nüfus yapısı siyasi istikrarı artırır; bu nedenle Karahanlılar daha uzun yaşamıştır."},
+
+    {"q": "Büyük Selçuklu Devleti ile Bizans İmparatorluğu arasında yapılan ilk büyük savaş aşağıdakilerden hangisidir?",
+     "o": ["Malazgirt Savaşı", "Kösedağ Savaşı", "Pasinler Savaşı", "Katvan Savaşı", "Dandanakan Savaşı"],
+     "c": 2, "e": "1048 Pasinler Savaşı Büyük Selçuklu ile Bizans arasındaki ilk büyük savaştır; Gürcü kralı Liparit esir alınmıştır."},
+
+    {"q": "Aşağıdaki eser-yazar eşleştirmelerinden hangisi yanlıştır?",
+     "o": ["Divan-ı Hikmet – Ahmet Yesevi", "Kutadgu Bilig – Yusuf Has Hacip", "Siyasetname – Nizamülmülk", "Şehname – Kaşgarlı Mahmut", "Divan-ı Lügat-it Türk – Kaşgarlı Mahmut"],
+     "c": 3, "e": "Şehname, Fars kökenli Firdevsi'nin eseridir; Kaşgarlı Mahmut'un eseri Divan-ı Lügat-it Türk'tür."},
+
+    {"q": "Memlüklerin klasik Türk veraset sistemini uygulamaması aşağıdakilerden hangisine kanıt olarak gösterilebilir?",
+     "o": ["Mısır'a Türkiye adı verilmesine", "Halifeyi koruma altına almalarına", "Sık taht değişikliği yaşanmasına", "Moğolları yenmeyi başarmalarına", "Türkçeyi resmi dil ilan etmelerine"],
+     "c": 2, "e": "Güçlü olan komutanın tahta geçmesi usulü sürekli iktidar mücadelesine yol açarak Osmanlı'ya göre çok daha fazla taht değişikliği yaşanmasına neden olmuştur."},
+
+    {"q": "Mısır'da kurulan Türk İslam devletlerinden hangisi kutsal bölgelere (Hicaz) sahip olan ilk Türk İslam devletidir?",
+     "o": ["Tolunoğulları", "Memlükler", "Eyyubiler", "İhşidiler (Akşitler)", "Fatımiler"],
+     "c": 3, "e": "İhşidiler (Akşitler) Mekke ve Medine'nin bulunduğu Hicaz bölgesine sahip olan ilk Türk İslam devletidir."},
+
+    {"q": "Aşağıdakilerden hangisi ikta sisteminin faydaları arasında sayılamaz?",
+     "o": ["Hazineden para harcanmadan ordu kurulması", "Hükümdarın dini yetkilerinin artması", "Üretimde sürekliliğin sağlanması", "Taşrada güvenliğin sağlanması", "Düzenli vergi toplanması"],
+     "c": 1, "e": "İkta sistemi toprak yönetimiyle ilgilidir; hükümdarın dini yetkilerinin artmasıyla doğrudan ilişkisi yoktur."},
+
+    {"q": "Moğolların Türk töresini örnek alarak hazırladıkları yasa aşağıdakilerden hangisidir?",
+     "o": ["Kanunname-i Ali Osman", "Mecelle", "Yasaname-i Büzürk", "Siyasetname", "Kutadgu Bilig"],
+     "c": 2, "e": "Yasaname-i Büzürk, Cengiz Han döneminde Türk töresi örnek alınarak hazırlanmış sert bir yasa sistemidir."},
+
+    {"q": "Aşağıdakilerden hangisi İslamiyet'le birlikte Türk devletlerine giren hükümdarlık sembollerinden biri değildir?",
+     "o": ["Tıraz", "Hilat", "Nevbet", "Menşur", "Çetr"],
+     "c": 2, "e": "Nevbet (davul/trampet) İslamiyet öncesi Türk devletlerinden beri devam eden bir hükümdarlık sembolüdür."},
+
+    {"q": "Alparslan, Malazgirt Savaşı'ndan sonra komutanlarına fethettiğiniz topraklar sizin olacaktır diyerek kılıç hakkı tanımıştır.\nAlparslan'ın bu uygulamasının temel amacı aşağıdakilerden hangisidir?",
+     "o": ["Komutanlar arasında rekabeti azaltmak", "Anadolu'nun fethini ve Türkleşmesini hızlandırmak", "Bizans ile barış antlaşması yapmak", "Abbasi halifesinin desteğini kazanmak", "Haçlı Seferlerine karşı önlem almak"],
+     "c": 1, "e": "Alparslan komutanlarına kılıç hakkı tanıyarak Anadolu'nun fetih, Türkleşme ve Müslümanlaşma sürecini hızlandırmayı amaçlamıştır."},
+
+    {"q": "Timur İmparatorluğu ile ilgili;\nI. Altınorda Devleti'ni yıkarak Rusların güneye inmesinin önünü açmıştır.\nII. Ankara Savaşı ile Osmanlı Devleti'ni fetret devrine sokmuştur.\nIII. Moğolları yenmeyi başaran ilk devlet olmuştur.\nyargılarından hangileri doğrudur?",
+     "o": ["Yalnız I", "Yalnız II", "I ve II", "I ve III", "I, II ve III"],
+     "c": 2, "e": "Moğolları yenmeyi başaran ilk devlet Memlüklerdir (Ayn Calut Savaşı); I ve II doğrudur."},
+
+    {"q": "Piri Türkistan unvanıyla bilinen ve Divan-ı Hikmet adlı eseriyle Türkler arasında İslamiyet'in yayılmasını sağlayan düşünür aşağıdakilerden hangisidir?",
+     "o": ["Kaşgarlı Mahmut", "Yusuf Has Hacip", "Edip Ahmet Yükneki", "Ahmet Yesevi", "Ali Şir Nevai"],
+     "c": 3, "e": "Ahmet Yesevi Divan-ı Hikmet ile Türkler arasında İslamiyet'in yayılmasını sağladığı için Piri Türkistan unvanını almıştır."},
+
+    {"q": "Aşağıdaki bilim insanı-alan eşleştirmelerinden hangisi yanlıştır?",
+     "o": ["Harezmi – Cebir", "İbn Heysem – Optik", "Câbir bin Hayyân – Astronomi", "İbn Sina – Tıp", "Farabi – Felsefe"],
+     "c": 2, "e": "Câbir bin Hayyân modern kimyanın kurucusudur, astronomi uzmanı değildir."},
+
+    {"q": "1055 yılında gerçekleştirilen Bağdat Seferi'nin sonuçları arasında aşağıdakilerden hangisi yer alır?",
+     "o": ["Anadolu'nun kapılarının Türklere açılması", "Şii Büveyhoğulları Devleti'nin yıkılması", "Gazneli Devleti'nin yıkılış sürecine girmesi", "Haçlı Seferlerinin başlaması", "Moğol istilasının durdurulması"],
+     "c": 1, "e": "1055 Bağdat Seferi'nde Tuğrul Bey Şii Büveyhoğulları'nı tarih sahnesinden silmiş ve Doğunun ve Batının Sultanı unvanını almıştır."},
+
+    {"q": "Tolunoğulları Devleti'nin ücretsiz hastaneler (maristan) kurması aşağıdakilerden hangisinin göstergesidir?",
+     "o": ["Askeri alanda güçlü olduğunun", "Laiklik ilkesini benimsediğinin", "Sosyal devlet anlayışına sahip olduğunun", "Bağımsızlığını ilan ettiğinin", "Tevaif-i mülk devleti olmadığının"],
+     "c": 2, "e": "Halka ücretsiz sağlık hizmeti sunulması sosyal devlet anlayışının bir göstergesidir."},
+
+    {"q": "Aşağıdakilerden hangisi İlhanlıların yıkılışına neden olduğu devletlerden biri değildir?",
+     "o": ["Anadolu Selçuklu Devleti", "Abbasi Devleti", "Harzemşahlar", "Büyük Selçuklu Devleti", "Haşailer"],
+     "c": 3, "e": "Büyük Selçuklu'yu yıkılışa sürükleyen 1141 Katvan Savaşı ve iç sorunlardır; İlhanlılar Anadolu Selçuklu, Abbasi, Harzemşah ve Haşailere son vermiştir."},
+
+    {"q": "Divan-ı İstifa'nın başkanı olan görevli aşağıdakilerden hangisidir?",
+     "o": ["Münşi", "Müşrif", "Müstevfi", "Arzü'l-Ceyş", "Berid"],
+     "c": 2, "e": "Divan-ı İstifa mali işlerle ilgilenir ve başkanına Müstevfi denir (istifa-müstevfi ortak kökü: STF)."},
+
+    {"q": "Selahaddin Eyyubi Kudüs Hristiyanların elinde esirken bana gülmek ve uyumak haramdır demiş ve Hıttin Savaşı ile Kudüs'ü Haçlılardan geri almıştır.\nBu bilgilere göre Selahaddin Eyyubi ile ilgili aşağıdakilerden hangisine ulaşılamaz?",
+     "o": ["Kudüs'ün fethini öncelikli hedef olarak belirlediğine", "İslam dünyasında saygın bir konuma sahip olduğuna", "Gaza ve cihat anlayışıyla hareket ettiğine", "Abbasi halifesinin siyasi yetkilerini devraldığına", "Kudüs Fatihi unvanını hak ettiğine"],
+     "c": 3, "e": "Abbasi halifesinin siyasi yetkilerini devralan Tuğrul Bey'dir; verilen bilgilerden böyle bir sonuca ulaşılamaz."},
+
+    {"q": "1230 Yassıçemen Savaşı ile ilgili;\nI. Anadolu Selçuklu Devleti ile Harzemşahlar arasında yapılmıştır.\nII. Anadolu Selçuklu Devleti bu savaşı kazanmıştır.\nIII. Bu savaş Anadolu Selçuklu için olumlu sonuçlar doğurmuştur.\nyargılarından hangileri doğrudur?",
+     "o": ["Yalnız I", "Yalnız III", "I ve II", "I ve III", "I, II ve III"],
+     "c": 2, "e": "Savaş kazanılmış olsa da Harzemşahların yıkılması tampon bölgeyi ortadan kaldırmış ve Moğollarla komşu olunmuştur; sonuçları olumsuz olduğundan III yanlıştır."}
+  ],
+  "eslestir": [
+    {
+      "ad": "Devlet → Kurucu",
+      "p": [
+        ["Karahanlılar", "Bilge Kül Kadir Han"],
+        ["Gazneliler", "Alptigin"],
+        ["Büyük Selçuklu", "Selçuk Bey"],
+        ["Eyyubiler", "Selahaddin Eyyubi"],
+        ["Memlükler", "Aybek"],
+        ["Moğol İmparatorluğu", "Cengiz Han"],
+        ["Babür İmparatorluğu", "Babür Şah"]
+      ]
+    },
+    {
+      "ad": "Eser → Yazar",
+      "p": [
+        ["Divan-ı Lügat-it Türk", "Kaşgarlı Mahmut"],
+        ["Kutadgu Bilig", "Yusuf Has Hacip"],
+        ["Divan-ı Hikmet", "Ahmet Yesevi"],
+        ["Siyasetname", "Nizamülmülk"],
+        ["Şehname", "Firdevsi"],
+        ["Muhakemetül Lügateyn", "Ali Şir Nevai"],
+        ["Atabetül Hakayık", "Edip Ahmet Yükneki"]
+      ]
+    },
+    {
+      "ad": "Savaş → Sonucu",
+      "p": [
+        ["1040 Dandanakan", "Büyük Selçuklu resmen kuruldu; Gazneliler yıkılışa"],
+        ["1048 Pasinler", "Bizans'a ilk zafer; Liparit esir"],
+        ["1055 Bağdat Seferi", "Büveyhoğulları yıkıldı; Doğu-Batı sultanı unvanı"],
+        ["1071 Malazgirt", "Anadolu Türklere açıldı; Diyojen esir"],
+        ["1141 Katvan", "Büyük Selçuklu yıkılış sürecine girdi"],
+        ["1230 Yassıçemen", "Harzemşahlar yıkılışa; tampon bölge kalktı"],
+        ["1473 Otlukbeli", "Akkoyunlular yıkılışa; Fırat batısı Osmanlı'ya"]
+      ]
+    },
+    {
+      "ad": "Bilim İnsanı → Alanı / Eseri",
+      "p": [
+        ["İbn Sina (Avicenna)", "El Kanun fit Tıp"],
+        ["Farabi (Alfarabius)", "El Medinetül Fazıla"],
+        ["Harezmi", "Cebrin kurucusu"],
+        ["İbn Heysem", "Optik – Kitabül Menazir"],
+        ["Câbir bin Hayyân", "Kimya – Kitabül Kimya"],
+        ["Biruni", "El Asarül Bakiye"],
+        ["İmam Gazali", "İhyaül Ulumiddin"]
+      ]
+    },
+    {
+      "ad": "Görevli → Görevi",
+      "p": [
+        ["Hacip", "Hükümdar-halk arası bağlantı (3. adam)"],
+        ["Camedar", "Hükümdarın kıyafetleri"],
+        ["Emiri Ahur", "Atların bakımı"],
+        ["Emiri Alem", "Bayrak ve sancak koruma"],
+        ["Çaşnigir", "Hükümdarın yiyecekleri"],
+        ["Muhtesip", "Çarşı-pazar denetimi"],
+        ["Serhenk", "Yol düzeni ve güvenliği"]
+      ]
+    }
+  ]
+}
