@@ -1,0 +1,424 @@
+{
+  "meta": {
+    "gun": 19,
+    "baslik": "Atatürk İlkeleri ve İnkılapların İlkelere Dağılımı",
+    "ozet": "6 Atatürk ilkesinin anahtar sözcükleri ve her inkılabın hangi ilke(ler)e girdiğinin mantığı işlenir. İnkılapların ayrıntısı bir sonraki güne bırakılmıştır.",
+    "tahminiSoru": "KPSS'de ~2-3 soru",
+    "duzeltmeler": [
+      "Tactiq: 'Teşviki-i Sanayi' → Teşvik-i Sanayi Kanunu",
+      "Tactiq: 'efkaf / efkah / efah vekaleti' → Şer'iyye ve Evkaf Vekaleti",
+      "Tactiq: 'Tevhid-i Tedisat' → Tevhid-i Tedrisat Kanunu",
+      "Tactiq: 'Trablus Kup Savaşı' → Trablusgarp Savaşı",
+      "Tactiq: 'hakkçılık' → halkçılık",
+      "Tactiq: 'din hegomonyası' → din hegemonyası",
+      "Tactiq: 'Şanlıurfa'nın Viran şehri' → Viranşehir"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Cumhuriyetçilik — anahtar sözcükler",
+      "i": [
+        { "k": "Parti · seçim · demokrasi", "m": "Cumhuriyet rejiminin iyi işlemesini sağlayan her şey cumhuriyetçiliğe girer.", "s": "z" },
+        { "k": "Oy / rey kullanma", "m": "Oy kullanan kişi sayısını artıran her düzenleme cumhuriyetçiliktir.", "s": "z" },
+        { "k": "Ulusal egemenlik · milli irade", "m": "Egemenliğin millete ait olması → cumhuriyetçilik. (Ulusal EGEMENLİK, cumhuriyetçilik!)", "s": "z" },
+        { "k": "Meclis · parlamento", "m": "Meclis, çok partili hayat, seçme-seçilme hakkı, hukuk/anayasal devlet ifadeleri cumhuriyetçiliğe gider.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Halkçılık — anahtar sözcükler",
+      "i": [
+        { "k": "Halkın yararına her şey", "m": "Halkın yararına olan her düzenleme halkçılığa girer.", "s": "z" },
+        { "k": "Sosyal devlet", "m": "Devletin ücretsiz eğitim, sağlık, taşıma gibi olanaklar sunması → halkçılık.", "s": "z" },
+        { "k": "Ayrıcalıksız / eşit toplum", "m": "Kanun üstünlüğü = herkesin kanun altında eşit olması; eşit-ayrıcalıksız toplum → halkçılık.", "s": "z" },
+        { "k": "Sosyal adalet · dayanışma", "m": "Toplumsal dayanışma-barış, halkın refahı ve huzuru ifadeleri halkçılığa gider.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Milliyetçilik — anahtar sözcükler",
+      "i": [
+        { "k": "Milli / Türk vurgusu", "m": "Milli veya Türk vurgusu gören her ifade milliyetçiliğe gider.", "s": "z" },
+        { "k": "(Ulusal) bağımsızlık", "m": "Bağımsızlık, vatanın düşmandan temizlenmesi → milliyetçilik. (Ulusal BAĞIMSIZLIK, milliyetçilik!)", "s": "z" },
+        { "k": "Dil ve kültür birliği", "m": "Milli değerler, ulusal birlik-beraberlik, millileştirme/ulusallaştırma → milliyetçilik.", "s": "z" },
+        { "k": "Kültür birlikteliği", "m": "Atatürk milliyetçiliği ırka değil, kültür birlikteliğine dayanır.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Laiklik — anahtar sözcükler",
+      "i": [
+        { "k": "Din-devlet işlerinin ayrılması", "m": "Laikliğin temel tanımı; din ve devlet işlerini ayıran her düzenleme laikliğe girer.", "s": "z" },
+        { "k": "Akıl ve bilim", "m": "Akıl-bilim sözcüklerini görünce laikliğe göz kırp: dinin yerine akıl ve bilimi öne koyma.", "s": "z" },
+        { "k": "Akılcılık · bilimsellik", "m": "Akılcılık ve bilimsellik vurgusu laikliğe gider.", "s": "z" },
+        { "k": "Din ve vicdan hürriyeti", "m": "İsteyen kişinin istediği dine/mezhebe girebilmesi → laiklik.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Devletçilik — anahtar sözcükler",
+      "i": [
+        { "k": "Ekonomik ilkedir", "m": "Adında 'devlet' geçse de SİYASİ değil EKONOMİK ilkedir.", "s": "z" },
+        { "k": "Devletin ekonomiye müdahalesi", "m": "Yatırımların devlet eliyle yapılması; devletin fabrika/sanayi/banka kurması → devletçilik.", "s": "z" },
+        { "k": "Ekonomi yoksa ilk elenen şık", "m": "Soruda ekonomi/para yoksa ilk eleyeceğin şık devletçiliktir.", "s": "z" },
+        { "k": "1930'dan sonra", "m": "Devletçilik ancak 1930'dan sonra uygulanmış sayılır (ÖSYM kabulü).", "s": "z" },
+        { "k": "Para · banka · sermaye · sanayi planı", "m": "Ekonomi, para, sermaye, banka, milli kalkınma, sanayi planı ifadeleri devletçiliğe gider.", "s": "z" }
+      ]
+    },
+    {
+      "b": "İnkılapçılık — anahtar sözcükler",
+      "i": [
+        { "k": "Çağdaşlaşma · modernleşme", "m": "Yenileşme, hep ileri gitme, muasır medeniyetler seviyesinin üzerine çıkma → inkılapçılık.", "s": "z" },
+        { "k": "Şifre: 'yerine'", "m": "İnkılaba 'yerine' sözcüğünü koyabiliyorsan o inkılapçılığa girer (X yerine Y).", "s": "z" },
+        { "k": "Tüm inkılaplar dolaylı olarak", "m": "Buradaki bütün inkılaplar dolaylı da olsa inkılapçılık ilkesinin içindedir.", "s": "z" }
+      ]
+    },
+    {
+      "b": "İnkılap → İlke: cumhuriyetçilik",
+      "i": [
+        { "k": "TBMM'nin açılması", "m": "Ulusal egemenlik; cumhuriyet rejiminin işlemesini sağlar → cumhuriyetçilik.", "s": "z" },
+        { "k": "Saltanatın kaldırılması", "m": "Cumhuriyetin önündeki engeli kaldırdı → cumhuriyetçilik (aynı zamanda laiklik).", "s": "z" },
+        { "k": "Cumhuriyetin ilanı · partiler · seçim genişlemeleri", "m": "Kadınlara seçme-seçilme, seçmen yaşının düşürülmesi, tek dereceli seçim, vergi şartının kaldırılması, 1921-1924 anayasaları → cumhuriyetçilik.", "s": "z" },
+        { "k": "Erkan-ı Harbiye Vekaleti'nin kaldırılması (1924)", "m": "Ordu siyasetten ayrıldı, Genelkurmay kuruldu → cumhuriyetçilik.", "s": "z" }
+      ]
+    },
+    {
+      "b": "İnkılap → İlke: halkçılık",
+      "i": [
+        { "k": "Medeni Kanun (1926)", "m": "Kadına şahıs/eşya/miras/aile hukukunda haklar → halkçılık (ayrıca laiklik).", "s": "z" },
+        { "k": "Soyadı Kanunu (1934)", "m": "Resmi işleri kolaylaştırdı → halkçılık (Türkçe soyad zorunlu olduğu için milliyetçilik de).", "s": "z" },
+        { "k": "Aşar vergisinin kaldırılması", "m": "Çiftçinin sırtındaki ağır yük kalktı → halkçılık.", "s": "z" },
+        { "k": "Şapka/Kılık-Kıyafet, Halkevleri, Millet Mektepleri", "m": "Halkın modern görünüme kavuşması, her yönden gelişimi ve okuryazarlığı → halkçılık.", "s": "z" }
+      ]
+    },
+    {
+      "b": "İnkılap → İlke: milliyetçilik",
+      "i": [
+        { "k": "Kapitülasyonların kaldırılması · Kurtuluş Savaşı", "m": "Ekonomik/siyasi bağımsızlık → milliyetçilik.", "s": "z" },
+        { "k": "TDK · TTK · Kabotaj · Türk Parasını Koruma", "m": "Türk vurgusu taşıyan kurum ve kanunlar → milliyetçilik.", "s": "z" },
+        { "k": "Misak-ı İktisadi (Milli Ekonomi kararları)", "m": "İzmir İktisat Kongresi 1923; 'milli ekonomi' → milliyetçilik (devletçilik DEĞİL).", "s": "z" }
+      ]
+    },
+    {
+      "b": "İnkılap → İlke: laiklik",
+      "i": [
+        { "k": "Halifeliğin kaldırılması", "m": "Laiklik yolunda en önemli adım.", "s": "z" },
+        { "k": "Şer'iyye ve Evkaf Vekaleti'nin kaldırılması", "m": "Diyanet İşleri Başkanlığı + Vakıflar Genel Müdürlüğü → din-devlet ayrıldı.", "s": "z" },
+        { "k": "Tekke-zaviye-türbelerin kapatılması", "m": "Din eğitiminin kontrolü ve gerici teşkilatlanmanın önlenmesi → laiklik.", "s": "z" },
+        { "k": "'Devletin dini İslam'dır' maddesi · mv. yemini", "m": "Madde 1928'de çıkarıldı, yemin 1928'de değişti → laiklik.", "s": "z" }
+      ]
+    },
+    {
+      "b": "İnkılap → İlke: devletçilik",
+      "i": [
+        { "k": "Merkez Bankası (1930)", "m": "Türk para politikasını yönetmek ve parayı korumak için → devletçilik.", "s": "z" },
+        { "k": "Sümerbank (1933) · Etibank · KİT'ler", "m": "Devletin banka/sanayi kurması → devletçilik.", "s": "z" },
+        { "k": "I. ve II. Beş Yıllık Sanayi Planı", "m": "Devletin sanayi planlaması → devletçilik.", "s": "z" }
+      ]
+    },
+    {
+      "b": "İnkılap → İlke: inkılapçılık ('yerine')",
+      "i": [
+        { "k": "Rumi → Miladi takvim", "m": "'yerine' konabiliyor → inkılapçılık.", "s": "z" },
+        { "k": "Arap → uluslararası rakam (beynelmilel erkam)", "m": "'yerine' konabiliyor → inkılapçılık.", "s": "z" },
+        { "k": "Cuma → Pazar hafta tatili · metrik sistem · evrensel saat", "m": "Hepsinde 'X yerine Y' kalıbı var → inkılapçılık.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kritik tarihler ve kancalar",
+      "i": [
+        { "k": "1931 → parti, 1937 → anayasa", "m": "6 ilke 1931'de CHP parti programına, 1937'de 1924 Anayasası'na girdi.", "s": "z" },
+        { "k": "Teşvik-i Sanayi 1927", "m": "1929 kriziyle uygulanamadı; boşluğu devletçilik doldurdu.", "s": "z" },
+        { "k": "Medeni=6, Şapka=5", "m": "Medeni Kanun 6 harf/1926, Şapka 5 harf/1925 (harf sayısı = yılın son hanesi kancası).", "s": "e" },
+        { "k": "Vasıf Çınar", "m": "Tevhid-i Tedrisat Kanunu (1924) onun liderliğinde çıktı.", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "İlke tanımları", "o": "Cumhuriyetçilik ilkesinin özü nedir?", "a": "Cumhuriyet rejiminin iyi işlemesini sağlayan her şey cumhuriyetçiliğe girer." },
+    { "c": "İlke tanımları", "o": "Halkçılık ilkesinin özü nedir?", "a": "Halkın yararına olan her şey halkçılığa girer." },
+    { "c": "İlke tanımları", "o": "Atatürk milliyetçiliği neye dayanır?", "a": "Irka değil, kültür birlikteliğine dayanır. Milli/Türk vurgusu ve bağımsızlık anahtardır." },
+    { "c": "İlke tanımları", "o": "Laikliğin temel tanımı nedir?", "a": "Din ve devlet işlerinin birbirinden ayrılmasıdır." },
+    { "c": "İlke tanımları", "o": "Devletçilik siyasi mi ekonomik mi bir ilkedir?", "a": "Ekonomik ilkedir: yatırımların devlet eliyle yapılması, devletin ekonomiye müdahalesidir." },
+    { "c": "İlke tanımları", "o": "İnkılapçılık hangi kavramları ifade eder?", "a": "Çağdaşlaşma, modernleşme, yenileşme, hep ileri gitme, muasır medeniyetler seviyesinin üzerine çıkma." },
+    { "c": "Anahtar sözcükler", "o": "Hangi ifadeler görülünce CUMHURİYETÇİLİĞE gidilir?", "a": "Parti, seçim, demokrasi, oy/rey kullanma, meclis, parlamento, ulusal egemenlik, milli irade, seçme-seçilme, hukuk devleti." },
+    { "c": "Anahtar sözcükler", "o": "Hangi ifadeler görülünce HALKÇILIĞA gidilir?", "a": "Sosyal devlet, ayrıcalıksız/eşit toplum, kanun üstünlüğü, sosyal adalet, toplumsal dayanışma/barış, halkın refahı-huzuru." },
+    { "c": "Anahtar sözcükler", "o": "Hangi ifadeler görülünce MİLLİYETÇİLİĞE gidilir?", "a": "Milli/Türk vurgusu, (ulusal) bağımsızlık, dil-kültür birliği, ulusal birlik-beraberlik, millileştirme/ulusallaştırma." },
+    { "c": "Anahtar sözcükler", "o": "Hangi ifadeler görülünce LAİKLİĞE gidilir?", "a": "Akıl-bilim, akılcılık-bilimsellik, din-vicdan hürriyeti, din-devlet işlerinin ayrılması." },
+    { "c": "Anahtar sözcükler", "o": "Hangi ifadeler görülünce DEVLETÇİLİĞE gidilir?", "a": "Ekonomi, para, sermaye, banka, devletin fabrika/sanayi kurması, sanayi planı, milli kalkınma." },
+    { "c": "Anahtar sözcükler", "o": "İnkılapçılığın kısayol şifresi nedir?", "a": "'Yerine' sözcüğü: inkılaba 'X yerine Y' diyebiliyorsan o inkılapçılığa girer." },
+    { "c": "Anahtar sözcükler", "o": "Soruda ekonomiyle ilgili hiçbir şey yoksa ilk hangi şık elenir?", "a": "Devletçilik. Devletçilik ekonomik bir ilkedir; ekonomi/para yoksa devreye girmez." },
+    { "c": "Kritik ayrımlar", "o": "'Ulusal bağımsızlık' hangi ilkeye girer?", "a": "Milliyetçilik. (Bağımsızlık = milli vurgu.)" },
+    { "c": "Kritik ayrımlar", "o": "'Ulusal egemenlik' hangi ilkeye girer?", "a": "Cumhuriyetçilik. (Egemenlik = demokrasi, milli irade.)" },
+    { "c": "Kritik ayrımlar", "o": "Bağımsızlık ile egemenlik neden karıştırılır?", "a": "Aynı sanılırlar ama farklıdır: BAĞIMSIZLIK → milliyetçilik, EGEMENLİK → cumhuriyetçilik." },
+    { "c": "Kritik ayrımlar", "o": "Laiklik yolunda İLK adım hangi inkılaptır?", "a": "Saltanatın kaldırılması (1 Kasım 1922)." },
+    { "c": "Kritik ayrımlar", "o": "Laiklik yolunda EN ÖNEMLİ adım hangi inkılaptır?", "a": "Halifeliğin kaldırılması (1924)." },
+    { "c": "Kritik ayrımlar", "o": "Kabotaj Kanunu neden devletçiliğe değil milliyetçiliğe girer?", "a": "Çok sayıda Türk vurgusu içerir ve 1926 tarihlidir; devletçilik ancak 1930'dan sonra." },
+    { "c": "Kritik ayrımlar", "o": "Misak-ı İktisadi kararları neden devletçiliğe değil milliyetçiliğe girer?", "a": "Diğer adı 'milli ekonomi kararları'dır ve 1923 tarihlidir (devletçilik 1930'dan sonra)." },
+    { "c": "Kritik tarihler", "o": "6 Atatürk ilkesi ne zaman CHP parti programına, ne zaman anayasaya girdi?", "a": "1931'de CHP parti programına; 1937'de 1924 Anayasası'na." },
+    { "c": "Kritik tarihler", "o": "Devletçilik hangi tarihten sonra uygulanmış sayılır?", "a": "1930'dan sonra. 1926 Uşak/Alpullu Şeker Fabrikaları açılsa da devletçilik sayılmaz." },
+    { "c": "Kritik tarihler", "o": "Teşvik-i Sanayi Kanunu ne zaman çıktı, neden uygulanamadı?", "a": "1927'de çıktı; kalifiye eleman ve sermaye eksikliği + 1929 Dünya Ekonomik Krizi nedeniyle uygulanamadı, yerini devletçilik aldı." },
+    { "c": "Cumhuriyetçilik inkılapları", "o": "TBMM'nin açılması neden cumhuriyetçiliğe girer?", "a": "Ulusal egemenliği hayata geçirir; meclis olmadan cumhuriyet yönetilemez." },
+    { "c": "Cumhuriyetçilik inkılapları", "o": "Saltanatın kaldırılması neden cumhuriyetçiliğe girer?", "a": "Cumhuriyetin ilanının önündeki engeli kaldırdı." },
+    { "c": "Cumhuriyetçilik inkılapları", "o": "Halifeliğin kaldırılması nasıl cumhuriyetçiliğe girer?", "a": "Halife etrafında toplanıp cumhuriyete zarar verilmesini önler; cumhuriyeti korur." },
+    { "c": "Cumhuriyetçilik inkılapları", "o": "Kadınlara seçme-seçilme hakkı ve seçmen yaşının düşürülmesi neden cumhuriyetçiliğe girer?", "a": "Oy kullanan kişi sayısını artırır; cumhuriyet rejimi daha iyi işler." },
+    { "c": "Cumhuriyetçilik inkılapları", "o": "Tek dereceli seçim sistemi neden cumhuriyetçiliğe girer?", "a": "Çift dereceliden daha demokratiktir; seçmenin görüşü doğrudan yönetime yansır." },
+    { "c": "Cumhuriyetçilik inkılapları", "o": "Seçme-seçilmede vergi verme zorunluluğunun kaldırılması neden cumhuriyetçiliğe girer?", "a": "Oy kullanan kişi sayısını artırarak rejimin daha iyi işlemesini sağlar." },
+    { "c": "Cumhuriyetçilik inkılapları", "o": "1921 ve 1924 Anayasaları neden cumhuriyetçiliğe girer?", "a": "İkisinde de 'egemenlik millete aittir' (ulusal egemenlik) maddesi vardır." },
+    { "c": "Cumhuriyetçilik inkılapları", "o": "Erkan-ı Harbiye Vekaleti'nin kaldırılması neden cumhuriyetçiliğe girer?", "a": "1924'te kaldırıldı, yerine Genelkurmay kuruldu; ordu siyasetten ayrıldı, rejim daha iyi işledi." },
+    { "c": "Halkçılık inkılapları", "o": "Medeni Kanun (1926) neden halkçılığa girer?", "a": "Kadına şahıs, eşya, miras ve aile hukukunda eşit haklar tanıdı." },
+    { "c": "Halkçılık inkılapları", "o": "Medeni Kanun ile kadına hangi haklar verildi?", "a": "Tek eşli evlilik, mirastan eşit pay, çocuğun velayeti, istediği işte çalışabilme." },
+    { "c": "Halkçılık inkılapları", "o": "Soyadı Kanunu (1934) neden halkçılığa girer?", "a": "Halkın resmi dairelerdeki işlerini kolaylaştırdı." },
+    { "c": "Halkçılık inkılapları", "o": "Aşar vergisinin kaldırılması neden halkçılığa girer?", "a": "Çiftçinin üründen alınan ağır vergi yükünü kaldırdı." },
+    { "c": "Halkçılık inkılapları", "o": "Şapka/Kılık-Kıyafet Kanunu neden halkçılığa girer?", "a": "Türk halkının modern bir görünüme kavuşmasını sağladı (1925)." },
+    { "c": "Halkçılık inkılapları", "o": "Halkevleri (1932) neden halkçılığa girer?", "a": "Türk Ocakları yerine kuruldu; halkın her yönden gelişimini ve inkılapların anlaşılmasını sağladı." },
+    { "c": "Halkçılık inkılapları", "o": "Millet Mektepleri neden halkçılığa girer?", "a": "1928 yeni Türk alfabesini halka öğreterek okuryazarlığı yaydı." },
+    { "c": "Milliyetçilik inkılapları", "o": "Kapitülasyonların kaldırılması neden milliyetçiliğe girer?", "a": "Ekonomik bağımsızlığı sağladı; bağımsızlık = milli vurgu." },
+    { "c": "Milliyetçilik inkılapları", "o": "Kurtuluş Savaşı neden milliyetçiliğe girer?", "a": "Vatanı düşmandan temizleyerek bağımsızlığı sağladı." },
+    { "c": "Milliyetçilik inkılapları", "o": "TDK ve TTK'nın kurulması neden milliyetçiliğe girer?", "a": "İkisinde de 'Türk' vurgusu vardır." },
+    { "c": "Milliyetçilik inkılapları", "o": "Kabotaj Kanunu (1926) neyi düzenler, hangi ilkeye girer?", "a": "Türk kara sularında yolcu-yük taşımayı Türk gemilerine/vatandaşlarına verir; dört Türk vurgusuyla milliyetçiliğe girer." },
+    { "c": "Milliyetçilik inkılapları", "o": "Türk Parasını Koruma Kanunu hangi ilkeye girer?", "a": "'Türk' vurgusu nedeniyle milliyetçiliğe girer." },
+    { "c": "Milliyetçilik inkılapları", "o": "Misak-ı İktisadi kararları nerede, kim liderliğinde alındı?", "a": "1923 İzmir İktisat Kongresi'nde, Kazım Karabekir liderliğinde; 'milli ekonomi kararları' → milliyetçilik." },
+    { "c": "Laiklik inkılapları", "o": "Saltanatın kaldırılması nasıl laikliğe girer?", "a": "Padişahın devlet görevi (padişahlık) kalkıp yalnız dini görevi (halifelik) kaldı; din-devlet ayrımının ilk adımı." },
+    { "c": "Laiklik inkılapları", "o": "Şer'iyye ve Evkaf Vekaleti'nin kaldırılması nasıl laikliğe girer?", "a": "Din işleri Diyanet'e, vakıf işleri Vakıflar Genel Müdürlüğü'ne verilerek din-devlet ayrıldı." },
+    { "c": "Laiklik inkılapları", "o": "Medeni Kanun nasıl laikliğe de girer?", "a": "İslam hukukuna dayalı Mecelle'yi kaldırıp İsviçre'den modern medeni kanunu getirdi." },
+    { "c": "Laiklik inkılapları", "o": "Tekke, zaviye ve türbelerin kapatılması neden laikliğe girer?", "a": "Din eğitiminin kontrolsüz kalmasını ve gerici teşkilatlanmayı önledi." },
+    { "c": "Laiklik inkılapları", "o": "'Devletin dini İslam'dır' maddesi ne zaman kondu, ne zaman çıkarıldı?", "a": "1924'te halifelik kaldırılınca tepkiler nedeniyle kondu, 1928'de çıkarıldı → anayasa laikleşti." },
+    { "c": "Laiklik inkılapları", "o": "Milletvekili yemininin değiştirilmesi nasıl laikliğe girer?", "a": "1928'de dini yemin, 'namusum ve şerefim üzerine' ifadesiyle değiştirildi; devlet kurumundan dini öge çıkarıldı." },
+    { "c": "Devletçilik inkılapları", "o": "Merkez Bankası (1930) neden devletçiliğe girer?", "a": "Devlet para politikasını yönetmek ve Türk parasını korumak için kurdu; ekonomiye müdahale." },
+    { "c": "Devletçilik inkılapları", "o": "Sümerbank (1933) ve Etibank neden devletçiliğe girer?", "a": "Devletin banka/sanayi kurması ekonomiye doğrudan müdahaledir." },
+    { "c": "Devletçilik inkılapları", "o": "Beş Yıllık Sanayi Planları hangi ilkeye girer?", "a": "Devletçilik. I. Plan (SSCB örnek) 1934-38 uygulandı; II. Plan Dünya Savaşı nedeniyle uygulanamadı." },
+    { "c": "Devletçilik inkılapları", "o": "KİT'ler (Kamu İktisadi Teşekkülleri) hangi ilkeye girer?", "a": "Devletin ekonomiye müdahalesi olduğu için devletçiliğe girer." },
+    { "c": "İnkılapçılık inkılapları", "o": "Rumi takvimden Miladi takvime geçiş hangi ilkeye girer?", "a": "İnkılapçılık ('X yerine Y' kalıbı vardır)." },
+    { "c": "İnkılapçılık inkılapları", "o": "Arap rakamları yerine uluslararası rakamların kabulü hangi ilkeye girer?", "a": "İnkılapçılık. (Bazen 'beynelmilel erkamın kabulü' denir; aynı şeydir.)" },
+    { "c": "İnkılapçılık inkılapları", "o": "Hafta tatilinin cumadan pazara alınması hangi ilkeye girer?", "a": "İnkılapçılık ('cuma yerine pazar')." },
+    { "c": "İnkılapçılık inkılapları", "o": "Metrik sisteme ve evrensel saate geçiş hangi ilkeye girer?", "a": "İnkılapçılık (okka yerine kg, alaturka saat yerine evrensel saat)." },
+    { "c": "Çok ilkeli inkılaplar", "o": "Tevhid-i Tedrisat Kanunu hangi üç ilkeye birden girer?", "a": "Halkçılık (eğitimde fırsat eşitliği), milliyetçilik (milli eğitim), laiklik (eğitimi din etkisinden kurtarma). 1924, Vasıf Çınar." },
+    { "c": "Çok ilkeli inkılaplar", "o": "Medeni Kanun hangi iki ilkeye girer?", "a": "Halkçılık (kadın hakları) ve laiklik (Mecelle'nin kaldırılması)." },
+    { "c": "Çok ilkeli inkılaplar", "o": "Soyadı Kanunu hangi iki ilkeye girer?", "a": "Halkçılık (işleri kolaylaştırma) ve milliyetçilik (Türkçe soyad zorunluluğu)." },
+    { "c": "Çok ilkeli inkılaplar", "o": "Saltanatın kaldırılması hangi iki ilkeye girer?", "a": "Cumhuriyetçilik (cumhuriyetin önünü açtı) ve laiklik (din-devlet ayrımının ilk adımı)." },
+    { "c": "Çok ilkeli inkılaplar", "o": "Halifeliğin kaldırılması hangi üç ilkeye girebilir?", "a": "Laiklik (en önemli adım), cumhuriyetçilik (cumhuriyeti koruma), milliyetçilik (ümmetten milli devlete geçiş)." },
+    { "c": "Çok ilkeli inkılaplar", "o": "Bir inkılap birden fazla ilkeye girebilir mi?", "a": "Evet; sorunun gelişine göre hangi ilkeye gireceğine karar verilir." },
+    { "c": "Kurum eşleşmeleri", "o": "Erkan-ı Harbiye Vekaleti'nin yerine hangi kurum kuruldu?", "a": "Genelkurmay Başkanlığı (1924)." },
+    { "c": "Kurum eşleşmeleri", "o": "Şer'iyye ve Evkaf Vekaleti'nin yerine hangi iki kurum kuruldu?", "a": "Diyanet İşleri Başkanlığı (din) ve Vakıflar Genel Müdürlüğü (devlet/vakıf)." },
+    { "c": "Kurum eşleşmeleri", "o": "Halkevleri hangi kurumun yerine kuruldu?", "a": "Türk Ocakları'nın yerine (1932)." },
+    { "c": "Kurum eşleşmeleri", "o": "Modern Medeni Kanun hangi hukuk metnini yürürlükten kaldırdı?", "a": "İslam hukukuna dayalı Mecelle'yi." },
+    { "c": "Sınav mantığı", "o": "İnkılapların tamamı hangi ilkeye dolaylı olarak girer?", "a": "İnkılapçılık; ama çağdaşlaşma/modernleşme vurgusu taşıyanlar en çok inkılapçılıkla ilişkilendirilir." },
+    { "c": "Sınav mantığı", "o": "'Sosyal devlet anlayışı' hangi ilkeye girer?", "a": "Halkçılık; devletin ücretsiz hizmet sunması halkın yararınadır." },
+    { "c": "Sınav mantığı", "o": "'Kanun üstünlüğü' hangi ilkeye girer, neden?", "a": "Halkçılık; kanun üstünlüğü herkesin kanun altında eşit olması = eşit/ayrıcalıksız toplum." },
+    { "c": "Sınav mantığı", "o": "'Akıl ve bilim' vurgusu hangi ilkeye götürür?", "a": "Laiklik; dinin yerine akıl ve bilimi öne koyma." },
+    { "c": "Sınav mantığı", "o": "'Muasır medeniyetler seviyesinin üzerine çıkma' hangi ilkeye götürür?", "a": "İnkılapçılık." }
+  ],
+  "tuzak": [
+    { "q": "'Ulusal bağımsızlık' vurgusu hangi ilkeye girer?", "o": ["Milliyetçilik", "Cumhuriyetçilik"], "c": 0, "n": "Bağımsızlık = milli vurgu → milliyetçilik; egemenlikle karıştırma." },
+    { "q": "'Ulusal egemenlik' vurgusu hangi ilkeye girer?", "o": ["Milliyetçilik", "Cumhuriyetçilik"], "c": 1, "n": "Egemenlik = milli irade/demokrasi → cumhuriyetçilik." },
+    { "q": "Kabotaj Kanunu (1926) hangi ilkeye girer?", "o": ["Devletçilik", "Milliyetçilik"], "c": 1, "n": "Ekonomiyle ilgili görünse de dört Türk vurgusu + 1930 öncesi olduğu için milliyetçilik." },
+    { "q": "Misak-ı İktisadi (milli ekonomi) kararları hangi ilkeye girer?", "o": ["Devletçilik", "Milliyetçilik"], "c": 1, "n": "1923 tarihli 'milli ekonomi' kararları; devletçilik ancak 1930'dan sonra." },
+    { "q": "Laiklik yolunda atılan İLK adım hangisidir?", "o": ["Saltanatın kaldırılması", "Halifeliğin kaldırılması"], "c": 0, "n": "Saltanat = ilk adım; halifelik = en önemli adım." },
+    { "q": "Laiklik yolunda EN ÖNEMLİ adım hangisidir?", "o": ["Saltanatın kaldırılması", "Halifeliğin kaldırılması"], "c": 1, "n": "En önemli adım halifeliğin kaldırılmasıdır." },
+    { "q": "1926'da açılan Uşak Şeker Fabrikası devletçiliğe girer mi?", "o": ["Evet, devlet açtı", "Hayır, 1930 öncesi"], "c": 1, "n": "Devletçilik ancak 1930'dan sonra sayılır; 1926 açılışı devletçiliğe alınmaz." },
+    { "q": "Merkez Bankası'nın kuruluşu hangi ilkeye girer?", "o": ["Devletçilik", "Cumhuriyetçilik"], "c": 0, "n": "1930'da para politikası ve Türk parasını korumak için; ekonomiye müdahale = devletçilik." },
+    { "q": "Medeni Kanun tek başına hangi ilkeye girer?", "o": ["Sadece halkçılık", "Halkçılık ve laiklik"], "c": 1, "n": "Kadın hakları → halkçılık; Mecelle'nin kaldırılması → laiklik." },
+    { "q": "Tevhid-i Tedrisat Kanunu kaç ilkeye girer?", "o": ["İki ilke", "Üç ilke"], "c": 1, "n": "Halkçılık, milliyetçilik ve laiklik — üç ilkeye birden girer." },
+    { "q": "Soyadı Kanunu'nun milliyetçilik yönü nereden gelir?", "o": ["İşleri kolaylaştırması", "Türkçe soyad zorunluluğu"], "c": 1, "n": "İşleri kolaylaştırma → halkçılık; Türkçe soyad → milliyetçilik." },
+    { "q": "Şer'iyye ve Evkaf Vekaleti'nin yerine kurulan din kurumu hangisidir?", "o": ["Diyanet İşleri Başkanlığı", "Vakıflar Genel Müdürlüğü"], "c": 0, "n": "Din işleri Diyanet'e, vakıf işleri Vakıflar Genel Müdürlüğü'ne verildi." },
+    { "q": "Erkan-ı Harbiye Vekaleti'nin yerine ne kuruldu?", "o": ["Genelkurmay Başkanlığı", "Diyanet İşleri Başkanlığı"], "c": 0, "n": "Erkan-ı Harbiye → Genelkurmay; ordu siyasetten ayrıldı (cumhuriyetçilik)." },
+    { "q": "'Devletin dini İslam'dır' maddesi ne zaman çıkarıldı?", "o": ["1924", "1928"], "c": 1, "n": "1924'te kondu, 1928'de çıkarıldı; çıkarılması laikliğe girer." },
+    { "q": "Halkevleri hangi kurumun yerine kuruldu?", "o": ["Türk Ocakları", "Millet Mektepleri"], "c": 0, "n": "Halkevleri (1932) Türk Ocakları'nın yerine kuruldu." },
+    { "q": "Tek dereceli seçim sistemi hangi ilkeye girer?", "o": ["Cumhuriyetçilik", "Halkçılık"], "c": 0, "n": "Daha demokratik; seçmen görüşünü doğrudan yönetime yansıtır → cumhuriyetçilik." },
+    { "q": "Kadınlara seçme-seçilme hakkı hangi ilkelere girer?", "o": ["Sadece halkçılık", "Cumhuriyetçilik ve halkçılık"], "c": 1, "n": "Oy sayısını artırır → cumhuriyetçilik; kadınlar halktır → halkçılık." },
+    { "q": "Kurtuluş Savaşı'nın yapılması hangi ilkeye girer?", "o": ["Milliyetçilik", "İnkılapçılık"], "c": 0, "n": "Vatanı düşmandan temizleyip bağımsızlığı sağladı → milliyetçilik." },
+    { "q": "Devletçilik hangi tür bir ilkedir?", "o": ["Siyasi", "Ekonomik"], "c": 1, "n": "Adında 'devlet' geçse de ekonomik ilkedir; ekonomi yoksa ilk elenir." },
+    { "q": "İnkılapçılığın kısayol şifresi hangi sözcüktür?", "o": ["'yerine'", "'birlik'"], "c": 0, "n": "'X yerine Y' kalıbı kurulabiliyorsa inkılapçılık." },
+    { "q": "'Beynelmilel erkamın kabulü' hangi inkılabı ifade eder?", "o": ["Uluslararası rakamların kabulü", "Latin alfabesinin kabulü"], "c": 0, "n": "Beynelmilel erkam = uluslararası rakamlar; 'yerine' kalıbıyla inkılapçılığa girer." },
+    { "q": "Kapitülasyonların kaldırılması hangi ilkeye girer?", "o": ["Devletçilik", "Milliyetçilik"], "c": 1, "n": "Ekonomik bağımsızlık sağlar; bağımsızlık = milli vurgu → milliyetçilik." },
+    { "q": "'Sosyal devlet anlayışı' hangi ilkeye girer?", "o": ["Halkçılık", "Devletçilik"], "c": 0, "n": "Devletin halka ücretsiz hizmet sunması halkın yararınadır → halkçılık." },
+    { "q": "'Kanun üstünlüğü' hangi ilkeye girer?", "o": ["Halkçılık", "Cumhuriyetçilik"], "c": 0, "n": "Herkesin kanun altında eşit olması = eşit/ayrıcalıksız toplum → halkçılık." },
+    { "q": "'Akıl ve bilim' vurgusu hangi ilkeye götürür?", "o": ["Laiklik", "İnkılapçılık"], "c": 0, "n": "Dinin yerine akıl-bilimi öne koyma → laiklik." },
+    { "q": "Türk Dil Kurumu'nun kurulması hangi ilkeye girer?", "o": ["Milliyetçilik", "İnkılapçılık"], "c": 0, "n": "'Türk' vurgusu taşır → milliyetçilik." },
+    { "q": "6 Atatürk ilkesi 1937'de nereye eklendi?", "o": ["CHP parti programına", "1924 Anayasası'na"], "c": 1, "n": "1931 → parti programı; 1937 → 1924 Anayasası." },
+    { "q": "Teşvik-i Sanayi Kanunu'nun uygulanamama nedeni hangisidir?", "o": ["1929 Dünya Ekonomik Krizi", "1930 Merkez Bankası"], "c": 0, "n": "Sermaye/kalifiye eleman eksikliği ve 1929 krizi nedeniyle uygulanamadı." },
+    { "q": "Aşar vergisinin kaldırılması hangi ilkeye girer?", "o": ["Halkçılık", "Devletçilik"], "c": 0, "n": "Çiftçinin ağır vergi yükünü kaldırdı, halkın yararına → halkçılık." },
+    { "q": "Millet Mektepleri hangi ilkeye girer?", "o": ["Halkçılık", "Cumhuriyetçilik"], "c": 0, "n": "1928 alfabesini halka öğretip okuryazarlığı yaydı → halkçılık." },
+    { "q": "Şapka/Kılık-Kıyafet Kanunu hangi ilkeye girer?", "o": ["Halkçılık", "Laiklik"], "c": 0, "n": "Halkın modern görünüme kavuşması, halkın yararına → halkçılık." },
+    { "q": "Halifeliğin kaldırılması hangisine GİRMEZ demek yanlış olur?", "o": ["Laiklik", "Devletçilik"], "c": 1, "n": "Halifeliğin kaldırılması laiklik/cumhuriyetçilik/milliyetçiliğe girer; devletçilikle ilgisi yoktur." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdaki ifadelerden hangisi bir soruda görülürse doğrudan cumhuriyetçilik ilkesine gidilir?",
+      "o": ["Akıl ve bilim", "Ulusal egemenlik", "Muasır medeniyet", "Sosyal devlet", "Devletin fabrika kurması"],
+      "c": 1,
+      "e": "Ulusal egemenlik ve milli irade cumhuriyetçiliğin anahtar sözcükleridir."
+    },
+    {
+      "q": "'Ulusal bağımsızlık' vurgusu taşıyan bir düzenleme aşağıdaki ilkelerden hangisine dahil edilir?",
+      "o": ["Cumhuriyetçilik", "Halkçılık", "Milliyetçilik", "Laiklik", "Devletçilik"],
+      "c": 2,
+      "e": "Bağımsızlık milli vurgu içerir; ulusal egemenlikten farklı olarak milliyetçiliğe girer."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi devletçilik ilkesiyle ilişkilendirilemez?",
+      "o": ["Merkez Bankası'nın kurulması", "Sümerbank'ın kurulması", "Beş Yıllık Sanayi Planı", "Kamu İktisadi Teşekkülleri", "Tevhid-i Tedrisat Kanunu"],
+      "c": 4,
+      "e": "Tevhid-i Tedrisat halkçılık, milliyetçilik ve laikliğe girer; ekonomik içerik taşımaz."
+    },
+    {
+      "q": "Bir soruda ekonomi, para ya da sermayeyle ilgili hiçbir ifade yoksa ilk elenmesi gereken ilke hangisidir?",
+      "o": ["Cumhuriyetçilik", "Halkçılık", "Milliyetçilik", "Devletçilik", "İnkılapçılık"],
+      "c": 3,
+      "e": "Devletçilik ekonomik bir ilkedir; ekonomi yoksa devreye girmez."
+    },
+    {
+      "q": "Kabotaj Kanunu ile ilgili olarak,\nI. Denizcilikle ilgili bir kanundur.\nII. Çok sayıda Türk vurgusu taşıdığı için milliyetçiliğe girer.\nIII. 1926 tarihli olduğu için devletçiliğe alınmaz.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız II", "I ve II", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Üç yargı da doğrudur; kanun denizcilikle ilgilidir, Türk vurgusuyla milliyetçiliğe girer ve 1930 öncesi olduğu için devletçilik sayılmaz."
+    },
+    {
+      "q": "Aşağıdaki inkılaplardan hangisi laiklik yolunda atılan ilk adım olarak kabul edilir?",
+      "o": ["Halifeliğin kaldırılması", "Saltanatın kaldırılması", "Medeni Kanun'un kabulü", "Tekkelerin kapatılması", "Şer'iyye ve Evkaf Vekaleti'nin kaldırılması"],
+      "c": 1,
+      "e": "Saltanatın kaldırılması (1922) ilk adım, halifeliğin kaldırılması ise en önemli adımdır."
+    },
+    {
+      "q": "Tevhid-i Tedrisat Kanunu aşağıdaki ilkelerden hangisiyle ilişkilendirilemez?",
+      "o": ["Halkçılık", "Milliyetçilik", "Laiklik", "Cumhuriyetçilik", "İnkılapçılık"],
+      "c": 3,
+      "e": "Kanun eğitimde fırsat eşitliği (halkçılık), milli eğitim (milliyetçilik) ve eğitimin dinden ayrılması (laiklik) ile ilişkilidir; cumhuriyetçilikle doğrudan bağı kurulmaz."
+    },
+    {
+      "q": "6 Atatürk ilkesinin CHP parti programına ve anayasaya girişiyle ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "o": ["1931 anayasaya, 1937 parti programına", "1931 parti programına, 1937 anayasaya", "İkisi de 1924'te anayasaya", "İkisi de 1937'de parti programına", "1923 parti programına, 1931 anayasaya"],
+      "c": 1,
+      "e": "İlkeler 1931'de CHP parti programına, 1937'de 1924 Anayasası'na eklenmiştir."
+    },
+    {
+      "q": "Medeni Kanun'un hem halkçılık hem de laiklik ilkesine dahil edilmesinin nedeni aşağıdakilerden hangisidir?",
+      "o": ["Ekonomiyi düzenlemesi ve banka kurması", "Kadına haklar tanıması ve İslam hukukuna dayalı Mecelle'yi kaldırması", "Türkçe soyad zorunluluğu getirmesi", "Eğitimi birleştirmesi", "Takvimi değiştirmesi"],
+      "c": 1,
+      "e": "Kadın hakları halkçılığa, Mecelle'nin kaldırılması laikliğe girer."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi cumhuriyetçilik ilkesine dahil edilemez?",
+      "o": ["Seçmen yaşının düşürülmesi", "Tek dereceli seçim sistemi", "Vergi verme zorunluluğunun kaldırılması", "Aşar vergisinin kaldırılması", "Erkan-ı Harbiye Vekaleti'nin kaldırılması"],
+      "c": 3,
+      "e": "Aşar vergisinin kaldırılması halkçılığa girer; diğerleri oy/rejim ilişkisiyle cumhuriyetçiliğe girer."
+    },
+    {
+      "q": "Şer'iyye ve Evkaf Vekaleti'nin kaldırılmasıyla ilgili olarak,\nI. Din işleri Diyanet İşleri Başkanlığı'na verilmiştir.\nII. Vakıf işleri Vakıflar Genel Müdürlüğü'ne verilmiştir.\nIII. Din ve devlet işleri ayrıldığı için laikliğe girer.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız III", "I ve II", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Üç yargı da doğrudur; vekaletin kaldırılması iki kuruma ayrılarak din-devlet işlerini ayırmıştır."
+    },
+    {
+      "q": "'X yerine Y' kalıbıyla ifade edilebilen inkılaplar öncelikle hangi ilkeyle ilişkilendirilir?",
+      "o": ["Halkçılık", "Milliyetçilik", "Laiklik", "İnkılapçılık", "Devletçilik"],
+      "c": 3,
+      "e": "'Yerine' sözcüğü inkılapçılığın kısayol şifresidir (ör. Rumi takvim yerine Miladi takvim)."
+    },
+    {
+      "q": "Aşağıdaki inkılaplardan hangisi milliyetçilik ilkesine örnek gösterilemez?",
+      "o": ["Türk Dil Kurumu'nun kurulması", "Türk Parasını Koruma Kanunu", "Kabotaj Kanunu", "Misak-ı İktisadi kararları", "Merkez Bankası'nın kurulması"],
+      "c": 4,
+      "e": "Merkez Bankası (1930) devletçiliğe girer; diğerleri Türk/milli vurgusuyla milliyetçiliğe girer."
+    },
+    {
+      "q": "Devletçilik ilkesinin uygulanmaya başlanmasıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+      "o": ["1923'ten itibaren kabul edilir", "Yalnızca 1937'den sonra geçerlidir", "1930'dan sonra uygulanmış kabul edilir", "İzmir İktisat Kongresi'yle başlar", "Teşvik-i Sanayi Kanunu'yla başlar"],
+      "c": 2,
+      "e": "ÖSYM kabulüne göre devletçilik 1930'dan sonra uygulanmıştır; 1926 şeker fabrikaları buna dahil edilmez."
+    },
+    {
+      "q": "Halifeliğin kaldırılmasının aynı anda birden çok ilkeye girebilmesine ilişkin,\nI. Din-devlet ayrımının en önemli adımı olduğu için laikliğe girer.\nII. Cumhuriyeti koruduğu için cumhuriyetçiliğe girer.\nIII. Ümmet anlayışından milli devlete geçişi sağladığı için milliyetçiliğe girer.\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "I ve II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "Halifeliğin kaldırılması sorunun gelişine göre üç ilkeye de dahil edilebilir."
+    },
+    {
+      "q": "Bir soruda 'sosyal devlet anlayışı, ayrıcalıksız toplum ve kanun üstünlüğü' ifadeleri geçmektedir. Bu soru hangi ilkeye yönlendirir?",
+      "o": ["Cumhuriyetçilik", "Halkçılık", "Milliyetçilik", "Laiklik", "İnkılapçılık"],
+      "c": 1,
+      "e": "Bu ifadelerin tamamı halkın yararına ve eşitliğe dayanır; halkçılığın anahtar sözcükleridir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi laiklik ilkesine dahil edilemez?",
+      "o": ["Tekke, zaviye ve türbelerin kapatılması", "'Devletin dini İslam'dır' maddesinin çıkarılması", "Milletvekili yemininin değiştirilmesi", "Halifeliğin kaldırılması", "Kabotaj Kanunu'nun çıkarılması"],
+      "c": 4,
+      "e": "Kabotaj Kanunu Türk vurgusuyla milliyetçiliğe girer; diğerleri din-devlet ayrımıyla laikliğe girer."
+    },
+    {
+      "q": "Erkan-ı Harbiye Vekaleti'nin kaldırılmasının cumhuriyetçilik ilkesine dahil edilmesinin nedeni aşağıdakilerden hangisidir?",
+      "o": ["Ekonomiyi devlet eline vermesi", "Ordunun siyasetten ayrılmasını sağlaması", "Eğitimi birleştirmesi", "Kadına haklar tanıması", "Takvimi değiştirmesi"],
+      "c": 1,
+      "e": "Yerine Genelkurmay kuruldu; ordu siyasetten ayrılarak cumhuriyet rejiminin daha iyi işlemesi sağlandı."
+    },
+    {
+      "q": "Misak-ı İktisadi kararlarıyla ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+      "o": ["1923 İzmir İktisat Kongresi'nde alınmıştır", "Diğer adı milli ekonomi kararlarıdır", "Kazım Karabekir liderliğinde alınmıştır", "Milliyetçilik ilkesine girer", "Devletçilik ilkesine örnektir"],
+      "c": 4,
+      "e": "1923 tarihli ve 'milli ekonomi' nitelikli oldukları için milliyetçiliğe girer; devletçilik 1930'dan sonradır."
+    },
+    {
+      "q": "Aşağıdaki inkılaplardan hangisi hem halkçılık hem de milliyetçilik ilkesine dahil edilir?",
+      "o": ["Medeni Kanun", "Soyadı Kanunu", "Merkez Bankası'nın kurulması", "Halifeliğin kaldırılması", "Metrik sisteme geçiş"],
+      "c": 1,
+      "e": "Soyadı Kanunu işleri kolaylaştırmasıyla halkçılığa, Türkçe soyad zorunluluğuyla milliyetçiliğe girer."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "İnkılap → İlke",
+      "p": [
+        ["TBMM'nin açılması", "Cumhuriyetçilik"],
+        ["Aşar vergisinin kaldırılması", "Halkçılık"],
+        ["Kabotaj Kanunu", "Milliyetçilik"],
+        ["Tekkelerin kapatılması", "Laiklik"],
+        ["Sümerbank'ın kurulması", "Devletçilik"],
+        ["Metrik sisteme geçiş", "İnkılapçılık"],
+        ["Kapitülasyonların kaldırılması", "Milliyetçilik"]
+      ]
+    },
+    {
+      "ad": "Anahtar sözcük → İlke",
+      "p": [
+        ["Ulusal egemenlik", "Cumhuriyetçilik"],
+        ["Ulusal bağımsızlık", "Milliyetçilik"],
+        ["Sosyal devlet", "Halkçılık"],
+        ["Akıl ve bilim", "Laiklik"],
+        ["Sanayi planı / banka", "Devletçilik"],
+        ["Muasır medeniyet", "İnkılapçılık"],
+        ["Kanun üstünlüğü", "Halkçılık"]
+      ]
+    },
+    {
+      "ad": "Kaldırılan kurum → Yerine kurulan",
+      "p": [
+        ["Erkan-ı Harbiye Vekaleti", "Genelkurmay Başkanlığı"],
+        ["Şer'iyye ve Evkaf Vekaleti (din)", "Diyanet İşleri Başkanlığı"],
+        ["Şer'iyye ve Evkaf Vekaleti (vakıf)", "Vakıflar Genel Müdürlüğü"],
+        ["Türk Ocakları", "Halkevleri"],
+        ["Mecelle", "Modern Medeni Kanun"],
+        ["Rumi takvim", "Miladi takvim"]
+      ]
+    },
+    {
+      "ad": "İnkılap / gelişme → Yıl",
+      "p": [
+        ["Saltanatın kaldırılması", "1922"],
+        ["Teşvik-i Sanayi Kanunu", "1927"],
+        ["Merkez Bankası", "1930"],
+        ["Halkevleri", "1932"],
+        ["Sümerbank", "1933"],
+        ["Soyadı Kanunu", "1934"],
+        ["İlkelerin anayasaya girişi", "1937"]
+      ]
+    },
+    {
+      "ad": "İlke → Tanım / şifre",
+      "p": [
+        ["Cumhuriyetçilik", "Rejimin iyi işlemesini sağlayan her şey"],
+        ["Halkçılık", "Halkın yararına olan her şey"],
+        ["Milliyetçilik", "Kültür birlikteliği + Türk/milli vurgusu"],
+        ["Laiklik", "Din ve devlet işlerinin ayrılması"],
+        ["Devletçilik", "Devletin ekonomiye müdahalesi (1930 sonrası)"],
+        ["İnkılapçılık", "'Yerine' sözcüğü / çağdaşlaşma"]
+      ]
+    }
+  ]
+}

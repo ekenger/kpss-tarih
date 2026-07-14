@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "gun": 22,
+    "baslik": "İki Küresel Savaş Arasında Dünya (Çağdaş Türk ve Dünya Tarihi)",
+    "ozet": "I. Dünya Savaşı sonrası dünya: SSCB'nin kuruluşu, Basmacı Harekatı, Ortadoğu mandaları, Meiji, 1929 Ekonomik Krizi, barış çabaları ve İtalya-Almanya-İspanya'da totaliter rejimler.",
+    "tahminiSoru": "KPSS'de ~3-5 soru (Çağdaş bölümünün en yoğun konusu)",
+    "duzeltmeler": [
+      "Tactiq: 'Nevaya Ekonomiya Çeskaya Politics' → NEP (Yeni Ekonomi Politikası).",
+      "Tactiq: 'Meyci/Mej/Major restorasyonu' → Meiji Restorasyonu; 'Mutsihito/Musuito' → Mutsuhito (Meiji İmparatoru).",
+      "Tactiq: 'Pyes/Syes Pikot' → Sykes-Picot Antlaşması; 'Mekmahun/Mmaun' → Hüseyin-McMahon Anlaşması.",
+      "Tactiq: 'Devs Planı' → Dawes Planı; 'Weymar/Veymar/ve imar' → Weimar Anayasası.",
+      "Tactiq: 'Marenostrum/Marostrum' → Mare Nostrum; 'Lebensnaom/Lebernav' → Lebensraum (Hayat Sahası).",
+      "Tactiq: 'Guarnik' → Guernica; 'John Stanbeck/Stenbck' → John Steinbeck.",
+      "Tactiq: 'Lokarno' → Locarno; 'Briant Kellock' → Briand-Kellogg (Kellogg-Briand) Paktı; 'Litwino/Litvino' → Litvinov Protokolü; 'Trochki' → Troçki.",
+      "Enver Paşa'nın öldüğü yer transkriptte 'Türkmençay Savaşı' denmiş; Türkmençay bir antlaşmadır (1828), emin olunamadığı için savaşın adı denemeye konmadı.",
+      "Transkriptte I./II. Dünya Savaşı numaraları yer yer karışmış; 1929 krizinin II. Dünya Savaşı'na zemin hazırlaması doğru numarayla verildi."
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "I. Dünya Savaşı: Bloklar ve Antlaşmalar",
+      "i": [
+        { "k": "İttifak = OABB", "m": "İttifak Bloğu: Osmanlı–Almanya–Avusturya/Macaristan–Bulgaristan; geri kalan her devlet İtilaf. Bulgaristan kara bağlantısını sağlar.", "s": "z" },
+        { "k": "Son Vites Obama", "m": "Savaş sonrası antlaşmalar: Sevr(Osmanlı)–Nöyyi(Bulgaristan)–Versay(Almanya)–Triyanon(Macaristan)–Saint-Germain(Avusturya).", "s": "z" },
+        { "k": "Genel vs Özel neden", "m": "1-2 devleti ilgilendiren neden ÖZEL (panslavizm, Alsas-Loren, sıcak deniz); tüm devletleri kapsayan GENEL (sömürgecilik, silahlanma, milliyetçilik, hammadde-pazar).", "s": "z" },
+        { "k": "İzmir: İtalya → Yunan", "m": "Gizli anlaşmayla İtalya'ya verilen İzmir, Paris'te Yunanistan'a verildi = İtilaf'ın ilk görüş ayrılığı (İtalya küstü).", "s": "z" },
+        { "k": "San Remo", "m": "Osmanlı toprakları en kıymetli olduğu için Paris'te değil San Remo Konferansı'nda paylaşıldı. Manda-himaye ve Milletler Cemiyeti ise Paris'te çıktı.", "s": "z" }
+      ]
+    },
+    {
+      "b": "SSCB / Bolşevik Devrimi",
+      "i": [
+        { "k": "Barış-Ekmek-Toprak", "m": "Lenin'in / Bolşeviklerin sloganı; ilk vaat barıştır.", "s": "z" },
+        { "k": "Bolşevik vs Menşevik", "m": "Bolşevik: Çarlığı yıkıp sosyalizm/SSCB (Lenin). Menşevik: yıkıp batı tarzı demokrasi ister; etkisiz kalıp dağıldı.", "s": "z" },
+        { "k": "Beyaz vs Kızıl Ordu", "m": "Beyaz Ordu = Çarlık/II. Nikola. Kızıl Ordu = Bolşevik, Troçki liderliğinde.", "s": "z" },
+        { "k": "Devrim = 4 ad", "m": "Bolşevik Devrimi = Bolşevik İhtilali = Ekim Devrimi = Kızıl Devrim. St. Petersburg'da kadın işçi greviyle başladı; 1917'de SSCB kuruldu.", "s": "z" },
+        { "k": "Duma", "m": "Rusların milli meclisi.", "s": "z" },
+        { "k": "Çeka", "m": "SSCB'nin istihbarat/güvenlik teşkilatı (Almanya'daki Gestapo'nun karşılığı).", "s": "z" },
+        { "k": "Yar yanağından gayrı...", "m": "Komünizm: özel mülkiyet yok, her şey topluma ait (dışa kapalı ekonomi).", "s": "e" }
+      ]
+    },
+    {
+      "b": "Lenin vs Stalin",
+      "i": [
+        { "k": "NEP", "m": "Lenin'in ekonomi politikası (Yeni Ekonomi Politikası): zorla tarım alımına son, köylü vergisini verip ürününü pazarda satar (halkçı).", "s": "z" },
+        { "k": "Kolektifleştirme", "m": "Stalin'in ekonomi politikası: toprakları birleştirip büyük çiftlikler; köylüler öldürüldü, tarımsal üretim düştü.", "s": "z" },
+        { "k": "Kolhoz", "m": "Kolektif devlet çiftliklerine verilen ad.", "s": "z" },
+        { "k": "Koba", "m": "Stalin'in lakabı; II. Dünya Savaşı'nda SSCB lideri.", "s": "z" },
+        { "k": "Stalin'in Tavuğu", "m": "Tüyü yolunan tavuğun sonra el yalar hale gelmesi = Stalin'in halkları kendine bağımlı kılma yöntemi.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Basmacı Harekatı",
+      "i": [
+        { "k": "Basmacı = baskıncı", "m": "'Baskın yapan, hücum eden' demek; Türkistan'ı Rus işgalinden kurtarmak için başlatıldı, Hokant'ta doğdu.", "s": "z" },
+        { "k": "Korbaşı", "m": "Basmacı liderlerine verilen unvan; ilk lider Korbaşı Ergaş, sonra Enver Paşa.", "s": "z" },
+        { "k": "Türkistan Türklerindir", "m": "Basmacı sloganı: 'Türkistan Türklerindir, Çar ve Ruslar def olun.'", "s": "z" },
+        { "k": "Enver Paşa", "m": "Savaş sonrası kaçtı, Basmacı'nın en önemli korbaşılarından oldu, çatışmada şehit düştü; mezarı Hürriyet-i Ebediye Tepesi (İttihatçı Mezarlığı).", "s": "z" },
+        { "k": "Basmacı = başarısız", "m": "Rus taarruzu + Enver Paşa'nın ölümü + korbaşıların çift başlılık kavgası + silah-teçhizat yokluğu.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Rusya Türkleri – Önemli Kişiler",
+      "i": [
+        { "k": "Zeki Velidi Togan", "m": "Duma'da Ufa temsilcisi + Türkistan Milli Birliği başkanı + Basmacı'da silahla savaştı + İÜ Umumi Türk Tarih Kürsüsü'nü kurdu. Muhtemel soru adayı.", "s": "z" },
+        { "k": "Yusuf Akçura", "m": "'Üç Tarzı Siyaset' eseri (Osmanlıcılık-İslamcılık-Türkçülük); Türk Tarih Kurumu kurucularından. (2018 orta öğretim KPSS)", "s": "z" },
+        { "k": "İsmail Gaspralı", "m": "Kırım Tatarı; 'Dilde, fikirde, işte birlik' sloganı; ortak edebi Türk dili amaçladı.", "s": "z" },
+        { "k": "Mehmet Emin Resulzade", "m": "1918 Azerbaycan Halk Cumhuriyeti'ni kurdu; tanıyan ilk devlet OSMANLI. (Türk rejimine geçen ilk devlet Azerbaycan)", "s": "z" },
+        { "k": "Şeyh Şamil", "m": "Rusların KAFKASLARI işgaline karşı savaştı; 'Kafkas Kartalı'; hareketine biz gazavat, Ruslar müridizm der.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Ortadoğu / Manda Yönetimleri",
+      "i": [
+        { "k": "Sykes-Picot", "m": "İngiltere-Fransa'nın Osmanlı Ortadoğu topraklarını paylaştığı gizli anlaşma; bugünkü Ortadoğu kaosunun kökeni.", "s": "z" },
+        { "k": "İngiltere: petrol + din", "m": "Irak, Mısır, Arabistan, Filistin, Ürdün, Kuveyt, Yemen (petrol; Kudüs, Mekke-Medine, Süveyş).", "s": "z" },
+        { "k": "McMahon Anlaşması", "m": "Şerif Hüseyin'in İngiliz ajanı Lawrence ile yaptığı gizli anlaşma; milli Arap devleti vaadi.", "s": "z" },
+        { "k": "Abdülaziz ibn Suud", "m": "Necd Emiri; kendini Arap kralı ilan eden Şerif Hüseyin'i yendi → Suudi Arabistan kuruldu (adı Suud'dan).", "s": "z" },
+        { "k": "Aramco", "m": "ABD'nin Suudi Arabistan'daki etkinliğini artırmak için kurduğu petrol şirketi (hâlâ faal).", "s": "z" },
+        { "k": "Setif Katliamı", "m": "Fransa'nın Cezayir'de ~45.000 kişiyi öldürdüğü katliam.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Meiji ve 1929 Krizi",
+      "i": [
+        { "k": "Meiji Restorasyonu", "m": "Modern Japonya'yı doğuran reform dönemi; Mutsuhito, Daimyo ve Şogunları yıkıp siyasi birliği sağladı.", "s": "z" },
+        { "k": "Meiji ≠ alfabe", "m": "Atatürk inkılaplarına benzer reformlar var AMA alfabe değişmedi (bizde 1928 Latin harfleri). Sınavda kritik ayrım.", "s": "z" },
+        { "k": "Kara Perşembe", "m": "1929 Dünya Ekonomik Krizi = Büyük Buhran; New York (Wall Street) borsası çöktü.", "s": "z" },
+        { "k": "Kükreyen 20'ler", "m": "1920-1929 ABD'de paradan (faizden) para kazanma dönemi; krizin dolaylı nedeni.", "s": "z" },
+        { "k": "Gazap Üzümleri", "m": "John Steinbeck'in 1929 krizini anlatan eseri. Dikkat: 'Fareler ve İnsanlar' TUZAK şıkkıdır.", "s": "z" },
+        { "k": "Clearing", "m": "'Malımı alanın malını alırım' = modern takas sistemi.", "s": "z" },
+        { "k": "Hoover Moratoryumu", "m": "Borçların taksitlendirilmesi (Türkiye'nin Lozan borçları da bununla ertelendi).", "s": "z" },
+        { "k": "New Deal", "m": "Roosevelt'in kriz sonrası rahatlama-iyileşme-reform politikası (başarısız Hoover'ın yerine geldi).", "s": "z" }
+      ]
+    },
+    {
+      "b": "1929 Krizinin Türkiye'ye Etkileri",
+      "i": [
+        { "k": "Devletçilik", "m": "1927 Teşvik-i Sanayi Kanunu uygulanamayınca devletçilik ilkesi hayata geçirildi.", "s": "z" },
+        { "k": "Merkez Bankası (1930)", "m": "Türk parasının değerini korumak için kuruldu.", "s": "z" },
+        { "k": "Milli İktisat ve Tasarruf Cemiyeti", "m": "Kazım Özalp kurdu (Atatürk döneminin en uzun süreli meclis başkanı); 'gereksizse söndür' sloganı.", "s": "z" },
+        { "k": "Yerli Malı Haftası", "m": "1929 krizinin etkisiyle kutlanmaya başlandı (özendirme III. Selim'de vardı ama hafta ilanı bu dönemde).", "s": "z" },
+        { "k": "Türk Ofis (1934)", "m": "Kontrol, teftiş, piyasa araştırması, uluslararası ticaret anlaşmaları. Muhtemel soru adayı.", "s": "z" }
+      ]
+    },
+    {
+      "b": "İki Savaş Arası Barış Çabaları",
+      "i": [
+        { "k": "Milletler Cemiyeti", "m": "Bahsedilen ilk yer Wilson İlkeleri; kuruldu Paris Barış Konferansı; merkez CENEVRE; TR 1932 İSPANYA daveti; ilk temsilci Cemal Hüsnü Taray.", "s": "z" },
+        { "k": "Locarno Paktı (1925)", "m": "Almanya'yı dünya siyasetine döndürdü (Fransa istedi, güvenliğini sağladı); Almanya-Fransa komşuları katıldı, TR KATILMADI.", "s": "z" },
+        { "k": "Briand-Kellogg (1928)", "m": "ABD-Fransa; savaşı ulusal politika olmaktan çıkardı, savunma dışı savaşı suç saydı; TR KATILDI.", "s": "z" },
+        { "k": "Litvinov Protokolü", "m": "SSCB'nin Briand-Kellogg'a uyumunu gösterir; sonradan Varşova Paktı'nın temeli oldu.", "s": "z" }
+      ]
+    },
+    {
+      "b": "İki Savaş Arası Bilim-Sanat",
+      "i": [
+        { "k": "Konuşan Basın", "m": "Radyo; dünyada ilk radyo yayını 1920 ABD.", "s": "z" },
+        { "k": "İlk TV yayını", "m": "1936 İngiltere. (Radyo 1920 ABD ile karıştırılır)", "s": "z" },
+        { "k": "İzafiyet Teorisi", "m": "Albert Einstein.", "s": "z" },
+        { "k": "Penisilin", "m": "Alexander Fleming (çıkmış soru).", "s": "z" },
+        { "k": "BCG Aşısı", "m": "Tüberküloza (verem) karşı bulundu.", "s": "z" },
+        { "k": "İnsülin", "m": "Şeker hastalığında kullanılır; ilk 1922 ABD.", "s": "z" },
+        { "k": "Sürrealizm", "m": "Gerçeküstücülük; öncüsü Salvador Dali (eriyen saatler).", "s": "z" },
+        { "k": "Kübizm / Guernica", "m": "Kübizm nesneleri geometrik yansıtır; öncüsü Pablo Picasso; Guernica İspanya İç Savaşı'nı anlatır.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Totaliter Rejimler",
+      "i": [
+        { "k": "Faşizm (İtalya)", "m": "Aşırı çarpıtılmış ulusçuluğa dayanan baskı düzeni (MEB tanımı).", "s": "z" },
+        { "k": "Benito Mussolini = Duçe", "m": "İtalya'da faşizmi kurdu; lakabı Duçe; Skala Nutku'nda savaşı övdü ('barış ne mümkün ne gerekli').", "s": "z" },
+        { "k": "Kara Gömlekliler", "m": "Mussolini'yi Napoli'den Roma'ya yürüyüp iktidara taşıyan faşistler.", "s": "z" },
+        { "k": "Mare Nostrum", "m": "'Bizim Deniz' – Akdeniz'e kıyısı olan her yer İtalya'nındır. M. Kemal: 'Söyleyin o kel kafalıya çizmeyi ayağıma giydirmesin.'", "s": "z" },
+        { "k": "Nazizm (Almanya)", "m": "Alman ırkının üstünlüğünü öne süren faşist öğreti (MEB tanımı).", "s": "z" },
+        { "k": "Adolf Hitler = Führer", "m": "Weimar demokrasisiyle başa geçti; 1933 başbakan, sonra diktatör; lakabı Führer (başkan).", "s": "z" },
+        { "k": "Kahverengi Gömlekliler", "m": "Nazizmi destekleyen Hitler yanlıları.", "s": "z" },
+        { "k": "Lebensraum (Hayat Sahası)", "m": "Üstün Alman ırkının dünyanın en iyi yerlerinde yaşaması; sınırı belirsiz → Hitler'i tehlikeli kılan politika.", "s": "z" },
+        { "k": "Kristal Gece", "m": "Almanya'da Yahudi karşıtlığının doruğa çıkıp katliamların başladığı gece.", "s": "z" },
+        { "k": "Gestapo / SS", "m": "Almanların gizli polis teşkilatı.", "s": "z" },
+        { "k": "Franco (İspanya)", "m": "Almanya-İtalya destekli milliyetçilerin lideri; iç savaşı kazanıp faşizmi kurdu.", "s": "z" },
+        { "k": "Dawes Planı", "m": "Almanya'nın borçlarını ödemesi için ABD'nin hazırladığı plan (bizde Hoover Moratoryumu).", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "Panslavizm genel neden mi özel neden mi?", "a": "Özel neden — yalnız Rusya'nın politikasıdır. Genel nedenler tüm devletleri kapsar (sömürgecilik, silahlanma, milliyetçilik)." },
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "Alsas-Loren sorunu neden özel nedendir?", "a": "Yalnız Fransa ile Almanya arasındaki kömür havzası sorunudur; iki devleti ilgilendirdiği için özeldir." },
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "İttifak bloğunda hangi 4 devlet vardı?", "a": "Osmanlı, Almanya, Avusturya-Macaristan, Bulgaristan. Geri kalan her devlet İtilaf'tır. Bulgaristan kara bağlantısını sağlardı." },
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "Savaşta taraf değiştiren devlet hangisidir?", "a": "İtalya; Londra Antlaşması'yla İttifak'tan İtilaf'a geçti." },
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "Uçak, tank ve kimyasal silah ilk kez hangi savaşlarda kullanıldı?", "a": "Uçak ilk kez Trablusgarp Savaşı'nda (M. Kemal sol gözünden yaralandı). Tank ve kimyasal silah ilk kez I. Dünya Savaşı'nda." },
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "Sömürgeciliğin yerini ne aldı ve nerede?", "a": "Wilson İlkeleri sömürgeciliği yasaklayınca yerini manda-himaye aldı; bu kavram Paris Barış Konferansı'nda ortaya çıktı." },
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "Osmanlı toprakları hangi konferansta paylaşıldı?", "a": "Paris'te değil, San Remo Konferansı'nda; toprakları en kıymetli görüldüğü için ayrı ele alındı." },
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "İtilaf devletleri arasındaki ilk görüş ayrılığı nedir?", "a": "Gizli anlaşmayla İtalya'ya verilen İzmir'in Paris'te Yunanistan'a bırakılması; İtalya küstü." },
+    { "c": "I. Dünya Savaşı Tekrarı", "o": "İlk imzalanan barış antlaşması hangisidir, bu ne gösterir?", "a": "Almanya ile Versay Antlaşması; Almanya'dan ne kadar korkulduğunu gösterir." },
+
+    { "c": "SSCB ve Devrim", "o": "Bolşevik Devrimi'nin diğer adları nelerdir?", "a": "Bolşevik İhtilali, Ekim Devrimi, Kızıl Devrim. St. Petersburg'da kadın işçi greviyle başladı, 1917'de SSCB kuruldu." },
+    { "c": "SSCB ve Devrim", "o": "Bolşevik ile Menşevik arasındaki fark nedir?", "a": "Bolşevik: Çarlığı yıkıp sosyalizm/SSCB (Lenin). Menşevik: yıkıp batı tarzı demokrasi ister; etkisiz kalıp dağıldı." },
+    { "c": "SSCB ve Devrim", "o": "Beyaz Ordu ve Kızıl Ordu kimindir?", "a": "Beyaz Ordu = Çarlık Rusya (II. Nikola). Kızıl Ordu = Bolşevikler, Troçki liderliğinde." },
+    { "c": "SSCB ve Devrim", "o": "Lenin'in / Bolşeviklerin sloganı nedir?", "a": "'Barış, ekmek ve toprak.' İlk vaat barıştır. SSCB Brest-Litovsk ile savaştan çekildi." },
+    { "c": "SSCB ve Devrim", "o": "NEP nedir ve kimindir?", "a": "Lenin'in Yeni Ekonomi Politikası: zorla tarım alımına son; köylü vergisini verip ürününü pazarda satar. Halkçı bir politika." },
+    { "c": "SSCB ve Devrim", "o": "Çeka nedir?", "a": "SSCB'nin istihbarat ve güvenlik teşkilatı; Almanya'daki Gestapo'nun karşılığıdır." },
+    { "c": "SSCB ve Devrim", "o": "Duma nedir?", "a": "Rusların milli meclisidir." },
+    { "c": "SSCB ve Devrim", "o": "MEB'e göre komünizmin tanımı nedir?", "a": "Özel mülkiyetin olmadığı, her şeyin topluma ait olduğu düzen. Dışa kapalı ekonomidir." },
+
+    { "c": "Stalin ve Türkistan", "o": "Kolektifleştirme nedir ve kimindir?", "a": "Stalin'in ekonomi politikası: toprakları birleştirip büyük çiftlikler (kolhoz) kurma; köylüler öldürüldü, tarımsal üretim düştü." },
+    { "c": "Stalin ve Türkistan", "o": "Kolhoz nedir?", "a": "Kolektif devlet çiftliklerine verilen addır." },
+    { "c": "Stalin ve Türkistan", "o": "Stalin'in lakabı nedir?", "a": "Koba. II. Dünya Savaşı'nda SSCB'nin lideridir." },
+    { "c": "Stalin ve Türkistan", "o": "SSCB Türklere karşı hangi asimilasyon politikalarını uyguladı?", "a": "Cami-mescit-medreseleri kapattı, imamları Sibirya'ya sürdü, halkı Türkçe/Türklükten uzaklaştırdı, Türkleri Kazak-Özbek-Kırgız diye ayrıştırdı." },
+    { "c": "Stalin ve Türkistan", "o": "Basmacı Harekatı nedir?", "a": "'Basmacı' baskın yapan demek; Türkistan'ı Rus işgalinden kurtarmak için başlatıldı. Hokant'ta doğdu." },
+    { "c": "Stalin ve Türkistan", "o": "Basmacı liderlerine verilen unvan ve ilk lider kimdir?", "a": "Unvan: korbaşı. İlk lider Korbaşı Ergaş; Enver Paşa da önemli korbaşılardan biri oldu." },
+    { "c": "Stalin ve Türkistan", "o": "Basmacı sloganı nedir?", "a": "'Türkistan Türklerindir, Çar ve Ruslar def olun.'" },
+    { "c": "Stalin ve Türkistan", "o": "Enver Paşa Basmacı Harekatı'nda ne yaptı, mezarı nerede?", "a": "En önemli korbaşılardan biri oldu, çatışmada şehit düştü. Mezarı Hürriyet-i Ebediye Tepesi'nde (İttihatçı Mezarlığı)." },
+    { "c": "Stalin ve Türkistan", "o": "Basmacı Harekatı neden başarısız oldu?", "a": "Rus taarruzu, Enver Paşa'nın ölümü, korbaşıların çift başlılık kavgası ve silah-teçhizat yokluğu." },
+
+    { "c": "Rusya Türkleri", "o": "Zeki Velidi Togan neler yaptı?", "a": "Duma'da Ufa temsilcisi, Türkistan Milli Birliği başkanı, Basmacı'da silahla savaştı, İÜ Umumi Türk Tarih Kürsüsü'nü kurdu." },
+    { "c": "Rusya Türkleri", "o": "Yusuf Akçura'nın eseri ve içeriği nedir?", "a": "'Üç Tarzı Siyaset': Osmanlıcılık, İslamcılık, Türkçülük. Türk Tarih Kurumu kurucularından. (2018 orta öğretim KPSS)" },
+    { "c": "Rusya Türkleri", "o": "İsmail Gaspralı'nın sloganı ve amacı nedir?", "a": "'Dilde, fikirde, işte birlik.' Bütün Türk dünyasının ortak edebi dilini geliştirmeyi amaçladı (başaramadı). Kırım Tatarı'dır." },
+    { "c": "Rusya Türkleri", "o": "1918 Azerbaycan Halk Cumhuriyeti'ni kim kurdu, tanıyan ilk devlet kim?", "a": "Mehmet Emin Resulzade kurdu; tanıyan ilk devlet OSMANLI. Türk rejimine geçen ilk devlet Azerbaycan'dır." },
+    { "c": "Rusya Türkleri", "o": "1918 Azerbaycan ile 1991 Azerbaycan'ı ayır.", "a": "1918: Resulzade, tanıyan ilk devlet Osmanlı. 1991 (SSCB dağılınca): Ebulfeyz Elçibey, tanıyan ilk devlet Türkiye." },
+    { "c": "Rusya Türkleri", "o": "Şeyh Şamil kimdir ve neyle bilinir?", "a": "Rusların KAFKASLARI işgaline karşı savaştı; 'Kafkas Kartalı'. Hareketine biz gazavat, Ruslar müridizm der." },
+    { "c": "Rusya Türkleri", "o": "Rusya Müslümanları I. Kongresi'nin amacı nedir?", "a": "Rusya altındaki Türk ve Müslümanların içtimai-iktisadi haklarını korumak. Gaspralı, Akçura, Zeki Velidi Togan katıldı." },
+
+    { "c": "Ortadoğu ve Manda", "o": "Sykes-Picot Antlaşması nedir?", "a": "İngiltere ile Fransa'nın Osmanlı Ortadoğu topraklarını paylaştığı gizli anlaşma; bugünkü Ortadoğu kaosunun kökeni." },
+    { "c": "Ortadoğu ve Manda", "o": "İngiltere hangi yerleri işgal etti, ortak faktör ne?", "a": "Irak, Mısır, Arabistan, Filistin, Ürdün, Kuveyt, Yemen. Ortak faktör: petrol ve din (Kudüs, Mekke-Medine, Süveyş)." },
+    { "c": "Ortadoğu ve Manda", "o": "McMahon Anlaşması nedir?", "a": "Şerif Hüseyin'in İngiliz ajanı Lawrence ile yaptığı gizli anlaşma; milli Arap devleti vaadiyle Osmanlı'ya sırt çevirdi." },
+    { "c": "Ortadoğu ve Manda", "o": "Suudi Arabistan nasıl kuruldu?", "a": "Necd Emiri Abdülaziz ibn Suud, kendini Arap kralı ilan eden Şerif Hüseyin'i yendi; devlet adını Suud'dan aldı." },
+    { "c": "Ortadoğu ve Manda", "o": "Aramco nedir?", "a": "ABD'nin Suudi Arabistan'daki etkinliğini artırmak için kurduğu petrol şirketi; hâlâ faaliyettedir." },
+    { "c": "Ortadoğu ve Manda", "o": "Setif Katliamı nedir?", "a": "Fransa'nın Cezayir'de yaklaşık 45.000 kişiyi öldürdüğü katliam." },
+    { "c": "Ortadoğu ve Manda", "o": "Suriye ve Lübnan hangi devletin sömürgesiydi?", "a": "Fransa'nın; II. Dünya Savaşı'nın ayak sesleriyle Fransa buralardan çekildi." },
+
+    { "c": "Meiji ve 1929 Krizi", "o": "Meiji Restorasyonu nedir, kim yaptı?", "a": "Modern Japonya'yı doğuran köklü reform dönemi; Mutsuhito, Daimyo ve Şogunları yıkıp siyasi birliği sağladı." },
+    { "c": "Meiji ve 1929 Krizi", "o": "Meiji ile Atatürk inkılapları arasındaki temel fark nedir?", "a": "Meiji'de birçok benzer reform var ama alfabe değişmedi; Türkiye'de 1928'de Latin harflerine geçildi." },
+    { "c": "Meiji ve 1929 Krizi", "o": "1929 Dünya Ekonomik Krizi'nin diğer adları nelerdir?", "a": "Kara Perşembe, Büyük Buhran. New York (Wall Street) borsasının çökmesiyle patladı." },
+    { "c": "Meiji ve 1929 Krizi", "o": "1929 krizinden en çok ve en az etkilenen devletler hangileridir?", "a": "En çok: ABD (kriz orada çıktı). En az: SSCB — komünizm dışa kapalı bir ekonomik yapı olduğu için." },
+    { "c": "Meiji ve 1929 Krizi", "o": "Kükreyen 20'ler nedir?", "a": "1920-1929 ABD'de insanların paradan (faizden) para kazandığı dönem; krizin dolaylı nedeni oldu." },
+    { "c": "Meiji ve 1929 Krizi", "o": "Gazap Üzümleri kimin, neyi anlatır?", "a": "John Steinbeck'in eseri; 1929 Dünya Ekonomik Krizi'ni anlatır. 'Fareler ve İnsanlar' tuzak şıkkıdır." },
+    { "c": "Meiji ve 1929 Krizi", "o": "Clearing sistemi nedir?", "a": "'Malımı alanın malını alırım' ilkesine dayanan modern takas sistemi; kriz insanları takasa döndürdü." },
+    { "c": "Meiji ve 1929 Krizi", "o": "Hoover Moratoryumu ile New Deal'i ayır.", "a": "Hoover Moratoryumu: borçların taksitlendirilmesi. New Deal: Roosevelt'in rahatlama-iyileşme-reform politikası." },
+    { "c": "Meiji ve 1929 Krizi", "o": "1929 krizinin Almanya'daki sonucu nedir?", "a": "Hiperenflasyon; Almanya Versay borçları için karşılıksız mark bastı, mark odundan ucuza düşüp sobada yakıldı." },
+
+    { "c": "Kriz Türkiye ve Barış", "o": "1929 krizinin Türkiye'ye başlıca etkileri nelerdir?", "a": "Teşvik-i Sanayi uygulanamadı → devletçilik; clearing; Merkez Bankası (1930); Milli İktisat ve Tasarruf Cemiyeti; yerli malı haftası; Türk Ofis (1934)." },
+    { "c": "Kriz Türkiye ve Barış", "o": "Milli İktisat ve Tasarruf Cemiyeti'ni kim kurdu?", "a": "Kazım Özalp (Atatürk döneminin en uzun süreli meclis başkanı); 'gereksizse söndür' sloganı buna aittir." },
+    { "c": "Kriz Türkiye ve Barış", "o": "Merkez Bankası ne zaman ve neden kuruldu?", "a": "1930'da; Türk parasının değerini korumak ve para politikasını yönetmek için." },
+    { "c": "Kriz Türkiye ve Barış", "o": "Milletler Cemiyeti hakkında dört kritik bilgi nedir?", "a": "İlk bahis Wilson İlkeleri; kuruldu Paris B.K.; merkez Cenevre; Türkiye 1932'de İspanya'nın davetiyle katıldı (ilk temsilci Cemal Hüsnü Taray)." },
+    { "c": "Kriz Türkiye ve Barış", "o": "Locarno Paktı'nın amacı nedir, Türkiye katıldı mı?", "a": "Almanya'yı dünya siyasetine döndürmek (Fransa istedi). Almanya-Fransa komşuları katıldı; Türkiye KATILMADI." },
+    { "c": "Kriz Türkiye ve Barış", "o": "Briand-Kellogg Paktı nedir, Türkiye katıldı mı?", "a": "ABD-Fransa öncülüğünde savaşı ulusal politika olmaktan çıkardı, savunma dışı savaşı suç saydı; Türkiye KATILDI." },
+    { "c": "Kriz Türkiye ve Barış", "o": "Litvinov Protokolü nedir?", "a": "SSCB'nin Briand-Kellogg'a uyumunu gösterir; sonradan Varşova Paktı'nın temeli oldu." },
+
+    { "c": "Bilim-Sanat ve Rejimler", "o": "İlk radyo ve ilk TV yayını nerede-ne zaman oldu?", "a": "İlk radyo yayını 1920 ABD; ilk televizyon yayını 1936 İngiltere. Radyoya 'konuşan basın' denir." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "İzafiyet teorisi ve penisilin kime aittir?", "a": "İzafiyet teorisi Albert Einstein'a; penisilin Alexander Fleming'e aittir (çıkmış soru)." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "BCG aşısı ve insülin ne için bulundu?", "a": "BCG tüberküloza (verem) karşı; insülin şeker hastalığı için (ilk 1922 ABD)." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "Sürrealizm ile kübizmi ayır.", "a": "Sürrealizm: gerçeküstücülük, öncü Salvador Dali (eriyen saatler). Kübizm: geometrik yansıtma, öncü Picasso (Guernica)." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "Guernica hangi olayı anlatır, kimindir?", "a": "İspanya İç Savaşı'nı anlatır; Pablo Picasso'ya aittir (kübizm)." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "Charlie Chaplin neyle bilinir?", "a": "Şarlo karakteriyle; 'Büyük Diktatör' filminde Hitler'e ağır eleştiriler yöneltti." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "MEB'e göre faşizm ve nazizmin tanımları nedir?", "a": "Faşizm: aşırı çarpıtılmış ulusçuluğa dayanan baskı düzeni. Nazizm: Alman ırkının üstünlüğünü öne süren faşist öğreti." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "Mussolini ve Hitler'in lakapları ile destekçilerinin adı nedir?", "a": "Mussolini: Duçe, destekçileri Kara Gömlekliler. Hitler: Führer, destekçileri Kahverengi Gömlekliler." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "Mare Nostrum ile Lebensraum'u ayır.", "a": "Mare Nostrum (İtalya): 'Bizim Deniz', Akdeniz kıyıları bizimdir. Lebensraum (Almanya): 'Hayat Sahası', üstün Alman ırkı en iyi yerlerde yaşamalı." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "Skala Nutku ve Kristal Gece nedir?", "a": "Skala Nutku: Mussolini'nin savaşı övdüğü nutku. Kristal Gece: Almanya'da Yahudi katliamlarının başladığı gece." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "İspanya İç Savaşı'nı kim kazandı, sonucu ne oldu?", "a": "Almanya-İtalya destekli milliyetçilerin lideri Franco kazandı; İspanya'da faşizm kuruldu." },
+    { "c": "Bilim-Sanat ve Rejimler", "o": "Weimar Anayasası ve Dawes Planı nedir?", "a": "Weimar: Almanya'nın demokratik düzene geçtiği anayasa (Hitler'i getirdi). Dawes Planı: Almanya'nın borç ödemesi için ABD planı." }
+  ],
+  "tuzak": [
+    { "q": "NEP hangisinin ekonomi politikasıdır?", "o": ["Lenin", "Stalin"], "c": 0, "n": "NEP (halkçı, zorla alım yok) Lenin'in; kolektifleştirme (kolhoz, zorla) Stalin'indir." },
+    { "q": "Kızıl Ordu kimindir?", "o": ["Çarlık Rusya", "Bolşevikler (Troçki)"], "c": 1, "n": "Beyaz Ordu Çarlık/II. Nikola'nın; Kızıl Ordu Bolşeviklerin (Troçki)." },
+    { "q": "Bolşevikler devrimden sonra ne kurmak ister?", "o": ["Batı tarzı demokrasi", "Sosyalizm/SSCB"], "c": 1, "n": "Sosyalizm isteyen Bolşevik; batı tarzı demokrasi isteyen Menşevik'tir." },
+    { "q": "Panslavizm I. Dünya Savaşı'nda hangi tür nedendir?", "o": ["Genel neden", "Özel neden"], "c": 1, "n": "Yalnız Rusya'yı ilgilendirdiği için özel; sömürgecilik-silahlanma-milliyetçilik genel nedendir." },
+    { "q": "Basmacı Harekatı nereyi Rus işgalinden kurtarmak içindi?", "o": ["Kafkaslar", "Türkistan"], "c": 1, "n": "Türkistan = Basmacı; Kafkaslar = Şeyh Şamil'in mücadelesidir." },
+    { "q": "'Kafkas Kartalı' kimdir?", "o": ["Şeyh Şamil", "Enver Paşa"], "c": 0, "n": "Kafkas Kartalı Şeyh Şamil; Enver Paşa Türkistan'da Basmacı korbaşısıdır." },
+    { "q": "'Bizim Deniz' (Mare Nostrum) politikası kime aittir?", "o": ["İtalya", "Almanya"], "c": 0, "n": "Mare Nostrum İtalya (Mussolini); Almanya'nınki Lebensraum (Hayat Sahası)." },
+    { "q": "Führer lakabı kime aittir?", "o": ["Mussolini", "Hitler"], "c": 1, "n": "Führer = Hitler; Duçe = Mussolini." },
+    { "q": "Kara Gömlekliler hangi ülkededir?", "o": ["İtalya", "Almanya"], "c": 0, "n": "Kara Gömlekliler İtalya (faşizm); Kahverengi Gömlekliler Almanya (nazizm)." },
+    { "q": "1918 Azerbaycan Halk Cumhuriyeti'ni tanıyan ilk devlet?", "o": ["Türkiye Cumhuriyeti", "Osmanlı Devleti"], "c": 1, "n": "1918'de henüz TC yok; tanıyan ilk devlet Osmanlı. 1991 Azerbaycan'ı tanıyan ilk devlet ise Türkiye'dir." },
+    { "q": "Borçları taksitlendiren düzenleme hangisidir?", "o": ["New Deal", "Hoover Moratoryumu"], "c": 1, "n": "Hoover Moratoryumu borçları taksitlendirir; New Deal Roosevelt'in reform politikasıdır." },
+    { "q": "1929 krizinden EN AZ etkilenen devlet?", "o": ["ABD", "SSCB"], "c": 1, "n": "En az SSCB (dışa kapalı komünizm); en çok ABD (kriz orada çıktı)." },
+    { "q": "Eriyen saatler ve sürrealizm kime aittir?", "o": ["Salvador Dali", "Pablo Picasso"], "c": 0, "n": "Sürrealizm/eriyen saatler Dali; kübizm/Guernica Picasso'dur." },
+    { "q": "İlk televizyon yayını nerede yapıldı?", "o": ["ABD (1920)", "İngiltere (1936)"], "c": 1, "n": "İlk TV 1936 İngiltere; 1920 ABD ise ilk radyo yayınıdır." },
+    { "q": "Osmanlı toprakları hangi konferansta paylaşıldı?", "o": ["Paris Barış Konferansı", "San Remo Konferansı"], "c": 1, "n": "Diğer antlaşmalar Paris'te belirlendi; Osmanlı toprakları San Remo'da paylaşıldı." },
+    { "q": "'Üç Tarzı Siyaset' eseri kimindir?", "o": ["Yusuf Akçura", "İsmail Gaspralı"], "c": 0, "n": "Üç Tarzı Siyaset Akçura; 'Dilde fikirde işte birlik' Gaspralı'dır." },
+    { "q": "'Dilde, fikirde, işte birlik' sloganı kimindir?", "o": ["İsmail Gaspralı", "Zeki Velidi Togan"], "c": 0, "n": "Slogan Gaspralı'nın; Togan Umumi Türk Tarih Kürsüsü'nü kuran ve Basmacı'da savaşan isimdir." },
+    { "q": "Türkiye hangi pakta KATILMADI?", "o": ["Locarno Paktı", "Briand-Kellogg Paktı"], "c": 0, "n": "Locarno'ya (Almanya-Fransa komşuları) katılmadık; Briand-Kellogg'a katıldık." },
+    { "q": "Meiji Restorasyonu'nda yapılMAYAN reform hangisidir?", "o": ["Siyasi birliğin sağlanması", "Alfabe değişikliği"], "c": 1, "n": "Meiji'de alfabe değişmedi; alfabe değişikliği Türkiye'ye özgüdür (1928)." },
+    { "q": "Şeyh Şamil'in hareketine Ruslar ne der?", "o": ["Gazavat", "Müridizm"], "c": 1, "n": "Biz gazavat deriz; Ruslar müridizm der." },
+    { "q": "1929 krizini anlatan Steinbeck eseri hangisidir?", "o": ["Fareler ve İnsanlar", "Gazap Üzümleri"], "c": 1, "n": "Krizi Gazap Üzümleri anlatır; Fareler ve İnsanlar aynı yazarın farklı konulu eseridir (klasik tuzak)." },
+    { "q": "Milletler Cemiyeti'nin merkezi neresidir?", "o": ["Paris", "Cenevre"], "c": 1, "n": "Merkez Cenevre (İsviçre); Paris B.K. ise kurulduğu yerdir." },
+    { "q": "Türkiye Milletler Cemiyeti'ne kimin daveti ile katıldı?", "o": ["İspanya", "İngiltere"], "c": 0, "n": "1932'de İspanya'nın daveti ile katıldık; ilk temsilci Cemal Hüsnü Taray." },
+    { "q": "Kübizmin öncüsü kimdir?", "o": ["Pablo Picasso", "Salvador Dali"], "c": 0, "n": "Kübizm Picasso; sürrealizm Dali'dir." },
+    { "q": "Şerif Hüseyin ile Necd Emiri savaşını kim kazandı?", "o": ["Şerif Hüseyin", "Abdülaziz ibn Suud"], "c": 1, "n": "Suud kazandı ve Suudi Arabistan kuruldu; Şerif Hüseyin kaybetti." },
+    { "q": "SSCB'nin istihbarat teşkilatı hangisidir?", "o": ["Çeka", "Gestapo"], "c": 0, "n": "Çeka SSCB'nin; Gestapo/SS ise Almanya'nın gizli polisidir." },
+    { "q": "Basmacı Harekatı'nın ilk lideri (korbaşı) kimdir?", "o": ["Korbaşı Ergaş", "Enver Paşa"], "c": 0, "n": "İlk lider Korbaşı Ergaş; Enver Paşa sonradan katılan önemli korbaşıdır." },
+    { "q": "Rus meclisi Duma'ya Ufa temsilcisi olarak kim katıldı?", "o": ["Zeki Velidi Togan", "Yusuf Akçura"], "c": 0, "n": "Duma'da Ufa temsilcisi Zeki Velidi Togan'dır." },
+    { "q": "Almanya'nın borç ödemesi için hazırlanan plan?", "o": ["Dawes Planı", "Hoover Moratoryumu"], "c": 0, "n": "Almanya'ya özel Dawes Planı; Hoover Moratoryumu genel borç taksitlendirmesidir." },
+    { "q": "Faşizmi kuran lider kimdir?", "o": ["Benito Mussolini", "Adolf Hitler"], "c": 0, "n": "İtalya'da faşizmi Mussolini; Almanya'da nazizmi Hitler kurdu." },
+    { "q": "İspanya İç Savaşı'nı kazanıp faşizmi kuran lider?", "o": ["Franco", "Mussolini"], "c": 0, "n": "İspanya'da Franco (Almanya-İtalya destekli milliyetçiler) kazandı." },
+    { "q": "İzmir Paris Barış Konferansı'nda kime verildi?", "o": ["İtalya", "Yunanistan"], "c": 1, "n": "Gizli anlaşmayla İtalya'ya verilmişti; Paris'te Yunanistan'a bırakıldı — ilk görüş ayrılığı." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi Basmacı Harekatı ile ilgili doğru bir bilgidir?",
+      "o": [
+        "Rusların Kafkasları işgaline karşı başlatılmıştır",
+        "Liderlerine korbaşı unvanı verilmiştir",
+        "İlk lideri Enver Paşa'dır",
+        "Mısır'ın İngiliz işgaline son vermeyi amaçlamıştır",
+        "Osmanlı Devleti tarafından örgütlenmiştir"
+      ],
+      "c": 1,
+      "e": "Basmacı Harekatı Türkistan'ı Rus işgalinden kurtarmak için başlatıldı; liderlerine korbaşı denir, ilk lider Korbaşı Ergaş'tır."
+    },
+    {
+      "q": "1918'de kurulan Azerbaycan Halk Cumhuriyeti'ni tanıyan ilk devlet aşağıdakilerden hangisidir?",
+      "o": [
+        "Türkiye Cumhuriyeti",
+        "SSCB",
+        "Osmanlı Devleti",
+        "İran",
+        "İngiltere"
+      ],
+      "c": 2,
+      "e": "1918'de henüz Türkiye Cumhuriyeti kurulmamıştır; Mehmet Emin Resulzade'nin kurduğu cumhuriyeti tanıyan ilk devlet Osmanlı'dır."
+    },
+    {
+      "q": "Aşağıdaki ekonomi politikası–lider eşleştirmelerinden hangisi yanlıştır?",
+      "o": [
+        "NEP – Lenin",
+        "Kolektifleştirme – Stalin",
+        "New Deal – Roosevelt",
+        "Mare Nostrum – Mussolini",
+        "Kolektifleştirme – Lenin"
+      ],
+      "c": 4,
+      "e": "Kolektifleştirme (kolhoz) Stalin'in politikasıdır; Lenin'in politikası NEP'tir."
+    },
+    {
+      "q": "I. Dünya Savaşı sonrası imzalanan barış antlaşmalarının şartları Paris Barış Konferansı'nda belirlenmiştir. Ancak bir devletin toprakları bu konferansta paylaşılamamıştır. Bu devlet ve toprakların paylaşıldığı konferans hangisinde doğru verilmiştir?",
+      "o": [
+        "Almanya – San Remo",
+        "Osmanlı Devleti – San Remo",
+        "Bulgaristan – Sevr",
+        "Avusturya – Lozan",
+        "Macaristan – San Remo"
+      ],
+      "c": 1,
+      "e": "Toprakları en kıymetli görülen Osmanlı'nın paylaşımı Paris'te yapılamadı, San Remo Konferansı'nda gerçekleşti."
+    },
+    {
+      "q": "I. Dünya Savaşı'nın nedenleriyle ilgili,\nI. Sömürgecilik yarışı\nII. Panslavizm\nIII. Silahlanma yarışı\nöncüllerinden hangileri tüm devletleri ilgilendiren genel nedendir?",
+      "o": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "c": 2,
+      "e": "Sömürgecilik ve silahlanma tüm devletleri kapsayan genel nedendir; panslavizm yalnız Rusya'yı ilgilendiren özel nedendir."
+    },
+    {
+      "q": "Milletler Cemiyeti ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "o": [
+        "İlk kez Wilson İlkeleri'nde bahsedilmiştir",
+        "Paris Barış Konferansı'nda kurulmuştur",
+        "Merkezi Cenevre'dir",
+        "Türkiye 1932'de İspanya'nın davetiyle katılmıştır",
+        "Türkiye'nin ilk temsilcisi Zeki Velidi Togan'dır"
+      ],
+      "c": 4,
+      "e": "Türkiye'nin Milletler Cemiyeti'ndeki ilk temsilcisi Cemal Hüsnü Taray'dır; Zeki Velidi Togan Türk Tarih Kürsüsü'nü kuran isimdir."
+    },
+    {
+      "q": "Osmanlıcılık, İslamcılık ve Türkçülük akımlarını ele alan 'Üç Tarzı Siyaset' adlı eser aşağıdakilerden hangisine aittir?",
+      "o": [
+        "İsmail Gaspralı",
+        "Yusuf Akçura",
+        "Zeki Velidi Togan",
+        "Mehmet Emin Resulzade",
+        "Şeyh Şamil"
+      ],
+      "c": 1,
+      "e": "'Üç Tarzı Siyaset' Yusuf Akçura'ya aittir; Gaspralı 'dilde fikirde işte birlik' sloganıyla bilinir."
+    },
+    {
+      "q": "Rusların Kafkasları işgaline karşı mücadele eden, 'Kafkas Kartalı' olarak bilinen ve hareketine Ruslar tarafından 'müridizm' denen kişi aşağıdakilerden hangisidir?",
+      "o": [
+        "Enver Paşa",
+        "Korbaşı Ergaş",
+        "Zeki Velidi Togan",
+        "Şeyh Şamil",
+        "Mehmet Emin Resulzade"
+      ],
+      "c": 3,
+      "e": "Kafkaslarda mücadele eden, gazavat/müridizm olarak anılan Kafkas Kartalı Şeyh Şamil'dir; Türkistan'daki mücadele ise Basmacı Harekatı'dır."
+    },
+    {
+      "q": "1929 Dünya Ekonomik Krizi'nden diğer devletlere göre en az etkilenen devletin SSCB olmasının temel nedeni aşağıdakilerden hangisidir?",
+      "o": [
+        "Sanayisinin çok gelişmiş olması",
+        "Komünizmin dışa kapalı bir ekonomik yapı olması",
+        "Milletler Cemiyeti üyesi olması",
+        "New Deal politikasını uygulaması",
+        "Sömürgelerinin fazla olması"
+      ],
+      "c": 1,
+      "e": "SSCB komünizmi (dışa kapalı ekonomi) uyguladığı için kriz onu diğer devletlere göre daha az etkilemiştir."
+    },
+    {
+      "q": "John Steinbeck tarafından kaleme alınan ve 1929 Dünya Ekonomik Krizi'ni konu edinen eser aşağıdakilerden hangisidir?",
+      "o": [
+        "Fareler ve İnsanlar",
+        "Ana",
+        "Gazap Üzümleri",
+        "Guernica",
+        "Büyük Diktatör"
+      ],
+      "c": 2,
+      "e": "Krizi anlatan eser Gazap Üzümleri'dir; 'Fareler ve İnsanlar' aynı yazarın farklı konulu eseri olduğundan tuzaktır."
+    },
+    {
+      "q": "Modern Japonya'nın doğuşunu sağlayan Meiji Restorasyonu ile Atatürk inkılapları arasındaki temel fark aşağıdakilerden hangisidir?",
+      "o": [
+        "Meiji'de siyasi birlik sağlanmamıştır",
+        "Meiji'de alfabe değişikliği yapılmamıştır",
+        "Meiji'de saltanat korunmamıştır",
+        "Meiji'de sanayi yatırımı yapılmamıştır",
+        "Meiji'de eğitim reformu yapılmamıştır"
+      ],
+      "c": 1,
+      "e": "Meiji'de birçok benzer reform yapılmış ancak alfabe değişikliğine gidilmemiştir; Türkiye'de 1928'de Latin harflerine geçilmiştir."
+    },
+    {
+      "q": "'Akdeniz'e kıyısı olan her toprak bizimdir' anlayışına dayanan Mare Nostrum politikası aşağıdaki devletlerden hangisine aittir?",
+      "o": [
+        "Almanya",
+        "SSCB",
+        "İtalya",
+        "İspanya",
+        "Japonya"
+      ],
+      "c": 2,
+      "e": "Mare Nostrum (Bizim Deniz) İtalya'nın (Mussolini) politikasıdır; Almanya'nınki Lebensraum'dur."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Adolf Hitler ve Nazizm ile ilgili yanlış bir bilgidir?",
+      "o": [
+        "Weimar Anayasası'nın sağladığı demokratik düzenle başa geçmiştir",
+        "Führer unvanıyla anılır",
+        "Destekçilerine Kahverengi Gömlekliler denir",
+        "Lebensraum (Hayat Sahası) politikasını savunmuştur",
+        "Destekçilerine Kara Gömlekliler denir"
+      ],
+      "c": 4,
+      "e": "Kara Gömlekliler İtalya'da Mussolini'nin destekçileridir; Hitler'in destekçileri Kahverengi Gömleklilerdir."
+    },
+    {
+      "q": "Aşağıdaki gizli polis/istihbarat teşkilatı–ülke eşleştirmelerinden hangisi doğrudur?",
+      "o": [
+        "Çeka – Almanya",
+        "Gestapo – SSCB",
+        "SS – İtalya",
+        "Çeka – SSCB",
+        "Gestapo – İngiltere"
+      ],
+      "c": 3,
+      "e": "Çeka SSCB'nin istihbarat teşkilatıdır; Gestapo ve SS ise Almanya'nın gizli polisidir."
+    },
+    {
+      "q": "1929 Dünya Ekonomik Krizi sonrası ortaya çıkan gelişmelerle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": [
+        "Hoover Moratoryumu – borçların taksitlendirilmesi",
+        "New Deal – Roosevelt'in reform politikası",
+        "Clearing – modern takas sistemi",
+        "Dawes Planı – Almanya'nın borç ödemesi",
+        "Kükreyen 20'ler – kriz sonrası refah dönemi"
+      ],
+      "c": 4,
+      "e": "Kükreyen 20'ler krizin ÖNCESİNDEKİ (1920-1929) paradan para kazanma dönemidir ve krizin dolaylı nedenidir; kriz sonrası bir refah dönemi değildir."
+    },
+    {
+      "q": "Locarno Paktı ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+      "o": [
+        "1925'te imzalanmıştır",
+        "Almanya'nın dünya siyasetine dönmesini sağlamıştır",
+        "Almanya ve Fransa'nın komşuları katılmıştır",
+        "Türkiye bu pakta katılmıştır",
+        "Fransa kendi güvenliğini sağlamayı amaçlamıştır"
+      ],
+      "c": 3,
+      "e": "Türkiye, Almanya ya da Fransa'nın komşusu olmadığından Locarno Paktı'na katılmamıştır."
+    },
+    {
+      "q": "Savaşı ulusal politika olmaktan çıkaran ve savunmaya dayanmayan savaşı suç sayan Briand-Kellogg Paktı'na Türkiye'nin katılmasının temel nedeni aşağıdakilerden hangisidir?",
+      "o": [
+        "Almanya ile ittifak kurmak istemesi",
+        "'Yurtta sulh, cihanda sulh' anlayışıyla uyuşması",
+        "Sömürge elde etmek istemesi",
+        "Milletler Cemiyeti'ne alınmak istemesi",
+        "Boğazlar üzerinde hak elde etmek istemesi"
+      ],
+      "c": 1,
+      "e": "Atatürk'ün 'savunmaya dayanmayan savaş cinayettir' / barışçı anlayışı pakta uygun olduğu için Türkiye Briand-Kellogg Paktı'na katılmıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Zeki Velidi Togan'ın faaliyetlerinden biri değildir?",
+      "o": [
+        "Rus meclisi Duma'da Ufa Müslümanlarını temsil etmesi",
+        "Türkistan Milli Birliği başkanlığı yapması",
+        "Basmacı Harekatı'nda silahlı mücadeleye katılması",
+        "İstanbul Üniversitesi'nde Umumi Türk Tarih Kürsüsü'nü kurması",
+        "Azerbaycan Halk Cumhuriyeti'ni kurması"
+      ],
+      "c": 4,
+      "e": "Azerbaycan Halk Cumhuriyeti'ni (1918) Mehmet Emin Resulzade kurmuştur; diğer maddeler Zeki Velidi Togan'a aittir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 1929 Dünya Ekonomik Krizi'nin Türkiye'ye etkilerinden biri değildir?",
+      "o": [
+        "Devletçilik ilkesinin uygulanmaya başlanması",
+        "Merkez Bankası'nın kurulması",
+        "Yerli malı haftasının kutlanmaya başlanması",
+        "Teşvik-i Sanayi Kanunu'nun başarıyla uygulanması",
+        "Clearing sisteminin benimsenmesi"
+      ],
+      "c": 3,
+      "e": "Kriz nedeniyle Teşvik-i Sanayi Kanunu UYGULANAMAMIŞ, bunun üzerine devletçiliğe geçilmiştir."
+    },
+    {
+      "q": "İki savaş arası dönem sanat akımlarıyla ilgili,\nI. Sürrealizm – Salvador Dali\nII. Kübizm – Pablo Picasso\nIII. Guernica – İspanya İç Savaşı\neşleştirmelerinden hangileri doğrudur?",
+      "o": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "c": 4,
+      "e": "Sürrealizmin öncüsü Dali, kübizminki Picasso'dur; Picasso'nun Guernica tablosu İspanya İç Savaşı'nı anlatır."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Lider – Lakap/Ünvan",
+      "p": [
+        ["Benito Mussolini", "Duçe"],
+        ["Adolf Hitler", "Führer"],
+        ["Stalin", "Koba"],
+        ["Şeyh Şamil", "Kafkas Kartalı"],
+        ["Mutsuhito", "Meiji Restorasyonu"],
+        ["Basmacı liderleri", "Korbaşı"]
+      ]
+    },
+    {
+      "ad": "Ekonomi/Politika – Kaynak",
+      "p": [
+        ["NEP", "Lenin"],
+        ["Kolektifleştirme", "Stalin"],
+        ["New Deal", "Roosevelt"],
+        ["Mare Nostrum", "İtalya"],
+        ["Lebensraum", "Almanya"],
+        ["Clearing", "Modern takas"]
+      ]
+    },
+    {
+      "ad": "Kişi – Eser/Slogan",
+      "p": [
+        ["Yusuf Akçura", "Üç Tarzı Siyaset"],
+        ["İsmail Gaspralı", "Dilde, fikirde, işte birlik"],
+        ["John Steinbeck", "Gazap Üzümleri"],
+        ["Pablo Picasso", "Guernica"],
+        ["Salvador Dali", "Sürrealizm"],
+        ["Zeki Velidi Togan", "Umumi Türk Tarih Kürsüsü"]
+      ]
+    },
+    {
+      "ad": "Buluş/Yayın – Kişi ya da Yer-Yıl",
+      "p": [
+        ["İzafiyet Teorisi", "Albert Einstein"],
+        ["Penisilin", "Alexander Fleming"],
+        ["BCG Aşısı", "Verem (tüberküloz)"],
+        ["İnsülin", "Şeker hastalığı (1922 ABD)"],
+        ["İlk radyo yayını", "1920 ABD"],
+        ["İlk televizyon yayını", "1936 İngiltere"]
+      ]
+    },
+    {
+      "ad": "Antlaşma/Pakt – Özellik",
+      "p": [
+        ["Sykes-Picot", "Ortadoğu'nun İngiltere-Fransa'ca paylaşımı"],
+        ["Locarno Paktı", "Almanya'nın dünya siyasetine dönüşü"],
+        ["Briand-Kellogg", "Savaşın ulusal politika olmaktan çıkması"],
+        ["Milletler Cemiyeti", "Merkez: Cenevre"],
+        ["Hoover Moratoryumu", "Borçların taksitlendirilmesi"],
+        ["Dawes Planı", "Almanya'nın borç ödemesi"]
+      ]
+    },
+    {
+      "ad": "Kavram/Örgüt – Ülke ya da Anlam",
+      "p": [
+        ["Çeka", "SSCB istihbaratı"],
+        ["Gestapo / SS", "Almanya gizli polisi"],
+        ["Kara Gömlekliler", "İtalya (faşizm)"],
+        ["Kahverengi Gömlekliler", "Almanya (nazizm)"],
+        ["Kristal Gece", "Yahudi katliamı gecesi"],
+        ["Duma", "Rus milli meclisi"]
+      ]
+    }
+  ]
+}

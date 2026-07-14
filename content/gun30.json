@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "gun": 30,
+    "baslik": "Küreselleşen Dünya ve Türkiye — 2. Kısım: Ortadoğu, Arap Baharı ve Çağdaş Türkiye",
+    "ozet": "Ortadoğu'daki su sorunu, Afganistan-terör, Körfez savaşları, Arap Baharı ve renkli devrimler; Türk dış politikası, enerji projeleri, çağdaş Türkiye'nin darbe/kültür/bilim-teknoloji gelişmeleri. 30 günlük tarih serisinin son videosu.",
+    "tahminiSoru": "KPSS/AGS'de ~3-4 soru (Çağdaş Türk ve Dünya Tarihi + inkılap tarihi kesişimi)",
+    "duzeltmeler": [
+      "Tactiq bozulmaları düzeltildi: 'Muhammed Bu Azizi' → Muhammed Buazizi; 'Julian Esın/Essenç' → Julian Assange; 'Jivkov/Jevkov' → Todor Jivkov; 'Christian Bernard' → Christiaan Barnard; 'Yuyu Varoney' → Yuri Voronoy; 'Doli' → Dolly; 'Alfred Mckend/Halfrot Mackinder' → Halford Mackinder; 'Ncolas Spekman' → Nicholas Spykman; 'Mehmet Akif Prim' → Mehmet Akif Pirim; 'Yare/Yağ Üniversitesi' → Yale Üniversitesi; 'Bay Bay Türkçe' → Bye Bye Türkçe; 'Nabukko' → Nabucco; 'OTÜ/OTTÜ' → ODTÜ; 'Semih Terzi' (darbeci komutan) doğru; 'Tijen Karaş' doğru.",
+      "Transkript, ilk başarılı böbrek naklini yapan Murray'in '1990 Nobel EDEBİYAT Ödülü' aldığını söylüyor; doğrusu Joseph Murray 1990 Nobel FİZYOLOJİ/TIP Ödülü'nü almıştır (organ nakli çalışmalarıyla). Bu yüzden denemeye 'Nobel Edebiyat' iddiası KONULMADI.",
+      "Hava hakimiyet teorisinin sahibi transkriptte 'Harry Şaklian / Herry Aklian' olarak son derece bozuk geçtiği ve doğru isimden emin olunamadığı için o isim deneme ve net bilgi olarak KULLANILMADI; kara (Mackinder), deniz (Mahan) ve kenar kuşak (Spykman) teorileri verildi.",
+      "Fuat Sezgin'in İslam İlimleri Tarihi Enstitüsü'nü kurduğu üniversite transkriptte yalnızca 'Üniversitesi' olarak geçiyor; Frankfurt Üniversitesi bilgisi (müfredat) etiketiyle eklendi."
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Ortadoğu Su Sorunu",
+      "i": [
+        {"k": "Şeri-Dicle-Fırat-Asi-Nil", "m": "Ortadoğu'nun su ihtiyacını karşılayan başlıca nehirler", "s": "z"},
+        {"k": "Barış Suyu = Özal + Seyhan-Ceyhan", "m": "Turgut Özal döneminde Seyhan-Ceyhan sularıyla Ortadoğu'nun su ihtiyacını karşılamaya yönelik hazırlanan İLK proje", "s": "z"},
+        {"k": "GAP → Suriye+Irak tepkisi", "m": "Güneydoğu Anadolu Projesi; barajlar 'suyumuzu kesiyorsunuz' diye Suriye ve Irak'ın tepkisini çekti", "s": "z"}
+      ]
+    },
+    {
+      "b": "Afganistan, Taliban, El Kaide",
+      "i": [
+        {"k": "1979 SSCB işgali", "m": "SSCB Afganistan'ı işgal etti → ABD 1980 Moskova Olimpiyatları'nı boykot etti ve SALT-2'yi onaylamadı", "s": "z"},
+        {"k": "Taliban = Peştun + dinci", "m": "MEB'e göre çoğunluğu Peştunlardan oluşan dinci/İslamcı grup; önce SSCB işgaline, sonra ABD işgaline karşı savaştı; bugün Afganistan'ı yönetiyor", "s": "z"},
+        {"k": "El Kaide = Usame Bin Ladin", "m": "Afganistan-SSCB savaşında Usame Bin Ladin'in kurduğu terör örgütü (ABD ajanı iddiası)", "s": "z"},
+        {"k": "2001 İkiz Kuleler → Afgan işgali", "m": "İkiz kuleler saldırısından El Kaide/Bin Ladin sorumlu tutuldu; teslim olmayınca ABD Afganistan'ı işgal etti", "s": "z"},
+        {"k": "Uçurtma Avcısı ↔ SSCB", "m": "Halid Hüsseyni'nin 'Uçurtma Avcısı' romanı altyapıda SSCB'nin Afganistan işgalini anlatır", "s": "z"},
+        {"k": "Bin Muhteşem Güneş ↔ ABD", "m": "Halid Hüsseyni'nin 'Bin Muhteşem Güneş' romanı altyapıda ABD'nin Afganistan işgali sürecini anlatır", "s": "z"}
+      ]
+    },
+    {
+      "b": "Bush Doktrini & Körfez Savaşları",
+      "i": [
+        {"k": "Bush Doktrini = saldırgan/askeri", "m": "'Terörle savaş savunmayla kazanılmaz, savaş alanı düşman bölgesi olmalı'; dış politikada askeri unsurları merkeze aldı", "s": "z"},
+        {"k": "Körfez Savaşları 1990-2003", "m": "Nedeni: Irak'ın Kuveyt'ten aldığı borcu ödememesi + Kuveyt petrol rezervlerini ele geçirmek istemesi", "s": "z"},
+        {"k": "Saddam = Baas/Arap sosyalizmi = SSCB yanlısı", "m": "Kuveyt'i işgal eden Irak lideri; SSCB yanlısı Baas hareketiyle başa geçti", "s": "z"},
+        {"k": "Çöl Fırtınası = ABD → Irak", "m": "ABD'nin, Irak'ın Kuveyt'i işgali sebebiyle Irak'a düzenlediği harekat", "s": "z"},
+        {"k": "Çöl Tilkisi = rejim değişikliği (1998)", "m": "'Çöl Tilkisi' = Saddam'ın lakabı; ABD'nin Irak rejimini değiştirmeye yönelik harekatı → Saddam idam edildi", "s": "z"}
+      ]
+    },
+    {
+      "b": "Arap Baharı",
+      "i": [
+        {"k": "Tunus = Buazizi → Yasemin Devrimi", "m": "Muhammed Buazizi kendini yaktı → Yasemin Devrimi → Arap Baharı'nın BAŞLANGICI", "s": "z"},
+        {"k": "Mısır: Mübarek → Mursi → Sisi", "m": "Hüsnü Mübarek hapse; halk Muhammed Mursi'yi seçti; Genelkurmay Başkanı Sisi darbe yaptı, Mursi hapishanede öldü", "s": "z"},
+        {"k": "Libya = Kaddafi + aşiretler savaşı", "m": "Trablusgarp/Kuzey Afrika; aşiretler savaşı → BM + NATO bombardımanı → Muammer Kaddafi öldürüldü", "s": "z"},
+        {"k": "Suriye = Beşar Esad direndi", "m": "İsyanlar uluslararası boyut kazandı; Doğu bloğu (Rusya-İran-Çin) Esad'ı, Batı bloğu (ABD-İngiltere-Fransa) isyancıları destekledi → Esad Rusya'ya kaçtı", "s": "z"},
+        {"k": "Yemen = Salih → Şii Hutiler", "m": "Abdullah Salih 33 yıllık iktidarı bıraktı; Şii Hutiler başkenti aldı → mezhep çatışması (İran etkisi)", "s": "z"},
+        {"k": "Fas = az etkilendi", "m": "Yaptığı reformlar/devrimlerle Arap Baharı'ndan diğer ülkeler kadar etkilenmedi", "s": "z"}
+      ]
+    },
+    {
+      "b": "Renkli Devrimler (yer eşleşmesi)",
+      "i": [
+        {"k": "Yasemin = Tunus", "m": "Arap Baharı'nın başlangıcı (en çok sorulan)", "s": "z"},
+        {"k": "Kadife = Çekoslovakya", "m": "Çekya + Slovakya olarak ikiye ayrıldı (en çok sorulan)", "s": "z"},
+        {"k": "Ekim/Bolşevik/Kızıl = Rusya", "m": "Çarlık Rusya yıkıldı → SSCB kuruldu; lider Lenin (NEP politikası, 'barış-ekmek-toprak' sloganı)", "s": "z"},
+        {"k": "Turuncu = Ukrayna", "m": "Rusya'nın (kızıl) güneyinde, kızılın açılmış hâli kancasıyla", "s": "e"},
+        {"k": "Sedir = Lübnan · Lale = Kırgızistan", "m": "Düşük soru değerli ama yer eşleşmesi sorulabilir", "s": "z"},
+        {"k": "Beyaz = İran · Karanfil = Portekiz", "m": "Beyaz Devrim İran'da, Karanfil Devrimi Portekiz'de", "s": "z"}
+      ]
+    },
+    {
+      "b": "Enerji Projeleri & Deklarasyonlar",
+      "i": [
+        {"k": "BTC = Bakü-Tiflis-Ceyhan (petrol)", "m": "Azerbaycan-Gürcistan-Türkiye petrol boru hattı; Azerbaycan-Türkiye ekonomik ilişkilerini geliştirir", "s": "z"},
+        {"k": "TANAP = Trans Anadolu Doğalgaz", "m": "Azerbaycan'ın Hazar doğalgazını Türkiye üzerinden Avrupa'ya taşıyan boru hattı", "s": "z"},
+        {"k": "Nabucco = başarısız", "m": "Hazar doğalgazını Avrupa'ya ulaştırmayı amaçladı ama hayata geçmedi", "s": "z"},
+        {"k": "2005 Ankara Deklarasyonu", "m": "Türkiye-Azerbaycan-Kazakistan-Özbekistan-Gürcistan; petrol/doğalgaz aranıp dünya piyasasına satılması", "s": "z"}
+      ]
+    },
+    {
+      "b": "Türkiye İç Politika (Darbeler & Olaylar)",
+      "i": [
+        {"k": "28 Şubat 1997 = Postmodern Darbe", "m": "Refahyol hükümetine karşı internet üzerinden bildiri + irtica korkusu → Necmettin Erbakan istifa ettirildi", "s": "z"},
+        {"k": "Gezi Parkı", "m": "İstanbul BŞB'nin yayalaştırma/yol genişletme projesinde ağaç kesimine direniş → topluma yayıldı (MEB)", "s": "z"},
+        {"k": "FETÖ/PDY = Paralel Devlet Yapılanması", "m": "MEB'e göre 1960'larda çıkan, zümreye dayalı devlet kurmayı amaçlayan terör örgütü", "s": "z"}
+      ]
+    },
+    {
+      "b": "15 Temmuz 2016 Darbe Girişimi",
+      "i": [
+        {"k": "Yıldırım Harekatı = kod adı", "m": "15 Temmuz darbe girişiminin kod adı (krş. 1980 = Bayrak Harekatı)", "s": "z"},
+        {"k": "Yurtta Sulh Konseyi", "m": "Darbeyi yapacak konsey (krş. 1960 Milli Birlik Komitesi, 1980 Milli Güvenlik Konseyi)", "s": "z"},
+        {"k": "Tijen Karaş = TRT spikeri", "m": "TRT'de darbe metninin zorla okutulduğu spiker", "s": "z"},
+        {"k": "Ömer Halisdemir = Semih Terzi'yi vurdu", "m": "Darbeci komutan Semih Terzi'yi alnından vurarak darbenin seyrini değiştiren kahraman", "s": "z"},
+        {"k": "Bülent Aydın = ilk şehit", "m": "15 Temmuz'un ilk şehidi; adı Iğdır Havalimanı'na verildi", "s": "z"}
+      ]
+    },
+    {
+      "b": "Bilime Hizmet Eden 4 Büyük İsim (MEB)",
+      "i": [
+        {"k": "Oktay Sinanoğlu = Yale + Bye Bye Türkçe", "m": "Yale Üniversitesi'nde dünyanın en genç profesörü; 'Bye Bye Türkçe' eseriyle Türkçenin yozlaşmasını işledi", "s": "z"},
+        {"k": "Aziz Sancar = DNA + Nobel Kimya", "m": "DNA onarımı çalışmasıyla Nobel Kimya Ödülü; bilim alanında Nobel kazanan İLK Türk", "s": "z"},
+        {"k": "Fuat Sezgin = İslam bilim tarihi", "m": "Frankfurt Üniversitesi'nde (müfredat) İslam İlimleri Tarihi Enstitüsü'nü kurdu; 2019 'Fuat Sezgin Yılı' ilan edildi", "s": "z"},
+        {"k": "Gazi Yaşargil = yüzyılın beyin cerrahı", "m": "Tıp alanındaki çalışmalarıyla 'yüzyılın beyin cerrahı' ve tıp tarihine geçen 50 hekimden biri", "s": "z"}
+      ]
+    },
+    {
+      "b": "Milli Teknoloji Ürünleri",
+      "i": [
+        {"k": "Altay = ilk milli tank (2007)", "m": "Milli tank üretim projesinin ilk tankı; adı Fahrettin Altay'dan (İzmir'e giren ilk süvari birliği komutanı)", "s": "z"},
+        {"k": "Hürkuş = eğitim uçağı", "m": "Gece-gündüz görev yapabilen; Avrupa Sivil Havacılık Otoritesi'nden tip belgesi alan İLK Türk uçağı", "s": "z"},
+        {"k": "Anka = TUSAŞ İHA'sı", "m": "TUSAŞ mühendislerinin hazırladığı insansız hava aracı", "s": "z"},
+        {"k": "Göktürk = ilk yer gözlem uydusu", "m": "Türkiye'nin ilk yüksek çözünürlüklü yer gözlem uydusu", "s": "z"},
+        {"k": "Türksat 3USat = ilk yerli haberleşme uydusu", "m": "Türkiye'nin ilk yerli tasarım ve üretim alçak yörünge haberleşme uydusu (Türksat = Türk Telekom+Alcatel)", "s": "z"},
+        {"k": "SİHA · Atak(T129)", "m": "SİHA = silahlı insansız hava aracı; Atak = TSK için üretilen yerli taarruz helikopteri", "s": "z"}
+      ]
+    },
+    {
+      "b": "Dünyadaki Bilim/Teknoloji Gelişmeleri",
+      "i": [
+        {"k": "İlk organ nakli = 1933 Voronoy (SSCB)", "m": "İnsandan insana ilk organ naklini Yuri Voronoy yaptı", "s": "z"},
+        {"k": "İlk kalp nakli = 1967 Barnard", "m": "İlk başarılı kalp naklini Christiaan Barnard yaptı (muhtemel soru adayı)", "s": "z"},
+        {"k": "İlk böbrek nakli = 1954 Murray", "m": "İlk başarılı böbrek naklini Joseph Murray ikizler arasında yaptı", "s": "z"},
+        {"k": "El 1998 · Yüz 2005 = Fransa", "m": "İlk başarılı el nakli (1998) ve yüz nakli (2005) Fransa'da yapıldı", "s": "z"},
+        {"k": "Dolly ↔ Oyalı", "m": "Dünyada kopyalanan ilk koyun Dolly; Türkiye'de kopyalanan ilk koyun Oyalı", "s": "z"},
+        {"k": "ARPANET = 1969 ilk internet", "m": "Dünyadaki ilk internet 1969'da ARPANET", "s": "z"},
+        {"k": "Çernobil = 1986 Ukrayna", "m": "Çernobil nükleer faciası 1986'da Ukrayna'da (2015 KPSS çıkmış)", "s": "z"},
+        {"k": "Perseverance = NASA/Mars", "m": "NASA'nın Mars'a gönderdiği araç; en net Mars görüntüleri onunla alındı", "s": "z"},
+        {"k": "Kyoto Protokolü = 2005 Japonya", "m": "Küresel ısınma ve iklim değişikliğiyle mücadeleyi amaçlayan uluslararası anlaşma", "s": "z"}
+      ]
+    },
+    {
+      "b": "Çağdaş Türkiye Gelişmeleri",
+      "i": [
+        {"k": "İlk internet=ODTÜ · bilgisayar=Karayolları · TV=İTÜ", "m": "Türkiye'de ilk internet ODTÜ, ilk bilgisayar Karayolları Genel Müdürlüğü, ilk TV yayını İstanbul Teknik Üniversitesi", "s": "z"},
+        {"k": "Özal = görevde ölen 2. CB", "m": "Atatürk'ten sonra görevi başında vefat eden tek CB → görevde ölen 2 CB: Atatürk ve Turgut Özal", "s": "z"},
+        {"k": "Tansu Çiller = ilk kadın başbakan", "m": "Türkiye'nin ilk ve tek kadın başbakanı", "s": "z"},
+        {"k": "YÖK 1981 ≠ TÜBİTAK/DPT", "m": "YÖK 1980 darbesinden sonra (1981); TÜBİTAK ve DPT ise 1960 darbesinden sonra kuruldu", "s": "z"},
+        {"k": "Mehmet Akif Pirim = 1992 Barcelona güreş altın", "m": "1992 Barcelona Olimpiyatları'nda güreşte altın madalya kazandı", "s": "z"},
+        {"k": "Naim Süleymanoğlu = Cep Herkülü", "m": "Bulgaristan'dan iltica eden halterci; onlarca rekor, dünyanın en iyi sporcusu seçildi", "s": "z"},
+        {"k": "Galatasaray = 2000 UEFA + Süper Kupa", "m": "Türkiye'de UEFA Kupası kazanan tek kulüp; Real Madrid'i yenip Süper Kupa'yı da aldı", "s": "z"},
+        {"k": "Star TV = ilk özel kanal", "m": "İlk özel TV kanalı Star TV (ilk devlet kanalı TRT)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Modern Hakimiyet Teorileri (MEB)",
+      "i": [
+        {"k": "Kara = Mackinder", "m": "'Karalara hâkim olan dünyaya hâkim olur' — Halford Mackinder", "s": "z"},
+        {"k": "Deniz = Mahan", "m": "'Denizlere hâkim olan dünyaya hâkim olur' — Alfred Thayer Mahan", "s": "z"},
+        {"k": "Kenar Kuşak = Spykman", "m": "'Kenar kuşağa hâkim olan dünyaya hâkim olur' — Nicholas Spykman", "s": "z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c": "Ortadoğu Su", "o": "Ortadoğu'nun su ihtiyacını karşılayan başlıca nehirler hangileridir?", "a": "Şeri, Dicle, Fırat, Asi ve Nil nehirleri."},
+    {"c": "Ortadoğu Su", "o": "Barış Suyu Projesi nedir; hangi dönemde ve hangi nehirlerle planlanmıştır?", "a": "Turgut Özal döneminde Seyhan ve Ceyhan sularıyla Ortadoğu'nun su ihtiyacını karşılamaya yönelik hazırlanan İLK projedir."},
+    {"c": "Ortadoğu Su", "o": "GAP hangi ülkelerin tepkisine yol açtı ve neden?", "a": "Suriye ve Irak'ın; kurulan barajların kendilerine gelen suyu azalttığı gerekçesiyle."},
+    {"c": "Afganistan", "o": "SSCB Afganistan'ı hangi yıl işgal etti ve ABD nasıl tepki verdi?", "a": "1979. ABD 1980 Moskova Olimpiyatları'nı boykot etti ve SALT-2 anlaşmasını onaylamadı."},
+    {"c": "Afganistan", "o": "MEB kitabına göre Taliban nasıl tanımlanır?", "a": "Çoğunluğu Peştunlardan oluşan dinci/İslamcı gruptur. Önce SSCB'nin, sonra ABD'nin işgaline karşı savaşmış; bugün Afganistan'ı yönetmektedir."},
+    {"c": "Afganistan", "o": "El Kaide'yi kim, hangi savaşta kurdu?", "a": "Usame Bin Ladin, Afganistan-SSCB savaşı sırasında kurdu. (Bin Ladin'in ABD ajanı olduğu iddia edilir.)"},
+    {"c": "Afganistan", "o": "2001 İkiz Kuleler saldırısı ABD'yi hangi işgale götürdü?", "a": "Saldırıdan El Kaide/Usame Bin Ladin sorumlu tutuldu; teslim olmayınca ABD Afganistan'ı işgal etti."},
+    {"c": "Edebiyat-Tarih", "o": "Halid Hüsseyni'nin 'Uçurtma Avcısı' ve 'Bin Muhteşem Güneş' romanları hangi işgalleri anlatır?", "a": "Uçurtma Avcısı → SSCB'nin Afganistan işgali. Bin Muhteşem Güneş → ABD'nin Afganistan işgali süreci."},
+    {"c": "Doktrin", "o": "Bush Doktrini'nin özü nedir?", "a": "'Terörle savaş savunmayla kazanılmaz, savaş alanı düşman bölgesi olmalı.' Dış politikada askeri unsurları (saldırıyı) merkeze alır."},
+    {"c": "Körfez Savaşları", "o": "Körfez Savaşları'nın (1990-2003) iki temel nedeni nedir?", "a": "1) Irak'ın Kuveyt'ten aldığı borcu ödememesi. 2) Irak'ın Kuveyt'in petrol rezervlerini ele geçirmek istemesi."},
+    {"c": "Körfez Savaşları", "o": "Kuveyt'i işgal eden Irak lideri kimdir ve hangi ideolojiyle başa geçti?", "a": "Saddam Hüseyin; Arap sosyalizmi olarak bilinen Baas hareketiyle (SSCB yanlısı) başa geçti."},
+    {"c": "Körfez Savaşları", "o": "Çöl Fırtınası Operasyonu nedir?", "a": "ABD'nin, Irak'ın Kuveyt'i işgali sebebiyle Irak'a düzenlediği harekattır."},
+    {"c": "Körfez Savaşları", "o": "Çöl Tilkisi Operasyonu nedir; 'Çöl Tilkisi' kimdir?", "a": "1998'de ABD'nin Irak rejimini değiştirmeye yönelik harekatı. 'Çöl Tilkisi' Saddam Hüseyin'in lakabıdır; sonunda idam edildi."},
+    {"c": "Arap Baharı", "o": "Arap Baharı hangi ülkede, hangi olayla başladı?", "a": "Tunus'ta. Muhammed Buazizi'nin kendini yakmasıyla başlayan Yasemin Devrimi Arap Baharı'nın başlangıcı oldu."},
+    {"c": "Arap Baharı", "o": "Mısır'da Arap Baharı süreci nasıl ilerledi?", "a": "Hüsnü Mübarek hapse atıldı → halk Muhammed Mursi'yi seçti → Genelkurmay Başkanı Sisi darbe yaptı → Mursi hapishanede öldü."},
+    {"c": "Arap Baharı", "o": "Libya'da Muammer Kaddafi yönetimi nasıl son buldu?", "a": "Aşiretler savaşı çıktı; BM uygulamaları ve NATO bombardımanıyla Kaddafi yönetimi devrildi, kendisi öldürüldü."},
+    {"c": "Arap Baharı", "o": "Suriye iç savaşında blokların tutumu nasıldı?", "a": "Doğu bloğu (Rusya-İran-Çin) Beşar Esad'ı destekledi; Batı bloğu (ABD-İngiltere-Fransa) isyancıları destekledi. Esad sonunda Rusya'ya kaçtı."},
+    {"c": "Arap Baharı", "o": "Yemen'de iktidar boşluğunu kim doldurdu ve sonuç ne oldu?", "a": "Abdullah Salih 33 yıllık iktidarı bıraktı; Şii Hutiler başkenti ele geçirdi ve mezhep çatışması ortaya çıktı (İran etkisi)."},
+    {"c": "Devrimler", "o": "Kadife Devrim'in sonucu nedir?", "a": "Çekoslovakya kansız biçimde Çekya (Çek Cumhuriyeti) ve Slovakya olarak ikiye ayrıldı. (En çok sorulan devrimlerden.)"},
+    {"c": "Devrimler", "o": "Ekim (Bolşevik/Kızıl) Devrimi neyi ifade eder ve lideri kimdir?", "a": "Çarlık Rusya'nın yıkılıp yerine SSCB'nin kurulması sürecidir. Lideri Lenin; NEP politikasını uyguladı, 'barış, ekmek, toprak' sloganını kullandı."},
+    {"c": "Devrimler", "o": "Şu devrimler hangi ülkede oldu: Sedir, Lale, Beyaz, Turuncu, Karanfil?", "a": "Sedir → Lübnan · Lale → Kırgızistan · Beyaz → İran · Turuncu → Ukrayna · Karanfil → Portekiz."},
+    {"c": "Wikileaks", "o": "Wikileaks nedir ve kurucusu kimdir?", "a": "Avustralyalı Julian Assange tarafından, dünya çapındaki pek çok olumsuz durumu ifşa etmek için kurulan web sitesidir (MEB kitabında yer alır)."},
+    {"c": "Enerji", "o": "BTC petrol boru hattı hangi şehirleri/ülkeleri bağlar?", "a": "Bakü (Azerbaycan) - Tiflis (Gürcistan) - Ceyhan (Türkiye). Azerbaycan-Türkiye ekonomik ilişkilerini geliştirir."},
+    {"c": "Enerji", "o": "TANAP'ın açılımı ve amacı nedir?", "a": "Trans Anadolu Doğalgaz Boru Hattı. Azerbaycan'ın Hazar doğalgazını Türkiye aracılığıyla Avrupa'ya taşımayı amaçlar."},
+    {"c": "Enerji", "o": "Nabucco Projesi neyi amaçladı ve sonucu ne oldu?", "a": "Hazar doğalgazını Avrupa'ya ulaştırmayı amaçladı ancak başarılı olamadı (hayata geçmedi)."},
+    {"c": "Enerji", "o": "2005 Ankara Deklarasyonu hangi ülkeleri kapsar ve neyi amaçlar?", "a": "Türkiye, Azerbaycan, Kazakistan, Özbekistan ve Gürcistan. Petrol ve doğalgaz kaynaklarının aranıp dünya piyasasına satılmasını amaçlar."},
+    {"c": "TR Dış Politika", "o": "Türkiye-İsrail ilişkilerini kopma noktasına getiren olay nedir?", "a": "Mavi Marmara olayı; Filistin'e yardım götüren gemimizin İsrail tarafından vurulması. İlişkiler daha sonra normalleşti."},
+    {"c": "Balkanlar", "o": "Bulgaristan'da Türklere asimilasyon politikası uygulayan lider kimdir; neler yaptı?", "a": "Todor Jivkov. Türklerin isimlerini değiştirdi, Türkçe eğitimi ve din öğrenimini engelledi."},
+    {"c": "Balkanlar", "o": "'Cep Herkülü' olarak bilinen sporcu kimdir?", "a": "Naim Süleymanoğlu. Bulgaristan'da adı 'Süleymanov' yapıldı; Türkiye'ye iltica etti, onlarca rekor kırdı, dünyanın en iyi sporcusu seçildi. (Muhtemel soru adayı.)"},
+    {"c": "Kızılay", "o": "Osmanlı'daki Hilal-i Ahmer Cemiyeti Cumhuriyet döneminde hangi adı aldı?", "a": "Kızılay. Yurt içi çalışmaların yanı sıra Filistin, Sudan, Somali, Kosova, Pakistan, Gazze, Arakan gibi pek çok yere yardım götürür."},
+    {"c": "TR İç Politika", "o": "28 Şubat 1997 süreci hangi adla bilinir ve sonucu ne oldu?", "a": "Postmodern Darbe. İnternet üzerinden yayınlanan bildiri ve irtica korkusuyla Refahyol hükümetinin başbakanı Necmettin Erbakan istifa ettirildi."},
+    {"c": "TR İç Politika", "o": "Gezi Parkı olayları nasıl başladı?", "a": "İstanbul Büyükşehir Belediyesi'nin yayalaştırma/yol genişletme projesinde ağaçların kesilmesine gösterilen direnişle başladı ve topluma yayıldı (MEB)."},
+    {"c": "15 Temmuz", "o": "MEB kitabına göre FETÖ/PDY nedir?", "a": "Paralel Devlet Yapılanması; 1960'lı yıllarda ortaya çıkan, zümreye dayalı devlet kurmayı amaçlayan terör örgütüdür."},
+    {"c": "15 Temmuz", "o": "15 Temmuz darbe girişiminin kod adı ve darbeyi yapacak konseyin adı nedir?", "a": "Kod adı: Yıldırım Harekatı. Konsey: Yurtta Sulh Konseyi. (Krş. 1960 Milli Birlik Komitesi, 1980 Milli Güvenlik Konseyi/Bayrak Harekatı.)"},
+    {"c": "15 Temmuz", "o": "TRT'de darbe metni zorla kime okutuldu?", "a": "Spiker Tijen Karaş'a."},
+    {"c": "15 Temmuz", "o": "Darbeci komutan Semih Terzi'yi vurarak darbenin seyrini değiştiren kahraman kimdir?", "a": "Ömer Halisdemir. Adına Niğde Üniversitesi 'Ömer Halisdemir Üniversitesi' oldu; hakkındaki kısa film '30 Kuş'tur."},
+    {"c": "15 Temmuz", "o": "15 Temmuz'un ilk şehidi kimdir ve adı nereye verildi?", "a": "Bülent Aydın. Adı Iğdır Havalimanı'na verildi. (Boğaziçi Köprüsü de '15 Temmuz Şehitleri Köprüsü' oldu.)"},
+    {"c": "4 Bilim İnsanı", "o": "Oktay Sinanoğlu'nun unvanı ve ünlü eseri nedir?", "a": "Yale Üniversitesi'nde 'dünyanın en genç profesörü' unvanını aldı. Eseri 'Bye Bye Türkçe', Türkçenin yozlaşmasını işler."},
+    {"c": "4 Bilim İnsanı", "o": "Aziz Sancar hangi çalışmayla ve hangi alanda Nobel kazandı?", "a": "DNA onarımı çalışmasıyla Nobel Kimya Ödülü'nü kazandı; bilim alanında Nobel kazanan İLK Türk'tür. (Muhtemel soru adayı.)"},
+    {"c": "4 Bilim İnsanı", "o": "Fuat Sezgin hangi alanda çalıştı; 2019'da ne ilan edildi?", "a": "İslam bilim ve teknoloji tarihi. Frankfurt Üniversitesi'nde (müfredat) İslam İlimleri Tarihi Enstitüsü'nü kurdu; 2019 'Fuat Sezgin Yılı' ilan edildi."},
+    {"c": "4 Bilim İnsanı", "o": "'Yüzyılın beyin cerrahı' unvanlı bilim insanı kimdir?", "a": "Gazi Yaşargil. Tıp tarihine geçen 50 hekimden biri olarak da anılır."},
+    {"c": "Milli Teknoloji", "o": "İlk milli tankımızın adı nereden gelir?", "a": "Altay. Adını, İzmir'e giren ilk süvari birliklerinin komutanı Fahrettin Altay'dan alır (2007)."},
+    {"c": "Milli Teknoloji", "o": "Hürkuş'un 'ilk' özelliği nedir?", "a": "Avrupa Sivil Havacılık Otoritesi'nden tip belgesi alabilen İLK Türk uçağıdır (gece-gündüz görev yapan eğitim uçağı)."},
+    {"c": "Milli Teknoloji", "o": "Göktürk ve Türksat 3USat neyin 'ilki'dir?", "a": "Göktürk → Türkiye'nin ilk yüksek çözünürlüklü yer gözlem uydusu. Türksat 3USat → ilk yerli tasarım ve üretim alçak yörünge haberleşme uydusu."},
+    {"c": "Dünya Bilim", "o": "İlk başarılı kalp naklini kim, hangi yıl yaptı?", "a": "Christiaan Barnard, 1967. (Muhtemel soru adayı.)"},
+    {"c": "Dünya Bilim", "o": "İnsandan insana ilk organ naklini kim yaptı?", "a": "1933'te SSCB'de Yuri Voronoy. (İlk başarılı böbrek nakli ise 1954'te Joseph Murray tarafından ikizler arasında yapıldı.)"},
+    {"c": "Dünya Bilim", "o": "Dünyada ve Türkiye'de kopyalanan ilk koyunların adı nedir?", "a": "Dünyada Dolly; Türkiye'de Oyalı."},
+    {"c": "Dünya Bilim", "o": "İlk internet ne zaman, hangi adla üretildi?", "a": "1969'da ARPANET adıyla."},
+    {"c": "Dünya Bilim", "o": "Çernobil faciası ne zaman, nerede oldu?", "a": "1986'da Ukrayna'da. (2015 KPSS'de çıkmış.)"},
+    {"c": "Dünya Bilim", "o": "Perseverance nedir?", "a": "NASA'nın Mars'a gönderdiği araçtır; Mars'a dair en net görüntüler bu araçla elde edilmiştir."},
+    {"c": "Dünya Bilim", "o": "Kyoto Protokolü nedir?", "a": "2005'te Japonya'da imzalanan, küresel ısınma ve iklim değişikliğiyle mücadeleyi amaçlayan uluslararası anlaşmadır."},
+    {"c": "Çağdaş TR", "o": "Türkiye'de ilk internet, ilk bilgisayar ve ilk TV yayını nerede?", "a": "İlk internet ODTÜ'de, ilk bilgisayar Karayolları Genel Müdürlüğü'nde, ilk TV yayını İstanbul Teknik Üniversitesi'nde."},
+    {"c": "Çağdaş TR", "o": "Görevi başında vefat eden cumhurbaşkanlarımız kimlerdir?", "a": "Mustafa Kemal Atatürk ve Turgut Özal. (Özal, Atatürk'ten sonra görevde ölen tek/2. CB'dir.)"},
+    {"c": "Çağdaş TR", "o": "YÖK ile TÜBİTAK/DPT hangi darbelerden sonra kuruldu?", "a": "YÖK 1980 darbesinden sonra (1981). TÜBİTAK ve DPT ise 1960 darbesinden sonra kuruldu."},
+    {"c": "Çağdaş TR", "o": "1992 Barcelona Olimpiyatları'nda güreşte altın madalya kazanan kimdir?", "a": "Mehmet Akif Pirim."},
+    {"c": "Çağdaş TR", "o": "Türkiye'de UEFA Kupası kazanan tek kulüp hangisidir?", "a": "Galatasaray (2000). Ardından Real Madrid'i yenerek Süper Kupa'yı da kazandı."},
+    {"c": "Çağdaş TR", "o": "İlk özel ve ilk devlet TV kanalımız hangileridir?", "a": "İlk özel TV kanalı Star TV; ilk devlet kanalı TRT."},
+    {"c": "Çağdaş TR", "o": "Şu tarihlerde ne oldu: 1993 Sivas, 2003 Eurovision, 2006 Nobel Edebiyat?", "a": "1993 → Sivas Madımak Katliamı. 2003 → Sertab Erener Eurovision'u kazandı. 2006 → Orhan Pamuk Nobel Edebiyat Ödülü'nü aldı."},
+    {"c": "Çağdaş TR", "o": "Nuri Bilge Ceylan'ın Cannes'da ödül alan üç filmi ve ödülleri nedir?", "a": "2008 Üç Maymun (en iyi yönetmen), 2014 Kış Uykusu (Altın Palmiye), 2023 Kuru Otlar Üstüne (Merve Dizdar en iyi kadın oyuncu)."},
+    {"c": "Hakimiyet Teorileri", "o": "Kara, deniz ve kenar kuşak hakimiyet teorileri kime aittir?", "a": "Kara → Halford Mackinder. Deniz → Alfred Mahan. Kenar Kuşak → Nicholas Spykman. (MEB kitabında yer alır.)"},
+    {"c": "Çağdaş TR", "o": "Türkiye'de köyden kente göçün kültüre etkisi ne oldu?", "a": "Çarpık kentleşmeyi getirdi; arabesk müzik (Orhan Gencebay, Ferdi Tayfur) yaygınlaştı. 1990'lar popunda Sezen Aksu, Erol Evgin, Barış Manço öne çıktı."}
+  ],
+  "tuzak": [
+    {"q": "Ortadoğu'nun su ihtiyacını karşılamaya yönelik hazırlanan İLK proje hangisidir?", "o": ["Barış Suyu Projesi", "GAP"], "c": 0, "n": "İLK proje Barış Suyu (Özal/Seyhan-Ceyhan); GAP daha sonra gelen ve Suriye-Irak tepkisini çeken projedir."},
+    {"q": "Uçurtma Avcısı romanı altyapıda hangi işgali anlatır?", "o": ["SSCB'nin Afganistan işgali", "ABD'nin Afganistan işgali"], "c": 0, "n": "Uçurtma Avcısı → SSCB işgali; ABD işgalini anlatan ise 'Bin Muhteşem Güneş'tir."},
+    {"q": "ABD'nin Irak'ın Kuveyt işgaline karşılık düzenlediği harekat hangisidir?", "o": ["Çöl Fırtınası", "Çöl Tilkisi"], "c": 0, "n": "Çöl Fırtınası = Kuveyt işgaline karşılık; Çöl Tilkisi (1998) = rejimi değiştirmeye yönelik, Saddam'ın lakabıyla anılan harekat."},
+    {"q": "1998'de Irak'taki rejimi değiştirmeye yönelik ABD harekatı hangisidir?", "o": ["Çöl Tilkisi", "Çöl Fırtınası"], "c": 0, "n": "'Çöl Tilkisi' Saddam'ın lakabıdır; bu operasyon rejim değişikliğini hedefler. Çöl Fırtınası ise Kuveyt işgaline yanıttır."},
+    {"q": "Arap Baharı'nın başlangıcı sayılan devrim ve ülkesi hangisidir?", "o": ["Yasemin Devrimi – Tunus", "Kadife Devrim – Çekoslovakya"], "c": 0, "n": "Yasemin (Tunus) Arap Baharı'nı başlattı; Kadife (Çekoslovakya) ise Çekya-Slovakya ayrılığıdır, Arap Baharı'yla ilgisizdir."},
+    {"q": "Çekoslovakya'nın ikiye ayrılmasıyla sonuçlanan devrim hangisidir?", "o": ["Kadife Devrim", "Turuncu Devrim"], "c": 0, "n": "Kadife → Çekoslovakya (Çekya+Slovakya); Turuncu → Ukrayna. Yer karıştırması sık yapılır."},
+    {"q": "Turuncu Devrim hangi ülkede yaşanmıştır?", "o": ["Ukrayna", "Kırgızistan"], "c": 0, "n": "Turuncu → Ukrayna; Lale Devrimi → Kırgızistan. İkisi de post-Sovyet ama farklı ülkelerdir."},
+    {"q": "Karanfil Devrimi hangi ülkede olmuştur?", "o": ["Portekiz", "Lübnan"], "c": 0, "n": "Karanfil → Portekiz; Sedir Devrimi → Lübnan. Baş harf/çiçek çağrışımıyla karışır."},
+    {"q": "Çarlık Rusya'nın yıkılıp SSCB'nin kurulmasını ifade eden devrimin lideri kimdir?", "o": ["Lenin", "Gorbaçov"], "c": 0, "n": "Ekim/Bolşevik Devrimi'nin lideri Lenin'dir (ilk lider); Gorbaçov ise SSCB'nin son lideridir."},
+    {"q": "Bakü-Tiflis-Ceyhan ile TANAP arasındaki fark nedir?", "o": ["BTC petrol, TANAP doğalgaz taşır", "İkisi de doğalgaz taşır"], "c": 0, "n": "BTC = petrol boru hattı; TANAP (Trans Anadolu) = doğalgaz boru hattı. Taşınan kaynak farklıdır."},
+    {"q": "Hazar doğalgazını Avrupa'ya taşımayı amaçlayan ancak BAŞARISIZ olan proje hangisidir?", "o": ["Nabucco", "TANAP"], "c": 0, "n": "Nabucco hayata geçmedi (başarısız); TANAP ise gerçekleşen doğalgaz projesidir."},
+    {"q": "28 Şubat 1997 süreci hangi adla anılır?", "o": ["Postmodern Darbe", "Bayrak Harekatı"], "c": 0, "n": "28 Şubat = Postmodern Darbe (Refahyol/Erbakan istifası); Bayrak Harekatı ise 1980 darbesinin kod adıdır."},
+    {"q": "15 Temmuz darbe girişiminin kod adı hangisidir?", "o": ["Yıldırım Harekatı", "Bayrak Harekatı"], "c": 0, "n": "15 Temmuz = Yıldırım Harekatı; Bayrak Harekatı = 1980 darbesi. Kod adları karıştırılır."},
+    {"q": "15 Temmuz'da darbeyi yapacak konseyin adı nedir?", "o": ["Yurtta Sulh Konseyi", "Milli Güvenlik Konseyi"], "c": 0, "n": "2016 → Yurtta Sulh Konseyi; 1980 → Milli Güvenlik Konseyi; 1960 → Milli Birlik Komitesi. Üçü de ayrıdır."},
+    {"q": "Bilim alanında Nobel kazanan ilk Türk kimdir?", "o": ["Aziz Sancar", "Orhan Pamuk"], "c": 0, "n": "Aziz Sancar (Nobel Kimya, bilim); Orhan Pamuk ise Nobel Edebiyat kazanmıştır (edebiyat, bilim değil)."},
+    {"q": "Yale Üniversitesi'nde 'dünyanın en genç profesörü' unvanını alan bilim insanı kimdir?", "o": ["Oktay Sinanoğlu", "Fuat Sezgin"], "c": 0, "n": "Oktay Sinanoğlu (Yale, 'Bye Bye Türkçe'); Fuat Sezgin ise İslam bilim tarihçisidir (Fuat Sezgin Yılı 2019)."},
+    {"q": "İlk milli tankımız Altay'ın adı kimden gelir?", "o": ["Fahrettin Altay", "İsmet İnönü"], "c": 0, "n": "Altay tankı, İzmir'e giren ilk süvari komutanı Fahrettin Altay'dan adını alır."},
+    {"q": "Dünyada kopyalanan ilk koyun hangisidir?", "o": ["Dolly", "Oyalı"], "c": 0, "n": "Dünyada Dolly; Türkiye'de kopyalanan ilk koyun ise Oyalı'dır."},
+    {"q": "İlk başarılı kalp naklini yapan kişi kimdir?", "o": ["Christiaan Barnard (1967)", "Joseph Murray (1954)"], "c": 0, "n": "Kalp nakli → Barnard (1967); Murray (1954) ise ilk başarılı BÖBREK naklini yapmıştır."},
+    {"q": "Görevi başında vefat eden cumhurbaşkanları hangileridir?", "o": ["Atatürk ve Turgut Özal", "Atatürk ve İsmet İnönü"], "c": 0, "n": "Görevde ölen 2 CB: Atatürk ve Özal. İnönü görevdeyken ölmemiştir."},
+    {"q": "YÖK hangi askeri müdahaleden sonra kurulmuştur?", "o": ["1980 darbesi (1981)", "1960 darbesi"], "c": 0, "n": "YÖK → 1980 darbesi sonrası (1981). TÜBİTAK ve DPT ise 1960 darbesinden sonradır."},
+    {"q": "Türkiye'de UEFA Kupası kazanan tek kulüp hangisidir?", "o": ["Galatasaray", "Fenerbahçe"], "c": 0, "n": "Galatasaray 2000'de UEFA Kupası'nı kazanan tek Türk kulübüdür; ardından Süper Kupa'yı da almıştır."},
+    {"q": "Türkiye'de ilk internetin kullanıldığı yer neresidir?", "o": ["ODTÜ", "İstanbul Teknik Üniversitesi"], "c": 0, "n": "İlk internet → ODTÜ; ilk TV yayını → İTÜ; ilk bilgisayar → Karayolları Genel Müdürlüğü. Kolayca karışır."},
+    {"q": "Türkiye'nin ilk kadın başbakanı kimdir?", "o": ["Tansu Çiller", "Türkan Akyol"], "c": 0, "n": "İlk kadın başbakan Tansu Çiller; Türkan Akyol ise ilk kadın bakandır."},
+    {"q": "Kadife Devrim mi Yasemin Devrimi mi Arap Baharı'nı başlattı?", "o": ["Yasemin Devrimi", "Kadife Devrim"], "c": 0, "n": "Arap Baharı'nı Tunus'taki Yasemin Devrimi başlattı; Kadife Devrim Orta Avrupa (Çekoslovakya) olayıdır."},
+    {"q": "MEB kitabına göre Wikileaks'i kuran kişi kimdir?", "o": ["Julian Assange", "Usame Bin Ladin"], "c": 0, "n": "Wikileaks → Avustralyalı Julian Assange; Bin Ladin ise El Kaide liderliğiyle ilgilidir."},
+    {"q": "Bulgaristan'da Türklere asimilasyon uygulayan lider kimdir?", "o": ["Todor Jivkov", "Slobodan Miloseviç"], "c": 0, "n": "Bulgaristan → Jivkov (Türk asimilasyonu); Miloseviç ise Yugoslavya/Sırbistan lideridir."},
+    {"q": "TRT'de darbe metni zorla kime okutuldu (15 Temmuz)?", "o": ["Tijen Karaş", "Bülent Aydın"], "c": 0, "n": "Metni okutulan spiker → Tijen Karaş; Bülent Aydın ise 15 Temmuz'un ilk şehididir."},
+    {"q": "Çernobil nükleer faciası hangi ülkede yaşandı?", "o": ["Ukrayna", "Rusya"], "c": 0, "n": "Çernobil 1986'da (o dönem SSCB) Ukrayna topraklarındadır; 2015 KPSS'de sorulmuştur."},
+    {"q": "'Yüzyılın beyin cerrahı' unvanlı Türk bilim insanı kimdir?", "o": ["Gazi Yaşargil", "Aziz Sancar"], "c": 0, "n": "Beyin cerrahisi → Gazi Yaşargil; Aziz Sancar ise DNA onarımı/Nobel Kimya ile anılır."},
+    {"q": "Kadife Devrim ile Sedir Devrimi'nin ülkeleri sırasıyla hangileridir?", "o": ["Çekoslovakya – Lübnan", "Lübnan – Çekoslovakya"], "c": 0, "n": "Kadife → Çekoslovakya; Sedir → Lübnan. İsimler karıştırılabilir."}
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi Ortadoğu'nun su ihtiyacını karşılamaya yönelik hazırlanan ilk projedir?",
+      "o": ["Barış Suyu Projesi", "GAP Projesi", "Nabucco Projesi", "TANAP Projesi", "2005 Ankara Deklarasyonu"],
+      "c": 0,
+      "e": "Turgut Özal döneminde Seyhan-Ceyhan sularıyla planlanan Barış Suyu Projesi, bu amaçla hazırlanan ilk projedir."
+    },
+    {
+      "q": "MEB kitabına göre çoğunluğu Peştunlardan oluşan, önce SSCB'nin sonra ABD'nin işgaline karşı savaşan dinci/İslamcı grup aşağıdakilerden hangisidir?",
+      "o": ["Taliban", "El Kaide", "Baas", "Hamas", "Şii Hutiler"],
+      "c": 0,
+      "e": "Taliban, SSCB işgaline karşı doğmuş, sonrasında ABD işgaline de direnmiş, çoğunluğu Peştunlardan oluşan gruptur."
+    },
+    {
+      "q": "ABD'nin, Irak'ın Kuveyt'i işgali üzerine Irak'a düzenlediği harekat aşağıdakilerden hangisidir?",
+      "o": ["Çöl Fırtınası Operasyonu", "Çöl Tilkisi Operasyonu", "Bush Doktrini", "Yıldırım Harekatı", "Bayrak Harekatı"],
+      "c": 0,
+      "e": "Çöl Fırtınası, Kuveyt'in işgali üzerine ABD'nin Irak'a yönelttiği harekattır; Çöl Tilkisi ise rejim değişikliğini hedefler."
+    },
+    {
+      "q": "Aşağıdaki devrim–ülke eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["Karanfil Devrimi – Ukrayna", "Yasemin Devrimi – Tunus", "Kadife Devrim – Çekoslovakya", "Lale Devrimi – Kırgızistan", "Beyaz Devrim – İran"],
+      "c": 0,
+      "e": "Karanfil Devrimi Portekiz'de yaşanmıştır; Ukrayna'daki devrim ise Turuncu Devrim'dir."
+    },
+    {
+      "q": "Arap Baharı ile ilgili,\nI. Tunus'ta Muhammed Buazizi'nin kendini yakmasıyla başlamıştır,\nII. Başlangıcını Yasemin Devrimi temsil eder,\nIII. Mısır'da Hüsnü Mübarek'in yerine halk Muhammed Mursi'yi seçmiştir\nyargılarından hangileri doğrudur?",
+      "o": ["I, II ve III", "Yalnız I", "Yalnız II", "I ve II", "II ve III"],
+      "c": 0,
+      "e": "Her üç yargı da doğrudur: Arap Baharı Tunus'ta Buazizi olayıyla (Yasemin Devrimi) başlamış, Mısır'da Mübarek sonrası Mursi seçilmiştir."
+    },
+    {
+      "q": "Azerbaycan'ın Hazar Denizi'nden çıkardığı doğalgazın Türkiye aracılığıyla Avrupa'ya taşınmasını amaçlayan proje aşağıdakilerden hangisidir?",
+      "o": ["TANAP", "BTC", "Nabucco", "Barış Suyu", "GAP"],
+      "c": 0,
+      "e": "TANAP (Trans Anadolu Doğalgaz Boru Hattı) Azerbaycan doğalgazını Türkiye üzerinden Avrupa'ya taşır; BTC petrol taşır."
+    },
+    {
+      "q": "2005 Ankara Deklarasyonu'na aşağıdaki ülkelerden hangisi katılmamıştır?",
+      "o": ["İran", "Türkiye", "Azerbaycan", "Kazakistan", "Gürcistan"],
+      "c": 0,
+      "e": "Deklarasyona Türkiye, Azerbaycan, Kazakistan, Özbekistan ve Gürcistan katılmıştır; İran taraf değildir."
+    },
+    {
+      "q": "1997'de Refahyol hükümetine karşı, internet üzerinden yayınlanan bir bildiriyle gerçekleşen ve Necmettin Erbakan'ın istifasıyla sonuçlanan süreç aşağıdakilerden hangisidir?",
+      "o": ["28 Şubat Süreci (Postmodern Darbe)", "12 Mart Muhtırası", "27 Mayıs Darbesi", "12 Eylül Darbesi", "15 Temmuz Darbe Girişimi"],
+      "c": 0,
+      "e": "28 Şubat 1997 süreci 'Postmodern Darbe' olarak bilinir ve Erbakan'ın istifasıyla sonuçlanmıştır."
+    },
+    {
+      "q": "15 Temmuz darbe girişimiyle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": ["Darbenin kod adı – Bayrak Harekatı", "Darbeyi yapacak konsey – Yurtta Sulh Konseyi", "Semih Terzi'yi vuran kahraman – Ömer Halisdemir", "TRT spikeri – Tijen Karaş", "İlk şehit – Bülent Aydın"],
+      "c": 0,
+      "e": "15 Temmuz'un kod adı Yıldırım Harekatı'dır; Bayrak Harekatı ise 1980 darbesinin adıdır."
+    },
+    {
+      "q": "Bilim alanında Nobel Ödülü kazanan ilk Türk ve kazandığı alan aşağıdakilerden hangisinde doğru verilmiştir?",
+      "o": ["Aziz Sancar – Kimya", "Orhan Pamuk – Edebiyat", "Oktay Sinanoğlu – Kimya", "Fuat Sezgin – Tıp", "Gazi Yaşargil – Tıp"],
+      "c": 0,
+      "e": "Aziz Sancar, DNA onarımı çalışmasıyla Nobel Kimya Ödülü kazanan ilk Türk'tür; Orhan Pamuk'unki edebiyat alanındadır."
+    },
+    {
+      "q": "Aşağıdaki bilim insanı–eser/unvan eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["Fuat Sezgin – Bye Bye Türkçe", "Oktay Sinanoğlu – dünyanın en genç profesörü", "Aziz Sancar – DNA onarımı", "Gazi Yaşargil – yüzyılın beyin cerrahı", "Fuat Sezgin – İslam İlimleri Tarihi Enstitüsü"],
+      "c": 0,
+      "e": "'Bye Bye Türkçe' Oktay Sinanoğlu'nun eseridir; Fuat Sezgin İslam bilim tarihi çalışmalarıyla anılır."
+    },
+    {
+      "q": "İlk milli tank üretim projesi kapsamında üretilen Altay tankının adı, İzmir'e giren ilk süvari birliklerinin komutanı olan aşağıdaki kişilerden hangisinden gelmektedir?",
+      "o": ["Fahrettin Altay", "İsmet İnönü", "Fevzi Çakmak", "Kâzım Karabekir", "Ali Fuat Cebesoy"],
+      "c": 0,
+      "e": "Altay tankı, İzmir'e giren ilk süvari komutanı Fahrettin Altay'ın adını taşır."
+    },
+    {
+      "q": "Aşağıdaki 'ilk'lerden hangisi yanlış eşleştirilmiştir?",
+      "o": ["İlk başarılı kalp nakli – Joseph Murray", "Dünyada kopyalanan ilk koyun – Dolly", "İlk internet – ARPANET", "İnsandan insana ilk organ nakli – Yuri Voronoy", "Bilim alanında Nobel kazanan ilk Türk – Aziz Sancar"],
+      "c": 0,
+      "e": "İlk başarılı kalp naklini Christiaan Barnard (1967) yapmıştır; Murray ise ilk başarılı böbrek naklini gerçekleştirmiştir."
+    },
+    {
+      "q": "Türkiye'deki 'ilk'lerle ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "o": ["İlk internet – ODTÜ", "İlk TV yayını – ODTÜ", "İlk bilgisayar – İstanbul Teknik Üniversitesi", "İlk internet – Karayolları Genel Müdürlüğü", "İlk bilgisayar – ODTÜ"],
+      "c": 0,
+      "e": "Türkiye'de ilk internet ODTÜ'de, ilk TV yayını İTÜ'de, ilk bilgisayar Karayolları Genel Müdürlüğü'nde kullanılmıştır."
+    },
+    {
+      "q": "Görevi başında vefat eden cumhurbaşkanlarımız aşağıdakilerin hangisinde birlikte verilmiştir?",
+      "o": ["Mustafa Kemal Atatürk – Turgut Özal", "Mustafa Kemal Atatürk – İsmet İnönü", "Turgut Özal – Süleyman Demirel", "İsmet İnönü – Celal Bayar", "Celal Bayar – Turgut Özal"],
+      "c": 0,
+      "e": "Görevi başında vefat eden iki cumhurbaşkanı Atatürk ve Turgut Özal'dır."
+    },
+    {
+      "q": "YÖK'ün kuruluşu aşağıdaki askeri müdahalelerden hangisinin ardından gerçekleşmiştir?",
+      "o": ["12 Eylül 1980 Darbesi", "27 Mayıs 1960 Darbesi", "12 Mart 1971 Muhtırası", "28 Şubat 1997 Süreci", "15 Temmuz 2016 Girişimi"],
+      "c": 0,
+      "e": "YÖK 1981'de, yani 12 Eylül 1980 darbesinin ardından kurulmuştur; TÜBİTAK ve DPT ise 1960 darbesi sonrasıdır."
+    },
+    {
+      "q": "Türkiye'de UEFA Kupası kazanan tek kulüp ve kazanılan yıl aşağıdakilerden hangisinde doğru verilmiştir?",
+      "o": ["Galatasaray – 2000", "Fenerbahçe – 2000", "Beşiktaş – 1996", "Galatasaray – 2008", "Trabzonspor – 1992"],
+      "c": 0,
+      "e": "Galatasaray, 2000 yılında UEFA Kupası'nı kazanan tek Türk kulübüdür; ardından Süper Kupa'yı da almıştır."
+    },
+    {
+      "q": "Nuri Bilge Ceylan'ın Cannes Film Festivali'nde Altın Palmiye kazandığı filmi aşağıdakilerden hangisidir?",
+      "o": ["Kış Uykusu", "Üç Maymun", "Kuru Otlar Üstüne", "Bir Zamanlar Anadolu'da", "Uzak"],
+      "c": 0,
+      "e": "Nuri Bilge Ceylan 2014'te Kış Uykusu ile Altın Palmiye'yi; 2008'de Üç Maymun ile en iyi yönetmen ödülünü almıştır."
+    },
+    {
+      "q": "MEB kitabına göre modern hakimiyet teorileriyle ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "o": ["Kara hakimiyet teorisi – Mackinder", "Deniz hakimiyet teorisi – Spykman", "Kenar kuşak teorisi – Mahan", "Kara hakimiyet teorisi – Mahan", "Deniz hakimiyet teorisi – Mackinder"],
+      "c": 0,
+      "e": "Kara hakimiyet teorisi Mackinder'e, deniz hakimiyet teorisi Mahan'a, kenar kuşak teorisi Spykman'a aittir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi 2005 yılında Japonya'da imzalanan, küresel ısınma ve iklim değişikliğiyle mücadeleyi amaçlayan uluslararası anlaşmadır?",
+      "o": ["Kyoto Protokolü", "Helsinki Nihai Senedi", "Maastricht Antlaşması", "Ankara Deklarasyonu", "Dayton Antlaşması"],
+      "c": 0,
+      "e": "Kyoto Protokolü, iklim değişikliği ve küresel ısınmayla mücadele için imzalanan uluslararası anlaşmadır."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Renkli Devrimler ve Ülkeleri",
+      "p": [
+        ["Yasemin Devrimi", "Tunus"],
+        ["Kadife Devrim", "Çekoslovakya"],
+        ["Turuncu Devrim", "Ukrayna"],
+        ["Karanfil Devrimi", "Portekiz"],
+        ["Lale Devrimi", "Kırgızistan"],
+        ["Sedir Devrimi", "Lübnan"],
+        ["Beyaz Devrim", "İran"]
+      ]
+    },
+    {
+      "ad": "Arap Baharı: Ülke ve Öne Çıkan İsim/Olay",
+      "p": [
+        ["Tunus", "Muhammed Buazizi (Yasemin Devrimi)"],
+        ["Mısır", "Mübarek → Mursi → Sisi"],
+        ["Libya", "Muammer Kaddafi (aşiretler savaşı)"],
+        ["Suriye", "Beşar Esad (Rusya'ya kaçtı)"],
+        ["Yemen", "Abdullah Salih / Şii Hutiler"],
+        ["Fas", "Arap Baharı'ndan az etkilendi"]
+      ]
+    },
+    {
+      "ad": "Enerji Projeleri ve İçerikleri",
+      "p": [
+        ["BTC", "Bakü-Tiflis-Ceyhan petrol hattı"],
+        ["TANAP", "Trans Anadolu doğalgaz hattı"],
+        ["Nabucco", "Hazar doğalgazı – başarısız proje"],
+        ["2005 Ankara Deklarasyonu", "TR-Azerbaycan-Kazakistan-Özbekistan-Gürcistan"],
+        ["Barış Suyu Projesi", "Özal / Seyhan-Ceyhan / ilk su projesi"],
+        ["GAP", "Suriye-Irak tepkisi"]
+      ]
+    },
+    {
+      "ad": "15 Temmuz Kavramları",
+      "p": [
+        ["Yıldırım Harekatı", "Darbe girişiminin kod adı"],
+        ["Yurtta Sulh Konseyi", "Darbeyi yapacak konsey"],
+        ["Tijen Karaş", "Darbe metni okutulan TRT spikeri"],
+        ["Ömer Halisdemir", "Semih Terzi'yi vuran kahraman"],
+        ["Bülent Aydın", "İlk şehit / Iğdır Havalimanı"],
+        ["FETÖ/PDY", "Paralel Devlet Yapılanması"]
+      ]
+    },
+    {
+      "ad": "4 Büyük Bilim İnsanı ve Alanı",
+      "p": [
+        ["Oktay Sinanoğlu", "Yale / Bye Bye Türkçe"],
+        ["Aziz Sancar", "DNA onarımı / Nobel Kimya"],
+        ["Fuat Sezgin", "İslam bilim tarihi / 2019 yılı"],
+        ["Gazi Yaşargil", "Yüzyılın beyin cerrahı"],
+        ["Mehmet Akif Pirim", "1992 Barcelona güreş altını"],
+        ["Naim Süleymanoğlu", "Cep Herkülü (halter)"]
+      ]
+    },
+    {
+      "ad": "Dünyada Bilim/Teknoloji 'İlk'leri",
+      "p": [
+        ["İlk kalp nakli (1967)", "Christiaan Barnard"],
+        ["İlk organ nakli (1933)", "Yuri Voronoy"],
+        ["İlk böbrek nakli (1954)", "Joseph Murray"],
+        ["Kopyalanan ilk koyun", "Dolly"],
+        ["İlk internet (1969)", "ARPANET"],
+        ["NASA Mars aracı", "Perseverance"]
+      ]
+    }
+  ]
+}

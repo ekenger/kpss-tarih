@@ -1,0 +1,400 @@
+{
+  "meta": {
+    "gun": 28,
+    "baslik": "Yumuşama Dönemi (Detant) — 2. Kısım: Türk-Yunan/Ermeni Sorunları ve Türkiye'de Bunalımlı Yıllar",
+    "ozet": "Yumuşama döneminin ikinci videosu: Kıbrıs ve Ege (kıta sahanlığı, karasuları, FIR, Kardak) sorunları, Türk-Ermeni sorunu, 1960-1980 darbeleri ve koalisyonlar, 1980 sonrası siyaset ile ekonomik-kültürel-bilimsel gelişmeler.",
+    "tahminiSoru": "KPSS'de ~2-4 soru (Kıbrıs kavramları, darbeler ve kurulan kurumlar sık gelir)",
+    "duzeltmeler": [
+      "Tactiq 'Aytefanos/Stefanos/Ayfanos' → Ayastefanos Antlaşması",
+      "Tactiq 'Zürriye/Zürriya' → Zürih Antlaşması (1959)",
+      "Tactiq 'McMillan/McMelyan/McMillian' → Macmillan Planı (1958)",
+      "Tactiq 'Yorgo/Yorga Grivas' → Georgios (Yorgo) Grivas",
+      "Tactiq 'Makaryos' → Makarios (III)",
+      "Tactiq 'Janson/Cansun/Jansun' → (Lyndon B.) Johnson",
+      "Tactiq 'Cengiz Sopel' → Cengiz Topel",
+      "Tactiq 'Samson/Samsun' → Nikos Sampson",
+      "Tactiq 'Anlan/Anlam Planı' → Annan Planı (Kofi Annan)",
+      "Tactiq 'Cevdet Suna/Devlet Suna' → Cevdet Sunay",
+      "Tactiq 'Nihat Terim' → Nihat Erim",
+      "Tactiq 'Orhan Aldı Kaştı/Aldıkaştı' → Orhan Aldıkaçtı",
+      "Tactiq 'Tansuçiller/Tamsu Çiller' → Tansu Çiller",
+      "Tactiq 'Limne adası' → Limni Adası",
+      "Tactiq 'Yıldırım Gür ses' → Yıldırım Gürses",
+      "Tactiq 'Layikka' → Layka",
+      "Tactiq 'Christian Bernard' → Christiaan Barnard",
+      "Tactiq 'Yürüagarin' → Yuri Gagarin; 'Mostok/Mostop/Vostock' → Vostok 1",
+      "Tactiq 'Malcom/Malcomik' → Malcolm X",
+      "Tactiq 'Sveç/Süvey kanalı' → Süveyş Kanalı",
+      "Tactiq 'Fatin Rüşlü Zorlu' → Fatin Rüştü Zorlu",
+      "Hoca 'Kıbrıs Selim döneminde fethedildi' derken II. Selim (1571) kastediyor",
+      "Ermeni tehcir bağlamında hoca 'Dünya Savaşı' derken I. Dünya Savaşı'nı (1915) kastediyor"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Kıbrıs — Temel Kavramlar",
+      "i": [
+        {"k": "Enosis = Yunanistan'a bağlama", "m": "Kıbrıs Adası'nı Yunanistan'a bağlama ideali/hedefi. Defalarca soruldu.", "s": "z"},
+        {"k": "EOKA = Enosis'in silahı", "m": "Enosis'i gerçekleştirmek için Yorgo Grivas'ın kurduğu Rum terör örgütü.", "s": "z"},
+        {"k": "TMT = EOKA'ya karşı biz", "m": "Türk Mukavemet Teşkilatı; kuruluşunda Rauf Denktaş etkili.", "s": "z"},
+        {"k": "Yeşil Hat = Lefkoşa'yı ikiye böler", "m": "Kanlı Noel sonrası İngiliz general'in Türk-Rum arasına çizdiği hat.", "s": "z"},
+        {"k": "Akritas = ani baskınla yok etme", "m": "1966, Rumların Kıbrıs Türklerini ani baskınla yok etme planı (gazetede yayınlandı).", "s": "z"},
+        {"k": "Annan = Birleşik Kıbrıs", "m": "Kuzey+Güney birleşsin planı; Türkler kabul, Rumlar reddetti.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Kıbrıs — Antlaşma Zinciri",
+      "i": [
+        {"k": "Macmillan 1958 → ÜÇLÜ, reddedildi", "m": "İngiltere'nin İngiltere-Türkiye-Yunanistan üçlü yönetim planı; başarısız.", "s": "z"},
+        {"k": "Zürih 1959 → KARAR", "m": "Kıbrıs'ta bağımsız cumhuriyet kurma KARARI alındı.", "s": "z"},
+        {"k": "Londra 1959 → KURULUŞ", "m": "Zürih esas alınarak bağımsız Kıbrıs Devleti KURULDU.", "s": "z"},
+        {"k": "Karar Zürih, Kuruluş Londra", "m": "İkisini karıştırma: önce Zürih'te karar, sonra Londra'da devlet.", "s": "e"}
+      ]
+    },
+    {
+      "b": "Kıbrıs — Olaylar Zinciri",
+      "i": [
+        {"k": "1963 Kanlı Noel", "m": "Rumlar Türkleri katletti; 350+ (≈374) Türk şehit, 100+ Rum öldü.", "s": "z"},
+        {"k": "1964 Johnson Mektubu → İnönü'ye", "m": "ABD Başkanı Johnson'ın İsmet İnönü'ye tehdit mektubu (ambargo+silah kullandırmama).", "s": "z"},
+        {"k": "Johnson sonrası → SSCB'ye yakınlaşma", "m": "ABD ilişkileri bozuldu, Türkiye SSCB'ye yaklaştı ('deveden büyük fil var').", "s": "z"},
+        {"k": "Cengiz Topel = ilk hava şehidi", "m": "Uyarı uçuşunda arızalanıp Rumlara esir düştü, işkenceyle şehit edildi.", "s": "z"},
+        {"k": "1967 Geçici Türk Yönetimi", "m": "Fazıl Küçük + Rauf Denktaş liderliğinde kuruldu.", "s": "z"},
+        {"k": "EOKA Darbesi → Sampson", "m": "Sampson, Makarios'a darbe yapıp 'Kıbrıs Elen Cumhuriyeti'ni ilan etti; harekatın önünü açtı.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Kıbrıs — 1974 Barış Harekatı",
+      "i": [
+        {"k": "Şifre: Ayşe tatile çıksın", "m": "Ayşe = Dışişleri Bakanı Turan Güneş'in kızı.", "s": "z"},
+        {"k": "Cumhurbaşkanı Fahri Korutürk", "m": "Harekat dönemi devlet başkanı.", "s": "z"},
+        {"k": "Başbakan Bülent Ecevit (Karaoğlan)", "m": "Harekatın en önemli ismi.", "s": "z"},
+        {"k": "Yardımcı Necmettin Erbakan", "m": "Adı az anılan ama harekata destek veren başbakan yardımcısı.", "s": "z"},
+        {"k": "Dışişleri Turan Güneş", "m": "Cenevre görüşmelerini yürüten bakan.", "s": "z"},
+        {"k": "Dayanak: Cenevre + garantörlük", "m": "Cenevre Antlaşması'ndaki garantörlük hakkına dayanılarak yapıldı.", "s": "z"},
+        {"k": "Kapalı Maraş = kapatılan Las Vegas", "m": "Kumarhaneleriyle ünlü, harekat sonrası kapatılan bölge.", "s": "z"},
+        {"k": "TCG Kocatepe = dost ateşi", "m": "Harekat sırasında iletişimsizlikle kendi batırdığımız gemi.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Kıbrıs — Sonuç ve Aktörler",
+      "i": [
+        {"k": "1983 KKTC → ilk lider Rauf Denktaş", "m": "Kuzey Kıbrıs Türk Cumhuriyeti; Denktaş 1983-2012 liderlik etti.", "s": "z"},
+        {"k": "KKTC'yi tanıyan ilk devlet: Türkiye", "m": "Bugüne dek KKTC'yi resmen tanıyan tek/ilk devlet.", "s": "z"},
+        {"k": "İlk Cumhurbaşkanı Makarios", "m": "Bağımsız Kıbrıs'ın ilk lideri; yardımcısı Fazıl Küçük (2016 KPSS).", "s": "z"},
+        {"k": "II. Selim → 1571 fetih", "m": "Kıbrıs II. Selim'de fethedildi; İnebahtı'da donanma yakıldı, Uluç Ali kurtardı.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Ege Sorunları (Türk-Yunan)",
+      "i": [
+        {"k": "Kıta sahanlığı = 200 m derinlik", "m": "Şelf alanı; karadan 200 m derinliğe kadar uzanan alan.", "s": "z"},
+        {"k": "Kıta sahanlığı çözümü: Bern Deklarasyonu", "m": "Petrol arama kaynaklı sorun; UAD çözemedi, Bern çözdü.", "s": "z"},
+        {"k": "Bern ≠ Taşkent", "m": "Bern = Türk-Yunan kıta sahanlığı; Taşkent = Pakistan-Hindistan Keşmir.", "s": "z"},
+        {"k": "Karasuları: 3→6→(12?) savaş nedeni", "m": "Yunanistan 3'ten 6'ya çıkardı; 12 mile çıkarma arzusunu Türkiye casus belli saydı.", "s": "z"},
+        {"k": "Ege Adaları silahsız (Lozan)", "m": "Lozan'a göre silahsız; Yunanistan NATO tatbikatı bahanesiyle Limni'yi silahlandırmak istedi.", "s": "z"},
+        {"k": "FIR hattı = Ege hava sahası sorunu", "m": "'Fır fır' pervane; Türkiye NOTAM ile 50 mil kala bildirim zorunluluğu koydu.", "s": "z"},
+        {"k": "1996 Kardak = bayrak krizi", "m": "Suların çekilmesiyle çıktı; Tansu Çiller 'o asker gidecek, o bayrak inecek'.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Türk-Ermeni Sorunu",
+      "i": [
+        {"k": "Millet-i Sadıka → 93 Harbi ihaneti", "m": "Sadık milletti; 1877-78'de Ruslarla anlaşıp saldırdı.", "s": "z"},
+        {"k": "İlk uluslararası belge: Berlin Antlaşması", "m": "Ermeni sorunu ilk kez Berlin Antlaşması'na yansıdı.", "s": "z"},
+        {"k": "Ermeni intikam alayları ↔ Hamidiye Alayları", "m": "Abdülhamid, Ermeni intikam alaylarına karşı Hamidiye Alayları'nı kurdu.", "s": "z"},
+        {"k": "Sevk ve İskan (Tehcir) → Suriye+Lübnan", "m": "I. Dünya Savaşı'nda Ermeniler Suriye ve Lübnan'a gönderildi.", "s": "z"},
+        {"k": "Gümrü → geri dönüş izni", "m": "TBMM'nin ilk askeri-siyasi zaferi; sürgün Ermenilere dönüş hakkı.", "s": "z"},
+        {"k": "ASALA = Beyrut/Lübnan terör örgütü", "m": "Sözde soykırımı kabul ettirmek için kurulan Ermeni terör örgütü.", "s": "z"}
+      ]
+    },
+    {
+      "b": "1960 Darbesi ve Sonrası",
+      "i": [
+        {"k": "27 Mayıs 1960 → Milli Birlik Komitesi", "m": "Lider Cemal Gürsel; Demokrat Parti iktidarına darbe.", "s": "z"},
+        {"k": "İdam edilen 3: Menderes-Polatkan-Zorlu", "m": "Yassıada'da idam; Adnan Menderes idam edilen ilk/tek başbakan.", "s": "z"},
+        {"k": "Bayar → yaş haddi → ev hapsi", "m": "Celal Bayar idama mahkum edildi ama yaş haddinden ev hapsine çevrildi.", "s": "z"},
+        {"k": "Yassıada → Demokrasi ve Özgürlükler Adası", "m": "Yargılama-idam yeri; adı sonradan değişti.", "s": "z"},
+        {"k": "1961 Anayasası + Cemal Gürsel CB", "m": "Darbe sonrası anayasa kabul, Gürsel cumhurbaşkanı.", "s": "z"},
+        {"k": "İlk koalisyon: CHP + AP (1961)", "m": "Türkiye Cumhuriyeti'nin ilk koalisyon hükümeti.", "s": "z"},
+        {"k": "1965 → Demirel'in AP'si", "m": "Süleyman Demirel (Isparta İslamköy, DSİ) liderliğinde AP kazandı.", "s": "z"}
+      ]
+    },
+    {
+      "b": "1960 Darbesinden Sonra Kurulan Kurumlar",
+      "i": [
+        {"k": "DPT = kalkınma + nüfusa fren", "m": "Devlet Planlama Teşkilatı; nüfus artırıcı politikaya son verdi.", "s": "z"},
+        {"k": "TÜBİTAK = bilim/teknoloji", "m": "Bilim ve teknolojiyi teşvik için kuruldu.", "s": "z"},
+        {"k": "Anayasa Mahkemesi = anayasaya uygunluk", "m": "Yasaların anayasaya uygunluğunu denetler.", "s": "z"},
+        {"k": "TRT = ilk kamu yayıncısı", "m": "Türkiye Radyo ve Televizyon Kurumu.", "s": "z"},
+        {"k": "HSYK = hakim-savcı özlük", "m": "Hakimler ve Savcılar Yüksek Kurulu.", "s": "z"},
+        {"k": "MGK gündemini CB belirler", "m": "Milli Güvenlik Kurulu'nun gündemini Cumhurbaşkanı belirler.", "s": "z"},
+        {"k": "ÇELDİRİCİ: YSK=1950, YÖK=1980", "m": "YSK 1950 seçimleri için, YÖK 1980 darbesi sonrası; 1960 sonrası DEĞİL.", "s": "z"}
+      ]
+    },
+    {
+      "b": "1971 Muhtırası ve Başbakan Sonları",
+      "i": [
+        {"k": "12 Mart 1971 → Sunay'a muhtıra", "m": "Ordu, 32. hükümet istifa etmezse darbe dedi; Demirel istifa etti.", "s": "z"},
+        {"k": "Nihat Erim = suikastle öldürülen tek başbakan", "m": "12 Mart sonrası kurulan hükümetin başbakanı.", "s": "z"},
+        {"k": "İdam → Menderes / Suikast → Erim", "m": "İdamla öldürülen ilk/tek başbakan Menderes; suikastle Nihat Erim.", "s": "e"},
+        {"k": "1973 → Fahri Korutürk CB", "m": "CHP+AP desteğiyle cumhurbaşkanı seçildi.", "s": "z"}
+      ]
+    },
+    {
+      "b": "1980 Darbesi ve Sonrası",
+      "i": [
+        {"k": "12 Eylül 1980 = Bayrak Harekatı", "m": "Milli Güvenlik Konseyi; lider Kenan Evren.", "s": "z"},
+        {"k": "Evren CB, Bülent Ulusu Başbakan", "m": "Darbe sonrası devlet ve hükümet başkanları.", "s": "z"},
+        {"k": "1982 Anayasası → Orhan Aldıkaçtı", "m": "Hazırlayan kurulun lideri Orhan Aldıkaçtı.", "s": "z"},
+        {"k": "1960↔1980 karıştırma", "m": "1960: Milli Birlik Komitesi/Gürsel; 1980: Milli Güvenlik Konseyi/Evren.", "s": "e"},
+        {"k": "1983 → Özal ANAP tek başına", "m": "Erbakan-Demirel-Ecevit-Türkeş yasaklıyken Turgut Özal tek başına iktidar.", "s": "z"},
+        {"k": "1987 → siyasi yasaklar kalktı", "m": "Erbakan, Demirel, Ecevit, Türkeş yeniden siyasete döndü.", "s": "z"}
+      ]
+    },
+    {
+      "b": "1980 Sonrası Siyaset — İlk/Tekler",
+      "i": [
+        {"k": "1989 → Özal CB, Akbulut Başbakan", "m": "Turgut Özal cumhurbaşkanı, Yıldırım Akbulut başbakan.", "s": "z"},
+        {"k": "1993 → Özal görevde vefat eden 2. CB", "m": "İlki Atatürk; sonra Demirel CB, Tansu Çiller başbakan.", "s": "z"},
+        {"k": "Tansu Çiller = ilk/tek kadın başbakan", "m": "Süleyman Demirel CB olunca başbakan oldu.", "s": "z"},
+        {"k": "Türkan Akyol = ilk kadın bakan", "m": "Türkiye'nin ilk kadın bakanı.", "s": "z"},
+        {"k": "Anayol=ANAP+DYP / Refahyol=RP+DYP", "m": "1996: Anayol (Mesut Yılmaz), Refahyol (Erbakan).", "s": "z"},
+        {"k": "1999 → DSP+MHP+ANAP (Ecevit)", "m": "Üçlü koalisyon; DSP kurucusu Rahşan Ecevit.", "s": "z"},
+        {"k": "2002 AKP tek başına, 2007 Gül, 2014 Erdoğan", "m": "2000 Sezer CB; 2002 AKP iktidar; 2007 Gül, 2014 Erdoğan CB.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Ekonomik Gelişmeler",
+      "i": [
+        {"k": "İthal ikameci = içeride üretme", "m": "İthal edilen malların ülke içinde üretilmesi (MEB vurgusu).", "s": "z"},
+        {"k": "24 Ocak 1980 → serbest piyasa (Özal)", "m": "Turgut Özal (başbakan müsteşarı); ithal ikameciyi bırakıp serbest piyasaya geçiş.", "s": "z"},
+        {"k": "Bankerler Krizi = yüksek faiz batışı", "m": "Bankerlere yatırılan paraların, bankerlerin batmasıyla yok olması.", "s": "z"},
+        {"k": "5 Nisan 1994 → kriz kararları (Çiller)", "m": "Ekonomik krizden çıkış; Tansu Çiller başbakanlığında.", "s": "z"},
+        {"k": "24 Ocak Özal / 5 Nisan Çiller", "m": "İki karar setinin sahiplerini karıştırma.", "s": "e"}
+      ]
+    },
+    {
+      "b": "Kültürel ve Bilimsel Gelişmeler",
+      "i": [
+        {"k": "Susuz Yaz → Altın Ayı (Metin Erksan)", "m": "Berlin Film Festivali'nde Altın Ayı ödülü.", "s": "z"},
+        {"k": "Altın Mikrofon → Yıldırım Gürses", "m": "İlk Altın Mikrofon'u Yıldırım Gürses kazandı (Müslüm değil).", "s": "z"},
+        {"k": "Anadolu Rock: Barış Manço + Cem Karaca", "m": "Moğollar grubu içinde; Anadolu rock öncüleri.", "s": "z"},
+        {"k": "1971 Akdeniz Oyunları İzmir'de", "m": "İlki Mısır İskenderiye; Türkiye'de ilk kez İzmir.", "s": "z"},
+        {"k": "Köy romanı: Aydemir=Toprak Uyanınca, Baykurt=Yılanların Öcü", "m": "İki köy romancısı ve eserleri.", "s": "z"},
+        {"k": "Çile = Necip Fazıl", "m": "Bütün şiirlerini 'Çile' adlı eserde topladı.", "s": "z"},
+        {"k": "68 Kuşağı → Fransa", "m": "Özgürlük-barış-yaşam standardı; Türkiye'de Deniz Gezmiş, Mahir Çayan.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Irkçılık ve Uzay İlkleri",
+      "i": [
+        {"k": "Martin Luther King ≠ Martin Luther", "m": "King: ABD siyahi hakları, 'I have a dream', suikast; Luther: reform lideri.", "s": "z"},
+        {"k": "Malcolm X → siyahi hakları, suikast", "m": "Muhammed Ali'nin Müslüman olmasında etkili olduğu söylenir.", "s": "z"},
+        {"k": "Nelson Mandela = Madiba", "m": "Güney Afrika'nın ilk siyahi lideri.", "s": "z"},
+        {"k": "Uzaya ilk insan: Gagarin (Vostok 1, SSCB)", "m": "İlk insanlı uzay uçuşu.", "s": "z"},
+        {"k": "Aya ilk insan: Armstrong (ABD)", "m": "Ay'a ayak basan ilk insan.", "s": "z"},
+        {"k": "Uzayda yürüyen ilk: Leonov (SSCB)", "m": "İlk uzay yürüyüşü.", "s": "z"},
+        {"k": "İlk kadın: Tereşkova (SSCB)", "m": "Uzaya çıkan ilk kadın.", "s": "z"},
+        {"k": "İlk hayvan: Layka (köpek)", "m": "Hoca: meyve sinekleri denir ama vurgu Layka; ilk kalp nakli Christiaan Barnard.", "s": "z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c": "Kıbrıs Kavramları", "o": "Enosis nedir?", "a": "Kıbrıs Adası'nı Yunanistan'a bağlama ideali/hedefi. Defalarca soruldu."},
+    {"c": "Kıbrıs Kavramları", "o": "EOKA nedir, kim kurdu?", "a": "Enosis'i gerçekleştirmek için kurulan Rum terör örgütü. Yorgo (Georgios) Grivas kurdu."},
+    {"c": "Kıbrıs Kavramları", "o": "TMT nedir, kuruluşunda kim etkili?", "a": "Türk Mukavemet Teşkilatı; EOKA'ya karşı kuruldu. Rauf Denktaş etkili oldu."},
+    {"c": "Kıbrıs Kavramları", "o": "Yeşil Hat nedir?", "a": "Kanlı Noel sonrası bir İngiliz generalin Lefkoşa'yı ikiye ayırarak Türklerle Rumlar arasına çizdiği hat."},
+    {"c": "Kıbrıs Kavramları", "o": "Akritas Planı nedir? (yıl)", "a": "1966. Rumların, Kıbrıs'taki Türkleri ani bir baskınla yok etme planı; gazetede yayınlandı. Muhtemel soru adayı."},
+    {"c": "Kıbrıs Kavramları", "o": "Annan Planı nedir?", "a": "Birleşik Kıbrıs planı (Kuzey+Güney birleşsin). Türkler kabul etti, Rumlar reddetti."},
+    {"c": "Kıbrıs Antlaşmaları", "o": "Macmillan Planı nedir, sonucu? (1958)", "a": "İngiltere'nin İngiltere-Türkiye-Yunanistan üçlü yönetim planı. Reddedildi, başarısız oldu."},
+    {"c": "Kıbrıs Antlaşmaları", "o": "Zürih Antlaşması ile ne alındı? (1959)", "a": "Kıbrıs'ta bağımsız bir cumhuriyet kurma KARARI alındı."},
+    {"c": "Kıbrıs Antlaşmaları", "o": "Londra Antlaşması ile ne oldu? (1959)", "a": "Zürih esas alınarak bağımsız Kıbrıs Devleti fiilen KURULDU."},
+    {"c": "Kıbrıs Antlaşmaları", "o": "Bağımsız Kıbrıs'ın ilk CB ve yardımcısı kim?", "a": "İlk cumhurbaşkanı Makarios, yardımcısı Fazıl Küçük (2016 KPSS genel kültür)."},
+    {"c": "Kıbrıs Olayları", "o": "Kanlı Noel nedir? (yıl, sonuç)", "a": "1963. Rumların Kıbrıslı Türkleri katletmesi; 350'den fazla (≈374) Türk şehit, 100'den fazla Rum öldü. Muhtemel soru adayı."},
+    {"c": "Kıbrıs Olayları", "o": "Johnson Mektubu nedir, kime gönderildi? (1964)", "a": "ABD Başkanı Johnson'ın İsmet İnönü'ye gönderdiği tehdit mektubu: harekat yaparsan ambargo uygularım, silahları kullandırmam."},
+    {"c": "Kıbrıs Olayları", "o": "Johnson Mektubu'nun dış politikaya etkisi?", "a": "ABD-Türkiye ilişkileri bozuldu; Türkiye SSCB ile yakınlaşma sürecine girdi."},
+    {"c": "Kıbrıs Olayları", "o": "Cengiz Topel kimdir?", "a": "Kıbrıs'taki ilk hava şehidimiz. Uyarı uçuşunda uçağı arızalanıp Rumlara esir düştü, işkenceyle şehit edildi. Muhtemel soru adayı."},
+    {"c": "Kıbrıs Olayları", "o": "Kıbrıs Geçici Türk Yönetimi ne zaman, kimlerle kuruldu?", "a": "1967. Fazıl Küçük ve Rauf Denktaş liderliğinde kuruldu."},
+    {"c": "Kıbrıs Olayları", "o": "EOKA Darbesi'nde ne oldu?", "a": "EOKA lideri Sampson, Makarios'a darbe yapıp yerine geçti ve 'Kıbrıs Elen Cumhuriyeti'ni ilan etti. Bu, Türkiye'nin garantörlük haklarıyla harekat yolunu açtı."},
+    {"c": "Kıbrıs Barış Harekatı", "o": "1974 Barış Harekatı'nın şifresi nedir?", "a": "'Ayşe tatile çıksın.' Ayşe, Dışişleri Bakanı Turan Güneş'in kızıdır."},
+    {"c": "Kıbrıs Barış Harekatı", "o": "1974 harekatında CB, Başbakan, yardımcı, dışişleri kim?", "a": "CB Fahri Korutürk, Başbakan Bülent Ecevit, Yardımcısı Necmettin Erbakan, Dışişleri Turan Güneş."},
+    {"c": "Kıbrıs Barış Harekatı", "o": "Harekat hangi hakka dayanılarak yapıldı?", "a": "Cenevre Antlaşması'ndaki garantörlük hakkına dayanılarak 1974'te yapıldı."},
+    {"c": "Kıbrıs Barış Harekatı", "o": "Kapalı Maraş nedir?", "a": "Kumarhaneleriyle ünlü, 'Las Vegas'a benzetilen bölge. Harekat sonrası kapatıldı, hâlâ kapalı."},
+    {"c": "Kıbrıs Barış Harekatı", "o": "TCG Kocatepe'ye ne oldu?", "a": "Harekat sırasında iletişimsizlik yüzünden dost ateşiyle vurup batırdığımız kendi gemimizdir."},
+    {"c": "Kıbrıs Sonuç", "o": "KKTC ne zaman kuruldu, ilk lideri kim?", "a": "1983. İlk cumhurbaşkanı Rauf Denktaş (1983-2012 liderlik etti, 2012'de vefat)."},
+    {"c": "Kıbrıs Sonuç", "o": "KKTC'yi tanıyan ilk/tek devlet hangisi?", "a": "Türkiye Cumhuriyeti."},
+    {"c": "Kıbrıs Sonuç", "o": "Kıbrıs Osmanlı'ya ne zaman, kimin döneminde katıldı?", "a": "II. Selim döneminde (1571). İnebahtı'da donanma yakıldı, Uluç Ali (Kılıç Ali) Paşa gemilerini kurtarıp kaptan-ı derya oldu."},
+    {"c": "Ege Sorunları", "o": "Kıta sahanlığı (şelf) nedir?", "a": "Karadan başlayıp 200 metre derinliğe ulaşıncaya kadar uzanan deniz altı alanı."},
+    {"c": "Ege Sorunları", "o": "Kıta sahanlığı sorunu hangi belgeyle çözüldü?", "a": "Bern Deklarasyonu. (UAD'ye götürüldü ama çözüm çıkmadı.) Taşkent Deklarasyonu ile karıştırma."},
+    {"c": "Ege Sorunları", "o": "Karasuları sorununda Türkiye'nin tepkisi ne oldu?", "a": "Yunanistan 3'ten 6 mile çıkardı; 12 mile çıkarma arzusunu Türkiye savaş nedeni (casus belli) sayıp ültimatom verdi."},
+    {"c": "Ege Sorunları", "o": "Ege Adaları'nın silahlandırılması neden sorun?", "a": "Lozan'a göre bu adalar silahsız olacaktı; Yunanistan NATO tatbikatı bahanesiyle (Limni) silahlandırmak istedi."},
+    {"c": "Ege Sorunları", "o": "FIR hattı (Ege hava sahası) sorunu nedir?", "a": "Hava sınırının genişliği sorunu. Türkiye NOTAM ile yeni FIR hattı kurup 50 mil kala bildirim zorunluluğu getirdi; karşılıklı anlaşmayla çözüldü."},
+    {"c": "Ege Sorunları", "o": "Kardak Kayalıkları Krizi nedir? (yıl, başbakan)", "a": "1996. Suların çekilmesiyle çıktı, Rumlar bayrak dikti. Başbakan Tansu Çiller 'o asker gidecek, o bayrak inecek' dedi; Türk bayrağı dikildi."},
+    {"c": "Türk-Ermeni", "o": "Ermeniler Osmanlı'da hangi adla anılırdı, ne değişti?", "a": "'Millet-i sadıka' (sadık millet) idi; 1877-78 (93 Harbi) Ruslarla anlaşıp Osmanlı'ya saldırınca bu bozuldu."},
+    {"c": "Türk-Ermeni", "o": "Ermeni sorunu ilk kez hangi uluslararası belgeye yansıdı?", "a": "Berlin Antlaşması. (Ayastefanos iptal edilip yerine Berlin yapıldı.)"},
+    {"c": "Türk-Ermeni", "o": "Ermeni intikam alaylarına karşı ne kuruldu?", "a": "Abdülhamid döneminde Hamidiye Alayları kuruldu."},
+    {"c": "Türk-Ermeni", "o": "Sevk ve İskan (Tehcir) Kanunu ile Ermeniler nereye gönderildi?", "a": "I. Dünya Savaşı'nda Suriye ve Lübnan'a (o dönem Osmanlı toprağı) gönderildiler."},
+    {"c": "Türk-Ermeni", "o": "Gümrü Antlaşması'nın Ermenilerle ilgili maddesi?", "a": "Suçsuz ve sürgüne tabi Ermenilerin geri dönmesine izin verildi. Gümrü, TBMM'nin ilk askeri-siyasi zaferidir."},
+    {"c": "Türk-Ermeni", "o": "ASALA nedir, nerede kuruldu?", "a": "Sözde soykırımı kabul ettirmek için kurulan Ermeni silahlı terör örgütü. Lübnan'ın Beyrut kentinde kuruldu. Muhtemel soru adayı."},
+    {"c": "1960 Darbesi", "o": "27 Mayıs 1960 darbesini kim yaptı, lideri kim?", "a": "Milli Birlik Komitesi yaptı; lideri Cemal Gürsel. Demokrat Parti iktidarına yönelikti."},
+    {"c": "1960 Darbesi", "o": "1960 sonrası Yassıada'da idam edilen üç isim kim?", "a": "Adnan Menderes, Hasan Polatkan, Fatin Rüştü Zorlu. Menderes idam edilen ilk/tek başbakan; Zorlu NATO'daki ilk temsilcimizdi."},
+    {"c": "1960 Darbesi", "o": "Celal Bayar neden idam edilmedi?", "a": "İdama mahkum edildi ama yaş haddinden cezası ev hapsine çevrildi."},
+    {"c": "1960 Darbesi", "o": "Yassıada'nın bugünkü adı nedir?", "a": "Demokrasi ve Özgürlükler Adası."},
+    {"c": "1960 Darbesi", "o": "1960 sonrası anayasa ve cumhurbaşkanı?", "a": "1961 Anayasası kabul edildi; Cemal Gürsel cumhurbaşkanı oldu."},
+    {"c": "1960 Darbesi", "o": "Türkiye'nin ilk koalisyon hükümeti hangisi?", "a": "1961'de kurulan CHP + AP (Adalet Partisi) koalisyonu."},
+    {"c": "Kurulan Kurumlar", "o": "DPT nedir, ne yaptı?", "a": "Devlet Planlama Teşkilatı; ekonomik-sosyal kalkınma için kuruldu, nüfus artırıcı politikaya son verdi. (1960 sonrası)"},
+    {"c": "Kurulan Kurumlar", "o": "1960 sonrası kurulan kurumlar hangileri?", "a": "DPT, TÜBİTAK, Anayasa Mahkemesi, TRT, HSYK, MGK. TRT ilk kamu yayıncısıdır."},
+    {"c": "Kurulan Kurumlar", "o": "MGK'nın gündemini kim belirler?", "a": "Milli Güvenlik Kurulu'nun gündemini Cumhurbaşkanı belirler."},
+    {"c": "Kurulan Kurumlar", "o": "YSK ve YÖK ne zaman kuruldu? (çeldirici uyarısı)", "a": "YSK 1950 seçimleri için (1946 açık oy-kapalı sayım yüzünden), YÖK 1980 darbesi sonrası. İkisi de 1960 sonrası değildir."},
+    {"c": "1971 Muhtırası", "o": "12 Mart 1971 Muhtırası nedir?", "a": "Ordu, Cumhurbaşkanı Cevdet Sunay'a muhtıra verdi: 32. hükümet istifa etmezse darbe. Süleyman Demirel istifa etti."},
+    {"c": "1971 Muhtırası", "o": "Suikastle öldürülen ilk/tek başbakan kim?", "a": "Nihat Erim (12 Mart sonrası hükümetin başbakanı). İdamla öldürülen ilk/tek başbakan ise Adnan Menderes."},
+    {"c": "1980 Darbesi", "o": "12 Eylül 1980 darbesini kim yaptı, diğer adı ne?", "a": "Milli Güvenlik Konseyi (lider Kenan Evren) yaptı. Diğer adı Bayrak Harekatı."},
+    {"c": "1980 Darbesi", "o": "1980 sonrası CB, Başbakan ve anayasa?", "a": "CB Kenan Evren, Başbakan Bülent Ulusu, 1982 Anayasası. Anayasayı hazırlayan kurulun lideri Orhan Aldıkaçtı."},
+    {"c": "1980 Darbesi", "o": "1983 seçimlerini kim kazandı, neden tek başına?", "a": "Turgut Özal ve ANAP tek başına iktidar oldu. Erbakan, Demirel, Ecevit, Türkeş siyasi yasaklıydı; yasaklar 1987'de kalktı."},
+    {"c": "1980 Sonrası", "o": "Görevi başında vefat eden cumhurbaşkanları kim?", "a": "İlki Mustafa Kemal Atatürk, ikincisi Turgut Özal (1993)."},
+    {"c": "1980 Sonrası", "o": "Türkiye'nin ilk/tek kadın başbakanı ve ilk kadın bakanı kim?", "a": "İlk/tek kadın başbakan Tansu Çiller; ilk kadın bakan Türkan Akyol."},
+    {"c": "1980 Sonrası", "o": "Anayol ve Refahyol hükümetleri nedir? (1996)", "a": "Anayol = ANAP + DYP (Mesut Yılmaz); Refahyol = Refah Partisi + DYP (Necmettin Erbakan)."},
+    {"c": "1980 Sonrası", "o": "1999 koalisyonu ve 2002 seçimi?", "a": "1999: DSP + MHP + ANAP, başbakan Bülent Ecevit (DSP kurucusu Rahşan Ecevit). 2002: AKP tek başına iktidar."},
+    {"c": "Ekonomi", "o": "İthal ikameci politika nedir?", "a": "İthal edilen malların ülke içinde üretilmesine yönelik politika. MEB kitabının vurguladığı kavram."},
+    {"c": "Ekonomi", "o": "24 Ocak Kararları nedir, kim hazırladı? (yıl)", "a": "24 Ocak 1980. Başbakan müsteşarı Turgut Özal hazırladı. İthal ikameci terk edilip serbest piyasa ekonomisine geçildi."},
+    {"c": "Ekonomi", "o": "Bankerler Krizi nedir?", "a": "1980'lerde yüksek faiz için parasını bankerlere yatıranların, bankerlerin batmasıyla parasını kaybetmesi krizi."},
+    {"c": "Ekonomi", "o": "5 Nisan Kararları nedir, kim döneminde? (yıl)", "a": "1994. Ekonomik krizden çıkmak için Tansu Çiller başbakanlığında alınan kararlar."},
+    {"c": "Kültür", "o": "Altın Ayı ödülünü hangi Türk filmi aldı?", "a": "Metin Erksan'ın 'Susuz Yaz' filmi, Berlin Film Festivali'nde Altın Ayı ödülünü aldı."},
+    {"c": "Kültür", "o": "İlk Altın Mikrofon'u kim kazandı?", "a": "Yıldırım Gürses (Müslüm Gürses değil)."},
+    {"c": "Kültür", "o": "Anadolu Rock'ın öncüleri kim?", "a": "Barış Manço ve Cem Karaca (Moğollar grubu içinde)."},
+    {"c": "Kültür", "o": "1971 Akdeniz Oyunları nerede? İlki nerede yapılmıştı?", "a": "Türkiye'de ilk kez İzmir'de. Akdeniz Oyunları'nın ilki Mısır'ın İskenderiye kentinde yapılmıştı."},
+    {"c": "Kültür", "o": "Köy romancılığının iki öncüsü ve eserleri?", "a": "Şevket Süreyya Aydemir → 'Toprak Uyanınca'; Fakir Baykurt → 'Yılanların Öcü'."},
+    {"c": "Kültür", "o": "Necip Fazıl bütün şiirlerini hangi eserde topladı?", "a": "'Çile' adlı eserde. Muhtemel soru adayı."},
+    {"c": "Dünya", "o": "68 Kuşağı nedir, nerede çıktı?", "a": "Özgürlük, barış ve yaşam standartlarının yükseltilmesi için Fransa'da başlayıp dünyaya yayılan eylemler. Türkiye'de Deniz Gezmiş, Mahir Çayan öncüsüdür."},
+    {"c": "Dünya", "o": "Irkçılıkla mücadelede öne çıkan üç isim kim?", "a": "Martin Luther King ('I have a dream', suikast), Malcolm X (suikast), Nelson Mandela ('Madiba', G. Afrika ilk siyahi lider)."},
+    {"c": "Dünya", "o": "Martin Luther King ile Martin Luther farkı?", "a": "Martin Luther King: ABD'de siyahi hakları savunan lider. Martin Luther: reform hareketinin lideri. Karıştırma."},
+    {"c": "Bilim", "o": "Uzaya giden ilk insan ve aracı?", "a": "Yuri Gagarin (SSCB), Vostok 1 aracıyla."},
+    {"c": "Bilim", "o": "Aya giden ilk insan kim?", "a": "Neil Armstrong (ABD)."},
+    {"c": "Bilim", "o": "Uzayda yürüyen ilk insan ve uzaya çıkan ilk kadın kim?", "a": "Uzayda yürüyen ilk insan Aleksey Leonov (SSCB); uzaya çıkan ilk kadın Valentina Tereşkova (SSCB)."},
+    {"c": "Bilim", "o": "Uzaya gönderilen ilk hayvan ve ilk kalp nakli?", "a": "İlk hayvan Layka (köpek) — 'meyve sinekleri' de denir. Dünyada ilk kalp naklini Christiaan Barnard gerçekleştirdi."}
+  ],
+  "tuzak": [
+    {"q": "Kıbrıs'ta bağımsız cumhuriyet kurma KARARI hangi antlaşmayla alındı?", "o": ["Zürih Antlaşması (1959)", "Londra Antlaşması (1959)"], "c": 0, "n": "Karar Zürih'te alındı; devlet Londra'da kuruldu. Karar/kuruluş ayrımı sık sorulur."},
+    {"q": "Bağımsız Kıbrıs Devleti fiilen hangi antlaşmayla KURULDU?", "o": ["Zürih Antlaşması", "Londra Antlaşması"], "c": 1, "n": "Londra, Zürih'i esas alarak devleti kurdu."},
+    {"q": "'Kıbrıs'ı Yunanistan'a bağlama hedefi' hangisidir?", "o": ["Enosis", "EOKA"], "c": 0, "n": "Enosis hedef/idealdir; EOKA bu hedef için kurulan silahlı örgüttür."},
+    {"q": "Enosis için kurulan Rum terör örgütü hangisidir?", "o": ["TMT", "EOKA"], "c": 1, "n": "EOKA Rumların; TMT ise buna karşı kurulan Türk teşkilatıdır."},
+    {"q": "Kıta sahanlığı sorunu hangi belgeyle çözüldü?", "o": ["Bern Deklarasyonu", "Taşkent Deklarasyonu"], "c": 0, "n": "Bern Türk-Yunan kıta sahanlığı; Taşkent Pakistan-Hindistan Keşmir sorunudur."},
+    {"q": "Johnson Mektubu kime gönderildi?", "o": ["Adnan Menderes", "İsmet İnönü"], "c": 1, "n": "Mektup dönemin başbakanı İsmet İnönü'ye gönderildi; kime yazıldığı sık sorulur."},
+    {"q": "27 Mayıs 1960 darbesini yapan kurul hangisidir?", "o": ["Milli Birlik Komitesi", "Milli Güvenlik Konseyi"], "c": 0, "n": "1960 → Milli Birlik Komitesi (Gürsel); 1980 → Milli Güvenlik Konseyi (Evren)."},
+    {"q": "12 Eylül 1980 darbesini yapan kurul hangisidir?", "o": ["Milli Birlik Komitesi", "Milli Güvenlik Konseyi"], "c": 1, "n": "1980 darbesi Milli Güvenlik Konseyi'nindir; lideri Kenan Evren."},
+    {"q": "İdamla öldürülen ilk ve tek başbakan kimdir?", "o": ["Adnan Menderes", "Nihat Erim"], "c": 0, "n": "Menderes idamla, Nihat Erim ise suikastle öldürülen tek başbakandır."},
+    {"q": "Suikastle öldürülen ilk ve tek başbakan kimdir?", "o": ["Adnan Menderes", "Nihat Erim"], "c": 1, "n": "Suikast → Nihat Erim; idam → Adnan Menderes."},
+    {"q": "1960 darbesinin lideri kimdir?", "o": ["Cemal Gürsel", "Kenan Evren"], "c": 0, "n": "Gürsel 1960'ın, Evren 1980'in lideridir; ikisi karıştırılır."},
+    {"q": "24 Ocak Kararları'nı kim hazırladı?", "o": ["Turgut Özal", "Tansu Çiller"], "c": 0, "n": "24 Ocak (1980) Özal; 5 Nisan (1994) Çiller kararlarıdır."},
+    {"q": "5 Nisan 1994 Kararları kimin başbakanlığında alındı?", "o": ["Turgut Özal", "Tansu Çiller"], "c": 1, "n": "5 Nisan Çiller döneminde; 24 Ocak Özal döneminde alındı."},
+    {"q": "YSK ne için/ne zaman kuruldu?", "o": ["1950 seçimleri için", "1960 darbesinden sonra"], "c": 0, "n": "YSK 1950 seçimleri içindir; 1960 sonrası kurumlarına çeldirici olarak konur."},
+    {"q": "Aşağıdakilerden hangisi 1960 darbesinden sonra kurulmuştur?", "o": ["YÖK", "Anayasa Mahkemesi"], "c": 1, "n": "Anayasa Mahkemesi 1960 sonrası; YÖK ise 1980 darbesi sonrasıdır."},
+    {"q": "Türkiye'nin ilk ve tek kadın başbakanı kimdir?", "o": ["Türkan Akyol", "Tansu Çiller"], "c": 1, "n": "Çiller ilk kadın başbakan; Türkan Akyol ilk kadın bakandır."},
+    {"q": "Görevi başında vefat eden ilk cumhurbaşkanı kimdir?", "o": ["Mustafa Kemal Atatürk", "Turgut Özal"], "c": 0, "n": "İlki Atatürk, ikincisi Turgut Özal'dır."},
+    {"q": "Kardak Kayalıkları Krizi'nde başbakan kimdi?", "o": ["Tansu Çiller", "Bülent Ecevit"], "c": 0, "n": "1996 Kardak'ta Çiller 'o bayrak inecek' dedi; Ecevit ise 1974 Kıbrıs harekatının başbakanıdır."},
+    {"q": "1974 Kıbrıs Barış Harekatı'nın başbakanı kimdir?", "o": ["Bülent Ecevit", "Fahri Korutürk"], "c": 0, "n": "Ecevit başbakan; Korutürk cumhurbaşkanıydı. Rolleri karıştırma."},
+    {"q": "Ermeni sorunu ilk kez hangi uluslararası belgeye yansıdı?", "o": ["Berlin Antlaşması", "Ayastefanos Antlaşması"], "c": 0, "n": "Ayastefanos iptal edildi; sorun yürürlükteki Berlin Antlaşması'na yansıdı."},
+    {"q": "ASALA nerede kuruldu?", "o": ["Beyrut (Lübnan)", "Erivan (Ermenistan)"], "c": 0, "n": "Suriye/Lübnan'a sürülen Ermenilerce Beyrut'ta kuruldu."},
+    {"q": "Uzaya giden ilk insan kimdir?", "o": ["Yuri Gagarin", "Neil Armstrong"], "c": 0, "n": "Uzaya ilk Gagarin (Vostok 1); Aya ilk Armstrong'dur."},
+    {"q": "Aya ayak basan ilk insan kimdir?", "o": ["Yuri Gagarin", "Neil Armstrong"], "c": 1, "n": "Aya ilk Armstrong; uzaya ilk Gagarin. İkisi karıştırılır."},
+    {"q": "Uzaya çıkan ilk kadın kimdir?", "o": ["Valentina Tereşkova", "Aleksey Leonov"], "c": 0, "n": "Tereşkova ilk kadın; Leonov ise uzayda yürüyen ilk insandır."},
+    {"q": "'Susuz Yaz' filminin yönetmeni kimdir?", "o": ["Metin Erksan", "Yılmaz Güney"], "c": 0, "n": "Altın Ayı alan Susuz Yaz'ın yönetmeni Metin Erksan'dır."},
+    {"q": "'Toprak Uyanınca' hangi köy romancısına aittir?", "o": ["Şevket Süreyya Aydemir", "Fakir Baykurt"], "c": 0, "n": "Toprak Uyanınca → Aydemir; Yılanların Öcü → Baykurt."},
+    {"q": "'Yılanların Öcü' kimin eseridir?", "o": ["Şevket Süreyya Aydemir", "Fakir Baykurt"], "c": 1, "n": "Yılanların Öcü → Fakir Baykurt; Toprak Uyanınca → Aydemir."},
+    {"q": "'I have a dream' sözü hangi isme aittir?", "o": ["Martin Luther", "Martin Luther King"], "c": 1, "n": "King ırkçılık karşıtı liderdir; Martin Luther ise reform hareketinin lideridir."},
+    {"q": "'Madiba' lakabıyla bilinen lider kimdir?", "o": ["Nelson Mandela", "Malcolm X"], "c": 0, "n": "Mandela G. Afrika'nın ilk siyahi lideri; Malcolm X ABD'lidir."},
+    {"q": "Kardak krizi ile kıta sahanlığı sorunu aynı sorun mudur?", "o": ["Kardak = kayalıkların egemenliği", "İkisi de petrol arama sorunudur"], "c": 0, "n": "Kardak egemenlik/bayrak krizi; kıta sahanlığı deniz altı petrol/kaynak sorunudur."},
+    {"q": "Serbest piyasa ekonomisine geçişi sağlayan kararlar hangisidir?", "o": ["24 Ocak Kararları", "İthal ikameci politika"], "c": 0, "n": "24 Ocak serbest piyasaya geçirir; ithal ikameci ise tam tersine içeride üretimi savunur."},
+    {"q": "1982 Anayasası'nı hazırlayan kurulun lideri kimdir?", "o": ["Orhan Aldıkaçtı", "Kenan Evren"], "c": 0, "n": "Anayasa kurulunun başı Aldıkaçtı; Evren darbenin ve devletin başıydı."}
+  ],
+  "deneme": [
+    {"q": "Kıbrıs sorununa ilişkin aşağıdaki eşleştirmelerden hangisi yanlıştır?", "o": ["Enosis — Kıbrıs'ı Yunanistan'a bağlama hedefi", "EOKA — Enosis için kurulan Rum örgütü", "TMT — Türk Mukavemet Teşkilatı", "Zürih Antlaşması — Bağımsız devletin fiilen kurulması", "Akritas Planı — Türklerin baskınla yok edilmesi"], "c": 3, "e": "Bağımsız devlet fiilen Londra Antlaşması ile kuruldu; Zürih yalnızca kuruluş kararını içerir."},
+    {"q": "1964 Johnson Mektubu ile ilgili olarak aşağıdakilerden hangisi söylenemez?", "o": ["ABD Başkanı Johnson tarafından gönderilmiştir", "Başbakan İsmet İnönü'ye gönderilmiştir", "Türkiye'yi Kıbrıs'a harekat konusunda tehdit etmiştir", "Sonrasında Türkiye SSCB'ye yakınlaşmıştır", "Türkiye'nin adaya barış harekatı yapmasını kolaylaştırmıştır"], "c": 4, "e": "Mektup harekatı engellemeye yönelik bir tehditti; harekatın yolunu açan olay 1974'teki EOKA darbesidir."},
+    {"q": "Aşağıdakilerden hangisi 1974 Kıbrıs Barış Harekatı'nın aktörlerinden biri değildir?", "o": ["Cumhurbaşkanı Fahri Korutürk", "Başbakan Bülent Ecevit", "Başbakan Yardımcısı Necmettin Erbakan", "Dışişleri Bakanı Turan Güneş", "Cumhurbaşkanı Cemal Gürsel"], "c": 4, "e": "Cemal Gürsel 1960 darbesinin lideri ve sonrasındaki cumhurbaşkanıdır; 1974 harekatıyla ilgisi yoktur."},
+    {"q": "Ege'ye ilişkin sorunlarla çözüm/kavram eşleştirmelerinden hangisi doğrudur?", "o": ["Kıta sahanlığı — Bern Deklarasyonu", "Karasuları — Taşkent Deklarasyonu", "FIR hattı — Lozan Antlaşması", "Kardak — Annan Planı", "Ege Adaları — Bern Deklarasyonu"], "c": 0, "e": "Kıta sahanlığı sorunu Bern Deklarasyonu ile çözülmüştür; diğer eşleştirmeler yanlıştır."},
+    {"q": "Karasuları sorununda Türkiye'nin tutumuyla ilgili aşağıdakilerden hangisi doğrudur?", "o": ["Yunanistan'ın karasularını 12 mile çıkarmasını savaş nedeni saymıştır", "Kendi karasularını 12 mile çıkarmıştır", "Sorunu Uluslararası Adalet Divanı çözmüştür", "Bern Deklarasyonu ile karasuları belirlenmiştir", "Yunanistan'ın 6 mile çıkmasına ültimatom vermiştir"], "c": 0, "e": "Türkiye, Yunanistan'ın karasularını 12 mile çıkarma girişimini casus belli (savaş nedeni) saymıştır."},
+    {"q": "Türk-Ermeni sorununun tarihsel gelişimiyle ilgili aşağıdakilerden hangisi yanlıştır?", "o": ["Ermeniler Osmanlı'da 'millet-i sadıka' olarak anılırdı", "Ermeni sorunu ilk kez Berlin Antlaşması'na yansımıştır", "Abdülhamid Hamidiye Alayları'nı kurmuştur", "Tehcirle Ermeniler Suriye ve Lübnan'a gönderilmiştir", "ASALA Erivan'da kurulmuş bir örgüttür"], "c": 4, "e": "ASALA, Lübnan'ın Beyrut kentinde kurulmuştur."},
+    {"q": "27 Mayıs 1960 darbesi ve sonrasıyla ilgili aşağıdakilerden hangisi söylenemez?", "o": ["Darbeyi Milli Birlik Komitesi yapmıştır", "Darbenin lideri Cemal Gürsel'dir", "Adnan Menderes, Hasan Polatkan ve Fatin Rüştü Zorlu idam edilmiştir", "Darbe sonrası 1961 Anayasası kabul edilmiştir", "Darbe sonrası ilk hükümet tek parti hükümetidir"], "c": 4, "e": "Darbe sonrası kurulan ilk hükümet CHP-AP koalisyonudur; bu Türkiye'nin ilk koalisyonudur."},
+    {"q": "Aşağıdakilerden hangisi 1960 darbesinden sonra kurulan kurumlardan biri değildir?", "o": ["Devlet Planlama Teşkilatı (DPT)", "Anayasa Mahkemesi", "TÜBİTAK", "Yüksek Seçim Kurulu (YSK)", "Türkiye Radyo ve Televizyon Kurumu (TRT)"], "c": 3, "e": "YSK, 1950 seçimlerini yürütmek için kurulmuştur; diğerleri 1960 darbesinden sonradır."},
+    {"q": "Aşağıda verilen darbe-kurul-lider eşleştirmelerinden hangisi doğrudur?", "o": ["1960 — Milli Güvenlik Konseyi — Kenan Evren", "1980 — Milli Birlik Komitesi — Cemal Gürsel", "1960 — Milli Birlik Komitesi — Cemal Gürsel", "1980 — Milli Birlik Komitesi — Kenan Evren", "1960 — Milli Güvenlik Konseyi — Cemal Gürsel"], "c": 2, "e": "1960 darbesi Milli Birlik Komitesi ve Cemal Gürsel'e; 1980 darbesi Milli Güvenlik Konseyi ve Kenan Evren'e aittir."},
+    {"q": "12 Mart 1971 Muhtırası ile ilgili aşağıdakilerden hangisi doğrudur?", "o": ["Ordu, 32. hükümetin istifasını istemiştir", "Muhtıra sonrası Adnan Menderes istifa etmiştir", "Muhtırayı Milli Güvenlik Konseyi vermiştir", "Cumhurbaşkanı Fahri Korutürk'e verilmiştir", "Muhtıra sonrası 1982 Anayasası hazırlanmıştır"], "c": 0, "e": "Muhtıra, Cumhurbaşkanı Cevdet Sunay'a verilmiş ve 32. hükümetin (Demirel) istifasını sağlamıştır."},
+    {"q": "Türk siyasi tarihinde 'ilk/tek' unvanlarıyla ilgili aşağıdakilerden hangisi yanlıştır?", "o": ["İdamla öldürülen ilk/tek başbakan — Adnan Menderes", "Suikastle öldürülen ilk/tek başbakan — Nihat Erim", "İlk ve tek kadın başbakan — Tansu Çiller", "İlk kadın bakan — Türkan Akyol", "Görevi başında vefat eden ilk cumhurbaşkanı — Turgut Özal"], "c": 4, "e": "Görevi başında vefat eden ilk cumhurbaşkanı Atatürk'tür; Turgut Özal ikincisidir."},
+    {"q": "12 Eylül 1980 darbesi ve sonrasıyla ilgili aşağıdakilerden hangisi söylenemez?", "o": ["Darbenin diğer adı Bayrak Harekatı'dır", "Darbeyi Milli Güvenlik Konseyi yapmıştır", "Kenan Evren cumhurbaşkanı olmuştur", "1982 Anayasası hazırlanmıştır", "Darbe sonrası ilk seçimi Doğru Yol Partisi kazanmıştır"], "c": 4, "e": "Darbe sonrası 1983 seçimlerini Turgut Özal'ın ANAP'ı tek başına kazanmıştır."},
+    {"q": "1983 seçimlerinde ANAP'ın tek başına iktidar olabilmesinin temel nedeni aşağıdakilerden hangisidir?", "o": ["Demirel, Ecevit, Erbakan ve Türkeş'in siyasi yasaklı olması", "Seçime tek parti girmesi", "Koalisyon kurma yasağı bulunması", "1982 Anayasası'nın çok partili sisteme izin vermemesi", "CHP'nin kapatılmış olması"], "c": 0, "e": "1980 darbesiyle eski liderler siyasi yasaklıydı (yasaklar 1987'de kalktı); bu Özal'a alan açtı."},
+    {"q": "Türkiye ekonomisiyle ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?", "o": ["24 Ocak Kararları — Turgut Özal — serbest piyasa", "24 Ocak Kararları — Tansu Çiller — ithal ikameci", "5 Nisan Kararları — Turgut Özal — serbest piyasa", "İthal ikameci politika — malların dışarıdan alınması", "5 Nisan Kararları — Süleyman Demirel — kalkınma planı"], "c": 0, "e": "24 Ocak 1980 Kararları Turgut Özal tarafından hazırlanmış ve serbest piyasa ekonomisine geçişi sağlamıştır."},
+    {"q": "Aşağıdakilerden hangisi 5 Nisan Kararları için doğrudur?", "o": ["1994'te ekonomik krizden çıkmak için Tansu Çiller döneminde alınmıştır", "İthal ikameci politikaya geçişi sağlamıştır", "Turgut Özal tarafından hazırlanmıştır", "1980 darbesinin ekonomik programıdır", "Serbest piyasa ekonomisini ilk kez getirmiştir"], "c": 0, "e": "5 Nisan 1994 Kararları, ekonomik krizden çıkış amacıyla Tansu Çiller başbakanlığında alınmıştır."},
+    {"q": "Yumuşama dönemi kültürel gelişmeleriyle ilgili aşağıdakilerden hangisi yanlıştır?", "o": ["'Susuz Yaz' Berlin'de Altın Ayı ödülü almıştır", "Metin Erksan 'Susuz Yaz'ın yönetmenidir", "Barış Manço ve Cem Karaca Anadolu rock öncüsüdür", "İlk Altın Mikrofon'u Müslüm Gürses kazanmıştır", "Necip Fazıl şiirlerini 'Çile'de toplamıştır"], "c": 3, "e": "İlk Altın Mikrofon ödülünü Yıldırım Gürses kazanmıştır, Müslüm Gürses değil."},
+    {"q": "Köy romancılığı ile ilgili eşleştirmelerden hangisi doğrudur?", "o": ["Şevket Süreyya Aydemir — Toprak Uyanınca", "Fakir Baykurt — Toprak Uyanınca", "Şevket Süreyya Aydemir — Yılanların Öcü", "Necip Fazıl — Yılanların Öcü", "Fakir Baykurt — Çile"], "c": 0, "e": "Aydemir 'Toprak Uyanınca', Fakir Baykurt 'Yılanların Öcü' eserinin sahibidir."},
+    {"q": "Dünyada ırkçılıkla mücadele eden isimlerle ilgili aşağıdakilerden hangisi söylenemez?", "o": ["Martin Luther King 'I have a dream' konuşmasını yapmıştır", "Malcolm X ABD'de siyahi hakları savunmuştur", "Nelson Mandela 'Madiba' lakabıyla bilinir", "Nelson Mandela Güney Afrika'nın ilk siyahi lideridir", "Martin Luther King reform hareketinin öncüsüdür"], "c": 4, "e": "Reform hareketinin öncüsü Martin Luther'dir; Martin Luther King ise ABD'de siyahi hakları savunan liderdir."},
+    {"q": "Uzay çalışmalarındaki 'ilk'lerle ilgili aşağıdakilerden hangisi doğrudur?", "o": ["Uzaya giden ilk insan — Yuri Gagarin (SSCB)", "Aya giden ilk insan — Aleksey Leonov (SSCB)", "Uzaya çıkan ilk kadın — Neil Armstrong (ABD)", "Uzayda yürüyen ilk insan — Valentina Tereşkova (SSCB)", "Uzaya giden ilk insan — Neil Armstrong (ABD)"], "c": 0, "e": "Uzaya giden ilk insan Yuri Gagarin'dir (Vostok 1); Armstrong ise Aya giden ilk insandır."},
+    {"q": "1996 Kardak Kayalıkları Krizi ile ilgili aşağıdakilerden hangisi doğrudur?", "o": ["Dönemin başbakanı Tansu Çiller kriz sırasında görevdedir", "Kriz Bülent Ecevit başbakanlığında yaşanmıştır", "Kayalıklar Annan Planı ile Yunanistan'a bırakılmıştır", "Krizde Türkiye kayalıklardan çekilmiştir", "Kriz Bern Deklarasyonu ile çözülmüştür"], "c": 0, "e": "1996 Kardak krizinde başbakan Tansu Çiller'dir; Türk askeri Yunan bayrağını indirip Türk bayrağını dikmiştir."}
+  ],
+  "eslestir": [
+    {
+      "ad": "Kıbrıs — Kavram ve Tanım",
+      "p": [
+        ["Enosis", "Kıbrıs'ı Yunanistan'a bağlama hedefi"],
+        ["EOKA", "Enosis için kurulan Rum terör örgütü"],
+        ["TMT", "Türk Mukavemet Teşkilatı"],
+        ["Yeşil Hat", "Lefkoşa'yı ikiye ayıran hat"],
+        ["Akritas Planı", "Kıbrıs Türklerini baskınla yok etme planı"],
+        ["Annan Planı", "Birleşik Kıbrıs planı"]
+      ]
+    },
+    {
+      "ad": "Kıbrıs — Antlaşma/Olay ve Sonuç",
+      "p": [
+        ["Macmillan Planı", "Üçlü yönetim, reddedildi"],
+        ["Zürih Antlaşması", "Bağımsız cumhuriyet kurma kararı"],
+        ["Londra Antlaşması", "Bağımsız Kıbrıs Devleti'nin kurulması"],
+        ["1963 Kanlı Noel", "Rumların Türkleri katletmesi"],
+        ["1974 Barış Harekatı", "'Ayşe tatile çıksın' şifresi"],
+        ["1983 KKTC", "İlk lider Rauf Denktaş"]
+      ]
+    },
+    {
+      "ad": "Ege Sorunları",
+      "p": [
+        ["Kıta sahanlığı", "Bern Deklarasyonu ile çözüm"],
+        ["Karasuları", "12 mil = savaş nedeni"],
+        ["Ege Adaları", "Lozan'a göre silahsız olmalı"],
+        ["FIR hattı", "Ege hava sahası / NOTAM"],
+        ["Kardak Krizi", "1996 / Tansu Çiller"],
+        ["Johnson Mektubu", "İsmet İnönü'ye tehdit"]
+      ]
+    },
+    {
+      "ad": "Darbeler ve Aktörleri",
+      "p": [
+        ["27 Mayıs 1960", "Milli Birlik Komitesi / Cemal Gürsel"],
+        ["12 Mart 1971", "Muhtıra / Cevdet Sunay"],
+        ["12 Eylül 1980", "Milli Güvenlik Konseyi / Kenan Evren"],
+        ["Bayrak Harekatı", "1980 darbesinin diğer adı"],
+        ["1961 Anayasası", "1960 darbesi sonrası"],
+        ["1982 Anayasası", "Orhan Aldıkaçtı (kurul başkanı)"]
+      ]
+    },
+    {
+      "ad": "Siyasi 'İlk/Tek'ler",
+      "p": [
+        ["Adnan Menderes", "İdamla öldürülen ilk/tek başbakan"],
+        ["Nihat Erim", "Suikastle öldürülen ilk/tek başbakan"],
+        ["Tansu Çiller", "İlk/tek kadın başbakan"],
+        ["Türkan Akyol", "İlk kadın bakan"],
+        ["Turgut Özal", "Görevde vefat eden 2. cumhurbaşkanı"],
+        ["CHP + AP", "Türkiye'nin ilk koalisyonu"]
+      ]
+    },
+    {
+      "ad": "Kültür-Bilim-Ekonomi",
+      "p": [
+        ["Susuz Yaz", "Altın Ayı (Metin Erksan)"],
+        ["Çile", "Necip Fazıl'ın şiir kitabı"],
+        ["Yılanların Öcü", "Fakir Baykurt (köy romanı)"],
+        ["24 Ocak Kararları", "Serbest piyasa / Turgut Özal"],
+        ["5 Nisan Kararları", "Kriz kararları / Tansu Çiller"],
+        ["Yuri Gagarin", "Uzaya giden ilk insan"]
+      ]
+    }
+  ]
+}

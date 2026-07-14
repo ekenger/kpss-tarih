@@ -1,0 +1,580 @@
+{
+  "meta": {
+    "gun": 20,
+    "baslik": "Atatürk İnkılapları",
+    "ozet": "Siyasi, hukuk, toplumsal, eğitim, ekonomi, sağlık, spor ve sanat alanlarında yapılan inkılaplar; harf-yıl şifreleri, yurt dışından alınan kanunlar, bankalar ve kadınlarda ilkler.",
+    "tahminiSoru": "KPSS'de ~3-4 soru (kronoloji, kanun teklifleri, yabancı uzmanlar, bankalar ve ilkler yoğun sorulur)",
+    "duzeltmeler": [
+      "Doktor Rıza Onur → Doktor Rıza Nur",
+      "Ali Fetih Okyar → Ali Fethi Okyar",
+      "Ahan / Ağahan ve Emir Ali → Ağa Han ve Emir Ali",
+      "Mahmut Esat Bey → Mahmut Esat Bozkurt",
+      "Benito Musolini → Benito Mussolini",
+      "John Devey → John Dewey",
+      "Albert Maş / Albert Malş / Albert Baş → Albert Malche",
+      "Paul Hindemint → Paul Hindemith",
+      "Sami Rıfat → Samih Rıfat",
+      "Henry Kripel / Kripbell / Creeper → Heinrich (Henry) Krippel",
+      "Herman Yansen → Hermann Jansen",
+      "Sanayi ve Madin Bankası → Sanayi ve Maadin Bankası",
+      "Emlak ve Eham / Itan Bankası → Emlak ve Eytam Bankası",
+      "Delsim → Dersim",
+      "Keriman Haliç → Keriman Halis",
+      "Fatma Refet Ang → Fatma Refet Angın",
+      "Süreyya Ağoğlu → Süreyya Ağaoğlu",
+      "Fisko Birlik → Fiskobirlik"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Siyasi alanda 4 inkılap (kanun teklifleri)",
+      "i": [
+        { "k": "Saltanat · 1 Kasım 1922", "m": "Kaldırılması — teklif: Dr. Rıza Nur; Vahdettin Malaya gemisiyle kaçtı", "s": "z" },
+        { "k": "Ankara · 13 Ekim 1923", "m": "Başkent oldu — teklif: İsmet İnönü; cumhuriyetten 16 gün önce", "s": "z" },
+        { "k": "Cumhuriyet · 29 Ekim 1923", "m": "İlanı — sebep: hükümet bunalımı; meclis hükümetinden kabine sistemine", "s": "z" },
+        { "k": "Halifelik · 3 Mart 1924", "m": "Kaldırılması — teklif: Şeyh Saffet Efendi; iki başlılık bitti", "s": "z" }
+      ]
+    },
+    {
+      "b": "ŞOTE — 3 Mart 1924 (halifelikle aynı gün)",
+      "i": [
+        { "k": "Ş", "m": "Şeriye ve Evkaf Vekaleti'nin kaldırılması", "s": "z" },
+        { "k": "O", "m": "Osmanlı hanedanının yurt dışına çıkarılması", "s": "z" },
+        { "k": "T", "m": "Tevhid-i Tedrisat Kanunu (teklif: Vasıf Çınar)", "s": "z" },
+        { "k": "E", "m": "Erkan-ı Harbiye Vekaleti'nin kaldırılması", "s": "z" }
+      ]
+    },
+    {
+      "b": "1924 Anayasası'nda yapılan değişiklikler",
+      "i": [
+        { "k": "1924", "m": "'Devletin dini İslam'dır' maddesi eklendi (tepkileri susturmak için)", "s": "z" },
+        { "k": "1928", "m": "'Devletin dini İslam'dır' çıkarıldı + yemin laikleşti (namusum-şerefim)", "s": "z" },
+        { "k": "1930", "m": "Seçmen yaşı YÜKSELTİLDİ — cumhuriyetçiliğe AYKIRI", "s": "z" },
+        { "k": "1937", "m": "Atatürk ilkeleri anayasaya girdi (1931 CHP programında)", "s": "z" },
+        { "k": "1946", "m": "Tek dereceli seçim sistemi ilk kez uygulandı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Yurt dışından alınan kanunlar (Ali-Ayşe hikâyesi)",
+      "i": [
+        { "k": "İsviçre", "m": "Medeni + Borçlar + İcra-İflas kanunları", "s": "z" },
+        { "k": "İtalya", "m": "Ceza Kanunu (Mussolini — 'Allah'ın cezası')", "s": "z" },
+        { "k": "Almanya", "m": "Ticaret Kanunu (ticaretle kalkındı)", "s": "z" },
+        { "k": "Fransa", "m": "İdare Hukuku", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kadına siyasi haklar — BMW 034",
+      "i": [
+        { "k": "B · 1930", "m": "Belediye seçimlerine katılma", "s": "z" },
+        { "k": "M · 1933", "m": "Muhtarlık seçimlerine katılma", "s": "z" },
+        { "k": "W(V) · 1934", "m": "Vekillik (milletvekili) seçimlerine katılma", "s": "z" }
+      ]
+    },
+    {
+      "b": "Toplumsal alan — harf sayısı = yıl",
+      "i": [
+        { "k": "Şapka = 5", "m": "Kılık Kıyafet Kanunu → 1925 (tanıtım: Kastamonu-İnebolu)", "s": "z" },
+        { "k": "Tekke = 5", "m": "Tekke-zaviye-türbelerin kapatılması → 1925", "s": "z" },
+        { "k": "Ata(3)+Türk(4)", "m": "Soyadı Kanunu → 1934", "s": "z" }
+      ]
+    },
+    {
+      "b": "Ölçü-takvim-alfabe kronolojisi",
+      "i": [
+        { "k": "1925", "m": "Alaturka saatten uluslararası saat sistemine", "s": "z" },
+        { "k": "Miladi = 6 → 1926", "m": "Hicri/Rumi yerine miladi takvim", "s": "z" },
+        { "k": "La alfabe = 8 → 1928", "m": "Latin alfabesi (Sarayburnu) + uluslararası rakamlar (beynel milel erkam)", "s": "z" },
+        { "k": "1931", "m": "Metrik sisteme geçiş (karış→cm)", "s": "z" },
+        { "k": "1935", "m": "Hafta tatili cumadan pazara + Milli Bayramlar Kanunu", "s": "z" }
+      ]
+    },
+    {
+      "b": "Eğitimde 3 yabancı uzman",
+      "i": [
+        { "k": "John Dewey", "m": "Müfredat düzenlenmesi (karma eğitim 1927, yaz tatili)", "s": "z" },
+        { "k": "Albert Malche", "m": "Üniversite reformu 1933 → Darülfünun İstanbul Üniversitesi", "s": "z" },
+        { "k": "Paul Hindemith", "m": "Musiki Muallim Mektebi'nin kurulması", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kurumların süreli yayın organları",
+      "i": [
+        { "k": "Millet Mektepleri", "m": "Halk Mecmuası", "s": "z" },
+        { "k": "Türk Tarih Kurumu", "m": "Belleten dergisi (Atatürk'ün okuduğu son eser)", "s": "z" },
+        { "k": "Halkevleri", "m": "Ülkü dergisi", "s": "z" }
+      ]
+    },
+    {
+      "b": "TTK & TDK — 'Tarih hep dilden önce'",
+      "i": [
+        { "k": "TTK · 1931", "m": "Türk Tarih Kurumu — başkan Tevfik Bıyıklıoğlu — Türk Tarih Tezi", "s": "z" },
+        { "k": "TDK · 1932", "m": "Türk Dil Kurumu — başkan Samih Rıfat — Güneş Dil Teorisi", "s": "z" }
+      ]
+    },
+    {
+      "b": "İzmir İktisat Kongresi (1923) — Misak-ı İktisadi",
+      "i": [
+        { "k": "Başkan", "m": "Kazım Karabekir (2015 KPSS çıkmış)", "s": "z" },
+        { "k": "Zaman", "m": "Lozan görüşmelerine ara verildiği dönem", "s": "z" },
+        { "k": "Kararlar", "m": "Hammadde yurt içi · fabrikalaşma · milli banka · yerli tekel yok · sendika-grev · 'işçi' · okuma bayramı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Bankalar (kuruluş yılı → görev)",
+      "i": [
+        { "k": "1924 İş Bankası", "m": "İlk özel banka — GM Celal Bayar", "s": "z" },
+        { "k": "1930 Merkez Bankası", "m": "TL değerini koru + para politikası — başkan Selahattin Çam", "s": "z" },
+        { "k": "1933 Sümerbank", "m": "Tekstil-demirçelik-çimento + 1. Beş Yıllık Plan", "s": "z" },
+        { "k": "1933 Halk Bankası", "m": "Esnafa kredi", "s": "z" },
+        { "k": "1935 MTA / Etibank", "m": "Maden araştırma-değer / madencilik desteği", "s": "z" }
+      ]
+    },
+    {
+      "b": "Sanayi planları",
+      "i": [
+        { "k": "Teşviki = 7 → 1927", "m": "Teşvik-i Sanayi Kanunu — uygulanamadı (1929 krizi + sermaye/eleman)", "s": "z" },
+        { "k": "1934-1938", "m": "1. Beş Yıllık Plan — SSCB örnek, BAŞARILI (Sümerbank)", "s": "z" },
+        { "k": "2. Plan", "m": "2. Dünya Savaşı nedeniyle uygulanamadı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türk Beşleri — HANCU",
+      "i": [
+        { "k": "H-A-N-C-U", "m": "Hasan Ferit Alnar · Ahmet Adnan Saygun · Necil Kazım Akses · Cemal Reşit Rey · Ulvi Cemal Erkin", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Siyasi İnkılaplar", "o": "Saltanat ne zaman ve kimin teklifiyle kaldırıldı?", "a": "1 Kasım 1922 · teklif: Dr. Rıza Nur.\nSonuç: Vahdettin kaçtı, cumhuriyetin önü açıldı, laiklik yolunda ilk adım, rejim + devlet başkanlığı belirsizliği doğdu." },
+    { "c": "Siyasi İnkılaplar", "o": "Dr. Rıza Nur'u neden 'muhtemel soru adayı' yapan özellikler nelerdir?", "a": "1) Saltanatın kaldırılmasını teklif etti.\n2) 1. İcra Vekilleri Heyeti'nde ilk Milli Eğitim Bakanı.\n3) Lozan heyetinde (İsmet İnönü, Hasan Saka ile)." },
+    { "c": "Siyasi İnkılaplar", "o": "Ankara ne zaman, kimin teklifiyle başkent oldu?", "a": "13 Ekim 1923 · teklif: İsmet İnönü (cumhuriyetten 16 gün önce).\nAmasya Genelgesi sonrası 'İstanbul Anadolu'ya tabi olmalı' sözüyle uyumlu." },
+    { "c": "Siyasi İnkılaplar", "o": "Cumhuriyetin ilanına yol açan en büyük gelişme neydi?", "a": "Hükümet bunalımı: Fethi Okyar istifası → yeni hükümet kurulamadı.\nÇözüm: meclis hükümeti sisteminden kabine sistemine geçiş = 29 Ekim 1923." },
+    { "c": "Siyasi İnkılaplar", "o": "Halifelik neden ve kimin teklifiyle kaldırıldı?", "a": "3 Mart 1924 · teklif: Şeyh Saffet Efendi.\nSebep: iki başlılık, Ağa Han-Emir Ali'nin iç işlere karışması, laiklik önündeki engel." },
+    { "c": "Siyasi İnkılaplar", "o": "3 Mart 1924'te halifelikle aynı gün yapılan 4 inkılap (ŞOTE) nedir?", "a": "Ş: Şeriye ve Evkaf Vekaleti kaldırıldı\nO: Osmanlı hanedanı yurt dışına\nT: Tevhid-i Tedrisat Kanunu\nE: Erkan-ı Harbiye Vekaleti kaldırıldı" },
+
+    { "c": "Hukuk / Anayasa", "o": "1921 Anayasası'nın (Teşkilat-ı Esasiye) özellikleri?", "a": "Yeni Türk devletinin ilk anayasası; 1. İnönü sonrası kabul (TALİM şifresinde T).\nTek çerçeve + tek yumuşak anayasa." },
+    { "c": "Hukuk / Anayasa", "o": "1924 Anayasası'nın temel niteliği nedir?", "a": "İlk ayrıntılı anayasa.\nÜzerinde çok sayıda değişiklik yapıldığı için sık soru gelir." },
+    { "c": "Hukuk / Anayasa", "o": "1928'de anayasada laikleşme yönünde yapılan 2 değişiklik?", "a": "1) 'Devletin dini İslam'dır' maddesi çıkarıldı.\n2) Milletvekili yemini 'vallahi billahi'den 'namusum ve şerefim üzerine'ye çevrildi." },
+    { "c": "Hukuk / Anayasa", "o": "Seçmen yaşının 1930'da yükseltilmesi hangi ilkeye AYKIRIDIR?", "a": "Cumhuriyetçiliğe aykırıdır: yaş yükselince daha az kişi oy kullanır, rejim sekteye uğrar.\n(Yaş düşürme cumhuriyetçiliğe uygundur.)" },
+    { "c": "Hukuk / Anayasa", "o": "Medeni Kanun ne zaman, kimin liderliğinde, hangi ülke örnek alınarak kabul edildi?", "a": "1926 · Adalet Bakanı Mahmut Esat Bozkurt · İsviçre Medeni Kanunu.\n(Çıkmış soru: 'dönemin adalet bakanı kimdi?')" },
+    { "c": "Hukuk / Anayasa", "o": "Medeni Kanun'un içeriği hangi şema ile kodlanır?", "a": "ŞEMA: ŞAhıs · EŞya · Mİras · Aile hukuku.\nMecelle (Ahmet Cevdet Paşa, İslam hukuku) kaldırıldı." },
+    { "c": "Hukuk / Anayasa", "o": "Medeni Kanun kadına siyasi hak verdi mi? Hangi ilkelere girer?", "a": "HAYIR, siyasi hak vermedi → cumhuriyetçiliğe ALINAMAZ.\nToplumsal eşitlik = halkçılık; Mecelle'yi kaldırdı = laiklik." },
+    { "c": "Hukuk / Anayasa", "o": "Medeni Kanun'la patrikhane ve konsolosluklardan alınan yetki nedir?", "a": "Gayrimüslimler için mahkeme kurma (yargı) izni ellerinden alındı.\n'Medeni kanunda yer almaz' tuzağına dikkat — bu da içindedir." },
+    { "c": "Hukuk / Anayasa", "o": "Yurt dışından alınan kanunlar ve kaynak ülkeleri?", "a": "Medeni + Borçlar + İcra-İflas → İsviçre\nCeza → İtalya (Mussolini)\nTicaret → Almanya\nİdare Hukuku → Fransa" },
+
+    { "c": "Kadın Hakları & İlkler", "o": "Kadına verilen siyasi hakların şifresi ve yılları (BMW 034)?", "a": "Belediye 1930 · Muhtarlık 1933 · Vekillik 1934.\nHem cumhuriyetçilik hem halkçılık ilkesine girer." },
+    { "c": "Kadın Hakları & İlkler", "o": "İlk kadın belediye başkanı, muhtar ve 'ilk kadın vekil' konusu?", "a": "İlk kadın belediye başkanı: Sadiye Hanım (Artvin-Yusufeli).\nİlk kadın muhtar: Gül Esin (Aydın-Çine, 1933).\nİlk kadın vekil YOK — 17 kadın vekil bir arada girdi." },
+    { "c": "Kadın Hakları & İlkler", "o": "Satı Çırpan 'ilk kadın vekil' midir?", "a": "HAYIR. Mustafa Kemal'in 'tam milletvekili olacak kadın' dediği kişidir; 17 kadın vekil içinde yer aldı ama ilk değildir." },
+    { "c": "Kadın Hakları & İlkler", "o": "Türk kadını ilk kez ne zaman oy kullandı? İlk genel seçim?", "a": "İlk oy: 1930 yerel (belediye) seçimleri.\nKatıldığı ilk genel seçim: 1935." },
+    { "c": "Kadın Hakları & İlkler", "o": "1936'da Türkiye'de toplanan dünyadaki ilk ne? Orada geçen ünlü söz?", "a": "Dünyada ilk kadın kongresi Türkiye'de toplandı.\nBir delege Mustafa Kemal için 'yalnız Atatürk değil, tüm doğunun atası = Ataşark' dedi." },
+    { "c": "Kadın Hakları & İlkler", "o": "İlk kadın vali, bakan ve Milli Eğitim Bakanı kimdir?", "a": "İlk kadın vali: Lale Aytaman ('Vali Lale').\nİlk kadın bakan (Sağlık): Türkan Akyol.\nİlk kadın Milli Eğitim Bakanı: Nimet Çubukçu." },
+    { "c": "Kadın Hakları & İlkler", "o": "İlk kadın pilot ile ilk kadın savaş pilotu karışır — kimlerdir?", "a": "İlk kadın pilot: Bedriye Gökmen.\nİlk kadın savaş pilotu: Sabiha Gökçen (Dersim harekâtı)." },
+    { "c": "Kadın Hakları & İlkler", "o": "İlk kadın tarihçi, öğretmen ve tiyatro sanatçısı kimdir?", "a": "İlk kadın tarihçi: Afet İnan.\nİlk kadın öğretmen: Fatma Refet Angın.\nİlk kadın tiyatro sanatçısı: Afife Jale (2016 KPSS)." },
+    { "c": "Kadın Hakları & İlkler", "o": "İlk kadın dünya güzeli, gazeteci ve ressam kimdir?", "a": "İlk kadın dünya güzeli: Keriman Halis.\nİlk kadın gazeteci: Selma Rıza ('tek kadın İttihatçı').\nİlk kadın ressam: Mihri Müşfik." },
+    { "c": "Kadın Hakları & İlkler", "o": "İlk kadın başbakan, hakim ve kaymakam kimdir?", "a": "İlk kadın başbakan: Tansu Çiller.\nİlk kadın hakim: Suat Berk.\nİlk kadın kaymakam: Özlem Bozkurt." },
+
+    { "c": "Toplumsal İnkılaplar", "o": "Şapka (Kılık Kıyafet) Kanunu ne zaman, nerede tanıtıldı?", "a": "1925 (Şapka = 5 harf).\nTanıtım: Kastamonu-İnebolu (İstiklal Yolu'nun başlangıcı).\n1934: din adamlarının dini kıyafeti sivil hayatta yasak." },
+    { "c": "Toplumsal İnkılaplar", "o": "Tekke, zaviye ve türbeler neden kapatıldı (3 sebep)?", "a": "1) Dinin yanlış kullanılmasını engellemek\n2) Din eğitimini devletin kontrol etmesi\n3) Gerici isyanların teşkilatlanmasını önlemek (örn. Menemen)\n1925 · şeyhlik-müritlik-dervişlik unvanları da kaldırıldı." },
+    { "c": "Toplumsal İnkılaplar", "o": "Ölçü-tartı-takvim-rakam değişikliğinin temel amacı nedir?", "a": "Avrupa ile ticari ilişkileri geliştirmek (ölçü uyumsuzluğunu gidermek).\nMiladi takvim 1926, metrik sistem 1931." },
+    { "c": "Toplumsal İnkılaplar", "o": "Hakimiyet Bayramı ne zamana kadar kutlandı, neden kaldırıldı?", "a": "1922 (saltanatın kaldırılması) → 1935'e kadar kutlandı.\n1935'te Milli Bayramlar ve Genel Tatiller Kanunu ile kaldırıldı. (Çıkmış soru!)" },
+    { "c": "Toplumsal İnkılaplar", "o": "Soyadı Kanunu ne zaman, hangi amaç ve ilkelerle çıktı?", "a": "1934 (Ata=3 + Türk=4).\nAmaç: resmi işleri kolaylaştırmak + toplumsal eşitlik → halkçılık; Türkçe soyad zorunluluğu → milliyetçilik.\nAğa-hacı-hafız unvanları, Osmanlı nişan-rütbeleri kaldırıldı." },
+    { "c": "Toplumsal İnkılaplar", "o": "Atatürk'e ve ailesine verilen soyadları nedir?", "a": "Mustafa Kemal'e: Atatürk.\nAilesine: Atadan (örn. Makbule Atadan).\nKanun teklifini kimin verdiği net değil (Saffet Arıkan, Naim Hazım vb. etkili)." },
+
+    { "c": "Eğitim İnkılapları", "o": "1. Maarif Kongresi ne zaman, hangi savaş sırasında toplandı?", "a": "1921 · Eskişehir-Kütahya Savaşı sırasında (yenildiğimiz tek savaş).\nKarar: eğitimin milli ve modern olması." },
+    { "c": "Eğitim İnkılapları", "o": "Tevhid-i Tedrisat Kanunu ne getirdi, teklifi kim verdi?", "a": "1924 · teklif: Milli Eğitim Bakanı Vasıf Çınar ('çınar gibi eğitim').\nTüm eğitim MEB çatısında birleşti; zorunlu-ücretsiz oldu; medreseler kapandı." },
+    { "c": "Eğitim İnkılapları", "o": "Medreseler kapatılınca din adamı nerede yetişecekti?", "a": "İlahiyat fakülteleri ve imam-hatip okulları açıldı.\n(Tevhid-i Tedrisat Kanunu ile.)" },
+    { "c": "Eğitim İnkılapları", "o": "Tevhid-i Tedrisat'ın azınlık/yabancı okullara etkisi ve en çok tepki gösteren devlet?", "a": "Misyonerlik yasak, Türk müfettiş denetimi, Türkçe-tarih dersleri zorunlu.\nEn çok Fransa itiraz etti; Milletler Cemiyeti'ne taşımasına izin verilmedi." },
+    { "c": "Eğitim İnkılapları", "o": "Tevhid-i Tedrisat Kanunu hangi 3 ilkeye girer?", "a": "Halkçılık (ücretsiz-fırsat eşitliği) + Laiklik (dinden bağımsız) + Milliyetçilik (milli eğitim)." },
+    { "c": "Eğitim İnkılapları", "o": "Karma eğitim ne zaman ve hangi yabancı uzmanla ilgilidir?", "a": "1927 karma eğitime geçildi.\nMüfredat düzenlemesinde John Dewey'den yararlanıldı (yaz tatili de onunla)." },
+    { "c": "Eğitim İnkılapları", "o": "Latin alfabesi neden kabul edildi, nerede tanıtıldı, ilk gazete?", "a": "1928 (La alfabe = 8) · Sarayburnu Parkı'nda tanıtım.\nSebep: Arap alfabesi Türkçeye uygun değil, okuma-yazma zor, Batı'ya yakınlaşma.\nİlk Latin gazete: Mardin Express." },
+    { "c": "Eğitim İnkılapları", "o": "Millet Mektepleri neden kuruldu, yayın organı ve Atatürk'ün unvanı?", "a": "1928 · Latin harflerini halka öğretmek için.\nYayın organı: Halk Mecmuası.\nAtatürk'e Başöğretmen unvanı (24 Kasım → Öğretmenler Günü)." },
+    { "c": "Eğitim İnkılapları", "o": "Türk Tarih Kurumu (1931): amaç, ilk başkan, tez, yayın?", "a": "Amaç: Türk tarihini araştırmak, milli bilinç.\nİlk başkan: Tevfik Bıyıklıoğlu.\nTürk Tarih Tezi (Türkler barbar/sarı ırk değil).\nYayın: Belleten." },
+    { "c": "Eğitim İnkılapları", "o": "Türk Dil Kurumu (1932): amaç, ilk başkan, teori?", "a": "Amaç: dili zenginleştirmek, yabancı kelimelerden arındırmak.\nİlk başkan: Samih Rıfat.\nGüneş Dil Teorisi (başarısız oldu)." },
+    { "c": "Eğitim İnkılapları", "o": "TTK ve TDK kronolojisi nasıl hatırlanır?", "a": "'Tarih hep dilden önce': TTK 1931 < TDK 1932.\nSorularda ikisi hep birlikte, ayrı ayrı sorulmaz." },
+    { "c": "Eğitim İnkılapları", "o": "Halkevleri neyin yerine kuruldu, amacı ve yayın organı?", "a": "1932 · Türk Ocakları'nın yerine.\nAmaç: inkılapların yerleşmesi + halkın gelişimi.\nYayın: Ülkü dergisi. Adnan Menderes döneminde kapatıldı." },
+    { "c": "Eğitim İnkılapları", "o": "1933 Üniversite Reformu: yabancı uzman ve sonuç?", "a": "Uzman: Albert Malche (İsviçre).\nSonuç: Darülfünun → İstanbul Üniversitesi." },
+    { "c": "Eğitim İnkılapları", "o": "Köy Enstitüleri: yıl, cumhurbaşkanı, kurucu isimler?", "a": "1940 · İsmet İnönü cumhurbaşkanlığında.\nMilli Eğitim Bakanı Hasan Ali Yücel + İsmail Hakkı Tonguç.\nAmaç: kırsal-kentli eğitim eşitliği. Adnan Menderes döneminde kapatıldı." },
+    { "c": "Eğitim İnkılapları", "o": "Cumhuriyet döneminin 3 önemli yabancı eğitim/sanat uzmanı?", "a": "John Dewey → müfredat.\nAlbert Malche → üniversite reformu.\nPaul Hindemith → Musiki Muallim Mektebi." },
+
+    { "c": "Ekonomi & Bankalar", "o": "İzmir İktisat Kongresi: yıl, başkan, zamanlama?", "a": "1923 · Başkan: Kazım Karabekir (2015 KPSS).\nLozan'a ara verildiği dönemde toplandı.\nAlınan kararlar: Misak-ı İktisadi / Milli Ekonomi Kararları." },
+    { "c": "Ekonomi & Bankalar", "o": "Misak-ı İktisadi kararlarından öne çıkanlar?", "a": "Hammadde yurt içi sanayi · el işçiliğinden fabrikalaşmaya · milli banka-kredi · yerli tekel yok · özel sektörün yapamadığını devlet yapar · sendika-grev hakkı · 'amele' değil 'işçi' · okuma bayramı." },
+    { "c": "Ekonomi & Bankalar", "o": "Aşar (öşür) vergisi ne zaman kaldırıldı, hangi ilkeye girer?", "a": "1925 · çiftçinin sırtındaki yük alındı, üretime teşvik.\nHalkçılığa girer." },
+    { "c": "Ekonomi & Bankalar", "o": "Toprak Mahsulleri Ofisi ile Toprak Mahsulleri Vergisi karışır — fark?", "a": "TMO (ofis): tarımsal ürün piyasasını düzenler → ATATÜRK dönemi.\nToprak Mahsulleri Vergisi → İSMET İNÖNÜ dönemi." },
+    { "c": "Ekonomi & Bankalar", "o": "Teşvik-i Sanayi Kanunu neden uygulanamadı?", "a": "1927 (Teşviki=7) · özel sektöre vergi muafiyeti, ücretsiz arazi vb. sağladı.\nAma 1929 Dünya Ekonomik Krizi + sermaye/kalifiye eleman eksikliği nedeniyle uygulanamadı." },
+    { "c": "Ekonomi & Bankalar", "o": "1. Beş Yıllık Sanayi Planı: yıl, örnek ülke, sonuç, banka?", "a": "1934-1938 · SSCB örnek alındı · BAŞARIYLA uygulandı.\nUygulayan banka: Sümerbank. (2. Plan 2. Dünya Savaşı yüzünden uygulanamadı.)" },
+    { "c": "Ekonomi & Bankalar", "o": "İş Bankası: yıl, özelliği, ilk genel müdürü?", "a": "1924 · Türkiye'nin ilk özel bankası.\nKaynak: İtibar-ı Milli Bankası + Hintli Müslümanların yardımı.\nİlk GM: Celal Bayar." },
+    { "c": "Ekonomi & Bankalar", "o": "Celal Bayar'ı 'her zaman muhtemel soru' yapan özellikler?", "a": "Galip Hoca (Aydın-Nazilli kongreleri) · İş Bankası ilk GM · Atatürk döneminin son başbakanı · 3. cumhurbaşkanı · ilk sivil kökenli cumhurbaşkanı · dörtlü takrir → Demokrat Parti." },
+    { "c": "Ekonomi & Bankalar", "o": "Merkez Bankası: yıl, iki görevi, ilk başkanı?", "a": "1930 · Türk parasının değerini korumak + para politikalarını yönetmek.\nİlk başkan: Selahattin Çam.\n(Aynı yıl Türk Parasının Kıymetini Koruma Kanunu.)" },
+    { "c": "Ekonomi & Bankalar", "o": "Sümerbank'ın kökeni ve işlevleri?", "a": "1925 Sanayi ve Maadin Bankası → 1933'te Sümerbank oldu.\nTekstil, demir-çelik, çimento fabrikaları + kredi + genel bankacılık.\n1. Beş Yıllık Planı uyguladı." },
+    { "c": "Ekonomi & Bankalar", "o": "Bu dönem bankaları ve görevleri (kısa)?", "a": "Emlak ve Eytam (1926): gayrimenkul + yetim hakları.\nHalk Bankası (1933): esnafa kredi.\nMTA (1935): maden araştırma.\nEtibank (1935): madencilik. Denizbank (1937): denizcilik." },
+    { "c": "Ekonomi & Bankalar", "o": "Kabotaj Kanunu (1926) hangi ilkeye girer, neden devletçilik değil?", "a": "Türk liman-sahillerinde taşıma Türklerce/Türk bayraklı gemilerce → milliyetçilik.\nDevletçilik değil, çünkü devletçilik 1930'dan sonra uygulandı." },
+    { "c": "Ekonomi & Bankalar", "o": "Türkiye Cumhuriyeti'nin ilk kamu işletmesi hangisidir?", "a": "1924 Devlet Demir Yolları Genel Müdürlüğü." },
+    { "c": "Ekonomi & Bankalar", "o": "Karabük Demir Çelik Fabrikası hangi devletin desteğiyle kuruldu?", "a": "İNGİLTERE desteğiyle.\nDikkat: 1. Beş Yıllık Plan (SSCB) ile karıştırılır." },
+    { "c": "Ekonomi & Bankalar", "o": "Adana-Mersin Demiryolları hangi devletten satın alınarak millileştirildi?", "a": "Fransa'dan (1929).\n'Millileştirme sorunu kimle yaşandı?' → Fransa." },
+
+    { "c": "Sağlık & Spor", "o": "Hilal-i Ahdar ve Hilal-i Ahmer neye dönüştü?", "a": "Hilal-i Ahdar (yeşil ay) → Yeşilay.\nHilal-i Ahmer (kızıl/kırmızı ay) → Kızılay." },
+    { "c": "Sağlık & Spor", "o": "Türkiye'nin ilk pandemi hastanesi ve Hıfzıssıhha Enstitüsü?", "a": "İlk pandemi hastanesi: Heybeliada Sanatoryumu.\nHıfzıssıhha Enstitüsü: salgınlarla mücadele, Sağlık Bakanı Refik Saydam liderliğinde." },
+    { "c": "Sağlık & Spor", "o": "Bu dönemin nüfus politikası nasıldı?", "a": "Nüfus ARTIRICI: doğum kontrolü yasak, çok çocuklu ailelere altın.\nİlk nüfus sayımı: 1927." },
+    { "c": "Sağlık & Spor", "o": "Milli Olimpiyat teşkilatını kuran kişi ve katılınan ilk olimpiyatlar?", "a": "Osmanlı & TC'de kuran: Selim Sırrı Tarcan.\nOsmanlı'nın ilk katılımı: Stockholm.\nTC'nin ilk katılımı: 1924 Paris." },
+    { "c": "Sağlık & Spor", "o": "Türkiye Cumhuriyeti'ne ilk olimpiyat altın madalyasını kim kazandı?", "a": "Yaşar Erkan (güreş)." },
+
+    { "c": "Sanat-Bilim-Edebiyat", "o": "İlk Atatürk heykelini kim yaptı, ilk Türk heykeltıraş kim?", "a": "İlk Atatürk heykeli: Heinrich Krippel (1926 Sarayburnu); ayrıca Ankara Zafer Anıtı (1927).\nHeykeli yapan ilk Türk: Necat Sirel (İzmir)." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Etnografya Müzesi'nin özel anlamı nedir?", "a": "1925 · Eskişehir-Kütahya sırasında M. Kemal'in yaverine bıraktığı istekle bağlantılı.\n1938-1953 arası Atatürk'ün naaşı burada kaldı; 1953'te Anıtkabir'e nakledildi." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Osmanlı kurumlarının Cumhuriyet'teki karşılıkları?", "a": "Sanayi-i Nefise Mektebi → Güzel Sanatlar Akademisi.\nMızıka-yı Hümayun → Cumhurbaşkanlığı Senfoni Orkestrası.\nDarülbedayi → İstanbul Şehir Tiyatroları.\nDarülelhan → Konservatuvar.\nMülkiye Mektebi → Siyasal Bilgiler Fakültesi." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "2. TBMM binası ve Anıtkabir'in mimarları kimlerdir?", "a": "2. TBMM (Cumhuriyet Müzesi): Vedat Tek.\nAnıtkabir: Emin Onat ve Orhan Arda.\nAnkara imar planı: Hermann Jansen." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Muhsin Ertuğrul'un iki 'ilk'i nedir?", "a": "İlk renkli film: Halıcı Kız.\nMilli mücadeleyi anlatan ilk uzun metrajlı film: Ateşten Gömlek (Halide Edib romanı)." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Türk Beşleri kimlerdir (HANCU)?", "a": "Hasan Ferit Alnar · Ahmet Adnan Saygun · Necil Kazım Akses · Cemal Reşit Rey · Ulvi Cemal Erkin.\nBatı'da müzik eğitimi alıp dönen ilk müzisyenler." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Türk Beşleri'nde en çok sorulan iki isim ve nedeni?", "a": "Cemal Reşit Rey → 10. Yıl Marşı'nın bestecisi.\nAhmet Adnan Saygun → ilk devlet sanatçısı; ilk opera Özsoy'u besteledi (Rıza Şah Pehlevi için)." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Ressamlar ve eserleri kimlerdir?", "a": "İbrahim Çallı: Zeybekler, Hatay'ın Anavatana Özlemi.\nHikmet Onat: Siperde Mektup Okuyan Askerler.\nMehmet Ruhi Arel: Türk Ordusunun İstanbul'a Girişi." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Vecihi Hürkuş ve Fatih Gökmen kimdir?", "a": "Vecihi Hürkuş: ilk sivil havacılık okulunu kurdu.\nFatih Gökmen: Kandilli Rasathanesi'nin kurucusu (astronomi + deprem)." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Cahit Arf ve Halil İnalcık kimdir?", "a": "Cahit Arf: matematikçi, Arf teoremi (banknotta yer aldı).\nHalil İnalcık: Dil-Tarih-Coğrafya Fak. mezunu; 'şeyhülmüverrihin' (tarihçilerin kutbu); Devlet-i Aliyye serisi." },
+    { "c": "Sanat-Bilim-Edebiyat", "o": "Hulusi Behçet, Reşit Galip ve Saffet Arıkan kimdir?", "a": "Hulusi Behçet: Behçet hastalığını buldu.\nReşit Galip: Andımız'ın yazarı.\nSaffet Arıkan: eğitmen kurslarının kurulmasına öncülük etti." }
+  ],
+  "tuzak": [
+    { "q": "Saltanatın kaldırılmasını kim teklif etti?", "o": ["Dr. Rıza Nur", "İsmet İnönü", "Şeyh Saffet Efendi"], "c": 0, "n": "İsmet İnönü Ankara'nın başkentliğini, Şeyh Saffet Efendi halifeliğin kaldırılmasını teklif etti." },
+    { "q": "Halifeliğin kaldırılmasını kim teklif etti?", "o": ["Şeyh Saffet Efendi", "Dr. Rıza Nur", "Vasıf Çınar"], "c": 0, "n": "Vasıf Çınar Tevhid-i Tedrisat'ı teklif etti; teklif sahipleri karıştırılır." },
+    { "q": "Ankara'nın başkent olması teklifi kime aittir?", "o": ["İsmet İnönü", "Dr. Rıza Nur", "Kazım Karabekir"], "c": 0, "n": "Kazım Karabekir İzmir İktisat Kongresi başkanıdır, başkentlik teklifi İsmet İnönü'nündür." },
+    { "q": "Medeni Kanun kabul edildiğinde dönemin adalet bakanı kimdi?", "o": ["Mahmut Esat Bozkurt", "Vasıf Çınar", "Refik Saydam"], "c": 0, "n": "Çıkmış soru; Vasıf Çınar Milli Eğitim, Refik Saydam Sağlık Bakanı'dır." },
+    { "q": "Medeni Kanun hangi ülke örnek alınarak hazırlandı?", "o": ["İsviçre", "İtalya", "Almanya"], "c": 0, "n": "İtalya→Ceza, Almanya→Ticaret; Medeni-Borçlar-İcra/İflas İsviçre'dendir." },
+    { "q": "Ceza Kanunu hangi ülkeden alındı?", "o": ["İtalya", "İsviçre", "Fransa"], "c": 0, "n": "Mussolini'nin İtalya'sı; Fransa'dan idare hukuku alınmıştır." },
+    { "q": "Ticaret Kanunu hangi ülkeden alındı?", "o": ["Almanya", "İsviçre", "İtalya"], "c": 0, "n": "'Ticaretle kalkınan Almanya' kancası; İsviçre medeni-borçlar-icra içindir." },
+    { "q": "Medeni Kanun kadınlara siyasi hak verdi mi?", "o": ["Hayır, vermedi", "Evet, verdi"], "c": 0, "n": "Siyasi haklar BMW 034 (1930-33-34) ile verildi; bu yüzden Medeni Kanun cumhuriyetçiliğe alınamaz." },
+    { "q": "Medeni Kanun'un içerik şeması hangisidir?", "o": ["Şahıs-Eşya-Miras-Aile hukuku (ŞEMA)", "Ceza-Ticaret-İdare-Borçlar", "Anayasa-Vergi-Tapu-Nüfus"], "c": 0, "n": "ŞEMA kısaltması yalnız medeni kanun içindir." },
+    { "q": "İlk kadın vekil kimdir?", "o": ["İlk kadın vekil yoktur (17 kadın bir arada girdi)", "Satı Çırpan", "Afet İnan"], "c": 0, "n": "Satı Çırpan 17 kadın vekilden biridir ama 'ilk' değildir; ilk kadın vekil kavramı yoktur." },
+    { "q": "İlk kadın muhtar kimdir?", "o": ["Gül Esin", "Sadiye Hanım", "Müfide İlhan"], "c": 0, "n": "Sadiye Hanım ilk kadın belediye başkanı, Müfide İlhan ilk kadın il belediye başkanıdır." },
+    { "q": "İlk kadın belediye başkanı kimdir?", "o": ["Sadiye Hanım", "Gül Esin", "Lale Aytaman"], "c": 0, "n": "Gül Esin muhtar, Lale Aytaman ilk kadın validir." },
+    { "q": "İlk kadın pilot ile ilk kadın savaş pilotu:", "o": ["Pilot Bedriye Gökmen / Savaş pilotu Sabiha Gökçen", "Pilot Sabiha Gökçen / Savaş pilotu Bedriye Gökmen"], "c": 0, "n": "Sabiha Gökçen SAVAŞ pilotudur (Dersim); ilk kadın pilot Bedriye Gökmen'dir." },
+    { "q": "İlk kadın Milli Eğitim Bakanı kimdir?", "o": ["Nimet Çubukçu", "Türkan Akyol", "Tansu Çiller"], "c": 0, "n": "Türkan Akyol ilk kadın (Sağlık) bakanı, Tansu Çiller ilk kadın başbakandır." },
+    { "q": "Şapka Kanunu'nun tanıtıldığı yer neresidir?", "o": ["Kastamonu-İnebolu", "Sarayburnu", "İzmir"], "c": 0, "n": "Sarayburnu Latin alfabesinin tanıtıldığı yerdir; İnebolu İstiklal Yolu'nun başıdır." },
+    { "q": "Latin alfabesi nerede tanıtıldı?", "o": ["Sarayburnu Parkı", "Kastamonu-İnebolu", "Ankara"], "c": 0, "n": "İnebolu şapka içindir; ikisi karıştırılır." },
+    { "q": "Latin harfleriyle basılan ilk gazete hangisidir?", "o": ["Mardin Express", "Halk Mecmuası", "Ülkü"], "c": 0, "n": "Halk Mecmuası millet mekteplerinin, Ülkü halkevlerinin yayın organıdır." },
+    { "q": "Millet Mekteplerinin yayın organı hangisidir?", "o": ["Halk Mecmuası", "Belleten", "Ülkü"], "c": 0, "n": "Belleten TTK'nın, Ülkü halkevlerinin yayınıdır." },
+    { "q": "Türk Tarih Kurumu'nun süreli yayın organı hangisidir?", "o": ["Belleten", "Ülkü", "Halk Mecmuası"], "c": 0, "n": "Belleten aynı zamanda Atatürk'ün okuduğu son eserdir." },
+    { "q": "TTK ve TDK kronolojik sıralaması nasıldır?", "o": ["Önce TTK (1931), sonra TDK (1932)", "Önce TDK, sonra TTK"], "c": 0, "n": "'Tarih hep dilden önce' — TTK 1931 < TDK 1932." },
+    { "q": "TTK'nın ortaya koyduğu görüş hangisidir?", "o": ["Türk Tarih Tezi", "Güneş Dil Teorisi"], "c": 0, "n": "Güneş Dil Teorisi TDK'nındır; tez-teori karışır." },
+    { "q": "Müfredat düzenlenmesinde yararlanılan yabancı uzman kimdir?", "o": ["John Dewey", "Albert Malche", "Paul Hindemith"], "c": 0, "n": "Malche üniversite reformu, Hindemith Musiki Muallim Mektebi içindir." },
+    { "q": "Darülfünun'u İstanbul Üniversitesi'ne çeviren reformun uzmanı kimdir?", "o": ["Albert Malche", "John Dewey", "Paul Hindemith"], "c": 0, "n": "Üç yabancı uzman rolleriyle karıştırılır." },
+    { "q": "İzmir İktisat Kongresi'nin başkanı kimdir?", "o": ["Kazım Karabekir", "Celal Bayar", "Mahmut Esat Bozkurt"], "c": 0, "n": "2015 KPSS çıkmış; Celal Bayar İş Bankası GM'sidir." },
+    { "q": "İş Bankası'nın ilk genel müdürü kimdir?", "o": ["Celal Bayar", "Kazım Karabekir", "Selahattin Çam"], "c": 0, "n": "Selahattin Çam Merkez Bankası'nın ilk başkanıdır." },
+    { "q": "Türk parasının değerini korumak için 1930'da kurulan banka?", "o": ["Merkez Bankası", "İş Bankası", "Sümerbank"], "c": 0, "n": "İş Bankası özel sektöre kredi, Sümerbank sanayi planı içindir." },
+    { "q": "1. Beş Yıllık Sanayi Planı hangi ülke örnek alınarak yapıldı?", "o": ["SSCB", "İngiltere", "Almanya"], "c": 0, "n": "Karabük Demir-Çelik İngiltere desteğiyledir; ikisi karıştırılır." },
+    { "q": "Karabük Demir Çelik Fabrikası hangi ülkenin desteğiyle kuruldu?", "o": ["İngiltere", "SSCB", "İtalya"], "c": 0, "n": "SSCB 1. Beş Yıllık Plan içindir; Karabük İngiltere'dir." },
+    { "q": "Teşvik-i Sanayi Kanunu'nun uygulanamama nedeni nedir?", "o": ["1929 Dünya Ekonomik Krizi", "2. Dünya Savaşı"], "c": 0, "n": "2. Dünya Savaşı 2. Beş Yıllık Planın uygulanamama nedenidir." },
+    { "q": "Tarımsal ürün piyasasını düzenleyen, Atatürk döneminde kurulan kurum?", "o": ["Toprak Mahsulleri Ofisi", "Toprak Mahsulleri Vergisi"], "c": 0, "n": "Vergi İsmet İnönü dönemindedir; ofis-vergi ayrımına dikkat." },
+    { "q": "Kabotaj Kanunu hangi ilkeye girer?", "o": ["Milliyetçilik", "Devletçilik"], "c": 0, "n": "Devletçilik 1930'dan sonradır; 1926 Kabotaj milliyetçiliğe girer." },
+    { "q": "Seçmen yaşının 1930'da yükseltilmesi cumhuriyetçiliğe nasıldır?", "o": ["Aykırıdır", "Uygundur"], "c": 0, "n": "Yaş yükselince daha az kişi oy kullanır; yalnız DÜŞÜRME uygundur." },
+    { "q": "İlk Atatürk heykelini yapan ile ilk Türk heykeltıraş:", "o": ["Krippel / Necat Sirel", "Necat Sirel / Krippel"], "c": 0, "n": "Heinrich Krippel yabancıdır (ilk heykel); ilk Türk heykeltıraş Necat Sirel'dir." },
+    { "q": "10. Yıl Marşı'nın bestecisi hangisidir?", "o": ["Cemal Reşit Rey", "Ahmet Adnan Saygun"], "c": 0, "n": "Ahmet Adnan Saygun ilk devlet sanatçısı ve Özsoy operası bestecisidir." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdaki inkılap-kanun teklifi eşleştirmelerinden hangisi yanlıştır?",
+      "o": [
+        "Saltanatın kaldırılması — Dr. Rıza Nur",
+        "Ankara'nın başkent olması — İsmet İnönü",
+        "Halifeliğin kaldırılması — Şeyh Saffet Efendi",
+        "Tevhid-i Tedrisat Kanunu — Vasıf Çınar",
+        "Medeni Kanun — Kazım Karabekir"
+      ],
+      "c": 4,
+      "e": "Medeni Kanun dönemin Adalet Bakanı Mahmut Esat Bozkurt liderliğinde çıkmıştır; Kazım Karabekir İzmir İktisat Kongresi başkanıdır."
+    },
+    {
+      "q": "3 Mart 1924 tarihinde halifeliğin kaldırılmasıyla aynı gün gerçekleştirilen inkılaplar 'ŞOTE' ile kodlanır. Aşağıdakilerden hangisi bu inkılaplardan biri değildir?",
+      "o": [
+        "Şeriye ve Evkaf Vekaleti'nin kaldırılması",
+        "Osmanlı hanedanının yurt dışına çıkarılması",
+        "Tevhid-i Tedrisat Kanunu'nun kabulü",
+        "Erkan-ı Harbiye Vekaleti'nin kaldırılması",
+        "Kılık Kıyafet Kanunu'nun çıkarılması"
+      ],
+      "c": 4,
+      "e": "Kılık Kıyafet (Şapka) Kanunu 1925'te çıkmıştır; ŞOTE inkılapları 3 Mart 1924 günü yapılmıştır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Medeni Kanun'un kabulünün sonuçları arasında gösterilemez?",
+      "o": [
+        "Kadın-erkek arasında toplumsal alanda eşitlik sağlanması",
+        "Mecelle'nin yürürlükten kaldırılması",
+        "Kadınlara seçme ve seçilme hakkının verilmesi",
+        "Resmi nikâh zorunluluğunun getirilmesi",
+        "Patrikhane ve konsoloslukların yargı yetkisinin sınırlandırılması"
+      ],
+      "c": 2,
+      "e": "Kadınlara siyasi (seçme-seçilme) haklar 1930-1933-1934'te ayrıca verilmiştir; Medeni Kanun siyasi hak içermez."
+    },
+    {
+      "q": "Türk kadınına verilen siyasi haklarla ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "o": [
+        "Belediye seçimleri — 1930",
+        "Muhtarlık seçimleri — 1930",
+        "Milletvekili seçimleri — 1933",
+        "Belediye seçimleri — 1934",
+        "Muhtarlık seçimleri — 1934"
+      ],
+      "c": 0,
+      "e": "BMW 034: Belediye 1930, Muhtarlık 1933, Vekillik 1934."
+    },
+    {
+      "q": "Aşağıdaki inkılaplardan hangisinin gerçekleştiği yıl, adının harf sayısıyla kodlanamaz?",
+      "o": [
+        "Şapka İnkılabı (1925)",
+        "Medeni Kanun (1926)",
+        "Latin alfabesi / La alfabe (1928)",
+        "Soyadı Kanunu / Atatürk (1934)",
+        "Halifeliğin kaldırılması (1924)"
+      ],
+      "c": 4,
+      "e": "Halifeliğin kaldırılması tarihi (3 Mart 1924) harf sayısıyla kodlanmaz; diğerleri Zeki Hoca'nın harf-yıl şifreleridir."
+    },
+    {
+      "q": "Yurt dışından alınan kanunlarla kaynak ülkeleri eşleştirildiğinde hangisi yanlıştır?",
+      "o": [
+        "Medeni Kanun — İsviçre",
+        "Borçlar Kanunu — İsviçre",
+        "Ceza Kanunu — İtalya",
+        "Ticaret Kanunu — Fransa",
+        "İdare Hukuku — Fransa"
+      ],
+      "c": 3,
+      "e": "Ticaret Kanunu Almanya'dan alınmıştır; Fransa'dan idare hukuku alınmıştır."
+    },
+    {
+      "q": "Tevhid-i Tedrisat Kanunu ile ilgili,\nI. Eğitim-öğretimin Milli Eğitim Bakanlığı çatısında birleştirilmesi\nII. Medreselerin kapatılması\nIII. Kadınlara milletvekili seçme hakkının verilmesi\nyargılarından hangileri doğrudur?",
+      "o": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "c": 2,
+      "e": "Kadınlara milletvekili seçme hakkı 1934'te ayrı bir düzenlemeyle verilmiştir; Tevhid-i Tedrisat eğitimi birleştirdi ve medreseleri kapattı."
+    },
+    {
+      "q": "1. Maarif Kongresi ile ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+      "o": [
+        "Eskişehir-Kütahya Savaşı sırasında toplanmıştır",
+        "Sakarya Savaşı'ndan sonra toplanmıştır",
+        "Lozan Konferansı sırasında toplanmıştır",
+        "Cumhuriyetin ilanından sonra toplanmıştır",
+        "Büyük Taarruz'dan sonra toplanmıştır"
+      ],
+      "c": 0,
+      "e": "1921'de, yenildiğimiz tek muharebe olan Eskişehir-Kütahya Savaşı sırasında toplanmıştır."
+    },
+    {
+      "q": "Cumhuriyet döneminde yararlanılan yabancı uzmanlarla çalışma alanları eşleştirildiğinde hangisi yanlıştır?",
+      "o": [
+        "John Dewey — Eğitim müfredatı",
+        "Albert Malche — Üniversite reformu",
+        "Paul Hindemith — Musiki Muallim Mektebi",
+        "Hermann Jansen — Ankara imar planı",
+        "John Dewey — Üniversite reformu"
+      ],
+      "c": 4,
+      "e": "Üniversite reformunu Albert Malche hazırlamıştır; John Dewey müfredat düzenlemesinde görev almıştır."
+    },
+    {
+      "q": "Aşağıdaki kurum-yayın organı eşleştirmelerinden hangisi doğrudur?",
+      "o": [
+        "Millet Mektepleri — Halk Mecmuası",
+        "Türk Tarih Kurumu — Ülkü",
+        "Halkevleri — Belleten",
+        "Türk Dil Kurumu — Halk Mecmuası",
+        "Millet Mektepleri — Belleten"
+      ],
+      "c": 0,
+      "e": "TTK → Belleten, Halkevleri → Ülkü; yalnız 'Millet Mektepleri — Halk Mecmuası' doğrudur."
+    },
+    {
+      "q": "Türk Tarih Kurumu ve Türk Dil Kurumu ile ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": [
+        "TTK, TDK'dan önce (1931) kurulmuştur",
+        "TTK'nın ilk başkanı Tevfik Bıyıklıoğlu'dur",
+        "TDK'nın ilk başkanı Samih Rıfat'tır",
+        "TTK Güneş Dil Teorisi'ni ortaya koymuştur",
+        "TDK dili yabancı kelimelerden arındırmayı amaçlamıştır"
+      ],
+      "c": 3,
+      "e": "Güneş Dil Teorisi TDK'ya aittir; TTK Türk Tarih Tezi'ni ortaya koymuştur."
+    },
+    {
+      "q": "İzmir İktisat Kongresi'nde alınan Misak-ı İktisadi kararlarından hangisi gösterilemez?",
+      "o": [
+        "Hammaddesi yurt içinde bulunan sanayilerin kurulması",
+        "İşçilere sendika ve grev hakkı tanınması",
+        "El işçiliğinden fabrikalaşmaya geçilmesi",
+        "Yabancıların kurduğu tekellerden kaçınılması",
+        "Kadınlara belediye seçimlerine katılma hakkı verilmesi"
+      ],
+      "c": 4,
+      "e": "Kadınlara belediye seçimi hakkı 1930'da verilmiştir; kongre kararları ekonomik içeriklidir."
+    },
+    {
+      "q": "Aşağıdaki banka-görev eşleştirmelerinden hangisi yanlıştır?",
+      "o": [
+        "İş Bankası — Türkiye'nin ilk özel bankası",
+        "Merkez Bankası — Türk parasının değerini korumak",
+        "Halk Bankası — Esnafa kredi vermek",
+        "Sümerbank — 1. Beş Yıllık Sanayi Planı'nı uygulamak",
+        "Etibank — Denizcilik faaliyetlerini desteklemek"
+      ],
+      "c": 4,
+      "e": "Denizciliği destekleyen Denizbank'tır; Etibank madencilik alanında kurulmuştur."
+    },
+    {
+      "q": "Teşvik-i Sanayi Kanunu ile 1. Beş Yıllık Sanayi Planı karşılaştırıldığında hangisi doğrudur?",
+      "o": [
+        "Teşvik-i Sanayi Kanunu 1929 krizi nedeniyle uygulanamamış, 1. Plan başarıyla uygulanmıştır",
+        "Her ikisi de başarıyla uygulanmıştır",
+        "Her ikisi de 2. Dünya Savaşı nedeniyle uygulanamamıştır",
+        "1. Plan İngiltere, Teşvik-i Sanayi SSCB örnek alınarak yapılmıştır",
+        "Teşvik-i Sanayi Kanunu SSCB örnek alınarak hazırlanmıştır"
+      ],
+      "c": 0,
+      "e": "1927 Teşvik-i Sanayi 1929 kriziyle uygulanamadı; 1934-38 arası 1. Plan SSCB örnek alınarak başarıyla uygulandı."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Türkiye Cumhuriyeti'nin ilk kamu işletmesidir?",
+      "o": [
+        "Devlet Demir Yolları Genel Müdürlüğü",
+        "Sümerbank",
+        "Etibank",
+        "Maden Tetkik Arama Enstitüsü",
+        "İş Bankası"
+      ],
+      "c": 0,
+      "e": "1924'te kurulan Devlet Demir Yolları Genel Müdürlüğü TC'nin ilk kamu işletmesidir."
+    },
+    {
+      "q": "Kabotaj Kanunu (1926) ile ilgili aşağıdaki yorumlardan hangisi doğrudur?",
+      "o": [
+        "Türk kara sularında taşımacılığı Türklere tanıdığı için milliyetçilik ilkesine girer",
+        "Devlet eliyle sanayi kurduğu için devletçilik ilkesine girer",
+        "Kadınlara hak tanıdığı için halkçılığa girer",
+        "Din işlerini düzenlediği için laikliğe girer",
+        "Eğitimi birleştirdiği için milliyetçiliğe girer"
+      ],
+      "c": 0,
+      "e": "Devletçilik 1930'dan sonra uygulanır; 1926 Kabotaj Kanunu Türk vurgusuyla milliyetçiliğe girer."
+    },
+    {
+      "q": "Kadınlarda 'ilk'lerle ilgili aşağıdaki eşleştirmelerden hangisi yanlıştır?",
+      "o": [
+        "İlk kadın vali — Lale Aytaman",
+        "İlk kadın savaş pilotu — Sabiha Gökçen",
+        "İlk kadın tarihçi — Afet İnan",
+        "İlk kadın başbakan — Tansu Çiller",
+        "İlk kadın muhtar — Sadiye Hanım"
+      ],
+      "c": 4,
+      "e": "İlk kadın muhtar Gül Esin'dir; Sadiye Hanım ilk kadın belediye başkanıdır."
+    },
+    {
+      "q": "Osmanlı kurumları ile Cumhuriyet dönemindeki karşılıkları eşleştirildiğinde hangisi yanlıştır?",
+      "o": [
+        "Sanayi-i Nefise Mektebi — Güzel Sanatlar Akademisi",
+        "Darülbedayi — İstanbul Şehir Tiyatroları",
+        "Darülelhan — Konservatuvar",
+        "Mızıka-yı Hümayun — Cumhurbaşkanlığı Senfoni Orkestrası",
+        "Mülkiye Mektebi — İstanbul Üniversitesi"
+      ],
+      "c": 4,
+      "e": "Mülkiye Mektebi Siyasal Bilgiler Fakültesi'ne dönüştürülmüştür; İstanbul Üniversitesi Darülfünun'dan gelmiştir."
+    },
+    {
+      "q": "Türk Beşleri içerisinde yer alan Ahmet Adnan Saygun ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": [
+        "İlk devlet sanatçısıdır ve ilk opera Özsoy'u bestelemiştir",
+        "10. Yıl Marşı'nın bestecisidir",
+        "İstiklal Marşı'nın günümüz bestesini yapmıştır",
+        "İlk renkli filmi çekmiştir",
+        "Musiki Muallim Mektebi'ni kurmuştur"
+      ],
+      "c": 0,
+      "e": "10. Yıl Marşı Cemal Reşit Rey'in, ilk renkli film (Halıcı Kız) Muhsin Ertuğrul'undur; Saygun ilk devlet sanatçısı ve Özsoy operası bestecisidir."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi doğru bir eşleştirmedir?",
+      "o": [
+        "İlk pandemi hastanesi — Heybeliada Sanatoryumu",
+        "Hıfzıssıhha Enstitüsü — Kazım Karabekir",
+        "Kandilli Rasathanesi — Cahit Arf",
+        "İlk sivil havacılık okulu — Fatih Gökmen",
+        "Andımız — Halil İnalcık"
+      ],
+      "c": 0,
+      "e": "Hıfzıssıhha Refik Saydam, Kandilli Fatih Gökmen, sivil havacılık okulu Vecihi Hürkuş, Andımız Reşit Galip ile ilgilidir."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "İnkılap → Kanun teklifi / lider",
+      "p": [
+        ["Saltanatın kaldırılması", "Dr. Rıza Nur"],
+        ["Ankara'nın başkent olması", "İsmet İnönü"],
+        ["Halifeliğin kaldırılması", "Şeyh Saffet Efendi"],
+        ["Tevhid-i Tedrisat Kanunu", "Vasıf Çınar"],
+        ["Medeni Kanun", "Mahmut Esat Bozkurt"],
+        ["İzmir İktisat Kongresi", "Kazım Karabekir"]
+      ]
+    },
+    {
+      "ad": "Kanun → Alındığı ülke",
+      "p": [
+        ["Medeni Kanun", "İsviçre"],
+        ["Borçlar Kanunu", "İsviçre"],
+        ["Ceza Kanunu", "İtalya"],
+        ["Ticaret Kanunu", "Almanya"],
+        ["İdare Hukuku", "Fransa"],
+        ["İcra-İflas Kanunu", "İsviçre"]
+      ]
+    },
+    {
+      "ad": "Kurum → Süreli yayın / ürün",
+      "p": [
+        ["Millet Mektepleri", "Halk Mecmuası"],
+        ["Türk Tarih Kurumu", "Belleten dergisi"],
+        ["Halkevleri", "Ülkü dergisi"],
+        ["Türk Tarih Kurumu tezi", "Türk Tarih Tezi"],
+        ["Türk Dil Kurumu teorisi", "Güneş Dil Teorisi"],
+        ["Muhsin Ertuğrul (ilk renkli film)", "Halıcı Kız"]
+      ]
+    },
+    {
+      "ad": "Banka → Görev / özellik",
+      "p": [
+        ["İş Bankası", "İlk özel banka (GM Celal Bayar)"],
+        ["Merkez Bankası", "TL değerini korumak"],
+        ["Sümerbank", "1. Beş Yıllık Sanayi Planı"],
+        ["Halk Bankası", "Esnafa kredi"],
+        ["Etibank", "Madencilik"],
+        ["Denizbank", "Denizcilik"]
+      ]
+    },
+    {
+      "ad": "Kadınlarda ilk → Kişi",
+      "p": [
+        ["İlk kadın muhtar", "Gül Esin"],
+        ["İlk kadın belediye başkanı", "Sadiye Hanım"],
+        ["İlk kadın vali", "Lale Aytaman"],
+        ["İlk kadın savaş pilotu", "Sabiha Gökçen"],
+        ["İlk kadın tarihçi", "Afet İnan"],
+        ["İlk kadın dünya güzeli", "Keriman Halis"]
+      ]
+    },
+    {
+      "ad": "Yabancı uzman → Çalışma alanı",
+      "p": [
+        ["John Dewey", "Eğitim müfredatı"],
+        ["Albert Malche", "Üniversite reformu"],
+        ["Paul Hindemith", "Musiki Muallim Mektebi"],
+        ["Hermann Jansen", "Ankara imar planı"],
+        ["Heinrich Krippel", "İlk Atatürk heykeli"],
+        ["İsmail Hakkı Tonguç", "Köy Enstitüleri"]
+      ]
+    }
+  ]
+}

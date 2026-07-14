@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "gun": 25,
+    "baslik": "Soğuk Savaş Dönemi (1. Kısım: Bloklar, Örgütler ve Bağımsızlık Hareketleri)",
+    "ozet": "II. Dünya Savaşı sonrası ABD ve SSCB liderliğinde iki kutuplu dünyanın doğuşu; Batı/Doğu bloğu örgütleri, blok içi kriz ve devrimler, Ortadoğu ile Asya-Afrika bağımsızlık hareketleri.",
+    "tahminiSoru": "KPSS'de ~2-3 soru (Truman, üçgen diplomasisi ve Mandela son yıllarda çıktı)",
+    "duzeltmeler": [
+      "Tactiq: transkript boyunca ABD-SSCB'nin süper güç oluşu ve önceki ünite 'Dünya Savaşı' olarak geçiyor; kastedilen II. Dünya Savaşı'dır (bu içerikte II. Dünya Savaşı yazıldı)",
+      "Monroe doktrininin terk edildiği iki savaş: 1. terk = I. Dünya Savaşı (Alman denizaltılarının ABD ticaret gemilerini vurması), 2. terk = II. Dünya Savaşı (Pearl Harbor); transkriptte ikisi de sadece 'Dünya Savaşı' geçiyor",
+      "Bernard Baruş → Bernard Baruch",
+      "Monrea/Monreo/Monroya doktrini → Monroe Doktrini (1823, James Monroe)",
+      "Şuman bildirgesi → Schuman Bildirgesi (Robert Schuman)",
+      "Masriç/Masri anlaşması → Maastricht Antlaşması",
+      "Charles de Gaul/de Gol → Charles de Gaulle",
+      "QBCK konferansı → Quebec Konferansı",
+      "BAP → BAB (Batı Avrupa Birliği)",
+      "OEC → OEEC (Avrupa Ekonomik İşbirliği Teşkilatı, günümüz OECD)",
+      "Komekon → COMECON; Kominform/Cominform → Cominform; Varçova → Varşova; Molotof → Molotov",
+      "Imre Nagi → Imre Nagy; Alexander Dupçek → Alexander Dubček",
+      "Çavuşku/Çavuşesku çifti → Nicolae ve Elena Ceaușescu",
+      "Ernesto Çegoera/Çegevera/Shaguera → Ernesto 'Che' Guevara",
+      "Theodor Hells/Hels → Theodor Herzl",
+      "Balfor → Balfour Deklarasyonu",
+      "Bengurion → David Ben-Gurion",
+      "The White Eisener/Ezenver doktrini → Dwight Eisenhower / Eisenhower Doktrini",
+      "Javarharlal Nehru → Jawaharlal Nehru",
+      "Muhammed Ali Cinnah → Muhammed Ali Cinnah (Jinnah)",
+      "Zianur Rahman → Ziaur Rahman",
+      "Evyan sözleşmesi → Evian Sözleşmesi; Setif ve Gualma → Sétif ve Guelma katliamı",
+      "Habip Burgiba → Habib Burgiba (Bourguiba)",
+      "Apartit rejimi → Apartheid rejimi",
+      "Bandun/band konferansı → Bandung Konferansı",
+      "Ezenver doktrini transkriptte '2025 AGS' vurgusu üçgen diplomasisine aittir; Eisenhower doktrini ayrı 'muhtemel soru adayı'dır"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Soğuk Savaşın Temeli",
+      "i": [
+        {"k": "Soğuk Savaş = silahsız, politikalar savaşır", "m": "Devletlerin silahlı çatışmaya girmeden yalnızca politikalarıyla savaştığı süreç (askerler karşılıklı çatışmaz)", "s": "z"},
+        {"k": "Liderler: ABD (Batı) + SSCB (Doğu) → iki kutuplu dünya", "m": "II. Dünya Savaşı'nın kazananı iki süper güç; Batı bloğu ABD, Doğu bloğu SSCB çatısı altında toplandı", "s": "z"},
+        {"k": "Bernard Baruch: elleri soğuktan buruş buruş", "m": "'Soğuk savaş' tabirini ilk kez kullanan Amerikalı ekonomist Bernard Baruch", "s": "z"},
+        {"k": "Bağlantısızlar = Mısır + Yugoslavya + Hindistan", "m": "Ne doğuda ne batıda yer almak isteyen üçüncü blok; ilk toplantısı Bandung Konferansı", "s": "z"}
+      ]
+    },
+    {
+      "b": "Batı Bloğu — ABD Dünya Siyasetine Dönüyor",
+      "i": [
+        {"k": "Monroe Doktrini = yalnızlık (infirat) politikası", "m": "1823 James Monroe; ABD başka kıtalardaki olaylara karışmama politikası", "s": "z"},
+        {"k": "Monroe iki kez terk edildi: I. DS + II. DS", "m": "I. DS'de Alman denizaltıları ABD gemilerini vurunca, II. DS'de Pearl Harbor baskını üzerine terk edildi", "s": "z"},
+        {"k": "Truman Doktrini (1947) = Türkiye + Yunanistan'a yardım", "m": "SSCB tehdidi altındaki Türkiye ve Yunanistan'a askeri+ekonomik yardım; ABD Monroe'yu bırakıp dünya siyasetine döndü", "s": "z"},
+        {"k": "Truman = 'taş kaldır, altından ABD çıksın'", "m": "ABD'nin küresel müdahaleciliğe geçişinin simgesi; 2016 ve 2020'lerde çıkmış soru", "s": "z"},
+        {"k": "Marshall Planı (1948) = Batı bloğuna mali yardım", "m": "SSCB tehdidindeki 16 Batı bloğu devletine ekonomik yardım; en çok pay İngiltere, Türkiye de aldı", "s": "z"}
+      ]
+    },
+    {
+      "b": "Batı Bloğu — Örgütler",
+      "i": [
+        {"k": "BAB (Batı Avrupa Birliği) = SSCB'ye karşı ilk askeri birliktelik", "m": "Batı Avrupa devletlerinin SSCB tehdidine karşı kurduğu ilk askeri birliktelik", "s": "z"},
+        {"k": "OEEC (OECD) = Avrupa Ekonomik İşbirliği Teşkilatı", "m": "Avrupalı devletlerin ekonomik işbirliği için kurduğu teşkilat (Marshall yardımının dağıtımı)", "s": "z"},
+        {"k": "Avrupa Konseyi (1949) = insan hakları + demokrasi + hukukun üstünlüğü", "m": "Türkiye üye; Rusya, Rusya-Ukrayna Savaşı sebebiyle 2022'de kovuldu", "s": "z"},
+        {"k": "NATO (1949) = Kuzey Atlantik Paktı", "m": "ABD liderliğinde SSCB tehdidine karşı kurulan askeri örgüt (ABD, Kanada, İngiltere, Fransa, Norveç, İspanya...)", "s": "z"}
+      ]
+    },
+    {
+      "b": "NATO ve Türkiye",
+      "i": [
+        {"k": "Türkiye NATO'ya 1952'de girdi (Kore başarısıyla)", "m": "Kore Savaşı'ndaki başarı + SSCB'nin boğazlar baskısı; 1949'da değil 1952'de üye olduk", "s": "z"},
+        {"k": "NATO ilk temsilci = Fatin Rüştü Zorlu", "m": "1960 darbesi sonrası idam edildi; Milletler Cemiyeti ilk temsilcimiz Cemal Hüsnü Taray ile karıştırma", "s": "z"},
+        {"k": "NATO öncesi ilk asker Kore, sonrası ilk asker Somali", "m": "NATO üyeliğinden önce asker gönderdiğimiz ilk yer Kore; üyelikten sonra ilk yer Somali", "s": "z"},
+        {"k": "Fransa askeri kanattan çekildi → NATO merkezi Brüksel", "m": "De Gaulle döneminde Fransa NATO'nun askeri kanadından çekilince merkez Brüksel oldu", "s": "z"}
+      ]
+    },
+    {
+      "b": "Avrupa Birliği'nin Tarihi Süreci",
+      "i": [
+        {"k": "Schuman Bildirgesi = Fransa + B. Almanya kömür-çelik işbirliği", "m": "Alsace-Lorraine kömür havzası sorununu çözmek için kömür ve çelikte işbirliği (AB'nin temeli)", "s": "z"},
+        {"k": "1951 Paris → AKÇT (Avrupa Kömür ve Çelik Topluluğu)", "m": "Kömür-çelik işbirliğine tüm Avrupalı devletlerin katılımı; Paris Antlaşması", "s": "z"},
+        {"k": "1957 Roma → AET (Avrupa Ekonomik Topluluğu)", "m": "Her ekonomik alanda işbirliği; Roma Antlaşması ÖNEMLİ (muhtemel soru)", "s": "z"},
+        {"k": "1967 Brüksel → Avrupa Topluluğu", "m": "Her alanda işbirliği; Brüksel Antlaşması ile AT", "s": "z"},
+        {"k": "1992 Maastricht → Avrupa Birliği", "m": "AT, Maastricht Antlaşması ile AB'ye dönüştü", "s": "z"}
+      ]
+    },
+    {
+      "b": "Berlin, Üçgen Diplomasisi ve De Gaulle",
+      "i": [
+        {"k": "Berlin Buhranı = soğuk savaşın İLK krizi", "m": "Almanya'nın Doğu-Batı bölünmesi üzerine SSCB ile Batı bloğu arasındaki kriz", "s": "z"},
+        {"k": "Doğu = Demokratik Alman C. (SSCB) / Batı = Federal Alman C. (ABD+İng+Fr)", "m": "Doğu Almanya SSCB'nin, Batı Almanya üç Batılı devletin; arada Berlin Duvarı", "s": "z"},
+        {"k": "Berlin Duvarı: 1961 kuruldu, 1989 yıkıldı", "m": "İki Almanya arasına örülen duvar", "s": "z"},
+        {"k": "Üçgen diplomasisi = Nixon + Kissinger; SSCB-Çin gerginliği", "m": "ABD'nin SSCB ile Çin arasındaki gerginlikten yararlanma politikası; 2025 AGS sınav sorusu", "s": "z"},
+        {"k": "Charles de Gaulle = Özgür Fransa Hareketi", "m": "İşgal altındaki Fransa'da değil İngiltere'de başlattı; Normandiya sonrası Fransa'nın lideri oldu", "s": "z"}
+      ]
+    },
+    {
+      "b": "Doğu Bloğu — Temel ve Örgütler",
+      "i": [
+        {"k": "SSCB = sosyalizmi yayma + uydu devletler", "m": "Polonya, Bulgaristan, Doğu Almanya, Romanya, Macaristan, Çekoslovakya, Arnavutluk, Yugoslavya SSCB'nin uydu devletleri", "s": "z"},
+        {"k": "Demir Perde ülkeleri = Winston Churchill nitelemesi", "m": "Dışa kapalı Doğu bloğu ülkelerini İngiliz lider Churchill 'demir perde' diye niteledi", "s": "z"},
+        {"k": "Cominform (1947) = SSCB önderliğinde SİYASİ teşkilat", "m": "Doğu bloğu ülkelerinin siyasi işbirliği teşkilatı; kovulan ilk ülke Yugoslavya", "s": "z"},
+        {"k": "COMECON (1949) = EKONOMİK teşkilat ('ekonu var')", "m": "SSCB önderliğinde Doğu bloğunun ekonomik işbirliği teşkilatı", "s": "z"},
+        {"k": "Varşova Paktı (1955) = NATO'ya karşı ASKERİ pakt", "m": "NATO'nun etkinliğini artırması üzerine Doğu bloğunun kurduğu askeri pakt", "s": "z"},
+        {"k": "Molotov Planı = Marshall'a karşılık ekonomik yardım", "m": "SSCB Dışişleri Bakanı Molotov; Doğu bloğu devletlerine ekonomik yardım paketi", "s": "z"}
+      ]
+    },
+    {
+      "b": "Doğu Bloğu — Ülkeler ve Liderler",
+      "i": [
+        {"k": "Yugoslavya / Tito = Cominform'dan kovulan İLK ülke", "m": "Alman işgalinden kendi çabasıyla kurtuldu; SSCB'ye diklendiği için kovuldu", "s": "z"},
+        {"k": "Arnavutluk / Enver Hoca = dünyanın İLK ateist devleti", "m": "Arnavutluk Sosyalist Halk Cumhuriyeti; tüm ibadethaneler kapatıldı", "s": "z"},
+        {"k": "Çin / Mao Zedong = Çin Halk C. (1949) + Kültür Devrimi", "m": "Önce Çin Halk Cumhuriyeti'ni kurdu, sonra Kültür Devrimi'ni yaptı (ikisi ayrı olay)", "s": "z"},
+        {"k": "Boxer Ayaklanması (1899) = Çin'de batı etkisine karşı", "m": "Çin'deki Batı nüfuzuna karşı ayaklanma (müfredat/MEB kitabı)", "s": "z"},
+        {"k": "Kore = 38. enlem sınır", "m": "Kuzey Kore (SSCB destekli, sosyalizm) - Güney Kore (ABD destekli, cumhuriyet)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Doğu Bloğu — Devrim ve İsyanlar",
+      "i": [
+        {"k": "Küba / Fidel Castro + Che Guevara", "m": "Batista diktatörlüğünü yıkıp komünizmi kurdular; Küba hâlâ komünizmle yönetiliyor", "s": "z"},
+        {"k": "Macaristan / Imre Nagy = işçi isyanı → öldürüldü", "m": "İşçi isyanı lideri, başbakan yapıldı ama isyan durmayınca SSCB işgal edip öldürdü", "s": "z"},
+        {"k": "Çekoslovakya / Alexander Dubček = insancıl komünizm", "m": "'İnsancıl komünizm' hareketi başlattı; SSCB işgaliyle bastırıldı (Prag Baharı)", "s": "z"},
+        {"k": "Kadife Devrim = Çekoslovakya'nın kansız bölünmesi", "m": "Çekoslovakya, Çek Cumhuriyeti ve Slovakya olarak kan dökülmeden ayrıldı (1989 sonrası)", "s": "z"},
+        {"k": "Polonya / Poznan Ayaklanması", "m": "Halk Cumhuriyeti'nin totaliter tutumuna karşı; demokratik haklar verilince bitti", "s": "z"},
+        {"k": "Romanya / Ceaușescu çifti = kurşuna dizildi", "m": "Zenginleşip katliam yapan çift; askeri mahkeme kararıyla kurşuna dizildi", "s": "z"}
+      ]
+    },
+    {
+      "b": "Ortadoğu Gelişmeleri",
+      "i": [
+        {"k": "Theodor Herzl = dünya siyonizm lideri", "m": "Abdülhamid'e Filistin karşılığı borç kapatma teklifi yaptı, reddedildi ('kalbi sökmek gibi')", "s": "z"},
+        {"k": "Balfour Deklarasyonu (1917) = İsrail'in ilk ciddi adımı", "m": "İngiltere Dışişleri Bakanı; Filistin'e Yahudi göçüne izin (muhtemel soru adayı)", "s": "z"},
+        {"k": "İsrail kuruluşu (1948) = Ben-Gurion, II. DS sonrası", "m": "II. Dünya Savaşı'ndan SONRA kurulan devlet; BM Filistin'i paylaştırdı, Kudüs tarafsız bölge", "s": "z"},
+        {"k": "Elnakba = 'felaket günü' (ABD + SSCB'nin tanıması)", "m": "İsrail'in kuruluşunun hem ABD hem SSCB tarafından tanınması (MEB kitabı)", "s": "z"},
+        {"k": "İsrail'i tanıyan ilk Arap = Mısır (Camp David); ilk Türk devleti = Türkiye", "m": "Mısır Camp David Antlaşması ile tanıdı; Türkiye ilk tanıyan Türk devleti", "s": "z"},
+        {"k": "Eisenhower Doktrini = Ortadoğu'yu ABD yanına çekme", "m": "SSCB tehdidine karşı Ortadoğu devletlerini Batı bloğuna çekme (muhtemel soru adayı)", "s": "z"},
+        {"k": "Arap-İsrail Savaşları zinciri", "m": "1948/49 · 1956 Süveyş krizi · 1967 Altı Gün Savaşları · 1973 Yom Kippur", "s": "z"}
+      ]
+    },
+    {
+      "b": "Asya-Afrika Bağımsızlık Hareketleri",
+      "i": [
+        {"k": "Hindistan / Mahatma Gandhi = ruhani lider, tuz yürüyüşü", "m": "Pasif direniş / sivil itaatsizlikle İngiliz emperyalizmine karşı bağımsızlık; tuz yürüyüşü", "s": "z"},
+        {"k": "Hindistan ilk başbakan = Nehru", "m": "Jawaharlal Nehru; Bandung ve Belgrad konferanslarıyla bağlantısızlar hareketinde etkili", "s": "z"},
+        {"k": "Pakistan / Muhammed Ali Cinnah = Lahor Müslüman Kongresi", "m": "Hindistan'dan ayrılan Pakistan'ın kurucusu ve ilk genel valisi", "s": "z"},
+        {"k": "Bangladeş / Ziaur Rahman", "m": "Pakistan'dan ayrılan Bangladeş'in lideri", "s": "z"},
+        {"k": "Cezayir / Ferhat Abbas (1962) = Evian Sözleşmesi", "m": "132 yıllık Fransız sömürgesinden Evian ile bağımsız; Sétif ve Guelma katliamı (45.000)", "s": "z"},
+        {"k": "Tunus / Habib Burgiba; Fas (1956)", "m": "Tunus Habib Burgiba liderliğinde Fransa'ya karşı; Fas 1956'da İspanya ve Fransa'ya karşı bağımsız", "s": "z"},
+        {"k": "Güney Afrika / Nelson Mandela (Madiba) = ilk siyahi başkan", "m": "Sömürgecilik ve ırkçılıkla mücadele; 2025 sorularında yer aldı (muhtemel soru)", "s": "z"},
+        {"k": "Apartheid = ırksal ayrımcılık rejimi", "m": "Güney Afrika'da ırksal ayrımcılığı savunan sistem; 1994'te sona erdi (MEB kitabı)", "s": "z"},
+        {"k": "OAU (1963) = Afrika Birliği Teşkilatı, Addis Ababa", "m": "Bağımsız Afrika devletlerinin siyasi-ekonomik işbirliği; cevap 'Afrika Birliği Teşkilatı' değil OAU olur", "s": "z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c": "Temel Kavramlar", "o": "Soğuk savaş nedir?", "a": "Devletlerin silahlı çatışmaya girmekten kaçınıp yalnızca politikalarıyla savaştığı süreç. Askerler karşılıklı çatışmaz; politikalar savaşır."},
+    {"c": "Temel Kavramlar", "o": "Soğuk savaşın iki lideri ve blokları?", "a": "ABD → Batı bloğu · SSCB → Doğu bloğu. II. Dünya Savaşı'nın galibi iki süper güç, dünyayı iki kutuplu hâle getirdi."},
+    {"c": "Temel Kavramlar", "o": "'Soğuk savaş' tabirini ilk kez kim kullandı?", "a": "Amerikalı ekonomist Bernard Baruch. Kod: elleri soğuktan buruş buruş → Baruch."},
+    {"c": "Temel Kavramlar", "o": "Bağlantısızlar bloğunu kimler kurdu, ilk toplantısı?", "a": "Mısır + Yugoslavya + Hindistan liderliğinde kuruldu. Ne doğu ne batı blokta yer almak isteyenler. İlk toplantı: Bandung Konferansı."},
+    {"c": "Batı Bloğu", "o": "Monroe Doktrini nedir, ne zaman terk edildi?", "a": "1823 James Monroe'nun başlattığı yalnızlık (infirat) politikası. İki kez terk edildi: I. Dünya Savaşı (Alman gemi saldırıları) ve II. Dünya Savaşı (Pearl Harbor)."},
+    {"c": "Batı Bloğu", "o": "Truman Doktrini (1947) neyi amaçlar?", "a": "SSCB tehdidi altındaki Türkiye ve Yunanistan'a askeri+ekonomik yardım. ABD Monroe'yu tamamen bırakıp dünya siyasetine döndü. 2016 ve 2020'lerde çıktı."},
+    {"c": "Batı Bloğu", "o": "Marshall Planı (1948) kimlere yapıldı?", "a": "SSCB tehdidindeki Batı bloğu devletlerine ekonomik/mali yardım. 16 devlet aldı (Türkiye dahil); en çok payı İngiltere aldı."},
+    {"c": "Batı Bloğu", "o": "Truman Doktrini ile Marshall Planı farkı nedir?", "a": "Truman: Türkiye+Yunanistan'a askeri+ekonomik yardım (1947). Marshall: 16 Batı bloğu devletine mali yardım (1948)."},
+    {"c": "Batı Bloğu Örgütleri", "o": "SSCB'ye karşı kurulan İLK askeri birliktelik hangisidir?", "a": "BAB (Batı Avrupa Birliği). Batı Avrupa devletlerinin SSCB tehdidine karşı ilk askeri birliktelikidir. (NATO ise 1949.)"},
+    {"c": "Batı Bloğu Örgütleri", "o": "OEEC (OECD) nedir?", "a": "Avrupa Ekonomik İşbirliği Teşkilatı. Avrupalı devletlerin ekonomik işbirliği için kuruldu."},
+    {"c": "Batı Bloğu Örgütleri", "o": "Avrupa Konseyi (1949) neyi savunmak için kuruldu?", "a": "İnsan hakları, demokrasi ve hukukun üstünlüğü. Türkiye üyedir. Rusya, Rusya-Ukrayna Savaşı sebebiyle 2022'de kovuldu."},
+    {"c": "Batı Bloğu Örgütleri", "o": "NATO (1949) nedir?", "a": "Kuzey Atlantik Paktı. ABD liderliğinde SSCB tehdidine karşı kurulan askeri örgüt (ABD, Kanada, İngiltere, Fransa, Norveç, İspanya...)."},
+    {"c": "NATO ve Türkiye", "o": "Türkiye NATO'ya ne zaman ve neden girdi?", "a": "1952'de. Kore Savaşı'ndaki başarı + SSCB'nin boğazlar baskısı üye olmamızı sağladı. NATO 1949'da kuruldu ama biz başta alınmadık."},
+    {"c": "NATO ve Türkiye", "o": "NATO'daki ilk temsilcimiz kim? Neyle karıştırılır?", "a": "Fatin Rüştü Zorlu (1960 darbesi sonrası idam edildi). Milletler Cemiyeti'ndeki ilk temsilcimiz Cemal Hüsnü Taray ile karıştırma."},
+    {"c": "NATO ve Türkiye", "o": "NATO öncesi ve sonrası asker gönderdiğimiz ilk yerler?", "a": "NATO üyeliğinden ÖNCE ilk yer: Kore Savaşı. NATO üyeliğinden SONRA ilk yer: Somali."},
+    {"c": "NATO ve Türkiye", "o": "NATO'nun merkezi neden Brüksel oldu?", "a": "Fransa (De Gaulle) NATO'nun askeri kanadından çekilince merkez Brüksel'e taşındı."},
+    {"c": "Avrupa Birliği Süreci", "o": "Schuman Bildirgesi neyi amaçlar?", "a": "Fransa ile Batı Almanya'nın kömür ve çelik konusunda işbirliği. Alsace-Lorraine sorununu çözüp AB'nin temelini attı."},
+    {"c": "Avrupa Birliği Süreci", "o": "AB'nin kuruluş antlaşmaları zinciri nedir?", "a": "1951 Paris → AKÇT · 1957 Roma → AET · 1967 Brüksel → AT · 1992 Maastricht → AB."},
+    {"c": "Avrupa Birliği Süreci", "o": "Avrupa Ekonomik Topluluğu (AET) hangi antlaşmayla kuruldu?", "a": "1957 Roma Antlaşması ile. Hoca özellikle önemli buluyor: bu antlaşmadan soru bekleniyor."},
+    {"c": "Berlin ve Diplomasi", "o": "Soğuk savaşın İLK krizi hangisidir?", "a": "Berlin Buhranı. Almanya'nın Doğu-Batı bölünmesi üzerine SSCB ile Batı bloğu arasındaki kriz."},
+    {"c": "Berlin ve Diplomasi", "o": "İki Almanya nasıl kuruldu?", "a": "Doğu: Demokratik Alman Cumhuriyeti (SSCB). Batı: Federal Alman Cumhuriyeti (ABD+İngiltere+Fransa). Arada Berlin Duvarı (1961 kuruldu, 1989 yıkıldı)."},
+    {"c": "Berlin ve Diplomasi", "o": "Üçgen diplomasisi nedir, kim geliştirdi?", "a": "ABD Başkanı Nixon ve danışmanı Henry Kissinger geliştirdi. SSCB-Çin gerginliğinden yararlanma politikası. 2025 AGS sınav sorusu."},
+    {"c": "Berlin ve Diplomasi", "o": "Özgür Fransa Hareketi'ni kim, nerede başlattı?", "a": "Charles de Gaulle, İngiltere'de başlattı (Fransa Almanya'ca işgal edilmişti). Normandiya Çıkarması sonrası Fransa'nın lideri oldu."},
+    {"c": "Doğu Bloğu Örgütleri", "o": "Doğu bloğu ülkelerine ne ad verilir, kim niteledi?", "a": "'Demir perde ülkeleri' (dışa kapalı uydu devletler). İngiliz lider Winston Churchill niteledi."},
+    {"c": "Doğu Bloğu Örgütleri", "o": "Cominform (1947) nedir?", "a": "SSCB önderliğinde Doğu bloğu ülkelerinin SİYASİ işbirliği teşkilatı. Kovulan ilk ülke Yugoslavya (Tito)."},
+    {"c": "Doğu Bloğu Örgütleri", "o": "COMECON (1949) nedir?", "a": "SSCB önderliğinde Doğu bloğunun EKONOMİK işbirliği teşkilatı. Hatırlatma: sonunda 'ekon' var → ekonomik."},
+    {"c": "Doğu Bloğu Örgütleri", "o": "Varşova Paktı (1955) neye karşı kuruldu?", "a": "NATO'ya karşı. SSCB önderliğinde Doğu bloğu devletlerinin ASKERİ paktı."},
+    {"c": "Doğu Bloğu Örgütleri", "o": "Molotov Planı neyin karşılığıdır?", "a": "ABD'nin Marshall yardımına karşılık. SSCB Dışişleri Bakanı Molotov'un Doğu bloğuna yönelik ekonomik yardım paketi."},
+    {"c": "Doğu Bloğu Örgütleri", "o": "Cominform / COMECON / Varşova Paktı ayrımı?", "a": "Cominform = siyasi, COMECON = ekonomik, Varşova Paktı = askeri. Üçü de SSCB önderliğinde Doğu bloğu."},
+    {"c": "Doğu Bloğu Ülkeleri", "o": "Cominform'dan kovulan ilk ülke ve lideri?", "a": "Yugoslavya / Tito. Alman işgalinden kendi çabasıyla kurtulduğu için SSCB'ye diklendi, kovuldu."},
+    {"c": "Doğu Bloğu Ülkeleri", "o": "Dünyanın ilk ateist devleti ve kurucusu?", "a": "Arnavutluk Sosyalist Halk Cumhuriyeti / Enver Hoca. Ülkedeki tüm ibadethaneleri kapattı."},
+    {"c": "Doğu Bloğu Ülkeleri", "o": "Mao Zedong hangi iki olayın adamıdır?", "a": "Çin Halk Cumhuriyeti'ni kurdu (1949) VE Kültür Devrimi'ni yaptı. Dikkat: Çin Halk Cumhuriyeti Kültür Devrimi'yle kurulmadı, önce kuruldu."},
+    {"c": "Doğu Bloğu Ülkeleri", "o": "Kore nasıl bölündü?", "a": "38. enlem sınır olmak üzere: Kuzey Kore (SSCB destekli, sosyalizm) · Güney Kore (ABD destekli, cumhuriyet)."},
+    {"c": "Doğu Bloğu Ülkeleri", "o": "Boxer Ayaklanması nedir?", "a": "1899'da Çin'de batı etkisine karşı çıkan ayaklanma (MEB kitabında geçer)."},
+    {"c": "Doğu Bloğu İsyanları", "o": "Küba'da komünizmi kimler kurdu?", "a": "Fidel Castro + Ernesto 'Che' Guevara, Batista diktatörlüğünü yıkarak. Küba hâlâ komünizmle yönetiliyor."},
+    {"c": "Doğu Bloğu İsyanları", "o": "Imre Nagy hangi ülkededir, ne oldu?", "a": "Macaristan. İşçi isyanının lideri, başbakan yapıldı ama isyan durmayınca SSCB işgal edip onu öldürdü."},
+    {"c": "Doğu Bloğu İsyanları", "o": "'İnsancıl komünizm' hareketi kim, nerede?", "a": "Alexander Dubček, Çekoslovakya (Prag Baharı). SSCB işgaliyle bastırıldı."},
+    {"c": "Doğu Bloğu İsyanları", "o": "Kadife Devrim nedir?", "a": "Çekoslovakya'nın Çek Cumhuriyeti ve Slovakya olarak kan dökülmeden (yumuşak) ikiye ayrılması."},
+    {"c": "Doğu Bloğu İsyanları", "o": "Poznan Ayaklanması ve Ceaușescu çifti nerede?", "a": "Poznan Ayaklanması → Polonya (totaliter rejime karşı). Ceaușescu çifti → Romanya (kurşuna dizilerek idam edildi)."},
+    {"c": "Ortadoğu", "o": "Theodor Herzl kimdir, Abdülhamid'e teklifi?", "a": "Dünya siyonizm lideri. Filistin karşılığı Osmanlı borçlarını kapatma teklifi yaptı; Abdülhamid reddetti ('kalbi sökmeye benzer')."},
+    {"c": "Ortadoğu", "o": "Balfour Deklarasyonu (1917) nedir?", "a": "İngiltere Dışişleri Bakanı'nın Filistin'e Yahudi göçüne izin veren belgesi. İsrail'in kuruluşu yolunda ilk ciddi adım. (Muhtemel soru.)"},
+    {"c": "Ortadoğu", "o": "İsrail Devleti ne zaman, kim tarafından kuruldu?", "a": "1948'de David Ben-Gurion liderliğinde. Dikkat: II. Dünya Savaşı'ndan SONRA kurulan devlettir. BM Filistin'i paylaştırıp Kudüs'ü tarafsız bölge ilan etti."},
+    {"c": "Ortadoğu", "o": "Elnakba ('felaket günü') nedir?", "a": "İsrail'in kuruluşunun hem ABD hem SSCB tarafından tanınması için söylenen söz (MEB kitabı)."},
+    {"c": "Ortadoğu", "o": "İsrail'i tanıyan ilk Arap ve ilk Türk devleti?", "a": "İlk Arap: Mısır (Camp David Antlaşması). İlk Türk devleti: Türkiye Cumhuriyeti."},
+    {"c": "Ortadoğu", "o": "Eisenhower Doktrini neyi amaçlar?", "a": "SSCB tehdidine karşı Ortadoğu devletlerini ABD'nin (Batı bloğunun) yanına çekmek. (Muhtemel soru adayı.)"},
+    {"c": "Ortadoğu", "o": "Arap-İsrail Savaşları zinciri nedir?", "a": "1948/49 · 1956 Süveyş Krizi · 1967 Altı Gün Savaşları · 1973 Yom Kippur Savaşı."},
+    {"c": "Asya-Afrika", "o": "Hindistan'ın bağımsızlığında en etkili kişi kim?", "a": "Mahatma Gandhi (ruhani lider). Pasif direniş / sivil itaatsizlik yöntemi; tuz yürüyüşü ile İngiliz emperyalizmine karşı çıktı."},
+    {"c": "Asya-Afrika", "o": "Hindistan'ın ilk başbakanı kim? Gandhi ile farkı?", "a": "Jawaharlal Nehru (bağlantısızlar hareketi, Bandung-Belgrad). Gandhi = ruhani lider/bağımsızlık; Nehru = ilk başbakan."},
+    {"c": "Asya-Afrika", "o": "Pakistan'ın kurucusu ve ilk genel valisi kim?", "a": "Muhammed Ali Cinnah. Lahor Müslüman Kongresi sonrası Pakistan Hindistan'dan ayrıldı."},
+    {"c": "Asya-Afrika", "o": "Bangladeş'in lideri kim?", "a": "Ziaur Rahman. Bangladeş Pakistan'dan ayrıldı."},
+    {"c": "Asya-Afrika", "o": "Cezayir nasıl bağımsız oldu?", "a": "1962'de Ferhat Abbas liderliğinde Evian Sözleşmesi ile Fransa'dan bağımsız oldu (132 yıllık sömürge). Sétif ve Guelma'da 45.000 Cezayirli katledilmişti."},
+    {"c": "Asya-Afrika", "o": "Tunus ve Fas nasıl bağımsız oldu?", "a": "Tunus: Habib Burgiba liderliğinde Fransa'ya karşı. Fas: 1956'da İspanya ve Fransa'ya karşı."},
+    {"c": "Asya-Afrika", "o": "Nelson Mandela kimdir?", "a": "Madiba kabile adıyla bilinir. Güney Afrika Cumhuriyeti'nin ilk siyahi başkanı; hayatını sömürgecilik ve ırkçılıkla mücadeleye adadı. 2025 sorularında yer aldı."},
+    {"c": "Asya-Afrika", "o": "Apartheid rejimi nedir?", "a": "Güney Afrika'da ırksal ayrımcılığı savunan sistem. 1994'te sona erdi (MEB kitabı)."},
+    {"c": "Asya-Afrika", "o": "OAU nedir, ne zaman ve nerede kuruldu?", "a": "Afrika Birliği Teşkilatı. 1963'te Addis Ababa merkezli; bağımsız Afrika devletlerinin siyasi-ekonomik işbirliği için. Cevap 'Afrika Birliği Teşkilatı' değil OAU olur."}
+  ],
+  "tuzak": [
+    {"q": "'Soğuk savaş' tabirini ilk kullanan kişi?", "o": ["Bernard Baruch", "Winston Churchill", "Henry Kissinger"], "c": 0, "n": "Tabiri Baruch kullandı; Churchill 'demir perde', Kissinger 'üçgen diplomasisi' ile anılır."},
+    {"q": "Doğu bloğu ülkelerini 'demir perde' diye niteleyen?", "o": ["Winston Churchill", "Bernard Baruch", "Truman"], "c": 0, "n": "'Demir perde' nitelemesi Churchill'e aittir; Baruch soğuk savaş tabiriyle karışır."},
+    {"q": "SSCB tehdidine karşı kurulan İLK askeri birliktelik?", "o": ["BAB (Batı Avrupa Birliği)", "NATO", "Varşova Paktı"], "c": 0, "n": "İlk askeri birliktelik BAB; NATO 1949, Varşova ise Doğu bloğunun paktıdır."},
+    {"q": "Türkiye ve Yunanistan'a yardımı öngören doktrin?", "o": ["Truman Doktrini", "Marshall Planı", "Eisenhower Doktrini"], "c": 0, "n": "Truman = Türkiye+Yunanistan; Marshall 16 Batı devleti geneli, Eisenhower Ortadoğu içindir."},
+    {"q": "16 Batı bloğu devletine mali yardım yapan plan?", "o": ["Marshall Planı", "Molotov Planı", "Truman Doktrini"], "c": 0, "n": "Marshall = Batı bloğu; Molotov onun Doğu bloğu karşılığıdır."},
+    {"q": "SSCB'nin Marshall'a karşılık verdiği ekonomik yardım?", "o": ["Molotov Planı", "COMECON", "Cominform"], "c": 0, "n": "Yardım paketi = Molotov Planı; COMECON teşkilat, Cominform ise siyasi teşkilattır."},
+    {"q": "Doğu bloğunun SİYASİ işbirliği teşkilatı?", "o": ["Cominform", "COMECON", "Varşova Paktı"], "c": 0, "n": "Siyasi = Cominform; COMECON ekonomik, Varşova askeridir."},
+    {"q": "Doğu bloğunun EKONOMİK işbirliği teşkilatı?", "o": ["COMECON", "Cominform", "Molotov Planı"], "c": 0, "n": "Ekonomik teşkilat = COMECON ('ekon' var); Cominform siyasi, Molotov ise yardım paketidir."},
+    {"q": "NATO'ya karşı kurulan askeri pakt?", "o": ["Varşova Paktı", "COMECON", "Cominform"], "c": 0, "n": "Askeri karşılık = Varşova Paktı; diğerleri ekonomik/siyasidir."},
+    {"q": "Türkiye NATO'ya hangi yıl girdi?", "o": ["1952", "1949", "1955"], "c": 0, "n": "NATO 1949 kuruldu ama Türkiye Kore başarısı sonrası 1952'de üye oldu."},
+    {"q": "NATO'daki ilk temsilcimiz?", "o": ["Fatin Rüştü Zorlu", "Cemal Hüsnü Taray", "İsmet İnönü"], "c": 0, "n": "NATO ilk temsilci Fatin Rüştü Zorlu; Cemal Hüsnü Taray ise Milletler Cemiyeti temsilcimizdir."},
+    {"q": "Türkiye'nin NATO üyeliğinden ÖNCE asker gönderdiği ilk yer?", "o": ["Kore", "Somali", "Bosna"], "c": 0, "n": "Üyelik öncesi ilk yer Kore; Somali üyelik sonrası ilk yerdir."},
+    {"q": "Avrupa Ekonomik Topluluğu (AET) hangi antlaşmayla kuruldu?", "o": ["Roma Antlaşması", "Paris Antlaşması", "Maastricht Antlaşması"], "c": 0, "n": "AET = Roma (1957); Paris AKÇT'yi, Maastricht ise AB'yi kurdu."},
+    {"q": "Avrupa Kömür ve Çelik Topluluğu hangi antlaşmayla kuruldu?", "o": ["Paris Antlaşması", "Roma Antlaşması", "Brüksel Antlaşması"], "c": 0, "n": "AKÇT = Paris (1951); Roma AET'yi, Brüksel AT'yi kurdu."},
+    {"q": "Soğuk savaşın ilk krizi?", "o": ["Berlin Buhranı", "Küba Krizi", "Kore Savaşı"], "c": 0, "n": "İlk kriz Berlin Buhranı'dır; diğerleri sonraki dönem olaylarıdır."},
+    {"q": "Üçgen diplomasisini geliştirenler?", "o": ["Nixon ve Kissinger", "Truman ve Marshall", "Eisenhower ve Dulles"], "c": 0, "n": "Üçgen diplomasisi Nixon-Kissinger ikilisine aittir; SSCB-Çin gerginliğinden yararlanır."},
+    {"q": "Cominform'dan kovulan ilk ülke?", "o": ["Yugoslavya", "Arnavutluk", "Macaristan"], "c": 0, "n": "Tito'nun diklenmesi nedeniyle ilk kovulan Yugoslavya'dır."},
+    {"q": "Dünyanın ilk ateist devleti?", "o": ["Arnavutluk (Enver Hoca)", "Yugoslavya (Tito)", "Romanya (Ceaușescu)"], "c": 0, "n": "İlk ateist devlet Enver Hoca'nın Arnavutluk'udur."},
+    {"q": "'İnsancıl komünizm' hareketi hangi ülkede/kimle?", "o": ["Çekoslovakya - Dubček", "Macaristan - Imre Nagy", "Polonya - Poznan"], "c": 0, "n": "İnsancıl komünizm Çekoslovakya'da Dubček; Imre Nagy Macaristan'da işçi isyanıdır."},
+    {"q": "Imre Nagy hangi ülkenin lideridir?", "o": ["Macaristan", "Çekoslovakya", "Polonya"], "c": 0, "n": "Imre Nagy → Macaristan; Dubček → Çekoslovakya; Poznan → Polonya."},
+    {"q": "Çin Halk Cumhuriyeti'ni kuran ve Kültür Devrimi'ni yapan?", "o": ["Mao Zedong", "Che Guevara", "Ho Şi Minh"], "c": 0, "n": "Her ikisi de Mao'dur; ancak Çin Halk Cumhuriyeti Kültür Devrimi'yle DEĞİL ondan önce kuruldu."},
+    {"q": "Küba'da komünizmi kuranlar?", "o": ["Castro ve Che Guevara", "Tito ve Enver Hoca", "Nasır ve Sedat"], "c": 0, "n": "Küba'da Batista'yı deviren Castro ve Che Guevara'dır."},
+    {"q": "Kadife Devrim hangi ülkeyle ilgilidir?", "o": ["Çekoslovakya", "Yugoslavya", "Romanya"], "c": 0, "n": "Kadife Devrim Çekoslovakya'nın kansız bölünmesidir (Çek C. + Slovakya)."},
+    {"q": "Filistin'e Yahudi göçüne izin veren belge?", "o": ["Balfour Deklarasyonu (1917)", "Camp David (1978)", "Evian Sözleşmesi"], "c": 0, "n": "Yahudi göçüne izin = Balfour (İngiltere); Camp David Mısır-İsrail, Evian ise Cezayir içindir."},
+    {"q": "İsrail Devleti hangi savaştan sonra kuruldu?", "o": ["II. Dünya Savaşı sonrası (1948)", "I. Dünya Savaşı sonrası", "Kore Savaşı sonrası"], "c": 0, "n": "İsrail 1948'de, II. Dünya Savaşı'ndan sonra kuruldu; Ben-Gurion liderliğinde."},
+    {"q": "İsrail'in ABD ve SSCB'ce tanınmasına ne denir?", "o": ["Elnakba (felaket günü)", "Balfour", "Elcezire"], "c": 0, "n": "İki süper gücün tanıması = Elnakba, 'felaket günü' anlamındadır."},
+    {"q": "İsrail'i tanıyan ilk Arap devleti?", "o": ["Mısır (Camp David)", "Ürdün", "Suriye"], "c": 0, "n": "Camp David Antlaşması ile ilk tanıyan Arap devleti Mısır'dır."},
+    {"q": "Ortadoğu devletlerini ABD yanına çekmeyi amaçlayan doktrin?", "o": ["Eisenhower Doktrini", "Truman Doktrini", "Monroe Doktrini"], "c": 0, "n": "Ortadoğu = Eisenhower; Truman Türkiye-Yunanistan, Monroe ise yalnızlık politikasıdır."},
+    {"q": "Hindistan'ın ruhani lideri / bağımsızlık önderi?", "o": ["Mahatma Gandhi", "Jawaharlal Nehru", "Muhammed Ali Cinnah"], "c": 0, "n": "Ruhani lider Gandhi; Nehru ilk başbakan, Cinnah ise Pakistan kurucusudur."},
+    {"q": "Hindistan'ın ilk başbakanı?", "o": ["Nehru", "Gandhi", "Cinnah"], "c": 0, "n": "İlk başbakan Nehru; Gandhi ruhani lider, Cinnah Pakistan'ındır."},
+    {"q": "Pakistan'ın kurucusu ve ilk genel valisi?", "o": ["Muhammed Ali Cinnah", "Ziaur Rahman", "Mahatma Gandhi"], "c": 0, "n": "Pakistan = Cinnah; Ziaur Rahman ise Bangladeş liderdir."},
+    {"q": "Cezayir hangi sözleşmeyle bağımsız oldu?", "o": ["Evian Sözleşmesi", "Camp David", "Roma Antlaşması"], "c": 0, "n": "Cezayir'in bağımsızlığı Evian; Camp David İsrail-Mısır konusudur."},
+    {"q": "Güney Afrika'nın ilk siyahi başkanı?", "o": ["Nelson Mandela", "Ferhat Abbas", "Habib Burgiba"], "c": 0, "n": "Güney Afrika = Mandela (Madiba); Ferhat Abbas Cezayir, Burgiba Tunus liderdir."},
+    {"q": "1963'te Addis Ababa merkezli kurulan teşkilat?", "o": ["OAU (Afrika Birliği Teşkilatı)", "Avrupa Konseyi", "OEEC"], "c": 0, "n": "Afrika devletlerinin teşkilatı OAU'dur; cevap olarak 'Afrika Birliği Teşkilatı' değil OAU seçilir."}
+  ],
+  "deneme": [
+    {"q": "Aşağıdakilerden hangisi soğuk savaş dönemini en iyi tanımlar?", "o": ["Devletlerin doğrudan silahlı çatışmaya girmeden politikalarıyla mücadele etmesi", "İki devletin cephede topyekûn savaşması", "Sömürgelerin silahlı ayaklanmalarla bağımsızlaşması", "Milletler Cemiyeti'nin kurulması süreci", "Ekonomik bunalımın yayılması"], "c": 0, "e": "Soğuk savaş, silahlı çatışmadan kaçınıp politikalarla yürütülen mücadele sürecidir."},
+    {"q": "'Soğuk savaş' tabirini ilk kez kullanan kişi aşağıdakilerden hangisidir?", "o": ["Bernard Baruch", "Winston Churchill", "Harry Truman", "Henry Kissinger", "Charles de Gaulle"], "c": 0, "e": "Tabiri ilk kullanan Amerikalı ekonomist Bernard Baruch'tur."},
+    {"q": "Truman Doktrini ile ABD, SSCB tehdidi altında bulunan hangi devletlere yardım yapmayı amaçlamıştır?", "o": ["Türkiye ve Yunanistan", "Almanya ve İtalya", "Fransa ve İngiltere", "Mısır ve Yugoslavya", "Kore ve Çin"], "c": 0, "e": "1947 Truman Doktrini Türkiye ve Yunanistan'a askeri+ekonomik yardımı öngörür."},
+    {"q": "Aşağıdakilerden hangisi SSCB tehdidine karşı kurulan İLK askeri birlikteliktir?", "o": ["Batı Avrupa Birliği (BAB)", "NATO", "Varşova Paktı", "COMECON", "Avrupa Konseyi"], "c": 0, "e": "İlk askeri birliktelik BAB'dır; NATO 1949'da kurulmuştur."},
+    {"q": "Türkiye'nin NATO'ya alınmasında etkili olan gelişme aşağıdakilerden hangisidir?", "o": ["Kore Savaşı'na asker gönderip başarı göstermesi", "Marshall yardımını reddetmesi", "Bağlantısızlar bloğuna katılması", "Varşova Paktı'na üye olması", "Molotov Planı'ndan yardım alması"], "c": 0, "e": "Kore Savaşı'ndaki başarı sonrası Türkiye 1952'de NATO'ya alındı."},
+    {"q": "Aşağıdaki eşleştirmelerden hangisi yanlıştır?", "o": ["Marshall Planı — Doğu bloğuna ekonomik yardım", "Truman Doktrini — Türkiye ve Yunanistan'a yardım", "Molotov Planı — Doğu bloğuna ekonomik yardım", "Varşova Paktı — Doğu bloğu askeri örgütü", "NATO — Batı bloğu askeri örgütü"], "c": 0, "e": "Marshall Planı Batı bloğu devletlerine yapılmıştır, Doğu bloğuna değil."},
+    {"q": "Avrupa Ekonomik Topluluğu (AET) aşağıdaki antlaşmalardan hangisiyle kurulmuştur?", "o": ["Roma Antlaşması", "Paris Antlaşması", "Brüksel Antlaşması", "Maastricht Antlaşması", "Evian Sözleşmesi"], "c": 0, "e": "AET 1957 Roma Antlaşması ile kurulmuştur."},
+    {"q": "Soğuk savaş sürecinin ilk krizi aşağıdakilerden hangisidir?", "o": ["Berlin Buhranı", "Küba Krizi", "Süveyş Krizi", "Kore Savaşı", "Macaristan İsyanı"], "c": 0, "e": "Almanya'nın bölünmesiyle yaşanan Berlin Buhranı ilk krizdir."},
+    {"q": "Üçgen diplomasisi ile ABD, aşağıdaki hangi iki devlet arasındaki gerginlikten yararlanmayı hedeflemiştir?", "o": ["SSCB - Çin", "Almanya - Fransa", "Mısır - İsrail", "Hindistan - Pakistan", "Kore - Japonya"], "c": 0, "e": "Nixon ve Kissinger'ın üçgen diplomasisi SSCB-Çin gerginliğini hedeflemiştir."},
+    {"q": "Aşağıdakilerden hangisi SSCB önderliğinde kurulan örgütlerden biri DEĞİLDİR?", "o": ["NATO", "Cominform", "COMECON", "Varşova Paktı", "Molotov Planı"], "c": 0, "e": "NATO Batı bloğunun (ABD önderliğinde) askeri örgütüdür."},
+    {"q": "Doğu bloğunun siyasi işbirliği teşkilatı Cominform ile ekonomik işbirliği teşkilatı COMECON'un ortak özelliği aşağıdakilerden hangisidir?", "o": ["SSCB önderliğinde ve Doğu bloğu devletlerinden oluşmaları", "Batı bloğuna karşı askeri amaç taşımaları", "ABD tarafından finanse edilmeleri", "Bağlantısızlar bloğunca kurulmaları", "NATO üyelerini kapsamaları"], "c": 0, "e": "İkisi de SSCB önderliğinde Doğu bloğu teşkilatıdır; biri siyasi biri ekonomiktir."},
+    {"q": "Aşağıdaki lider-ülke eşleştirmelerinden hangisi yanlıştır?", "o": ["Imre Nagy — Çekoslovakya", "Tito — Yugoslavya", "Enver Hoca — Arnavutluk", "Mao Zedong — Çin", "Ceaușescu — Romanya"], "c": 0, "e": "Imre Nagy Macaristan'ın; 'insancıl komünizm' ile Çekoslovakya'da anılan Dubček'tir."},
+    {"q": "Cominform'dan kovulan ilk ülke aşağıdakilerden hangisidir?", "o": ["Yugoslavya", "Arnavutluk", "Macaristan", "Polonya", "Çekoslovakya"], "c": 0, "e": "Tito'nun SSCB'ye diklenmesi nedeniyle ilk kovulan ülke Yugoslavya'dır."},
+    {"q": "Mao Zedong ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?", "o": ["Çin Halk Cumhuriyeti'ni Kültür Devrimi ile kurmuştur", "Çin Halk Cumhuriyeti'ni 1949'da kurmuştur", "Kültür Devrimi'ni gerçekleştirmiştir", "Çin'de komünist bir rejim kurmuştur", "Doğu bloğu içinde yer almıştır"], "c": 0, "e": "Çin Halk Cumhuriyeti önce kurulmuş, Kültür Devrimi daha sonra yapılmıştır."},
+    {"q": "İsrail Devleti'nin kuruluşuyla ilgili aşağıdakilerden hangisi doğrudur?", "o": ["II. Dünya Savaşı'ndan sonra, 1948'de Ben-Gurion liderliğinde kurulmuştur", "I. Dünya Savaşı sırasında kurulmuştur", "Balfour Deklarasyonu ile 1917'de kurulmuştur", "Camp David Antlaşması ile kurulmuştur", "Milletler Cemiyeti tarafından kurulmuştur"], "c": 0, "e": "İsrail 1948'de, II. Dünya Savaşı sonrası Ben-Gurion önderliğinde kuruldu."},
+    {"q": "Filistin'e Yahudi göçüne izin veren ve İsrail'in kuruluşu yolunda ilk ciddi adım sayılan belge aşağıdakilerden hangisidir?", "o": ["Balfour Deklarasyonu", "Camp David Antlaşması", "Evian Sözleşmesi", "Elnakba", "Roma Antlaşması"], "c": 0, "e": "1917 Balfour Deklarasyonu İsrail'in kuruluşu yolundaki ilk ciddi adımdır."},
+    {"q": "SSCB tehdidine karşı Ortadoğu devletlerini ABD'nin yanına çekmeyi amaçlayan doktrin aşağıdakilerden hangisidir?", "o": ["Eisenhower Doktrini", "Truman Doktrini", "Monroe Doktrini", "Molotov Planı", "Marshall Planı"], "c": 0, "e": "Ortadoğu'yu hedefleyen doktrin Eisenhower Doktrini'dir."},
+    {"q": "Hindistan ile ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?", "o": ["Mahatma Gandhi — ruhani lider / bağımsızlık önderi", "Nehru — ruhani lider", "Cinnah — ilk başbakan", "Ziaur Rahman — bağımsızlık önderi", "Ferhat Abbas — ilk başbakan"], "c": 0, "e": "Gandhi ruhani lider ve bağımsızlık önderi; Nehru ise ilk başbakandır."},
+    {"q": "Cezayir'in Fransa'dan bağımsızlığını sağlayan sözleşme aşağıdakilerden hangisidir?", "o": ["Evian Sözleşmesi", "Camp David Antlaşması", "Maastricht Antlaşması", "Balfour Deklarasyonu", "Paris Antlaşması"], "c": 0, "e": "Cezayir 1962'de Ferhat Abbas liderliğinde Evian Sözleşmesi ile bağımsız oldu."},
+    {"q": "Aşağıdakilerden hangisi Güney Afrika Cumhuriyeti ile ilgili doğru bir bilgidir?", "o": ["Nelson Mandela ilk siyahi başkanı olmuş, ülkede apartheid rejimi 1994'te sona ermiştir", "İlk siyahi başkanı Ferhat Abbas'tır", "Apartheid rejimi ırksal eşitliği savunan sistemdir", "Bağlantısızlar bloğunun kurucusudur", "Kadife Devrim ile ikiye ayrılmıştır"], "c": 0, "e": "Mandela Güney Afrika'nın ilk siyahi başkanıdır; apartheid (ırkçı rejim) 1994'te son buldu."}
+  ],
+  "eslestir": [
+    {
+      "ad": "Doktrin / Plan → Tanım",
+      "p": [
+        ["Truman Doktrini", "Türkiye ve Yunanistan'a askeri+ekonomik yardım"],
+        ["Marshall Planı", "16 Batı bloğu devletine mali yardım"],
+        ["Molotov Planı", "Doğu bloğuna SSCB'nin ekonomik yardımı"],
+        ["Monroe Doktrini", "ABD'nin yalnızlık (infirat) politikası"],
+        ["Eisenhower Doktrini", "Ortadoğu'yu ABD yanına çekme"]
+      ]
+    },
+    {
+      "ad": "Lider → Ülke",
+      "p": [
+        ["Tito", "Yugoslavya"],
+        ["Enver Hoca", "Arnavutluk"],
+        ["Imre Nagy", "Macaristan"],
+        ["Alexander Dubček", "Çekoslovakya"],
+        ["Mao Zedong", "Çin"],
+        ["Ceaușescu çifti", "Romanya"]
+      ]
+    },
+    {
+      "ad": "Örgüt → Niteliği",
+      "p": [
+        ["NATO", "Batı bloğu askeri örgütü"],
+        ["Varşova Paktı", "Doğu bloğu askeri paktı"],
+        ["Cominform", "Doğu bloğu siyasi teşkilatı"],
+        ["COMECON", "Doğu bloğu ekonomik teşkilatı"],
+        ["BAB", "SSCB'ye karşı ilk askeri birliktelik"],
+        ["Avrupa Konseyi", "İnsan hakları ve demokrasi"]
+      ]
+    },
+    {
+      "ad": "Antlaşma → AB Kurumu",
+      "p": [
+        ["Paris Antlaşması (1951)", "Avrupa Kömür ve Çelik Topluluğu"],
+        ["Roma Antlaşması (1957)", "Avrupa Ekonomik Topluluğu"],
+        ["Brüksel Antlaşması (1967)", "Avrupa Topluluğu"],
+        ["Maastricht Antlaşması (1992)", "Avrupa Birliği"]
+      ]
+    },
+    {
+      "ad": "Bağımsızlık Önderi → Ülke",
+      "p": [
+        ["Mahatma Gandhi", "Hindistan"],
+        ["Muhammed Ali Cinnah", "Pakistan"],
+        ["Ziaur Rahman", "Bangladeş"],
+        ["Ferhat Abbas", "Cezayir"],
+        ["Habib Burgiba", "Tunus"],
+        ["Nelson Mandela", "Güney Afrika"]
+      ]
+    },
+    {
+      "ad": "Kavram → Kişi / Yer",
+      "p": [
+        ["Demir perde ülkeleri", "Winston Churchill"],
+        ["Soğuk savaş tabiri", "Bernard Baruch"],
+        ["Üçgen diplomasisi", "Nixon ve Kissinger"],
+        ["Balfour Deklarasyonu", "İngiltere"],
+        ["Elnakba", "İsrail'in tanınması"],
+        ["Bağlantısızlar bloğu", "Mısır-Yugoslavya-Hindistan"]
+      ]
+    }
+  ]
+}

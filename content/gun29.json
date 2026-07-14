@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "gun": 29,
+    "baslik": "Küreselleşen Dünya ve Türkiye (1. Kısım): SSCB'nin Dağılması ve Balkanlar",
+    "ozet": "SSCB'nin dağılması (Gorbaçov, Glasnost-Perestroyka, Ağustos Darbesi), bağımsız olan Türk Cumhuriyetleri ve Türk teşkilatları, Almanya'nın birleşmesi ve Yugoslavya'nın dağılması (Bosna, Kosova).",
+    "tahminiSoru": "KPSS'de ~2-3 soru",
+    "duzeltmeler": [
+      "Mihal/Mihalel/Mihael Gorbaçov → Mihail Gorbaçov",
+      "Vladimir Iç Lenin → Vladimir İlyiç Lenin",
+      "Boris Yelsin → Boris Yeltsin",
+      "Alexander Dupçek → Alexander Dubček",
+      "Mehmet Emin Süzat/Resulzade → Mehmet Emin Resulzade",
+      "Ebul Feyz Elçi Bey / Ebülfez Elçi Bey → Ebulfeyz Elçibey",
+      "Nur Sultan Nazar Beyev / Nazarbeyev → Nursultan Nazarbayev",
+      "Sapar Murat Niyazov/Niezov/Niazov → Saparmurat Niyazov",
+      "Slobodan Milosevi / Slobo'dan Milosoviç → Slobodan Miloşeviç",
+      "Ali'ye İzzet Begovi / Aliye İzzet Begoviç → Aliya İzzetbegoviç",
+      "Tukman → Franjo Tudjman (Hırvat lider)",
+      "Srebzenista/Srebstenista/Sizanista/Trepzinista → Srebrenitsa",
+      "Ronald Regan/Rigan → Ronald Reagan",
+      "İsmail Gaspralı/Gaspüralı → İsmail Gaspıralı",
+      "Mehmet Ali Birant → Mehmet Ali Birand",
+      "Risaletün nushiye / Risale-i Nusiye → Risaletü'n-Nushiyye",
+      "Bağımsız Devletler Topluluğu üyeleri sayılırken transkript 'Türkiye' demiştir; Türkiye BDT üyesi DEĞİLDİR (kastedilen büyük olasılıkla Türkmenistan'dır)."
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "SSCB'nin Dağılması",
+      "i": [
+        { "k": "Glasnost = açıklık", "m": "Gorbaçov'un doğu bloğu devletlerine söz hakkı verme politikası", "s": "z" },
+        { "k": "Perestroyka = yeniden yapılanma", "m": "SSCB'nin ekonomik + siyasi olarak yeniden yapılandırılması / reform", "s": "z" },
+        { "k": "Gorbaçov = SSCB'nin SON lideri", "m": "İlk lider Lenin; ılımlı sosyalizm; 2022'de vefat — muhtemel soru", "s": "z" },
+        { "k": "Egemen Devletler Birliği Anlaşması", "m": "Gorbaçov'un dağılmayı önlemek için imzaladığı anlaşma; KGB rahatsız oldu", "s": "z" },
+        { "k": "Ağustos Darbesi → SSCB biter", "m": "KGB, Yeltsin'e rağmen Gorbaçov'a darbe yaptı; Bolşevik İhtilali ile kuruldu, Ağustos Darbesi ile bitti", "s": "z" },
+        { "k": "Can Azerbaycan = ayrılan İLK", "m": "SSCB'den ayrılan ilk Türk Cumhuriyeti Azerbaycan; SON = Kazakistan", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kadife Devrim & Şangay",
+      "i": [
+        { "k": "Kadife Devrim = kansız", "m": "1993 Çekoslovakya'nın Çek Cum. + Slovakya olarak kan akmadan ayrılması", "s": "z" },
+        { "k": "İnsancıl komünizm = Dubček", "m": "Çekoslovakya'daki hareketin lideri Alexander Dubček", "s": "z" },
+        { "k": "Şangay Beşlisi (1996)", "m": "Rusya - Çin - Kırgızistan - Kazakistan - Tacikistan", "s": "z" },
+        { "k": "+Özbekistan = Şangay İşbirliği Örgütü", "m": "Özbekistan katılınca isim değişti; 2017'de Pakistan + Hindistan katıldı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Nükleer Kriz & Savunma",
+      "i": [
+        { "k": "Stanislav Petrov = tuşa basmayan adam", "m": "1983 ABD-SSCB nükleer savaşını önledi; Dünya Vatandaşlığı Ödülü; muhtemel soru", "s": "z" },
+        { "k": "Yıldız Savaşları = Stratejik Savunma Girişimi", "m": "Reagan dönemi; füzeleri uzaydan lazerle etkisiz kılma projesi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Azerbaycan",
+      "i": [
+        { "k": "1918 Azerbaycan = Resulzade", "m": "Bağımsız Azerbaycan Halk Cum.; Türk devletleri içinde cumhuriyete geçen İLK; ilk tanıyan Osmanlı", "s": "z" },
+        { "k": "1991 Azerbaycan = Elçibey", "m": "SSCB dağılınca yeniden bağımsız; ilk tanıyan Türkiye Cumhuriyeti", "s": "z" },
+        { "k": "Bir millet iki devletiz = Haydar Aliyev", "m": "İlham Aliyev'in babası", "s": "z" },
+        { "k": "Dağlık Karabağ = Azerbaycan-Ermenistan sorunu", "m": "Ermenilerin yaptığı katliam Hocalı Katliamı (600+ Türk)", "s": "z" },
+        { "k": "Şuşa = 2023 Türk Dünyası Kültür Başkenti", "m": "Karabağ'daki antik kent, İlham Aliyev döneminde ele geçirildi", "s": "z" },
+        { "k": "Bakü", "m": "Azerbaycan'ın başkenti", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kazakistan",
+      "i": [
+        { "k": "Kazağınıza nazar değmesin", "m": "Kazakistan kurucu lideri Nursultan Nazarbayev", "s": "z" },
+        { "k": "Astana", "m": "Kazakistan'ın başkenti", "s": "z" },
+        { "k": "Ahmet Yesevi Üniversitesi", "m": "Türkiye-Kazakistan ortak üniversitesi — çıkmış soru", "s": "z" },
+        { "k": "Semey = kapatan ilk ve tek", "m": "Nükleer tesisini kendi isteğiyle kapatan ilk ve tek ülke Kazakistan", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türkmenistan · Kırgızistan · Özbekistan",
+      "i": [
+        { "k": "Türkmendeki aşka bak = Aşkabat", "m": "Türkmenistan'ın başkenti", "s": "z" },
+        { "k": "Türkmenbaşı = Saparmurat Niyazov", "m": "Türkmenistan lideri; en fazla doğalgaz rezervi Türkmenistan'da", "s": "z" },
+        { "k": "Kırgızlar iyi askerlerdir = Askar Akayev", "m": "Kırgızistan lideri; başkent Bişkek; devrim Lale Devrimi", "s": "z" },
+        { "k": "Cengiz Aytmatov = Kırgız yazar", "m": "Gün Olur Asra Bedel, Toprak Ana — muhtemel soru", "s": "z" },
+        { "k": "Özbekistan = Taşkent / İslam Kerimov", "m": "Başkent Taşkent, lider İslam Kerimov", "s": "z" }
+      ]
+    },
+    {
+      "b": "BDT & Bağlantısızlar",
+      "i": [
+        { "k": "BDT = Almatı Zirvesi", "m": "SSCB'den ayrılan devletlerin 1991'de kurduğu Bağımsız Devletler Topluluğu", "s": "z" },
+        { "k": "Güney Osetya → Gürcistan ayrıldı", "m": "BDT'den ayrılan devlet Gürcistan", "s": "z" },
+        { "k": "Bağlantısızlar = Bandung", "m": "Yugoslavya-Mısır-Hindistan; doğu/batı bloğuna girmeyenler (BDT ile KARIŞTIRMA)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türk Teşkilatları",
+      "i": [
+        { "k": "TİKA → 2 → 1992", "m": "Türk İşbirliği ve Koordinasyon Ajansı (2. harf → 1992)", "s": "z" },
+        { "k": "TÜRKSOY → 3 → 1993", "m": "Türk Kültürü ve Sanatları Ortak Yönetimi, merkez Ankara (3 → 1993)", "s": "z" },
+        { "k": "KEİ = İstanbul", "m": "Karadeniz Ekonomik İşbirliği Teşkilatı, 1992, Türkiye öncülüğü, merkez İstanbul", "s": "z" },
+        { "k": "TDAV = Turan Yazgan (1980)", "m": "Türk Dünyası Araştırmaları Vakfı; Gaspıralı'nın 'dilde fikirde işte birlik' umdesi", "s": "z" },
+        { "k": "Türk Konseyi (2009) → TDT (2021)", "m": "Nahçıvan Anlaşması ile kuruldu; 2021'de Türk Devletleri Teşkilatı adını aldı", "s": "z" },
+        { "k": "Yunus Emre Enstitüsü", "m": "Türk kültürü/dil/tarih/edebiyat tanıtımı; Yunus Emre eseri Risaletü'n-Nushiyye", "s": "z" }
+      ]
+    },
+    {
+      "b": "Almanya'nın Birleşmesi",
+      "i": [
+        { "k": "1961 Berlin Duvarı = ilk kriz", "m": "Berlin Buhranı, soğuk savaşın ilk krizi", "s": "z" },
+        { "k": "1989 Berlin Duvarı yıkıldı", "m": "Almanya resmen birleşti", "s": "z" },
+        { "k": "Doğu = Demokratik / Batı = Federal", "m": "Doğu SSCB (Demokratik Alman Cum.); Batı ABD-Fransa-İngiltere (Federal Alman Cum.)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Yugoslavya",
+      "i": [
+        { "k": "Tito = Yugoslavya lideri", "m": "Kominform'dan kovulan ilk devlet Yugoslavya; sonra bağlantısızlar lideri", "s": "z" },
+        { "k": "Sırp kasabı = Slobodan Miloşeviç", "m": "Tito'dan sonra; Sırpları silahlandırdı", "s": "z" },
+        { "k": "Ayrılan ilk = Slovenya", "m": "Yugoslavya'dan ayrılan ilk devlet Slovenya", "s": "z" },
+        { "k": "Ustaşa vs Çetnik", "m": "Ustaşa = Hırvat silahlı örgüt; Çetnik = Sırp faşist silahlı örgüt", "s": "z" }
+      ]
+    },
+    {
+      "b": "Bosna Savaşı",
+      "i": [
+        { "k": "Srebrenitsa Katliamı", "m": "Sırpların Boşnak Müslümanlara yaptığı katliam", "s": "z" },
+        { "k": "Mavi Kelebekler", "m": "Srebrenitsa toplu mezarlarının bulunması olayı", "s": "z" },
+        { "k": "Bilge Kral = Aliya İzzetbegoviç", "m": "Boşnak lider, Bosna Hersek'in ilk devlet başkanı, Boşnak ordusunu kurdu — muhtemel soru", "s": "z" },
+        { "k": "Dayton (1995) = Bosna Savaşı biter", "m": "Miloşeviç (Sırp) - Tudjman (Hırvat) - İzzetbegoviç (Boşnak)", "s": "z" },
+        { "k": "Mostar Köprüsü = Mimar Hayreddin", "m": "Bosna'daki köprünün mimarı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kosova & Arnavutluk",
+      "i": [
+        { "k": "Kosova = 2008 bağımsız", "m": "Kosova sorunu: Sırpların uzun süreli baskısı", "s": "z" },
+        { "k": "Reçak Katliamı (1999)", "m": "Reçak köyünde Kosovalıların Sırplarca öldürülmesi", "s": "z" },
+        { "k": "Enver Hoca = ilk ateist devlet", "m": "Arnavutluk; 'Arnavut' adı Arnavit ailesinden", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "SSCB'nin Dağılması", "o": "SSCB'nin ilk ve son lideri kimdir?", "a": "İlk: Vladimir İlyiç Lenin\nSon: Mihail Gorbaçov (2022'de vefat)" },
+    { "c": "SSCB'nin Dağılması", "o": "Gorbaçov'un uyguladığı iki politika ve anlamları nedir?", "a": "Glasnost = açıklık\nPerestroyka = yeniden yapılanma\nAmaç: ılımlı sosyalizm" },
+    { "c": "SSCB'nin Dağılması", "o": "Glasnost politikasının amacı nedir?", "a": "Doğu bloğu devletlerine söz hakkı vererek SSCB'ye ve yöneticilere karşı güven oluşturmak" },
+    { "c": "SSCB'nin Dağılması", "o": "Perestroyka nedir?", "a": "SSCB'yi hem ekonomik hem siyasi olarak yeniden yapılandırmayı ve reform yapmayı amaçlayan hareket" },
+    { "c": "SSCB'nin Dağılması", "o": "Gorbaçov'un politikaları hangi sonucu doğurdu?", "a": "Milliyetçilik öne çıktı; Letonya ve Estonya bağımsızlığını ilan etti → SSCB dağılma tehlikesi" },
+    { "c": "SSCB'nin Dağılması", "o": "Egemen Devletler Birliği Anlaşması niçin imzalandı?", "a": "Gorbaçov SSCB'nin dağılmasını önlemek için imzaladı; ancak KGB bu anlaşmadan rahatsız oldu" },
+    { "c": "SSCB'nin Dağılması", "o": "SSCB'yi sona erdiren darbe hangisidir?", "a": "Ağustos Darbesi — KGB, Boris Yeltsin'e rağmen Gorbaçov'a darbe yaptı; Gorbaçov düşürüldü, SSCB dağıldı" },
+    { "c": "SSCB'nin Dağılması", "o": "SSCB nasıl kuruldu, nasıl sona erdi?", "a": "Kuruluş: Bolşevik İhtilali\nSon: Gorbaçov'a yapılan Ağustos Darbesi" },
+    { "c": "SSCB'nin Dağılması", "o": "SSCB'den ayrılan ilk ve son Türk Cumhuriyeti hangisidir?", "a": "İlk: Azerbaycan (\"Can Azerbaycan\")\nSon: Kazakistan" },
+    { "c": "SSCB'nin Dağılması", "o": "KGB'nin Gorbaçov'a darbesine kim karşı çıktı?", "a": "Rusya Federasyonu Başkanı Boris Yeltsin (ama KGB onu dinlemedi)" },
+
+    { "c": "Devrimler ve Krizler", "o": "Kadife Devrim nedir?", "a": "1993'te Çekoslovakya'nın Çek Cumhuriyeti + Slovakya olarak kan akmadan ikiye ayrılması" },
+    { "c": "Devrimler ve Krizler", "o": "Çekoslovakya'daki 'insancıl komünizm' hareketinin lideri kimdir?", "a": "Alexander Dubček" },
+    { "c": "Devrimler ve Krizler", "o": "Şangay Beşlisi (1996) hangi 5 devletten oluşur?", "a": "Rusya, Çin, Kırgızistan, Kazakistan, Tacikistan" },
+    { "c": "Devrimler ve Krizler", "o": "Şangay Beşlisi'nin adını değiştiren katılım nedir?", "a": "Özbekistan'ın katılımı → Şangay İşbirliği Örgütü / Teşkilatı" },
+    { "c": "Devrimler ve Krizler", "o": "2017'de Şangay İşbirliği Örgütü'ne kimler katıldı?", "a": "Pakistan ve Hindistan (aralarında Keşmir sorunu vardır)" },
+    { "c": "Devrimler ve Krizler", "o": "Stanislav Petrov kimdir?", "a": "1983'te sistem hatasını fark edip tuşa basmayarak ABD-SSCB nükleer savaşını önledi\nDünya Vatandaşlığı Ödülü (2016'da vefat)" },
+    { "c": "Devrimler ve Krizler", "o": "Yıldız Savaşları Projesi'nin resmi adı ve dönemi nedir?", "a": "Stratejik Savunma Girişimi; ABD Başkanı Ronald Reagan dönemi" },
+    { "c": "Devrimler ve Krizler", "o": "Stratejik Savunma Girişimi neyi amaçlar?", "a": "SSCB balistik füzelerini ABD'ye ulaşmadan uzaydan lazer ışınlarıyla etkisiz hale getirmek" },
+    { "c": "Devrimler ve Krizler", "o": "Bağlantısızlar bloğunun kurucuları ve ilk konferansı nedir?", "a": "Yugoslavya, Mısır, Hindistan; ilk konferans Bandung Konferansı" },
+
+    { "c": "Azerbaycan ve Karabağ", "o": "1918 Bağımsız Azerbaycan Halk Cumhuriyeti'nin kurucusu kimdir?", "a": "Mehmet Emin Resulzade" },
+    { "c": "Azerbaycan ve Karabağ", "o": "Türk devletleri içinde cumhuriyet rejimine geçen ilk devlet hangisidir?", "a": "Azerbaycan (1918) — Türkiye o sırada Mondros'u imzalıyordu" },
+    { "c": "Azerbaycan ve Karabağ", "o": "1918 Azerbaycan'ını ilk tanıyan devlet hangisidir?", "a": "Osmanlı Devleti (Türkiye Cumhuriyeti henüz kurulmamıştı)" },
+    { "c": "Azerbaycan ve Karabağ", "o": "1991'de yeniden bağımsız olan Azerbaycan'ın kurucusu kimdir?", "a": "Ebulfeyz Elçibey" },
+    { "c": "Azerbaycan ve Karabağ", "o": "1991 Azerbaycan'ını ilk tanıyan devlet hangisidir?", "a": "Türkiye Cumhuriyeti" },
+    { "c": "Azerbaycan ve Karabağ", "o": "'Bir millet iki devletiz' sözü kime aittir?", "a": "Haydar Aliyev (İlham Aliyev'in babası)" },
+    { "c": "Azerbaycan ve Karabağ", "o": "Azerbaycan ile Ermenistan arasındaki sorunlu bölge neresidir?", "a": "Dağlık Karabağ" },
+    { "c": "Azerbaycan ve Karabağ", "o": "Ermenilerin Dağlık Karabağ'da yaptığı katliam hangisidir?", "a": "Hocalı Katliamı (Hocalı köyünde 600'den fazla Türk katledildi)" },
+    { "c": "Azerbaycan ve Karabağ", "o": "Karabağ'daki Şuşa Antik Kenti hangi unvanı aldı?", "a": "2023 Türk Dünyası Kültür Başkenti (İlham Aliyev döneminde ele geçirildi)" },
+    { "c": "Azerbaycan ve Karabağ", "o": "İki Azerbaycan'ın kurucuları ve tanıyan ilk devletleri kimlerdir?", "a": "1918: Resulzade — ilk tanıyan Osmanlı\n1991: Elçibey — ilk tanıyan Türkiye Cumhuriyeti" },
+
+    { "c": "Türk Cumhuriyetleri", "o": "Kazakistan'ın başkenti ve kurucu lideri kimdir?", "a": "Başkent: Astana\nLider: Nursultan Nazarbayev (\"Kazağınıza nazar değmesin\")" },
+    { "c": "Türk Cumhuriyetleri", "o": "Türkiye ile Kazakistan'ın ortak üniversitesi hangisidir?", "a": "Ahmet Yesevi Üniversitesi (çıkmış soru)" },
+    { "c": "Türk Cumhuriyetleri", "o": "Nükleer tesisini kendi isteğiyle kapatan ilk ve tek ülke hangisidir?", "a": "Kazakistan (Semey nükleer tesislerini kapattı)" },
+    { "c": "Türk Cumhuriyetleri", "o": "Türkmenistan'ın başkenti ve lideri kimdir?", "a": "Başkent: Aşkabat (\"Türkmendeki aşka bak\")\nLider: Saparmurat Niyazov (Türkmenbaşı)" },
+    { "c": "Türk Cumhuriyetleri", "o": "En fazla doğalgaz rezervine sahip Türk Cumhuriyeti hangisidir?", "a": "Türkmenistan" },
+    { "c": "Türk Cumhuriyetleri", "o": "Kırgızistan'ın başkenti ve lideri kimdir?", "a": "Başkent: Bişkek (\"Kırgızlar iyi askerlerdir\")\nLider: Askar Akayev" },
+    { "c": "Türk Cumhuriyetleri", "o": "Dünyaca ünlü Kırgız yazar ve eserleri nelerdir?", "a": "Cengiz Aytmatov — Gün Olur Asra Bedel, Toprak Ana (muhtemel soru)" },
+    { "c": "Türk Cumhuriyetleri", "o": "Kırgızistan'daki devrim hangisidir?", "a": "Lale Devrimi" },
+    { "c": "Türk Cumhuriyetleri", "o": "Özbekistan'ın başkenti ve lideri kimdir?", "a": "Başkent: Taşkent\nLider: İslam Kerimov" },
+    { "c": "Türk Cumhuriyetleri", "o": "Kadife Devrim ve Lale Devrimi hangi ülkelerde olmuştur?", "a": "Kadife Devrim: Çekoslovakya\nLale Devrimi: Kırgızistan" },
+
+    { "c": "BDT ve Teşkilatlar", "o": "Bağımsız Devletler Topluluğu (BDT) hangi zirveyle kuruldu?", "a": "Almatı Zirvesi (1991) — SSCB'den ayrılan devletlerce kuruldu" },
+    { "c": "BDT ve Teşkilatlar", "o": "BDT'den Güney Osetya Savaşı nedeniyle ayrılan devlet hangisidir?", "a": "Gürcistan" },
+    { "c": "BDT ve Teşkilatlar", "o": "Bağlantısızlar bloğu ile BDT arasındaki fark nedir?", "a": "Bağlantısızlar: doğu/batı bloğuna girmeyenler (Bandung)\nBDT: SSCB'den ayrılanlar (Almatı)" },
+    { "c": "BDT ve Teşkilatlar", "o": "TİKA'nın açılımı ve kuruluş yılı nedir?", "a": "Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı — 1992 (2. harf → 1992)" },
+    { "c": "BDT ve Teşkilatlar", "o": "TÜRKSOY'un açılımı, yılı ve merkezi nedir?", "a": "Türk Kültürü ve Sanatları Ortak Yönetimi — 1993, merkez Ankara (3 → 1993)" },
+    { "c": "BDT ve Teşkilatlar", "o": "KEİ nedir, merkezi neresidir?", "a": "Karadeniz Ekonomik İşbirliği Teşkilatı — 1992, Türkiye öncülüğü, merkez İstanbul" },
+    { "c": "BDT ve Teşkilatlar", "o": "Türk Dünyası Araştırmaları Vakfı'nın kurucusu ve mottosu nedir?", "a": "Turan Yazgan (1980); İsmail Gaspıralı'nın 'dilde, fikirde, işte birlik' umdesi" },
+    { "c": "BDT ve Teşkilatlar", "o": "Türk Konseyi hangi anlaşmayla, hangi yıl kuruldu?", "a": "2009, Nahçıvan Anlaşması (Azerbaycan, Kazakistan, Kırgızistan, Türkiye)" },
+    { "c": "BDT ve Teşkilatlar", "o": "Türk Konseyi 2021'de hangi adı aldı?", "a": "Türk Devletleri Teşkilatı (TDT)" },
+    { "c": "BDT ve Teşkilatlar", "o": "Yunus Emre Enstitüsü ne yapar; Yunus Emre'nin eseri nedir?", "a": "Türk kültürü/tarih/dil/edebiyatını tanıtır ve öğretir\nYunus Emre'nin eseri: Risaletü'n-Nushiyye" },
+    { "c": "BDT ve Teşkilatlar", "o": "TİKA ve TÜRKSOY'un yılları nasıl ayırt edilir?", "a": "TİKA → 2. harf → 1992\nTÜRKSOY → 3. harf → 1993" },
+
+    { "c": "Almanya ve Berlin", "o": "Berlin Duvarı ne zaman inşa edildi ve önemi nedir?", "a": "1961; inşası Berlin Buhranı = soğuk savaşın ilk krizidir" },
+    { "c": "Almanya ve Berlin", "o": "Berlin Duvarı ne zaman yıkıldı?", "a": "1989 → Almanya resmen birleşti" },
+    { "c": "Almanya ve Berlin", "o": "Berlin Duvarı döneminde Doğu ve Batı Almanya nasıl yönetiliyordu?", "a": "Doğu: SSCB güdümünde Demokratik Alman Cumhuriyeti\nBatı: ABD-Fransa-İngiltere → Federal Alman Cumhuriyeti" },
+    { "c": "Almanya ve Berlin", "o": "Berlin Duvarı'nın yıkılışına tanık olan Türk gazeteci kimdir?", "a": "Mehmet Ali Birand (32 Gün belgeselleriyle bilinir)" },
+
+    { "c": "Yugoslavya ve Bosna", "o": "Yugoslavya ne zaman ve nasıl kuruldu?", "a": "Dünya Savaşı sonrası; milliyetçilik göz ardı edilerek (Rusya'nın panslavizm politikasının izi)" },
+    { "c": "Yugoslavya ve Bosna", "o": "Yugoslavya'yı oluşturan devletler kimlerdir?", "a": "Sırbistan, Karadağ, Makedonya, Slovenya, Hırvatistan, Bosna Hersek (+ 2008 Kosova)" },
+    { "c": "Yugoslavya ve Bosna", "o": "Kominform'dan kovulan ilk devlet hangisidir?", "a": "Yugoslavya (Tito, Stalin'e/SSCB'ye baş kaldırdı; sonra bağlantısızlar lideri oldu)" },
+    { "c": "Yugoslavya ve Bosna", "o": "Yugoslavya'nın en önemli lideri kimdir?", "a": "Tito" },
+    { "c": "Yugoslavya ve Bosna", "o": "Tito'dan sonra Yugoslavya liderliğine kim geçti?", "a": "Slobodan Miloşeviç (\"Sırp kasabı\") — Sırpları silahlandırdı" },
+    { "c": "Yugoslavya ve Bosna", "o": "Yugoslavya'dan ayrılan ilk devlet hangisidir?", "a": "Slovenya" },
+    { "c": "Yugoslavya ve Bosna", "o": "Ustaşa ve Çetnik nedir?", "a": "Ustaşa: Hırvatların silahlı örgütü\nÇetnik: Sırpların aşırı milliyetçi/faşist silahlı örgütü" },
+    { "c": "Yugoslavya ve Bosna", "o": "Sırpların Boşnak Müslümanlara yaptığı katliam hangisidir?", "a": "Srebrenitsa Katliamı" },
+    { "c": "Yugoslavya ve Bosna", "o": "Mavi Kelebekler olayı nedir?", "a": "Srebrenitsa Katliamı'nda katledilenlerin toplu mezarlarının bulunması olayı" },
+    { "c": "Yugoslavya ve Bosna", "o": "Aliya İzzetbegoviç kimdir?", "a": "Boşnak lider, 'Bilge Kral/Bilge Lider'; Bosna Hersek'in ilk devlet başkanı; Boşnak ordusunu kurdu" },
+    { "c": "Yugoslavya ve Bosna", "o": "Bosna Savaşı'nı sona erdiren anlaşma ve imzacıları kimlerdir?", "a": "Dayton Anlaşması (1995): Miloşeviç (Sırp), Tudjman (Hırvat), İzzetbegoviç (Boşnak)" },
+    { "c": "Yugoslavya ve Bosna", "o": "Mostar Köprüsü'nün mimarı kimdir?", "a": "Mimar Hayreddin" },
+    { "c": "Yugoslavya ve Bosna", "o": "BM'nin Bosna'da kurduğu güvenli bölgelerde ne oldu?", "a": "Boşnak Müslümanlar sığındıkları güvenli bölgelerde de katledildi" },
+
+    { "c": "Kosova ve Arnavutluk", "o": "Kosova ne zaman bağımsız oldu?", "a": "2008" },
+    { "c": "Kosova ve Arnavutluk", "o": "Kosova sorunu nedir?", "a": "Kosova'nın Sırpların baskısına uzun süre maruz kalması" },
+    { "c": "Kosova ve Arnavutluk", "o": "Reçak Katliamı nedir?", "a": "1999'da Reçak köyünde Kosovalıların Sırplarca öldürülmesi" },
+    { "c": "Kosova ve Arnavutluk", "o": "Dünyanın ilk ateist devletini kim, nerede kurdu?", "a": "Enver Hoca, Arnavutluk'ta" },
+    { "c": "Kosova ve Arnavutluk", "o": "'Arnavut' adı nereden gelir?", "a": "Osmanlı döneminde bölgede hakim olan Arnavit ailesinden" }
+  ],
+  "tuzak": [
+    { "q": "SSCB'nin SON lideri kimdir?", "o": ["Vladimir İlyiç Lenin", "Mihail Gorbaçov"], "c": 1, "n": "Lenin İLK lider; SON lider Gorbaçov'dur — 'ilk/son' kalıbı karıştırılır." },
+    { "q": "'Açıklık' anlamına gelen politika hangisidir?", "o": ["Glasnost", "Perestroyka"], "c": 0, "n": "Glasnost = açıklık; Perestroyka = yeniden yapılanma." },
+    { "q": "SSCB'den ayrılan İLK Türk Cumhuriyeti hangisidir?", "o": ["Azerbaycan", "Kazakistan"], "c": 0, "n": "Ayrılan ilk Azerbaycan, SON ise Kazakistan'dır." },
+    { "q": "1918 Bağımsız Azerbaycan Halk Cumhuriyeti'nin kurucusu kimdir?", "o": ["Mehmet Emin Resulzade", "Ebulfeyz Elçibey"], "c": 0, "n": "1918 = Resulzade; 1991'de yeniden bağımsızlıkta = Elçibey." },
+    { "q": "1991'de bağımsız olan Azerbaycan'ı ilk tanıyan devlet hangisidir?", "o": ["Osmanlı Devleti", "Türkiye Cumhuriyeti"], "c": 1, "n": "1918'i Osmanlı, 1991'i Türkiye Cumhuriyeti tanımıştır." },
+    { "q": "'Bir millet iki devletiz' sözü kime aittir?", "o": ["Haydar Aliyev", "İlham Aliyev"], "c": 0, "n": "Söz babası Haydar Aliyev'e aittir; İlham Aliyev oğludur." },
+    { "q": "Azerbaycan-Ermenistan arasındaki sorunlu bölge hangisidir?", "o": ["Dağlık Karabağ", "Keşmir"], "c": 0, "n": "Karabağ Azerbaycan-Ermenistan; Keşmir ise Pakistan-Hindistan sorunudur." },
+    { "q": "Sırpların Boşnaklara yaptığı katliam hangisidir?", "o": ["Srebrenitsa Katliamı", "Hocalı Katliamı"], "c": 0, "n": "Srebrenitsa = Bosna (Sırp); Hocalı = Karabağ (Ermeni); Reçak = Kosova (Sırp)." },
+    { "q": "1992'de kurulan Türk teşkilatı hangisidir?", "o": ["TİKA", "TÜRKSOY"], "c": 0, "n": "TİKA 1992 (2. harf → 2), TÜRKSOY 1993 (→ 3)." },
+    { "q": "Çekoslovakya'da yaşanan kansız devrim hangisidir?", "o": ["Kadife Devrim", "Lale Devrimi"], "c": 0, "n": "Kadife Devrim: Çekoslovakya; Lale Devrimi: Kırgızistan." },
+    { "q": "SSCB'den ayrılan devletlerin kurduğu topluluk hangi zirveyle kuruldu?", "o": ["Almatı Zirvesi", "Bandung Konferansı"], "c": 0, "n": "BDT = Almatı Zirvesi; Bandung = Bağlantısızlar bloğunun ilk konferansı." },
+    { "q": "Şangay Beşlisi'ne katılarak örgütün adını değiştiren devlet hangisidir?", "o": ["Özbekistan", "Pakistan"], "c": 0, "n": "İsim değişimi Özbekistan'ın katılımıyla; Pakistan-Hindistan 2017'de katıldı." },
+    { "q": "Türkmenistan'ın başkenti hangisidir?", "o": ["Aşkabat", "Astana"], "c": 0, "n": "Aşkabat Türkmenistan; Astana Kazakistan'ın başkentidir." },
+    { "q": "Kazakistan'ın kurucu lideri kimdir?", "o": ["Nursultan Nazarbayev", "Saparmurat Niyazov"], "c": 0, "n": "Nazarbayev Kazakistan; Niyazov (Türkmenbaşı) Türkmenistan liderdir." },
+    { "q": "Hırvatların kurduğu silahlı örgüt hangisidir?", "o": ["Ustaşa", "Çetnik"], "c": 0, "n": "Ustaşa Hırvat; Çetnik Sırp örgütüdür." },
+    { "q": "Yugoslavya'dan ayrılan ilk devlet hangisidir?", "o": ["Slovenya", "Hırvatistan"], "c": 0, "n": "İlk ayrılan Slovenya; ardından Hırvatistan ve Bosna Hersek geldi." },
+    { "q": "Berlin Duvarı hangi yıl inşa edildi?", "o": ["1961", "1989"], "c": 0, "n": "1961 inşa (ilk kriz), 1989 yıkılış (Almanya birleşti)." },
+    { "q": "Soğuk savaşın ilk krizi olarak kabul edilen olay hangisidir?", "o": ["Berlin Buhranı", "Küba Buhranı"], "c": 0, "n": "1961 Berlin Duvarı/Berlin Buhranı soğuk savaşın ilk kriziydi." },
+    { "q": "Kominform'dan kovulan ilk devlet hangisidir?", "o": ["Yugoslavya", "Arnavutluk"], "c": 0, "n": "Tito yönetimindeki Yugoslavya, Stalin'e baş kaldırdığı için kovulan ilk devletti." },
+    { "q": "'Bilge Kral' olarak bilinen Boşnak lider kimdir?", "o": ["Aliya İzzetbegoviç", "Slobodan Miloşeviç"], "c": 0, "n": "İzzetbegoviç Boşnak 'Bilge Kral'; Miloşeviç 'Sırp kasabı'dır." },
+    { "q": "Bosna Savaşı hangi anlaşmayla sona erdi?", "o": ["Dayton Anlaşması", "Nahçıvan Anlaşması"], "c": 0, "n": "Dayton (1995) Bosna Savaşı'nı bitirdi; Nahçıvan ise Türk Konseyi'ni kurdu." },
+    { "q": "Nükleer tesisini kendi isteğiyle kapatan ilk ve tek ülke hangisidir?", "o": ["Kazakistan", "Türkmenistan"], "c": 0, "n": "Kazakistan Semey tesislerini kapattı; Türkmenistan en fazla doğalgaz rezervine sahiptir." },
+    { "q": "En fazla doğalgaz rezervine sahip Türk Cumhuriyeti hangisidir?", "o": ["Türkmenistan", "Azerbaycan"], "c": 0, "n": "Doğalgaz rezervinde Türkmenistan öndedir." },
+    { "q": "Türk devletleri içinde cumhuriyet rejimine geçen ilk devlet hangisidir?", "o": ["Azerbaycan", "Türkiye"], "c": 0, "n": "Azerbaycan 1918'de cumhuriyete geçti; Türkiye o sırada Mondros'u imzalıyordu." },
+    { "q": "Stanislav Petrov hangi ödüle layık görülmüştür?", "o": ["Dünya Vatandaşlığı Ödülü", "Nobel Barış Ödülü"], "c": 0, "n": "Petrov nükleer savaşı önlediği için Dünya Vatandaşlığı Ödülü aldı." },
+    { "q": "Yıldız Savaşları (Stratejik Savunma Girişimi) hangi ABD başkanı döneminde yapıldı?", "o": ["Ronald Reagan", "Richard Nixon"], "c": 0, "n": "Proje Ronald Reagan dönemine aittir." },
+    { "q": "SSCB'yi sona erdiren darbe hangisidir?", "o": ["Ağustos Darbesi", "Bolşevik İhtilali"], "c": 0, "n": "Bolşevik İhtilali SSCB'yi kurdu; Ağustos Darbesi sona erdirdi." },
+    { "q": "BDT'den Güney Osetya Savaşı nedeniyle ayrılan devlet hangisidir?", "o": ["Gürcistan", "Ermenistan"], "c": 0, "n": "Güney Osetya Savaşı sonrası BDT'den Gürcistan ayrıldı." },
+    { "q": "Türkiye ile Kazakistan'ın ortak üniversitesi hangisidir?", "o": ["Ahmet Yesevi Üniversitesi", "Yunus Emre Enstitüsü"], "c": 0, "n": "Ahmet Yesevi ortak üniversite; Yunus Emre Enstitüsü kültür tanıtım kurumudur." },
+    { "q": "Turan Yazgan'ın kurduğu vakfın mottosu kime aittir?", "o": ["İsmail Gaspıralı", "Yusuf Akçura"], "c": 0, "n": "'Dilde, fikirde, işte birlik' umdesi İsmail Gaspıralı'ya aittir." },
+    { "q": "Srebrenitsa'daki toplu mezarların bulunması hangi adla anılır?", "o": ["Mavi Kelebekler olayı", "Reçak Katliamı"], "c": 0, "n": "Mavi Kelebekler = toplu mezarların bulunması; Reçak Katliamı Kosova'dadır." },
+    { "q": "Dünyaca ünlü Kırgız yazar kimdir?", "o": ["Cengiz Aytmatov", "Turan Yazgan"], "c": 0, "n": "Cengiz Aytmatov Kırgız yazar; Turan Yazgan TDAV kurucusudur." }
+  ],
+  "deneme": [
+    { "q": "SSCB'nin son lideri Mihail Gorbaçov, 'ılımlı sosyalizm' amacıyla iki politika uygulamıştır. Bu politikalar ve anlamları aşağıdakilerin hangisinde doğru verilmiştir?", "o": ["Glasnost – açıklık / Perestroyka – yeniden yapılanma", "Glasnost – yeniden yapılanma / Perestroyka – açıklık", "Glasnost – silahsızlanma / Perestroyka – açıklık", "Glasnost – yeniden yapılanma / Perestroyka – silahsızlanma", "Glasnost – millileştirme / Perestroyka – açıklık"], "c": 0, "e": "Glasnost açıklık, Perestroyka yeniden yapılanma anlamına gelir." },
+    { "q": "SSCB'yi fiilen sona erdiren gelişme aşağıdakilerden hangisidir?", "o": ["KGB'nin Gorbaçov'a karşı düzenlediği Ağustos Darbesi", "Bolşevik İhtilali", "Berlin Duvarı'nın yıkılması", "Almatı Zirvesi", "Nahçıvan Anlaşması"], "c": 0, "e": "SSCB Bolşevik İhtilali ile kurulmuş, Ağustos Darbesi ile sona ermiştir." },
+    { "q": "SSCB'den ayrılan ilk ve son Türk Cumhuriyetleri aşağıdakilerin hangisinde birlikte verilmiştir?", "o": ["İlk: Azerbaycan – Son: Kazakistan", "İlk: Kazakistan – Son: Azerbaycan", "İlk: Özbekistan – Son: Türkmenistan", "İlk: Azerbaycan – Son: Kırgızistan", "İlk: Kırgızistan – Son: Kazakistan"], "c": 0, "e": "SSCB'den ayrılan ilk Türk Cumhuriyeti Azerbaycan, son ise Kazakistan'dır." },
+    { "q": "1993 yılında Çekoslovakya'nın kan dökülmeden Çek Cumhuriyeti ve Slovakya olarak ikiye ayrılmasına ne ad verilir?", "o": ["Kadife Devrim", "Lale Devrimi", "Turuncu Devrim", "Gül Devrimi", "Kültür İhtilali"], "c": 0, "e": "Kansız gerçekleştiği için bu ayrılığa Kadife Devrim denir." },
+    { "q": "Aşağıdaki devletlerden hangisinin katılımıyla Şangay Beşlisi'nin adı Şangay İşbirliği Örgütü olarak değişmiştir?", "o": ["Özbekistan", "Pakistan", "Hindistan", "Tacikistan", "Kırgızistan"], "c": 0, "e": "Özbekistan'ın katılımıyla Şangay Beşlisi, Şangay İşbirliği Örgütü adını almıştır." },
+    { "q": "1983'te bir sistem hatasını fark ederek tuşa basmayan ve olası bir ABD-SSCB nükleer savaşını önleyen Rus görevli kimdir?", "o": ["Stanislav Petrov", "Mihail Gorbaçov", "Boris Yeltsin", "Tito", "Alexander Dubček"], "c": 0, "e": "Stanislav Petrov, bu davranışıyla Dünya Vatandaşlığı Ödülü'ne layık görülmüştür." },
+    { "q": "Türk devletleri içinde cumhuriyet rejimine geçen ilk devlet ve kurucu lideri aşağıdakilerin hangisinde doğru verilmiştir?", "o": ["Azerbaycan – Mehmet Emin Resulzade", "Kazakistan – Nursultan Nazarbayev", "Özbekistan – İslam Kerimov", "Türkmenistan – Saparmurat Niyazov", "Azerbaycan – Ebulfeyz Elçibey"], "c": 0, "e": "1918 Bağımsız Azerbaycan Halk Cumhuriyeti, Mehmet Emin Resulzade önderliğinde kurulmuştur." },
+    { "q": "'Bir millet iki devletiz' sözüyle Türkiye-Azerbaycan kardeşliğini vurgulayan lider kimdir?", "o": ["Haydar Aliyev", "İlham Aliyev", "Ebulfeyz Elçibey", "Mehmet Emin Resulzade", "Nursultan Nazarbayev"], "c": 0, "e": "Söz, İlham Aliyev'in babası Haydar Aliyev'e aittir." },
+    { "q": "Azerbaycan ile Ermenistan arasında sorun olan bölge ve burada Ermenilerin Türklere yaptığı katliam aşağıdakilerin hangisinde doğru eşleştirilmiştir?", "o": ["Dağlık Karabağ – Hocalı Katliamı", "Keşmir – Reçak Katliamı", "Dağlık Karabağ – Srebrenitsa Katliamı", "Kosova – Hocalı Katliamı", "Nahçıvan – Reçak Katliamı"], "c": 0, "e": "Azerbaycan-Ermenistan sorunu Dağlık Karabağ'da yaşanmış, Hocalı Katliamı burada gerçekleşmiştir." },
+    { "q": "Nükleer tesislerini kendi isteğiyle kapatan ilk ve tek ülke aşağıdakilerden hangisidir?", "o": ["Kazakistan", "Türkmenistan", "Özbekistan", "Ukrayna", "Belarus"], "c": 0, "e": "Kazakistan, Semey nükleer tesislerini kendi isteğiyle kapatan ilk ve tek ülkedir." },
+    { "q": "Aşağıdaki Türk Cumhuriyeti – başkent eşleştirmelerinden hangisi yanlıştır?", "o": ["Türkmenistan – Astana", "Azerbaycan – Bakü", "Kazakistan – Astana", "Kırgızistan – Bişkek", "Özbekistan – Taşkent"], "c": 0, "e": "Türkmenistan'ın başkenti Aşkabat'tır; Astana Kazakistan'ın başkentidir." },
+    { "q": "SSCB'nin dağılmasıyla bağımsız olan devletlerin Almatı Zirvesi sonrasında kurdukları topluluk aşağıdakilerden hangisidir?", "o": ["Bağımsız Devletler Topluluğu", "Bağlantısızlar Bloğu", "Şangay Beşlisi", "Türk Konseyi", "Varşova Paktı"], "c": 0, "e": "SSCB'den ayrılan devletler Almatı Zirvesi ile Bağımsız Devletler Topluluğu'nu kurmuştur." },
+    { "q": "Aşağıdakilerden hangisi TİKA ile TÜRKSOY'un kuruluş yıllarını doğru verir?", "o": ["TİKA 1992 – TÜRKSOY 1993", "TİKA 1993 – TÜRKSOY 1992", "TİKA 1980 – TÜRKSOY 1992", "TİKA 1991 – TÜRKSOY 1993", "TİKA 1992 – TÜRKSOY 1980"], "c": 0, "e": "TİKA 1992, TÜRKSOY ise 1993 yılında kurulmuştur." },
+    { "q": "1980'de Turan Yazgan tarafından, İsmail Gaspıralı'nın 'dilde, fikirde, işte birlik' umdesi doğrultusunda kurulan kuruluş aşağıdakilerden hangisidir?", "o": ["Türk Dünyası Araştırmaları Vakfı", "Yunus Emre Enstitüsü", "TÜRKSOY", "TİKA", "Türk Konseyi"], "c": 0, "e": "Türk Dünyası Araştırmaları Vakfı 1980'de Turan Yazgan tarafından bu umde doğrultusunda kurulmuştur." },
+    { "q": "2009'da Nahçıvan Anlaşması ile kurulan Türk Konseyi, 2021'de hangi adı almıştır?", "o": ["Türk Devletleri Teşkilatı", "Türk Dünyası Araştırmaları Vakfı", "Şangay İşbirliği Örgütü", "Bağımsız Devletler Topluluğu", "TÜRKSOY"], "c": 0, "e": "Türk Konseyi 2021'de Türk Devletleri Teşkilatı adını almıştır." },
+    { "q": "Almanya'nın bölünmüşlüğünün simgesi olan Berlin Duvarı'nın inşası ve yıkılışı aşağıdakilerin hangisinde doğru verilmiştir?", "o": ["İnşa: 1961 – Yıkılış: 1989", "İnşa: 1949 – Yıkılış: 1961", "İnşa: 1961 – Yıkılış: 1991", "İnşa: 1945 – Yıkılış: 1989", "İnşa: 1989 – Yıkılış: 1991"], "c": 0, "e": "Berlin Duvarı 1961'de inşa edilmiş, 1989'da yıkılmış ve Almanya birleşmiştir." },
+    { "q": "Tito yönetiminde, Stalin'e baş kaldırdığı için Doğu Bloğu'nun siyasi teşkilatı Kominform'dan kovulan ilk devlet aşağıdakilerden hangisidir?", "o": ["Yugoslavya", "Arnavutluk", "Çekoslovakya", "Polonya", "Macaristan"], "c": 0, "e": "Kominform'dan kovulan ilk devlet, Tito yönetimindeki Yugoslavya'dır." },
+    { "q": "Yugoslavya'nın dağılması sürecinde ondan ayrılan ilk devlet aşağıdakilerden hangisidir?", "o": ["Slovenya", "Hırvatistan", "Bosna Hersek", "Makedonya", "Kosova"], "c": 0, "e": "Yugoslavya'dan ayrılan ilk devlet Slovenya'dır." },
+    { "q": "Bosna Savaşı'nı sona erdiren ve Miloşeviç, Tudjman ile Aliya İzzetbegoviç'in imzaladığı anlaşma aşağıdakilerden hangisidir?", "o": ["Dayton Anlaşması", "Nahçıvan Anlaşması", "Almatı Zirvesi", "Helsinki Anlaşması", "Bandung Konferansı"], "c": 0, "e": "Bosna Savaşı, 1995'te imzalanan Dayton Anlaşması ile sona ermiştir." },
+    { "q": "Aşağıdaki katliam – bölge eşleştirmelerinden hangisi yanlıştır?", "o": ["Reçak Katliamı – Bosna Hersek", "Hocalı Katliamı – Dağlık Karabağ", "Srebrenitsa Katliamı – Bosna Hersek", "Reçak Katliamı – Kosova", "Hocalı Katliamı – Azerbaycan"], "c": 0, "e": "Reçak Katliamı Kosova'da yaşanmıştır; Bosna Hersek'teki katliam Srebrenitsa'dır." }
+  ],
+  "eslestir": [
+    {
+      "ad": "Türk Cumhuriyeti – Kurucu/Önemli Lideri",
+      "p": [
+        ["Azerbaycan (1918)", "Mehmet Emin Resulzade"],
+        ["Azerbaycan (1991)", "Ebulfeyz Elçibey"],
+        ["Kazakistan", "Nursultan Nazarbayev"],
+        ["Türkmenistan", "Saparmurat Niyazov"],
+        ["Kırgızistan", "Askar Akayev"],
+        ["Özbekistan", "İslam Kerimov"]
+      ]
+    },
+    {
+      "ad": "Ülke – Başkent",
+      "p": [
+        ["Azerbaycan", "Bakü"],
+        ["Kazakistan", "Astana"],
+        ["Türkmenistan", "Aşkabat"],
+        ["Kırgızistan", "Bişkek"],
+        ["Özbekistan", "Taşkent"],
+        ["Makedonya", "Üsküp"],
+        ["Sırbistan", "Belgrad"]
+      ]
+    },
+    {
+      "ad": "Teşkilat/Vakıf – Özelliği",
+      "p": [
+        ["TİKA", "1992"],
+        ["TÜRKSOY", "1993 – merkez Ankara"],
+        ["KEİ", "Merkez İstanbul"],
+        ["Türk Dünyası Araştırmaları Vakfı", "Turan Yazgan (1980)"],
+        ["Türk Konseyi", "Nahçıvan Anlaşması (2009)"],
+        ["Türk Devletleri Teşkilatı", "2021"]
+      ]
+    },
+    {
+      "ad": "Olay/Örgüt – Yeri veya Tarafı",
+      "p": [
+        ["Hocalı Katliamı", "Dağlık Karabağ (Ermeni)"],
+        ["Srebrenitsa Katliamı", "Bosna Hersek (Sırp)"],
+        ["Reçak Katliamı", "Kosova (Sırp)"],
+        ["Mavi Kelebekler olayı", "Toplu mezarların bulunması"],
+        ["Ustaşa", "Hırvat silahlı örgütü"],
+        ["Çetnik", "Sırp silahlı örgütü"]
+      ]
+    },
+    {
+      "ad": "Lider/Kişi – Bilinen Özelliği",
+      "p": [
+        ["Mihail Gorbaçov", "Glasnost ve Perestroyka"],
+        ["Stanislav Petrov", "Nükleer savaşı önledi"],
+        ["Tito", "Kominform'dan kovulan ilk devlet"],
+        ["Slobodan Miloşeviç", "Sırp kasabı"],
+        ["Aliya İzzetbegoviç", "Bilge Kral (Boşnak lider)"],
+        ["Haydar Aliyev", "Bir millet iki devletiz"],
+        ["Enver Hoca", "İlk ateist devlet (Arnavutluk)"]
+      ]
+    }
+  ]
+}

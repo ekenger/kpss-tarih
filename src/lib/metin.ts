@@ -23,6 +23,7 @@ export const M = {
   tuzakTemiz: 'Tertemiz. Bu refleksle bu üniteden soru kaçmaz.',
   tuzakYanlis: (n: number) =>
     `${n} tuzağa düştün. Düştüğün yer, sınavda kaybedeceğin yerdir — hemen kapat.`,
+  tuzakKlavye: 'Klavye: 1 / 2 / 3 ile cevapla · Enter veya → ile ilerle. Şıklar her turda karışır.',
   // Deneme
   denemeAciklama: 'Net = Doğru − Yanlış / 4. Bitince netini not et.',
   cevap: 'Cevap',

@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "gun": 18,
+    "baslik": "Cumhuriyet Dönemi İç Politika",
+    "ozet": "Saltanatın kaldırılmasından cumhuriyetin ilanına, halifeliğin kaldırılmasından çok partili hayat denemelerine ve iç isyanlara kadar Cumhuriyet dönemi iç politik gelişmeleri.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Tactiq bozulmaları düzeltildi: 'İsmettin Önü' → İsmet İnönü",
+      "'Rızanur / Ruzan Nur' → (Doktor) Rıza Nur",
+      "'Alifet Okyar / Ali Fetih Okyer / Halifet Oker' → Ali Fethi Okyar",
+      "'İsmail Safa Özder' → İsmail Safa Özler",
+      "'Vasıf Çınard' → Vasıf Çınar",
+      "'payar' → payidar ('...ilelebet payidar kalacaktır')",
+      "'Ağahan / Ağ Han' → Ağa Han",
+      "'Ebu Suud' → Ebussuud Efendi",
+      "Dersim kara harekatı komutanı: transkriptte 'Abdullah Bozdoğan' geçiyor; tarihsel doğru isim Korgeneral Abdullah Alpdoğan'dır (denemeye konmadı, kartta düzeltilmiş haliyle verildi)."
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Hocanın Ezber Şifreleri",
+      "i": [
+        { "k": "ŞOTE", "m": "3 Mart 1924'te halifelikle AYNI gün yapılan diğer inkılaplar: Şer'iye-Evkaf Vekaleti'nin kaldırılması · Osmanlı hanedanının yurt dışına çıkarılması · Tevhid-i Tedrisat Kanunu · Erkan-ı Harbiye Vekaleti'nin kaldırılması", "s": "z" },
+        { "k": "KARAR", "m": "Terakkiperver Cumhuriyet Fırkası kurucuları: Kazım Karabekir · Ali Fuat Cebesoy · Rauf Orbay · Adnan Adıvar · Refet Bele (İsmet İnönü ve Ali Fethi Okyar YOK — çeldirici)", "s": "z" },
+        { "k": "Saltanat = 22 harf", "m": "'Saltanatın kaldırılması' 22 harftir → tarih 1922 (1 Kasım 1922); tarihi harflerden çıkar", "s": "z" },
+        { "k": "Tunç el", "m": "Dersim kara harekatının adı Tunceli Harekatı; 'devletin tunç elini hissetsinler' diye", "s": "z" }
+      ]
+    },
+    {
+      "b": "Teklif / Önergeyi Veren Kişiler",
+      "i": [
+        { "k": "Saltanatın kaldırılması", "m": "Teklifi Doktor Rıza Nur verdi (muhtemel soru adayı)", "s": "z" },
+        { "k": "Ankara'nın başkent olması", "m": "Teklifi İsmet İnönü verdi (13 Ekim 1923)", "s": "z" },
+        { "k": "Halifeliğin kaldırılması", "m": "Teklifi Şeyh Saffet Efendi verdi (dini kişi olması çeldiricidir)", "s": "z" },
+        { "k": "Tevhid-i Tedrisat Kanunu", "m": "Önergeyi dönemin Milli Eğitim Bakanı Vasıf Çınar verdi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Osmanlı Devleti'nin Sona Ermesi",
+      "i": [
+        { "k": "Fiilen", "m": "Mondros Ateşkes Antlaşması (30 Ekim 1918)", "s": "z" },
+        { "k": "Hukuken", "m": "Mudanya Ateşkes Antlaşması", "s": "z" },
+        { "k": "Resmen", "m": "Saltanatın kaldırılması (1 Kasım 1922)", "s": "z" }
+      ]
+    },
+    {
+      "b": "Laiklik Yolunda Adımlar",
+      "i": [
+        { "k": "İlk adım", "m": "Saltanatın kaldırılması (din-devlet işlerinin ayrılmasında ilk adım)", "s": "z" },
+        { "k": "En önemli adım", "m": "Halifeliğin kaldırılması", "s": "z" },
+        { "k": "Şer'iye-Evkaf yerine", "m": "Diyanet İşleri Başkanlığı (din) + Vakıflar Genel Müdürlüğü (vakıf/devlet) kuruldu", "s": "z" }
+      ]
+    },
+    {
+      "b": "Cumhuriyet Sonrası İlk Hükümet Kadrosu",
+      "i": [
+        { "k": "Cumhurbaşkanı", "m": "Mustafa Kemal Atatürk", "s": "z" },
+        { "k": "Başbakan", "m": "İsmet İnönü (Atatürk döneminde en uzun süre başbakanlık yapan)", "s": "z" },
+        { "k": "TBMM Başkanı", "m": "Ali Fethi Okyar", "s": "z" },
+        { "k": "Milli Eğitim", "m": "İsmail Safa Özler (az bilinir; 1. İcra Vekilleri'nde Rıza Nur'du)", "s": "z" },
+        { "k": "Genelkurmay Başkanı", "m": "Fevzi Çakmak (önceden İsmet İnönü'ydü)", "s": "z" },
+        { "k": "Milli Savunma", "m": "Kazım Özalp (önceden Fevzi Çakmak)", "s": "z" },
+        { "k": "Sıhhiye (Sağlık)", "m": "Refik Saydam (muhtemel soru adayı; 1. İcra Vekilleri'nde Adnan Adıvar)", "s": "z" },
+        { "k": "Diyanet İşleri", "m": "Mehmet Rıfat Börekçi (börekçizade; 1924-1941 arası)", "s": "z" }
+      ]
+    },
+    {
+      "b": "İç Politika İlkleri",
+      "i": [
+        { "k": "İlk siyasi parti", "m": "Cumhuriyet Halk Fırkası (1923, Atatürk liderliğinde)", "s": "z" },
+        { "k": "İlk muhalefet partisi", "m": "Terakkiperver Cumhuriyet Fırkası (1924)", "s": "z" },
+        { "k": "İkinci muhalefet partisi", "m": "Serbest Cumhuriyet Fırkası (1930)", "s": "z" },
+        { "k": "Cumhuriyete/laikliğe karşı ilk isyan", "m": "Şeyh Sait İsyanı (1925)", "s": "z" },
+        { "k": "TBMM'nin seçtiği tek halife", "m": "Abdülmecid Efendi (aynı zamanda Osmanlı'nın son halifesi)", "s": "z" },
+        { "k": "Tek dereceli seçim ilk kez", "m": "1946 seçimleri", "s": "z" }
+      ]
+    },
+    {
+      "b": "Şeyhülislamlık İlkleri (köprü)",
+      "i": [
+        { "k": "İlk şeyhülislam", "m": "Molla Fenari (Murad dönemi)", "s": "z" },
+        { "k": "Divana katılan ilk şeyhülislam", "m": "Ebussuud Efendi (Kanuni dönemi)", "s": "z" },
+        { "k": "Şeyhülislam idam eden ilk padişah", "m": "IV. Murat (Ahizade Hüseyin Efendi'yi idam ettirdi)", "s": "z" },
+        { "k": "Milli mücadele karşıtı fetva", "m": "Dürrizade Abdullah", "s": "z" },
+        { "k": "Son şeyhülislam", "m": "Medeni Nuri Efendi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Suçluların Yargılandığı Yerler",
+      "i": [
+        { "k": "Şeyh Sait İsyanı", "m": "İstiklal Mahkemeleri", "s": "z" },
+        { "k": "İzmir Suikasti", "m": "İstiklal Mahkemeleri (son kez görev yaptığı olay, 1926)", "s": "z" },
+        { "k": "Menemen (Kubilay) Olayı", "m": "Divan-ı Harp (başkanı Mustafa Muğlalı) — İstiklal Mahkemesi DEĞİL", "s": "z" }
+      ]
+    },
+    {
+      "b": "TBMM Binaları (bugünkü müzeler)",
+      "i": [
+        { "k": "1. TBMM binası", "m": "Kurtuluş Savaşı Müzesi", "s": "z" },
+        { "k": "2. TBMM binası", "m": "Cumhuriyet Müzesi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Dersim (Tunceli) Harekatı",
+      "i": [
+        { "k": "Kara harekatı", "m": "Abdullah Alpdoğan komutasında → Tunceli Harekatı", "s": "z" },
+        { "k": "Hava harekatı", "m": "Sabiha Gökçen (dünyanın ilk kadın savaş pilotu)", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Saltanatın Kaldırılması", "o": "Saltanat ne zaman ve hangi teklifle kaldırıldı?", "a": "1 Kasım 1922. Teklifi Doktor Rıza Nur verdi. ('Saltanatın kaldırılması' 22 harf → 1922 kodu.)" },
+    { "c": "Saltanatın Kaldırılması", "o": "Saltanatın kaldırılmasının üç nedeni nedir?", "a": "1) Ulusal egemenlik yolunda engel olması\n2) Lozan'da ikilik çıkarma ihtimalini ortadan kaldırmak\n3) İstanbul hükümetinin milli mücadeleye destek vermemesi" },
+    { "c": "Saltanatın Kaldırılması", "o": "Saltanatın kaldırılmasıyla Osmanlı hangi anlamda son buldu?", "a": "Resmen son buldu. (Fiilen Mondros, hukuken Mudanya, resmen saltanatın kaldırılması ile.) 623 yıllık Osmanlı ve padişahlık makamı sona erdi." },
+    { "c": "Saltanatın Kaldırılması", "o": "Saltanatın kaldırılması hangi sorunları ortaya çıkardı, bunlar nasıl çözüldü?", "a": "Rejim ve devlet başkanlığı sorunu ortaya çıktı. Her ikisi de cumhuriyetin ilanı (29 Ekim 1923) ile çözüldü." },
+    { "c": "Saltanatın Kaldırılması", "o": "Sultan Vahdettin ülkeden nasıl ayrıldı ve yerine kim halife oldu?", "a": "İngilizlerin Malaya gemisiyle kaçtı. İngilizler halifeliği kullanmasın diye Abdülmecid Efendi halife ilan edildi (TBMM'nin seçtiği tek ve Osmanlı'nın son halifesi)." },
+    { "c": "Saltanatın Kaldırılması", "o": "1. TBMM'nin yaptığı tek inkılap nedir?", "a": "Saltanatın kaldırılması. 1. TBMM (1920-1923) bu tek inkılabı yaptı; asıl inkılapları 2. TBMM yaptı." },
+    { "c": "Saltanatın Kaldırılması", "o": "1922-1935 arası kutlanan bayram hangisiydi?", "a": "Hakimiyet Bayramı. Saltanat kalkınca hakimiyet halkın olduğu için kutlandı." },
+    { "c": "Saltanatın Kaldırılması", "o": "Osmanlı Devleti'nin son hükümeti (başbakanı) kimdi?", "a": "Tevfik Paşa hükümeti. (Muhtemel soru adayı.)" },
+    { "c": "Cumhuriyetin İlanı", "o": "Cumhuriyet ne zaman ilan edildi?", "a": "29 Ekim 1923. İlk cumhurbaşkanı Mustafa Kemal Atatürk, ilk başbakan İsmet İnönü, ilk meclis başkanı Ali Fethi Okyar oldu." },
+    { "c": "Cumhuriyetin İlanı", "o": "Cumhuriyetin ilanının nedenleri nelerdir?", "a": "1) Devlet başkanlığı ve rejim belirsizliğini çözmek\n2) Ulusal egemenliği sağlamak\n3) Hükümet bunalımını çözmek (meclis hükümetinden kabine sistemine geçiş)" },
+    { "c": "Cumhuriyetin İlanı", "o": "Hükümet bunalımı (Ekim/Sonbahar bunalımı) nedir ve nasıl başladı?", "a": "Ali Fethi Okyar hükümetinin istifasından sonra, meclis hükümeti sisteminde bakanlar tek tek oylandığı için yeni hükümet kurulamaması sürecidir. Kabine sistemine geçilerek çözüldü." },
+    { "c": "Cumhuriyetin İlanı", "o": "'Efendiler, yarın cumhuriyeti ilan edeceğiz' sözü hangi olayla ilişkilidir?", "a": "Hükümet bunalımıyla. Meclis hükümeti sistemiyle hükümet kurulamayınca Atatürk, kabine sistemine geçmek için cumhuriyetin ilanını duyurdu." },
+    { "c": "Cumhuriyetin İlanı", "o": "1925'te ilan edilen ve bugün de kutlanan bayram nedir?", "a": "29 Ekim Cumhuriyet Bayramı." },
+    { "c": "Cumhuriyetin İlanı", "o": "Ankara ne zaman ve kimin teklifiyle başkent oldu?", "a": "13 Ekim 1923'te İsmet İnönü'nün teklifiyle 'Türkiye Devleti'nin başkenti oldu (henüz Cumhuriyet değil). Cumhuriyetin ilanından 16 gün önce." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Halifelik ne zaman ve kimin teklifiyle kaldırıldı?", "a": "3 Mart 1924'te Şeyh Saffet Efendi'nin teklifiyle. (Dini bir kişi olması çeldiricidir.)" },
+    { "c": "Halifeliğin Kaldırılması", "o": "Halifeliğin kaldırılmasının nedenleri nelerdir?", "a": "Abdülmecid'in devlet başkanı gibi davranması, laiklik anlayışına aykırılık, cumhuriyete tehdit, inkılaplara engel olması ve Hintli Müslümanlar Ağa Han–Emir Ali'nin tehdit mektupları." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Halifeliğin kaldırılması hangi Atatürk ilkelerine girer?", "a": "Cumhuriyetçilik (cumhuriyeti korur), laiklik (en önemli adım) ve milliyetçilik (ümmetçilik zayıflar, milli devlet güçlenir)." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Halifeliğe gelen tepkiler üzerine 1924'te anayasaya hangi madde eklendi, ne zaman çıkarıldı?", "a": "'Devletin dini İslam'dır' maddesi 1924'te eklendi. Laikliğe aykırı olduğu için 1928'de çıkarıldı." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Halifelik kalkınca kaldırılan makam ve Osmanlı'nın son şeyhülislamı kimdir?", "a": "Şeyhülislamlık makamı lağvedildi. Osmanlı'nın son şeyhülislamı Medeni Nuri Efendi'dir." },
+    { "c": "Halifeliğin Kaldırılması", "o": "ŞOTE kodu neyi ifade eder?", "a": "3 Mart 1924'te halifelikle aynı gün yapılan inkılaplar: Şer'iye-Evkaf Vekaleti'nin kaldırılması · Osmanlı hanedanının yurt dışına çıkarılması · Tevhid-i Tedrisat · Erkan-ı Harbiye Vekaleti'nin kaldırılması." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Şer'iye ve Evkaf Vekaleti kaldırılınca yerine hangi kurumlar kuruldu?", "a": "Diyanet İşleri Başkanlığı (din işleri) ve Vakıflar Genel Müdürlüğü (vakıf işleri). Böylece din-devlet işleri ayrıldı (laiklik)." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Osmanlı hanedanı nereye ve neden gönderildi?", "a": "İsviçre'ye gönderildi. İnsanlar hanedan etrafında birleşip cumhuriyeti/laikliği yıkmasın diye (cumhuriyetçilik). Kadınlar da bu kapsama alındı." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Tevhid-i Tedrisat Kanunu ne getirdi, önergeyi kim verdi?", "a": "Eğitim-öğretim birliğini sağladı; tüm eğitim kurumları Milli Eğitim Bakanlığı çatısı altında birleşti. Önergeyi Milli Eğitim Bakanı Vasıf Çınar verdi. (Karma eğitim DEĞİL.)" },
+    { "c": "Halifeliğin Kaldırılması", "o": "Erkan-ı Harbiye Vekaleti neden kaldırıldı, yerine ne kuruldu?", "a": "Orduyu siyasetten ayırmak için kaldırıldı, yerine Genelkurmay Başkanlığı kuruldu. Fevzi Çakmak 'asker olacağım' diyerek siyaseti bıraktı." },
+    { "c": "2. TBMM ve Kadro", "o": "2. TBMM neden ve ne zaman açıldı?", "a": "1. TBMM'nin savaş meclisi olarak yıpranması, Lozan'a tepki gösterenlerin çokluğu ve dinamik kadro ihtiyacı nedeniyle; 1923-1927 arası görev yaptı. Lozan'a verilen arada açıldı." },
+    { "c": "2. TBMM ve Kadro", "o": "1. ve 2. TBMM'nin açılış konuşmalarını kim yaptı?", "a": "1. TBMM: Sinop milletvekili Şerif Bey (en yaşlı üye). 2. TBMM: Abdurrahman Şeref Bey." },
+    { "c": "2. TBMM ve Kadro", "o": "Lozan'ı imzalayan/onaylayan meclis hangisidir?", "a": "2. TBMM. (Heyeti — Rıza Nur, Hasan Saka, İsmet İnönü — gönderen 1. TBMM'ydi, ama antlaşmayı onaylayan 2. TBMM'dir.)" },
+    { "c": "2. TBMM ve Kadro", "o": "Cumhuriyet sonrası ilk hükümette Milli Eğitim ve Sağlık bakanları kimlerdi?", "a": "Milli Eğitim: İsmail Safa Özler. Sıhhiye (Sağlık): Refik Saydam. (1. İcra Vekilleri'nde bunlar Rıza Nur ve Adnan Adıvar'dı.)" },
+    { "c": "2. TBMM ve Kadro", "o": "Diyanet İşleri Başkanı Mehmet Rıfat Börekçi kimdir?", "a": "Dürrizade Abdullah'ın milli mücadele karşıtı fetvasına karşı, 150 imamla karşı fetva yayınlayan börekçizade ailesinden. 1924-1941 arası Diyanet İşleri Başkanı." },
+    { "c": "2. TBMM ve Kadro", "o": "Atatürk döneminde 1925-1938 arası dışişleri bakanı kimdir?", "a": "Tevfik Rüştü Aras. (2025 EKYS'de soruldu; muhtemel soru adayı.)" },
+    { "c": "Siyasi Partiler", "o": "Cumhuriyet Halk Fırkası'nın ilk kongresi ve temeli nedir?", "a": "İlk kongresi Sivas Kongresi'dir. Temeli, Sivas Kongresi'nde kurulan Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti'dir. Türkiye Cumhuriyeti'nin ilk siyasi partisidir (1923)." },
+    { "c": "Siyasi Partiler", "o": "9 umde (9 madde) bildirisine göre kurulan parti hangisidir?", "a": "Cumhuriyet Halk Fırkası. (2015 KPSS genel kültürde soruldu.) İçinde milli ekonomi, aşarın kaldırılması, milli egemenlik gibi maddeler vardı." },
+    { "c": "Siyasi Partiler", "o": "CHF'nin ekonomi ve seçim sistemi anlayışı nedir?", "a": "Ekonomide devletçilik (1929 kriziyle güçlendi), seçimde çift dereceli seçim sistemi (daha az demokratik)." },
+    { "c": "Siyasi Partiler", "o": "Müstakil Grup nedir?", "a": "1939'da CHP'nin kendi içinden belirlediği 21 milletvekilinden oluşan, parti içi denetim yetkisine sahip gruptur. Muhalefet olmadığından CHP kendini denetlesin diye kuruldu." },
+    { "c": "Siyasi Partiler", "o": "Terakkiperver Cumhuriyet Fırkası'nın kurucuları kimlerdir?", "a": "KARAR kodu: Kazım Karabekir (kurucu lider), Ali Fuat Cebesoy, Rauf Orbay, Adnan Adıvar, Refet Bele. İlk muhalefet partisidir (1924)." },
+    { "c": "Siyasi Partiler", "o": "TCF'nin kurucuları arasında kimler YOKTUR?", "a": "İsmet İnönü ve Ali Fethi Okyar yoktur (çeldiricidir). Atatürk partiyi 'paşalar komplosu' olarak niteledi. İlk şubesi Şanlıurfa'da açıldı." },
+    { "c": "Siyasi Partiler", "o": "TCF'nin ekonomi, seçim ve din anlayışı nedir?", "a": "Liberalizm, tek dereceli seçim sistemi ve 'her türlü dini itikade saygılıdır' maddesi. Bu son madde gericilerin partiye dolmasına ve Şeyh Sait İsyanı'na zemin hazırladı." },
+    { "c": "Siyasi Partiler", "o": "Serbest Cumhuriyet Fırkası ne zaman, kimin tarafından kuruldu?", "a": "1930'da, Atatürk'ün ricasıyla Ali Fethi Okyar kurdu. İkinci muhalefet partisidir. Nedenleri: demokratikleşme, 1929 Dünya Ekonomik Krizi, Teşvik-i Sanayi Kanunu eleştirisi." },
+    { "c": "Siyasi Partiler", "o": "SCF'yi Terakkiperver'den ayıran fark nedir?", "a": "Kadınlara siyasi hak verilmesini savunması. Atatürk kız kardeşi Makbule Atadan'ı partiye kaydettirdi; o da kuruculardan biri oldu." },
+    { "c": "Siyasi Partiler", "o": "SCF nasıl kapatıldı?", "a": "Mitinglerde cumhuriyet/laiklik karşıtı sloganlar atılıp gericiler partiye dolunca, Şeyh Sait gibi bir isyana neden olmamak için Ali Fethi Okyar partiyi kendi kapattı (1930)." },
+    { "c": "İsyanlar", "o": "Şeyh Sait İsyanı'nın önemi ve nedenleri nelerdir?", "a": "Cumhuriyete ve laikliğe karşı çıkan ilk isyandır (1925). Nedenleri: saltanat-hilafeti geri getirme isteği, TCF içindeki gericilerin örgütlenmesi, İngilizlerin kışkırtması." },
+    { "c": "İsyanlar", "o": "Şeyh Sait İsyanı hangi kanun ve mahkemeyle sonuçlandı?", "a": "Ali Fethi Okyar bastıramayıp istifa etti; İsmet İnönü Takrir-i Sükun Kanunu'nu çıkarıp isyanı bastırdı. Suçlular İstiklal Mahkemeleri'nde yargılandı; TCF kapatıldı." },
+    { "c": "İsyanlar", "o": "Takrir-i Sükun dönemi hangi yıllar arasıdır?", "a": "1925-1929. (Çıkmış soru: bu dönemde 1926 Medeni Kanun, 1928 Latin alfabesi girer; 1934 Soyadı Kanunu GİRMEZ.)" },
+    { "c": "İsyanlar", "o": "Şeyh Sait İsyanı Musul'u nasıl etkiledi?", "a": "Musul'a harekat planı hazırdı; isyan çıkınca ilgilenilemedi. Musul, 1926 Ankara Antlaşması ile İngiltere mandasındaki Irak'a bırakıldı — Misak-ı Milli'den 3. taviz." },
+    { "c": "İsyanlar", "o": "Nasturi Ayaklanması nedir?", "a": "1924'te Hakkari ve çevresindeki Süryani azınlık Nasturilerin, İngilizlerin kışkırtmasıyla bağımsız devlet kurmak için çıkardığı isyandır. Musul sorunuyla ilgilidir; hemen bastırıldı." },
+    { "c": "İsyanlar", "o": "Menemen (Kubilay) Olayı nedir, suçlular nerede yargılandı?", "a": "1930'da Derviş Mehmet liderliğinde İzmir Menemen'de cumhuriyet/laiklik karşıtı isyan. Öğretmen Mustafa Fehmi Kubilay şehit edildi. Suçlular Divan-ı Harp'te (başkan Mustafa Muğlalı) yargılandı." },
+    { "c": "İsyanlar", "o": "TCF ve SCF'nin kapanışı ile isyanların kronolojik farkı nedir?", "a": "TCF: önce kuruldu → Şeyh Sait İsyanı çıktı → isyana sebep olmakla kapatıldı. SCF: önce kapatıldı → SONRA Menemen Olayı çıktı." },
+    { "c": "İsyanlar", "o": "Dersim Olayları'nda kara ve hava harekatını kim yönetti?", "a": "Kara harekatı (Tunceli Harekatı): Abdullah Alpdoğan. Hava harekatı: Sabiha Gökçen (dünyanın ilk kadın savaş pilotu). Sonra Dersim'in adı Tunceli oldu." },
+    { "c": "İzmir Suikasti", "o": "İzmir Suikasti nedir ve nasıl önlendi?", "a": "1926'da cumhuriyet karşıtlarının Atatürk'e düzenlemek istediği suikast girişimidir. Giritli Şevki'nin ihbarıyla başarısız oldu." },
+    { "c": "İzmir Suikasti", "o": "'Benim naçiz vücudum elbet bir gün toprak olacaktır...' sözü hangi olaydan sonra söylendi?", "a": "İzmir Suikasti'nden sonra. '...Fakat Türkiye Cumhuriyeti ilelebet payidar kalacaktır.'" },
+    { "c": "İzmir Suikasti", "o": "İstiklal Mahkemeleri son kez hangi olayda görev yaptı?", "a": "1926 İzmir Suikasti'nde. Bundan sonra bir daha görev yapmadı. (Menemen'de İstiklal Mahkemesi değil, Divan-ı Harp görev yaptı.)" },
+    { "c": "İzmir Suikasti", "o": "İzmir Suikasti'nde Rauf Orbay ve Kazım Karabekir'in durumu ne oldu?", "a": "TCF genel sekreteri Ziya Hurşit suikastçilerdendi. Suikastten haberdar olan Rauf Orbay yurt dışına kaçtı (1936'da döndü). Kazım Karabekir yargılandı ama temiz bulunup serbest bırakıldı." },
+    { "c": "Kişiler ve Kavramlar", "o": "Doktor Rıza Nur kimdir?", "a": "1. İcra Vekilleri Heyeti'nde ilk Milli Eğitim Bakanı; Lozan'da Ermeni meselesine sert itiraz etti; saltanatın kaldırılması teklifini verdi." },
+    { "c": "Kişiler ve Kavramlar", "o": "2025 AGS sorusu: 'Saltanatın geriye dönük olarak sona erdiği kabul edilen olay' nedir?", "a": "16 Mart 1920 İstanbul'un işgali. Rıza Nur teklifinde 'saltanat zaten İstanbul işgal edilince bitmişti' demişti." },
+    { "c": "Kişiler ve Kavramlar", "o": "Fevzi Çakmak kimdir?", "a": "Erkan-ı Harbiye Vekaleti kalkınca netçe 'asker olacağım' diyen kişi; Genelkurmay Başkanı oldu. Atatürk'ün 'insan değildir, evliyadır' dediği kişi. Muhtemel soru adayı." },
+    { "c": "Kişiler ve Kavramlar", "o": "İki Vasıf'ı ayırt et: Vasıf Temel ve Vasıf Çınar kimdir?", "a": "Vasıf Temel: Lozan'da boğazlar komisyonunun Türk başkanı (Manisa milletvekili). Vasıf Çınar: Tevhid-i Tedrisat Kanunu önergesini veren Milli Eğitim Bakanı." },
+    { "c": "Kişiler ve Kavramlar", "o": "Ali Fethi Okyar kaç kez ve nerede istifa etti?", "a": "İki kez: 1) Hükümet bunalımına yol açan istifa (cumhuriyetten önce). 2) Şeyh Sait İsyanı'nı bastıramayınca. Ayrıca SCF'yi kurdu ve Musul için Haliç Konferansı'nda Türkiye'yi temsil etti." },
+    { "c": "Kişiler ve Kavramlar", "o": "TCF'li isimlerin eser/lakapları nelerdir?", "a": "Rauf Orbay: Hamidiye kahramanı, 'Cehennem Değirmeni', Mondros'u imzaladı. Ali Fuat Cebesoy: 'Sınıf Arkadaşım Atatürk'. Refet Bele: Trakya Yüksek Komiseri, Doğu Trakya'yı teslim aldı." },
+    { "c": "Kişiler ve Kavramlar", "o": "Lozan kabul edildiğinde (onaylandığında) hükümet başkanı kimdi?", "a": "Rauf Orbay. (Çıkmış sınav sorusudur — Mondros'u imzalayan kişinin Lozan onaylanırken hükümet başkanı olması ilginç bir ayrıntıdır.)" },
+    { "c": "Saltanatın Kaldırılması", "o": "İngilizler Vahdettin'in halifelik makamını kendi çıkarına kullanmasın diye ne yapıldı?", "a": "Milli mücadeleciler Abdülmecid Efendi'yi halife ilan etti. Böylece halifeliğin İngilizlerce kullanılması önlendi." },
+    { "c": "Saltanatın Kaldırılması", "o": "Saltanatın kaldırılması itilaf devletlerinin Lozan'daki hangi planını boşa çıkardı?", "a": "İkilik çıkarma planını. İtilaf devletleri hem İstanbul hem TBMM hükümetini davet edip Sevr'i imzalatmak istiyordu; saltanat kalkınca bu ihtimal ortadan kalktı." },
+    { "c": "Cumhuriyetin İlanı", "o": "Meclis hükümeti sistemi ile kabine sistemi arasındaki fark nedir?", "a": "Meclis hükümetinde cumhurbaşkanı/başbakan yok; bakanlar mecliste tek tek oylanır, hükümet kurmak zordur. Kabine sisteminde en çok oyu alan partinin lideri hükümeti kurar." },
+    { "c": "Cumhuriyetin İlanı", "o": "ÖSYM cumhuriyetin ilanı konusunda kendi sorularında nasıl çelişti?", "a": "Önce 'cumhuriyeti TBMM'nin açılışıyla ilişkilendiremezsiniz' dedi. 2024 KPSS'de ise Yusuf Kemal Tengirşenk'in sözüyle 'cumhuriyet idaresi TBMM açıldığı gün başlamıştı' dedi." },
+    { "c": "Cumhuriyetin İlanı", "o": "Ankara'nın başkent olması hangi Atatürk sözüyle ilişkilendirilir?", "a": "Amasya Genelgesi sonrası söylenen 'İstanbul Anadolu'ya hakim değil, tabi olmak zorundadır' sözüyle. Ankara başkent olunca İstanbul tabi duruma düştü." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Halifeliğin kaldırılmasında Hintli Müslümanların rolü nedir?", "a": "Ağa Han ve Emir Ali, halifeliğe dokunulursa orduyla Anadolu'ya gelecekleri tehdidini içeren mektup yazdı. Mektubun basına yansıması iç işlere karışma örneği oldu (2022/2023'te soruldu)." },
+    { "c": "Halifeliğin Kaldırılması", "o": "Fevzi Çakmak'ın Erkan-ı Harbiye Vekaleti kaldırılınca yaptığı tercih nedir?", "a": "Askerliği seçti, siyaseti bıraktı; Genelkurmay Başkanı oldu. Emekli olana kadar siyasete girmedi. 'İsteyen asker, isteyen siyasetçi; ama ikisi bir arada olmaz.'" },
+    { "c": "2. TBMM ve Kadro", "o": "Lozan Konferansı'na verilen arada yapılan üç iş nedir?", "a": "1) 2. TBMM için seçimler\n2) İzmir İktisat Kongresi (Kazım Karabekir başkanlığında)\n3) ABD ile Chester Demiryolu ihalesi anlaşması" },
+    { "c": "2. TBMM ve Kadro", "o": "Cumhuriyet sonrası ilk hükümette Genelkurmay ve Milli Savunma görevleri kimlere geçti?", "a": "İsmet İnönü başbakan olunca Genelkurmay Başkanlığı Fevzi Çakmak'a; Fevzi Çakmak buraya geçince Milli Savunma Bakanlığı Kazım Özalp'e geçti." },
+    { "c": "Siyasi Partiler", "o": "1927 Teşvik-i Sanayi Kanunu neden uygulanamadı, sonucu ne oldu?", "a": "1929 Dünya Ekonomik Krizi nedeniyle halk sanayi kuramadı. Devlet 'fabrikaları ben kurarım' diyerek devletçiliği uygulamaya başladı." },
+    { "c": "İsyanlar", "o": "İnönü, hatıratında Şeyh Sait İsyanı ile İngilizler arasındaki ilişki için ne demiştir?", "a": "İngilizlerin kışkırttığı/desteklediği düşünülse de doğrudan bir bağlantının kanıtlanamadığını yazmıştır. Yine de isyan, Musul'u kaybettirdiği için İngilizlerin işine yaramıştır." },
+    { "c": "İsyanlar", "o": "Menemen Olayı'nda öğretmen Mustafa Fehmi Kubilay'a ne oldu?", "a": "Askerlik görevindeyken isyana müdahaleye gitti; silahında gerçek yerine plastik mermi olduğu için isyancılar tarafından şehit edildi (başı kesildi)." }
+  ],
+  "tuzak": [
+    { "q": "Saltanatın kaldırılması hangi yıldadır?", "o": ["1922", "1924"], "c": 0, "n": "Saltanat 1 Kasım 1922; halifelik 3 Mart 1924. İkisi sık karıştırılır ('saltanatın kaldırılması' 22 harf → 1922)." },
+    { "q": "Halifeliğin kaldırılması hangi yıldadır?", "o": ["1922", "1924"], "c": 1, "n": "Halifelik 3 Mart 1924; saltanat 1922. Tarihleri karıştırma." },
+    { "q": "Laiklik yolunda atılan İLK adım hangisidir?", "o": ["Saltanatın kaldırılması", "Halifeliğin kaldırılması"], "c": 0, "n": "İlk adım saltanatın kaldırılması; EN ÖNEMLİ adım halifeliğin kaldırılmasıdır." },
+    { "q": "Laiklik yolunda atılan EN ÖNEMLİ adım hangisidir?", "o": ["Saltanatın kaldırılması", "Halifeliğin kaldırılması"], "c": 1, "n": "En önemli adım halifeliğin kaldırılması; ilk adım saltanatın kaldırılmasıdır." },
+    { "q": "İzmir Suikasti'nin suçluları nerede yargılandı?", "o": ["İstiklal Mahkemeleri", "Divan-ı Harp"], "c": 0, "n": "İzmir Suikasti → İstiklal Mahkemeleri (son görevi). Menemen → Divan-ı Harp. İkisi karıştırılır." },
+    { "q": "Menemen (Kubilay) Olayı'nın suçluları nerede yargılandı?", "o": ["İstiklal Mahkemeleri", "Divan-ı Harp"], "c": 1, "n": "Menemen → Divan-ı Harp (başkan Mustafa Muğlalı). İstiklal Mahkemeleri son kez İzmir Suikasti'nde görev yaptı." },
+    { "q": "Aşağıdakilerden hangisi TCF'nin kurucularından biri DEĞİLDİR?", "o": ["Kazım Karabekir", "Rauf Orbay", "İsmet İnönü"], "c": 2, "n": "TCF kurucuları KARAR kodudur; İsmet İnönü ve Ali Fethi Okyar YOK — bunlar çeldiricidir." },
+    { "q": "Osmanlı Devleti'nin RESMEN sona ermesi hangi olayladır?", "o": ["Mondros", "Saltanatın kaldırılması", "Mudanya"], "c": 1, "n": "Fiilen Mondros, hukuken Mudanya, resmen saltanatın kaldırılması. Üçünü ayır." },
+    { "q": "Saltanatın kaldırılması teklifini kim verdi?", "o": ["Doktor Rıza Nur", "İsmet İnönü", "Şeyh Saffet Efendi"], "c": 0, "n": "Saltanat: Rıza Nur. Ankara başkent: İsmet İnönü. Halifelik: Şeyh Saffet Efendi. Teklif sahipleri karıştırılır." },
+    { "q": "Halifeliğin kaldırılması teklifini kim verdi?", "o": ["Doktor Rıza Nur", "Şeyh Saffet Efendi"], "c": 1, "n": "Halifeliği Şeyh Saffet Efendi teklif etti — dini bir kişi olması onu 'vermemiştir' sandırır, tuzaktır." },
+    { "q": "Ankara'nın başkent olması teklifini kim verdi?", "o": ["İsmet İnönü", "Mustafa Kemal Atatürk"], "c": 0, "n": "Ankara başkent teklifi İsmet İnönü'ye aittir (13 Ekim 1923)." },
+    { "q": "CHF hangi seçim sistemini savunuyordu?", "o": ["Çift dereceli", "Tek dereceli"], "c": 0, "n": "CHF çift dereceli (az demokratik); muhalefet partileri (TCF, SCF) tek dereceli seçim sistemini savundu." },
+    { "q": "CHF ekonomide hangi anlayışı benimsedi?", "o": ["Devletçilik", "Liberalizm"], "c": 0, "n": "CHF devletçilik; muhalefet partileri liberalizm. 1929 krizi devletçiliği güçlendirdi." },
+    { "q": "Kadınlara siyasi hak verilmesini savunan muhalefet partisi hangisidir?", "o": ["Serbest Cumhuriyet Fırkası", "Terakkiperver Cumhuriyet Fırkası"], "c": 0, "n": "SCF'nin TCF'den ayrıldığı temel nokta budur; Makbule Atadan da kuruculardandır." },
+    { "q": "Tevhid-i Tedrisat Kanunu neyi sağlamıştır?", "o": ["Eğitim-öğretim birliğini (kurumlar MEB çatısında)", "Kız-erkek karma eğitimi"], "c": 0, "n": "Tevhid-i Tedrisat = eğitim birliği; karma eğitimle karıştırılır ama karma eğitim ayrı bir konudur." },
+    { "q": "Divana katılan İLK şeyhülislam kimdir?", "o": ["Ebussuud Efendi", "Molla Fenari"], "c": 0, "n": "Molla Fenari ilk şeyhülislam; divana katılan ilk şeyhülislam Ebussuud Efendi'dir (Kanuni dönemi)." },
+    { "q": "Cumhuriyet sonrası ilk hükümette Milli Eğitim Bakanı kimdi?", "o": ["İsmail Safa Özler", "Doktor Rıza Nur"], "c": 0, "n": "Cumhuriyet sonrası: İsmail Safa Özler. Rıza Nur, 1. İcra Vekilleri Heyeti'nin Milli Eğitim Bakanıydı." },
+    { "q": "Cumhuriyet sonrası ilk hükümette Sağlık (Sıhhiye) Bakanı kimdi?", "o": ["Refik Saydam", "Adnan Adıvar"], "c": 0, "n": "Cumhuriyet sonrası: Refik Saydam. Adnan Adıvar, 1. İcra Vekilleri Heyeti'nin sağlık bakanıydı." },
+    { "q": "TBMM'nin seçtiği tek ve Osmanlı'nın son halifesi kimdir?", "o": ["Abdülmecid Efendi", "Vahdettin"], "c": 0, "n": "Vahdettin İngilizlere kaçtı; TBMM Abdülmecid Efendi'yi halife seçti (son halife)." },
+    { "q": "Nasturi Ayaklanması nerede çıktı?", "o": ["Hakkari ve çevresi", "İzmir Menemen"], "c": 0, "n": "Nasturi (Süryani) isyanı Hakkari'de; Menemen ise Kubilay olayının yeridir. İkisi farklı isyandır." },
+    { "q": "Cumhuriyete ve laikliğe karşı çıkan İLK isyan hangisidir?", "o": ["Şeyh Sait İsyanı", "Menemen Olayı"], "c": 0, "n": "İlk isyan Şeyh Sait (1925); Menemen (1930) daha sonradır ve SCF kapatıldıktan sonra çıkmıştır." },
+    { "q": "1. TBMM'nin açılış konuşmasını kim yaptı?", "o": ["Şerif Bey (Sinop mv.)", "Abdurrahman Şeref Bey"], "c": 0, "n": "1. TBMM: en yaşlı üye Şerif Bey. 2. TBMM: Abdurrahman Şeref Bey. Karıştırılır." },
+    { "q": "'Devletin dini İslam'dır' maddesi anayasadan hangi yıl çıkarıldı?", "o": ["1928", "1924"], "c": 0, "n": "Madde 1924'te eklendi, 1928'de çıkarıldı. Ekleme ve çıkarma yılları karıştırılır." },
+    { "q": "Takrir-i Sükun dönemi hangi yıllar arasıdır?", "o": ["1925-1929", "1923-1927"], "c": 0, "n": "Takrir-i Sükun dönemi 1925-1929'dur; bu aralık soru köküne 'bu dönemde yaşanan' diye gelir (ör. 1934 Soyadı Kanunu girmez)." },
+    { "q": "Musul hangi antlaşmayla kaybedildi?", "o": ["1926 Ankara Antlaşması", "Lozan Antlaşması"], "c": 0, "n": "Musul Lozan'da çözülemedi; 1926 Ankara Antlaşması ile Irak'a bırakıldı — Misak-ı Milli'den 3. taviz." },
+    { "q": "Lozan'ı imzalayıp onaylayan meclis hangisidir?", "o": ["2. TBMM", "1. TBMM"], "c": 0, "n": "Heyeti gönderen 1. TBMM, ama antlaşmayı onaylayan 2. TBMM'dir." },
+    { "q": "Türkiye Cumhuriyeti'nin ilk siyasi partisi hangisidir?", "o": ["Cumhuriyet Halk Fırkası", "Terakkiperver Cumhuriyet Fırkası"], "c": 0, "n": "İlk siyasi parti CHF (1923); TCF ise ilk muhalefet partisidir (1924)." },
+    { "q": "İzmir Suikasti'nde yargılanıp temiz bulunan (kaçmayan) isim kimdir?", "o": ["Kazım Karabekir", "Rauf Orbay"], "c": 0, "n": "Rauf Orbay haberdardı, yurt dışına kaçtı. Kazım Karabekir kaçmadı, yargılanıp serbest bırakıldı." },
+    { "q": "Dersim'de hava harekatını yöneten kişi kimdir?", "o": ["Sabiha Gökçen", "Abdullah Alpdoğan"], "c": 0, "n": "Hava harekatı Sabiha Gökçen; kara harekatı (Tunceli Harekatı) Abdullah Alpdoğan'dır." },
+    { "q": "Genelkurmay Başkanlığı görevini cumhuriyet sonrası ilk hükümette kim üstlendi?", "o": ["Fevzi Çakmak", "İsmet İnönü"], "c": 0, "n": "İsmet İnönü başbakan olunca Genelkurmay Başkanlığı'na Fevzi Çakmak geldi." },
+    { "q": "9 umde (madde) bildirisine göre kurulan parti hangisidir?", "o": ["Cumhuriyet Halk Fırkası", "Serbest Cumhuriyet Fırkası"], "c": 0, "n": "9 umde bildirisi CHF'ye aittir (2015 KPSS)." },
+    { "q": "Hükümet bunalımına (Ekim bunalımı) istifasıyla yol açan kişi kimdir?", "o": ["Ali Fethi Okyar", "İsmet İnönü"], "c": 0, "n": "Ali Fethi Okyar'ın istifası, meclis hükümeti sisteminde hükümet kurulamamasına yol açtı; cumhuriyetin ilanıyla çözüldü." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi saltanatın kaldırılmasının nedenlerinden biri değildir?",
+      "o": ["Ulusal egemenlik yolunda engel oluşturması", "İstanbul hükümetinin milli mücadeleye destek vermemesi", "Lozan'da ikilik çıkma ihtimalini ortadan kaldırma isteği", "Halifelik makamının cumhuriyet için tehdit oluşturması", "Padişahlık makamının milli iradeye aykırı olması"],
+      "c": 3,
+      "e": "Halifeliğin cumhuriyete tehdit oluşturması, saltanatın değil halifeliğin kaldırılma nedenidir."
+    },
+    {
+      "q": "Osmanlı Devleti'nin;\nI. fiilen,\nII. hukuken,\nIII. resmen\nsona ermesi aşağıdaki gelişmelerle eşleştirildiğinde hangisi doğrudur?",
+      "o": ["I-Mondros, II-Mudanya, III-Saltanatın kaldırılması", "I-Mudanya, II-Mondros, III-Lozan", "I-Saltanatın kaldırılması, II-Mondros, III-Mudanya", "I-Mondros, II-Lozan, III-Mudanya", "I-Mudanya, II-Saltanatın kaldırılması, III-Mondros"],
+      "c": 0,
+      "e": "Osmanlı fiilen Mondros'la, hukuken Mudanya'yla, resmen saltanatın kaldırılmasıyla sona ermiştir."
+    },
+    {
+      "q": "Aşağıdaki inkılap–teklif sahibi eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["Saltanatın kaldırılması – Doktor Rıza Nur", "Ankara'nın başkent olması – İsmet İnönü", "Halifeliğin kaldırılması – Şeyh Saffet Efendi", "Tevhid-i Tedrisat Kanunu – Vasıf Çınar", "Cumhuriyetin ilanı – Kazım Karabekir"],
+      "c": 4,
+      "e": "Cumhuriyetin ilanı Mustafa Kemal Atatürk öncülüğündedir; Kazım Karabekir ile ilgisi yoktur."
+    },
+    {
+      "q": "Cumhuriyetin ilanıyla;\nI. rejim ve devlet başkanlığı sorununun çözülmesi,\nII. meclis hükümeti sisteminden kabine sistemine geçilmesi,\nIII. saltanatın kaldırılması\ndurumlarından hangileri gerçekleşmiştir?",
+      "o": ["Yalnız I", "Yalnız III", "I ve II", "II ve III", "I, II ve III"],
+      "c": 2,
+      "e": "Saltanat cumhuriyetten önce (1922) kaldırılmıştı; cumhuriyetin ilanı rejim sorununu çözdü ve kabine sistemine geçişi sağladı."
+    },
+    {
+      "q": "Ali Fethi Okyar hükümetinin istifasından sonra meclis hükümeti sisteminde yeni hükümetin kurulamaması aşağıdakilerden hangisiyle adlandırılır?",
+      "o": ["Hükümet (Ekim) bunalımı", "Takrir-i Sükun dönemi", "Paşalar komplosu", "Musul sorunu", "Rejim tartışması"],
+      "c": 0,
+      "e": "Bu sürece hükümet bunalımı (Ekim/sonbahar bunalımı) denir ve cumhuriyetin ilanıyla çözülmüştür."
+    },
+    {
+      "q": "Halifeliğin kaldırılmasının aşağıdaki Atatürk ilkelerinden hangisiyle doğrudan ilişkisi yoktur?",
+      "o": ["Cumhuriyetçilik", "Laiklik", "Milliyetçilik", "Halkçılık", "Din-devlet işlerinin ayrılması"],
+      "c": 3,
+      "e": "Halifeliğin kaldırılması cumhuriyetçilik, laiklik ve milliyetçilikle ilişkilidir; halkçılıkla doğrudan bağı kurulmaz."
+    },
+    {
+      "q": "3 Mart 1924'te halifeliğin kaldırıldığı gün yapılan inkılaplar arasında aşağıdakilerden hangisi yer almaz?",
+      "o": ["Şer'iye ve Evkaf Vekaleti'nin kaldırılması", "Osmanlı hanedanının yurt dışına çıkarılması", "Tevhid-i Tedrisat Kanunu'nun kabulü", "Erkan-ı Harbiye Vekaleti'nin kaldırılması", "Saltanatın kaldırılması"],
+      "c": 4,
+      "e": "Saltanat 1 Kasım 1922'de kaldırılmıştı. 3 Mart 1924 inkılapları ŞOTE koduyla verilir."
+    },
+    {
+      "q": "Şer'iye ve Evkaf Vekaleti'nin kaldırılmasıyla kurulan kurumlar aşağıdakilerden hangisinde birlikte verilmiştir?",
+      "o": ["Diyanet İşleri Başkanlığı – Vakıflar Genel Müdürlüğü", "Genelkurmay Başkanlığı – Milli Savunma Bakanlığı", "Diyanet İşleri Başkanlığı – Genelkurmay Başkanlığı", "Milli Eğitim Bakanlığı – Vakıflar Genel Müdürlüğü", "Vakıflar Genel Müdürlüğü – Milli Savunma Bakanlığı"],
+      "c": 0,
+      "e": "Şer'iye (din) yerine Diyanet İşleri Başkanlığı, Evkaf (vakıf) yerine Vakıflar Genel Müdürlüğü kuruldu; böylece din-devlet işleri ayrıldı."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Terakkiperver Cumhuriyet Fırkası'nın kurucularından biri değildir?",
+      "o": ["Kazım Karabekir", "Ali Fuat Cebesoy", "Rauf Orbay", "Refet Bele", "İsmet İnönü"],
+      "c": 4,
+      "e": "TCF kurucuları KARAR kodudur (Karabekir, Cebesoy, Rauf Orbay, Adnan Adıvar, Refet Bele). İsmet İnönü ve Ali Fethi Okyar kurucular arasında yoktur."
+    },
+    {
+      "q": "Terakkiperver Cumhuriyet Fırkası'nın parti programındaki 'her türlü dini itikade saygılıdır' maddesinin doğurduğu en önemli sonuç aşağıdakilerden hangisidir?",
+      "o": ["Partiye cumhuriyet ve laiklik karşıtı kişilerin dolması", "Kadınlara siyasi hak verilmesi", "Devletçilik ilkesinin benimsenmesi", "Çift dereceli seçim sisteminin uygulanması", "Musul sorununun çözülmesi"],
+      "c": 0,
+      "e": "Bu madde gericilerin partide örgütlenmesine ve Şeyh Sait İsyanı'na zemin hazırlamıştır."
+    },
+    {
+      "q": "Şeyh Sait İsyanı'yla ilgili olarak aşağıdakilerden hangisi söylenemez?",
+      "o": ["Cumhuriyete ve laikliğe karşı çıkan ilk isyandır", "İsyanın bastırılması için Takrir-i Sükun Kanunu çıkarılmıştır", "İsyana sebep olduğu gerekçesiyle Terakkiperver Cumhuriyet Fırkası kapatılmıştır", "Suçlular Divan-ı Harp'te yargılanmıştır", "Musul sorununun aleyhimize gelişmesinde etkili olmuştur"],
+      "c": 3,
+      "e": "Şeyh Sait İsyanı'nın suçluları İstiklal Mahkemeleri'nde yargılandı; Divan-ı Harp Menemen Olayı'nda görev yaptı."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Serbest Cumhuriyet Fırkası'nı Terakkiperver Cumhuriyet Fırkası'ndan ayıran özelliktir?",
+      "o": ["Kadınlara siyasi hak verilmesini savunması", "Liberalizmi benimsemesi", "Tek dereceli seçim sistemini savunması", "Muhalefet partisi olması", "Bir isyan endişesiyle kapatılması"],
+      "c": 0,
+      "e": "İki parti de liberalizm ve tek dereceli seçimi savundu; SCF'nin ayırt edici yanı kadınlara siyasi hak verilmesini savunmasıdır."
+    },
+    {
+      "q": "İstiklal Mahkemeleri'nin son kez görev yaptığı olay aşağıdakilerden hangisidir?",
+      "o": ["Şeyh Sait İsyanı", "İzmir Suikasti", "Menemen Olayı", "Nasturi Ayaklanması", "Dersim Olayları"],
+      "c": 1,
+      "e": "İstiklal Mahkemeleri son kez 1926 İzmir Suikasti'nde görev yapmıştır."
+    },
+    {
+      "q": "Menemen (Kubilay) Olayı ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": ["Suçlular İstiklal Mahkemeleri'nde yargılanmıştır", "Şeyh Sait İsyanı'ndan önce çıkmıştır", "Suçlular Divan-ı Harp'te yargılanmıştır", "Serbest Cumhuriyet Fırkası'nın kurulmasına neden olmuştur", "İngilizlerin desteğiyle çıkan bir isyandır"],
+      "c": 2,
+      "e": "Menemen Olayı'nın suçluları Divan-ı Harp'te (başkan Mustafa Muğlalı) yargılanmıştır; olay SCF kapatıldıktan sonra çıkmıştır."
+    },
+    {
+      "q": "1922-1935 yılları arasında kutlanan bayram ile 1925'te ilan edilen bayram aşağıdakilerden hangisinde doğru verilmiştir?",
+      "o": ["Hakimiyet Bayramı – Cumhuriyet Bayramı", "Cumhuriyet Bayramı – Hakimiyet Bayramı", "Zafer Bayramı – Cumhuriyet Bayramı", "Hakimiyet Bayramı – Zafer Bayramı", "Egemenlik Bayramı – Ulusal Egemenlik Bayramı"],
+      "c": 0,
+      "e": "Saltanatın kaldırılmasıyla 1922-1935 arası Hakimiyet Bayramı, 1925'ten itibaren 29 Ekim Cumhuriyet Bayramı kutlandı."
+    },
+    {
+      "q": "Cumhuriyet Halk Fırkası ile ilgili;\nI. Türkiye Cumhuriyeti'nin ilk siyasi partisidir,\nII. ilk kongresi Sivas Kongresi'dir,\nIII. 9 umde bildirisine göre kurulmuştur\nyargılarından hangileri doğrudur?",
+      "o": ["Yalnız I", "Yalnız II", "I ve III", "II ve III", "I, II ve III"],
+      "c": 4,
+      "e": "CHF ilk siyasi partidir, ilk kongresi Sivas Kongresi, temeli Anadolu ve Rumeli Müdafaa-i Hukuk Cemiyeti'dir ve 9 umde bildirisine göre kurulmuştur."
+    },
+    {
+      "q": "Musul'un 1926 Ankara Antlaşması ile Irak'a bırakılmasında etkili olan iç gelişme aşağıdakilerden hangisidir?",
+      "o": ["Şeyh Sait İsyanı", "İzmir Suikasti", "Menemen Olayı", "Serbest Cumhuriyet Fırkası'nın kapatılması", "Dersim Olayları"],
+      "c": 0,
+      "e": "Şeyh Sait İsyanı'yla uğraşılırken Musul'a planlanan harekat yapılamamış, Musul kaybedilmiştir (Misak-ı Milli'den 3. taviz)."
+    },
+    {
+      "q": "'Benim naçiz vücudum elbet bir gün toprak olacaktır, fakat Türkiye Cumhuriyeti ilelebet payidar kalacaktır.' sözü Mustafa Kemal Atatürk tarafından hangi olaydan sonra söylenmiştir?",
+      "o": ["Cumhuriyetin ilanı", "İzmir Suikasti", "Halifeliğin kaldırılması", "Menemen Olayı", "Şeyh Sait İsyanı"],
+      "c": 1,
+      "e": "Bu söz 1926 İzmir Suikasti girişiminin ardından söylenmiştir."
+    },
+    {
+      "q": "Aşağıdaki şeyhülislamlık 'ilk'leri eşleştirmelerinden hangisi yanlıştır?",
+      "o": ["İlk şeyhülislam – Molla Fenari", "Divana katılan ilk şeyhülislam – Ebussuud Efendi", "Şeyhülislam idam eden ilk padişah – IV. Murat", "Milli mücadele karşıtı fetva veren – Dürrizade Abdullah", "Osmanlı'nın son şeyhülislamı – Ahizade Hüseyin Efendi"],
+      "c": 4,
+      "e": "Osmanlı'nın son şeyhülislamı Medeni Nuri Efendi'dir; Ahizade Hüseyin Efendi ise IV. Murat'ın idam ettirdiği şeyhülislamdır."
+    },
+    {
+      "q": "Türkiye Cumhuriyeti'nde tek dereceli seçim sistemi ilk kez hangi tarihte uygulanmıştır?",
+      "o": ["1923", "1930", "1946", "1924", "1950"],
+      "c": 2,
+      "e": "Muhalefet partilerinin savunduğu tek dereceli seçim sistemi ilk kez 1946 seçimlerinde uygulanmıştır."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "İnkılap – Teklif / Önergeyi Veren",
+      "p": [
+        ["Saltanatın kaldırılması", "Doktor Rıza Nur"],
+        ["Ankara'nın başkent olması", "İsmet İnönü"],
+        ["Halifeliğin kaldırılması", "Şeyh Saffet Efendi"],
+        ["Tevhid-i Tedrisat Kanunu", "Vasıf Çınar"],
+        ["Cumhuriyetin ilanı", "Mustafa Kemal Atatürk"],
+        ["Takrir-i Sükun Kanunu dönemi başbakanı", "İsmet İnönü hükümeti"]
+      ]
+    },
+    {
+      "ad": "Cumhuriyet Sonrası İlk Hükümet – Görev",
+      "p": [
+        ["Mustafa Kemal Atatürk", "Cumhurbaşkanı"],
+        ["İsmet İnönü", "Başbakan"],
+        ["Ali Fethi Okyar", "TBMM Başkanı"],
+        ["İsmail Safa Özler", "Milli Eğitim Bakanı"],
+        ["Fevzi Çakmak", "Genelkurmay Başkanı"],
+        ["Refik Saydam", "Sıhhiye (Sağlık) Bakanı"],
+        ["Mehmet Rıfat Börekçi", "Diyanet İşleri Başkanı"]
+      ]
+    },
+    {
+      "ad": "Siyasi Parti – Özellik",
+      "p": [
+        ["Cumhuriyet Halk Fırkası", "İlk siyasi parti (1923) · devletçilik · çift dereceli"],
+        ["Terakkiperver Cumhuriyet Fırkası", "İlk muhalefet partisi (1924) · 'paşalar komplosu'"],
+        ["Serbest Cumhuriyet Fırkası", "İkinci muhalefet partisi (1930) · kadınlara siyasi hak"],
+        ["Müstakil Grup", "1939 · CHP'nin parti içi denetim grubu (21 mv.)"],
+        ["9 umde bildirisi", "CHF'nin kuruluş programı (2015 KPSS)"]
+      ]
+    },
+    {
+      "ad": "İsyan / Olay – Ayırt Edici Bilgi",
+      "p": [
+        ["Şeyh Sait İsyanı", "Cumhuriyete/laikliğe karşı ilk isyan · İstiklal Mahkemeleri"],
+        ["Menemen (Kubilay) Olayı", "Derviş Mehmet · Divan-ı Harp (Mustafa Muğlalı)"],
+        ["Nasturi Ayaklanması", "Hakkari · Süryani azınlık · İngiliz kışkırtması"],
+        ["İzmir Suikasti", "1926 · İstiklal Mahkemeleri'nin son görevi"],
+        ["Dersim Olayları", "Tunceli Harekatı · Sabiha Gökçen (hava)"]
+      ]
+    },
+    {
+      "ad": "Kişi – Eser / Lakap / Ayrıntı",
+      "p": [
+        ["Rauf Orbay", "Hamidiye kahramanı · 'Cehennem Değirmeni' · Mondros'u imzaladı"],
+        ["Ali Fuat Cebesoy", "'Sınıf Arkadaşım Atatürk'"],
+        ["Refet Bele", "Trakya Yüksek Komiseri · Doğu Trakya'yı teslim aldı"],
+        ["Fevzi Çakmak", "Atatürk'ün 'insan değildir, evliyadır' dediği kişi"],
+        ["Sabiha Gökçen", "Dünyanın ilk kadın savaş pilotu"],
+        ["Ziya Hurşit", "TCF genel sekreteri · İzmir Suikasti sanığı"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "gun": 23,
+    "baslik": "II. Dünya Savaşı (1. Kısım: Savaşın Nedenleri, Cepheler ve BM)",
+    "ozet": "II. Dünya Savaşı'nın taraf ve liderleri, savaş öncesi Mihver faaliyetleri, Avrupa-Afrika-Pasifik cepheleri, harekatlar ve Birleşmiş Milletler'in kuruluş aşamaları.",
+    "tahminiSoru": "KPSS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Transkript boyunca Tactiq bozulmasıyla sürekli '1. Dünya Savaşı' deniyor; konu tamamen II. Dünya Savaşı'dır ve içerik buna göre yazılmıştır.",
+      "'Adolfitler / Adofitler' → Adolf Hitler",
+      "'Duç' → Duçe; 'Musolini' → Benito Mussolini",
+      "'Mussihito / Mutsihito' → Mutsuhito; 'Hiroito' → Hirohito",
+      "'Chamberla / Chamberleyin' → Chamberlain",
+      "'Charles de Gol' → Charles de Gaulle; 'Rosevelt' → Roosevelt; 'Josep Stalin' → Josef Stalin",
+      "'Ançlaus / Anchlaus / Unchla' → Anschluss; 'Auswich / Awich' → Auschwitz",
+      "'Marenostrum / Maren Ostrum' → Mare Nostrum; 'Lebensnown / Levensnahum' → Lebensraum",
+      "'Magino / Maguna' → Maginot; 'Ardenes' → Ardennes; 'Vishi / VI hükümeti' → Vichy; 'Maraşel Petayin' → Mareşal Petain",
+      "'Dwight Eisener / Eenhover / The White Eisenhauer' → Dwight Eisenhower; 'Fredrik Barbarossa' → Friedrich Barbarossa",
+      "'Per Harbor / Pe Harbor' → Pearl Harbor; 'Yamomoto' → Yamamoto; 'Enela Gay' → Enola Gay; 'Fetman' → Fat Man",
+      "'Divri'yi ulu cami' → Divriği Ulu Cami ve Külliyesi (Mengücekliler)"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Bloklar ve Taraflar",
+      "i": [
+        {"k": "Mihver = İ-A-J", "m": "Mihver devletler 3 tanedir: İtalya, Almanya, Japonya. Gerisi Müttefik.", "s": "z"},
+        {"k": "İtilaf-İttifak → Mihver-Müttefik", "m": "I. Dünya Savaşı'nda İtilaf-İttifak; II. Dünya Savaşı'nda Mihver-Müttefik blokları var.", "s": "z"},
+        {"k": "Müttefik = İng+Fra+SSCB+ABD+Çin", "m": "Müttefik devletler: İngiltere, Fransa, SSCB, ABD, Çin.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Liderler (hangi devlette kim?)",
+      "i": [
+        {"k": "Almanya → Hitler (Führer)", "m": "Weimar anayasası sonrası başa geçen Adolf Hitler; lakabı Führer.", "s": "z"},
+        {"k": "İtalya → Mussolini (Duçe)", "m": "Benito Mussolini; Duçe lakabı, Skala nutkuyla savaşı özendirdi.", "s": "z"},
+        {"k": "Japonya → Hirohito", "m": "II. Dünya Savaşı'nda Japon imparatoru Hirohito. Mutsuhito (Meiji restorasyonu) ile karıştırma!", "s": "z"},
+        {"k": "İngiltere → Chamberlain, sonra Churchill", "m": "Önce yatıştırma politikasını izleyen Chamberlain; başarısız olunca yerine Winston Churchill.", "s": "z"},
+        {"k": "Fransa → de Gaulle", "m": "Charles de Gaulle; işgal sonrası Özgür Fransa hareketini başlattı.", "s": "z"},
+        {"k": "ABD → Roosevelt, sonra Truman", "m": "Önce Roosevelt (1929 krizi sonrası Hoover'ın yerine); sonra Harry Truman.", "s": "z"},
+        {"k": "SSCB → Stalin", "m": "Lenin'den sonra başa geçen Josef Stalin.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Almanya'nın Savaş Öncesi Faaliyetleri",
+      "i": [
+        {"k": "MC'den + silahsızlanmadan çıkış", "m": "Almanya Milletler Cemiyeti'nden ve silahsızlanma konferansından çıktı → saldırgan tutum kanıtı.", "s": "z"},
+        {"k": "SAR → halk oylaması", "m": "SAR bölgesi halk oylaması (referandum) ile Fransa'dan alındı.", "s": "z"},
+        {"k": "Ren'e asker", "m": "Almanya Ren (REM) bölgesine asker gönderdi.", "s": "z"},
+        {"k": "Anschluss = Avusturya birleşme", "m": "Almanya'nın Avusturya ile birleştiğini duyurması (Germen ırkı gerekçesi).", "s": "z"},
+        {"k": "Südetler → tüm Çekoslovakya", "m": "Önce Almanların yaşadığı Südetler, Münih Konferansı sonrası bütün Çekoslovakya işgal edildi.", "s": "z"},
+        {"k": "Danzig → Polonya işgali", "m": "Baltık'a açılmak için Polonya'dan Danzig limanı istendi; reddedilince Polonya işgali → savaş başladı.", "s": "z"},
+        {"k": "Auschwitz = Polonya'da ölüm kampı", "m": "Almanya'nın Polonya'da kurduğu ölüm kampı. Anschluss ile karıştırma!", "s": "z"}
+      ]
+    },
+    {
+      "b": "İtalya ve Japonya'nın Faaliyetleri",
+      "i": [
+        {"k": "İtalya: Korfu-Arnavutluk-Habeşistan", "m": "İtalya Korfu Adası'nı, Arnavutluk'u baskı altına, Habeşistan'ı (Etiyopya) işgal etti; Lokarno'yu feshetti.", "s": "z"},
+        {"k": "Habeşistan → Sadabat", "m": "İtalya Habeşistan'ı işgal edince Türkiye doğu sınırı için Sadabat Paktı imzaladı.", "s": "z"},
+        {"k": "Arnavutluk → Balkan Antantı yok", "m": "İtalya baskısı yüzünden Arnavutluk 1934 Balkan Antantı'na katılmadı.", "s": "z"},
+        {"k": "Japonya: Mançurya-MC-Washington-Çin", "m": "Japonya Mançurya'yı işgal, Milletler Cemiyeti'nden ve Washington Deniz Anlaşması'ndan çekildi, Çin'e saldırdı.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Devlet Politikaları (slogan-devlet)",
+      "i": [
+        {"k": "Almanya → Lebensraum", "m": "Hayat sahası / yaşam alanı: üstün Alman ırkı en iyi yerlerde yaşamalı.", "s": "z"},
+        {"k": "İtalya → Mare Nostrum", "m": "'Bizim deniz'; Akdeniz'e kıyısı olan her toprak bizim.", "s": "z"},
+        {"k": "Japonya → Ortak Refah Alanı", "m": "'Asya Asyalılarındır' sloganı; ortak refah alanı politikası.", "s": "z"},
+        {"k": "Gömlekliler", "m": "Almanya'da kahverengi gömlekliler; İtalya'da faşizm yanlısı kara gömlekliler.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Paktlar ve Politikalar",
+      "i": [
+        {"k": "Yatıştırma = Chamberlain", "m": "İngiltere'nin Almanya'ya karşı uyguladığı, başarısızlıkla sonuçlanan politika.", "s": "z"},
+        {"k": "Antikomintern (1937) = 3 mihver", "m": "SSCB komünizminden rahatsız olanlar: Almanya, İtalya, Japonya.", "s": "z"},
+        {"k": "Çelik Pakt (1939) = A+İ", "m": "Sadece Almanya (Nazizm) ile İtalya (Faşizm) arasında ittifak.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Avrupa Cephesi Harekat/Kavramları",
+      "i": [
+        {"k": "Yıldırım Harekatı = hızlı taarruz", "m": "Almanya'nın ani, hızlı genel hücumlarına verilen ad.", "s": "z"},
+        {"k": "Maginot = Fransa'nın savunma hattı", "m": "Fransa'nın kurduğu dünyanın en büyük savunma hattı.", "s": "z"},
+        {"k": "Ardennes = Maginot'nun zayıf yeri", "m": "Belçika sınırındaki Ardennes ormanları; Almanya buradan geçip Paris'e ulaştı.", "s": "z"},
+        {"k": "Vichy = Petain, Alman yanlısı", "m": "Almanya'nın Fransa'nın güneyinde kurdurduğu, başında Mareşal Petain olan Alman yanlısı hükümet.", "s": "z"},
+        {"k": "SSCB'nin işgalleri", "m": "SSCB Polonya'nın bir kısmı, Finlandiya'nın bir kısmı, Litvanya, Letonya ve Estonya'yı işgal etti.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Afrika Cephesi Harekatları",
+      "i": [
+        {"k": "Meşale (Torch) = Eisenhower", "m": "Dwight Eisenhower komutasında ABD+İngiliz kuvvetlerinin Cezayir ve Fas'ı (Vichy/Alman) alması. MEB kitabı: Meşale/Torç.", "s": "z"},
+        {"k": "Merkür = Girit", "m": "Alman paraşütçü hava harekatı; Yunanistan'a ait Girit adası ele geçirildi.", "s": "z"},
+        {"k": "Kartal Hücumu = İngiltere'ye hava", "m": "Deniz Aslanı harekatı da denir; Almanya'nın İngiltere/Londra'ya hava saldırısı; başarısız.", "s": "z"},
+        {"k": "İtalya = çekilen ilk mihver", "m": "Kuzey Afrika'da mağlup, çizmesi işgal edilince savaştan çekilen ilk mihver devlet.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Barbarossa ve Doğu Cephesi",
+      "i": [
+        {"k": "Barbarossa = SSCB'ye saldırı", "m": "Almanya'nın SSCB'ye saldırısı; ad Friedrich Barbarossa'dan; ağır kış nedeniyle başarısız.", "s": "z"},
+        {"k": "Barbarossa amacı", "m": "Kafkaslar üzerinden İran'a, doğuda Hindistan'ı alıp Japonya ile birleşmek.", "s": "z"},
+        {"k": "Stalingrad = Rusya'nın namusu", "m": "Barbarossa içinde; dünyanın en büyük kara savaşlarından, ~2 milyon ölü; savaşın dönüm noktası.", "s": "z"},
+        {"k": "Berlin → Almanya teslim", "m": "Stalingrad sonrası SSCB Berlin'e kadar girdi; İtalya'dan sonra Almanya da teslim oldu.", "s": "z"},
+        {"k": "Normandiya = Eisenhower + de Gaulle", "m": "Müttefiklerin Eisenhower liderliğinde Avrupa'yı Alman işgalinden kurtaran çıkarması; de Gaulle'ün Özgür Fransa hareketi.", "s": "z"}
+      ]
+    },
+    {
+      "b": "Pasifik Cephesi ve Atom Bombası",
+      "i": [
+        {"k": "Monroe = yalnızlık/infirat", "m": "ABD'nin 1823 Monroe doktrini; yalnızlık (infirat) politikası.", "s": "z"},
+        {"k": "Ödünç Verme ve Kiralama Kanunu", "m": "ABD'nin İngiltere, Çin, Fransa, SSCB'ye destek programı; tarafını belirledi.", "s": "z"},
+        {"k": "3 deniz zaferi ABD'nin", "m": "Midway, Mercan Denizi ve Leyte deniz savaşlarını ABD kazandı.", "s": "z"},
+        {"k": "Yamamoto = Pearl Harbor mimarı", "m": "Japon komutan Yamamoto, ABD'nin Hawaii adalarına Pearl Harbor baskınının fikir mimarı; kamikaze dalışı.", "s": "z"},
+        {"k": "Pearl Harbor → ABD savaşa", "m": "Baskının amacı ABD'nin Büyük Okyanus'a müdahalesini önlemek; ABD Monroe'yu terk edip savaşa girdi.", "s": "z"},
+        {"k": "Atom: Little Boy / Fat Man / Enola Gay", "m": "Truman emriyle Hiroşima'ya Little Boy, Nagasaki'ye Fat Man; taşıyan uçak Enola Gay.", "s": "z"},
+        {"k": "3 Japon", "m": "Mutsuhito (Meiji restorasyonu), Hirohito (WWII imparatoru), Yamamoto (Pearl Harbor).", "s": "z"}
+      ]
+    },
+    {
+      "b": "Atlantik Bildirisi ve Birleşmiş Milletler",
+      "i": [
+        {"k": "Atlantik = Roosevelt + Churchill", "m": "ABD (Roosevelt) ve İngiltere (Churchill) bildirisi; II. Dünya Savaşı'nın Wilson prensipleri gibidir; BM'nin temeli atıldı.", "s": "z"},
+        {"k": "BM aşamaları", "m": "Temel: Atlantik Bildirisi → Kurulma kararı: Yalta → Taslak: Dumbarton Oaks → Resmen kuruluş: San Francisco.", "s": "z"},
+        {"k": "BM fikri = Farabi", "m": "Birleşmiş Milletler fikrini ortaya atan ilk kişi Farabi (2025 AGS sorusu, eğitim konusunda).", "s": "z"},
+        {"k": "MC vs BM", "m": "Milletler Cemiyeti (Cemiyeti Akvam) I. Dünya Savaşı sonrası; Birleşmiş Milletler II. Dünya Savaşı sonrası.", "s": "z"}
+      ]
+    },
+    {
+      "b": "BM'ye Bağlı Kurumlar",
+      "i": [
+        {"k": "UNICEF = çocuk", "m": "Çocuklara yardım fonu.", "s": "z"},
+        {"k": "UNESCO = eğitim-bilim-kültür", "m": "Türkiye'nin ilk eseri 1985 Divriği Ulu Cami ve Külliyesi (Mengücekliler).", "s": "z"},
+        {"k": "WHO = Dünya Sağlık Örgütü", "m": "Sağlık; Covid sürecinde açıklamalar yapan örgüt.", "s": "z"},
+        {"k": "FAO = Farmer = gıda-tarım", "m": "Gıda ve Tarım Örgütü; Farmer (çiftçi) kancasıyla akılda tut.", "s": "e"},
+        {"k": "ILO / IMF / Habitat / UNFPA", "m": "ILO çalışma, IMF para fonu, Habitat insan yerleşimleri, UNFPA nüfus hareketleri fonu.", "s": "z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c": "Bloklar", "o": "II. Dünya Savaşı'nda hangi iki blok karşı karşıyaydı?", "a": "Mihver ve Müttefik devletler.\n(I. Dünya Savaşı'nda İtilaf-İttifak vardı.)"},
+    {"c": "Bloklar", "o": "Mihver devletler hangileridir?", "a": "3 devlet: İtalya, Almanya, Japonya.\nGeri kalan tüm devletler Müttefik'tir."},
+    {"c": "Bloklar", "o": "Başlıca Müttefik devletler kimlerdir?", "a": "İngiltere, Fransa, SSCB, ABD ve Çin."},
+    {"c": "Liderler", "o": "Savaşta Almanya'nın lideri ve lakabı nedir?", "a": "Adolf Hitler; Führer lakabıyla bilinir.\nWeimar anayasasıyla kurulan demokratik düzenden sonra başa geçti."},
+    {"c": "Liderler", "o": "İtalya'nın lideri kim, hangi lakap ve nutukla bilinir?", "a": "Benito Mussolini; Duçe lakabı.\nSkala nutkuyla savaşı özendirdi."},
+    {"c": "Liderler", "o": "Japonya'nın savaştaki imparatoru kimdir?", "a": "Hirohito.\nDikkat: Meiji restorasyonunu yapan Mutsuhito ile karıştırılır."},
+    {"c": "Liderler", "o": "İngiltere'de savaş boyunca liderlik nasıl değişti?", "a": "Önce yatıştırma politikasını izleyen Chamberlain, başarısız olunca yerine Winston Churchill geçti."},
+    {"c": "Liderler", "o": "Özgür Fransa hareketini başlatan lider kimdir?", "a": "Charles de Gaulle.\nFransa işgal edilince hareketi başlattı."},
+    {"c": "Liderler", "o": "ABD'de savaş boyunca liderlik nasıl değişti?", "a": "Önce Roosevelt (1929 krizinde Hoover'ın yerine gelmişti), sonra Harry Truman."},
+    {"c": "Liderler", "o": "SSCB'nin savaştaki lideri kimdir?", "a": "Lenin'den sonra başa geçen Josef Stalin."},
+    {"c": "Almanya öncesi", "o": "Almanya hangi iki kuruluştan çıkarak saldırganlığını gösterdi?", "a": "Milletler Cemiyeti'nden ve silahsızlanma konferansından çıktı."},
+    {"c": "Almanya öncesi", "o": "SAR bölgesi Almanya'ya nasıl katıldı?", "a": "Halk oylaması (referandum) ile Fransa'dan alındı."},
+    {"c": "Almanya öncesi", "o": "Almanya, Avusturya ile birleştiğini duyurmasına ne ad verilir?", "a": "Anschluss.\nGerekçe: Avusturya halkının Germen ırkından gelmesi."},
+    {"c": "Almanya öncesi", "o": "Almanya önce Çekoslovakya'nın neresini, sonra neresini aldı?", "a": "Önce Almanların yaşadığı Südetler bölgesini, Münih Konferansı sonrası bütün Çekoslovakya'yı işgal etti."},
+    {"c": "Almanya öncesi", "o": "Münih Konferansı'nda (1938) ne oldu?", "a": "Chamberlain 'Südetler'i sen almadın, biz sana lütfettik' dedi.\nKızan Hitler, konferans arasında tüm Çekoslovakya'nın işgal emrini verdi."},
+    {"c": "Almanya öncesi", "o": "II. Dünya Savaşı'nı fiilen başlatan olay nedir?", "a": "Almanya'nın Polonya'yı işgal etmesi.\nBaltık'a açılmak için istediği Danzig limanı reddedilince saldırdı."},
+    {"c": "Almanya öncesi", "o": "Auschwitz kampı nedir?", "a": "Almanya'nın (Nazilerin) Polonya'da kurduğu ölüm kampı.\nAnschluss ile karıştırma!"},
+    {"c": "İtalya", "o": "İtalya'nın savaş öncesi başlıca işgal ve girişimleri nelerdir?", "a": "Korfu Adası'nı işgal, Arnavutluk'u baskı altına, Habeşistan'ı (Etiyopya) işgal; Lokarno'yu feshetti."},
+    {"c": "İtalya", "o": "İtalya'nın Habeşistan'ı işgali Türkiye'yi nasıl etkiledi?", "a": "Türkiye doğu sınırını güvence altına almak için Sadabat Paktı'nı imzaladı."},
+    {"c": "İtalya", "o": "Arnavutluk neden 1934 Balkan Antantı'na katılmadı?", "a": "İtalya'nın baskısı altında olduğu için."},
+    {"c": "Japonya", "o": "Japonya'nın savaş öncesi başlıca faaliyetleri nelerdir?", "a": "Mançurya'yı işgal etti, Milletler Cemiyeti'nden ve Washington Deniz Anlaşması'ndan çekildi, Çin'e saldırdı."},
+    {"c": "Politikalar", "o": "Almanya'nın 'hayat sahası' politikasının adı nedir?", "a": "Lebensraum.\nÜstün Alman ırkı dünyanın en iyi yerlerinde yaşamalı fikri."},
+    {"c": "Politikalar", "o": "İtalya'nın 'bizim deniz' politikasının adı nedir?", "a": "Mare Nostrum.\nAkdeniz'e kıyısı olan her toprağı hedefler."},
+    {"c": "Politikalar", "o": "Japonya'nın politikası ve sloganı nedir?", "a": "Ortak Refah Alanı politikası; 'Asya Asyalılarındır' sloganı."},
+    {"c": "Politikalar", "o": "Almanya ve İtalya'da rejim yanlılarına ne denirdi?", "a": "Almanya'da kahverengi gömlekliler; İtalya'da (faşizm) kara gömlekliler."},
+    {"c": "Paktlar", "o": "Yatıştırma politikasını kim, kime karşı uyguladı ve sonucu ne oldu?", "a": "İngiltere (Chamberlain), Almanya'ya karşı uyguladı; başarısızlıkla sonuçlandı."},
+    {"c": "Paktlar", "o": "Antikomintern Paktı (1937) kimler kurdu?", "a": "SSCB komünizminden rahatsız olan 3 mihver devlet: Almanya, İtalya, Japonya."},
+    {"c": "Paktlar", "o": "Çelik Pakt (1939) kimler arasında kuruldu?", "a": "Sadece Almanya (Nazizm) ile İtalya (Faşizm) arasında.\nAntikomintern'de 3, Çelik Pakt'ta 2 devlet var."},
+    {"c": "Nedenler", "o": "II. Dünya Savaşı'nın başlıca nedenleri nelerdir?", "a": "Bloklaşma, sömürgecilik, silahlanma yarışı, I. Dünya Savaşı sonrası ağır anlaşmalar, milliyetçilik esasına uyulmaması, totaliter rejimler, saldırgan tutumlar, 1929 krizi, Versay'ın tanınmaması."},
+    {"c": "Nedenler", "o": "I. Dünya Savaşı sonrası anlaşmaları 'barışa son veren barış' diye niteleyen kimdir?", "a": "David Fromkin.\nAğır anlaşmalar II. Dünya Savaşı'nın ana nedenlerinden oldu."},
+    {"c": "Cepheler", "o": "II. Dünya Savaşı'nın üç cephesi nedir?", "a": "Avrupa cephesi, Afrika cephesi ve Pasifik cephesi."},
+    {"c": "Avrupa", "o": "Yıldırım Harekatı nedir?", "a": "Almanya'nın ani ve çok hızlı genel taarruzlarına verilen ad."},
+    {"c": "Avrupa", "o": "Maginot hattı nedir?", "a": "Fransa'nın kurduğu dünyanın en büyük savunma hattı."},
+    {"c": "Avrupa", "o": "Almanya Maginot hattını nasıl aştı?", "a": "En zayıf kısmı olan, Belçika sınırındaki Ardennes ormanlarından yol açarak; soluğu Paris'te aldı."},
+    {"c": "Avrupa", "o": "Vichy hükümeti nedir, başında kim vardır?", "a": "Almanya'nın Fransa'nın güneyinde kurdurduğu Alman yanlısı hükümet; başında Mareşal Petain.\nAlmanya böylece binlerce asker bırakmadan Fransa'yı kontrol etti."},
+    {"c": "Avrupa", "o": "SSCB, Almanya ile anlaşarak nereleri işgal etti?", "a": "Polonya'nın bir kısmı, Finlandiya'nın bir kısmı, Litvanya, Letonya ve Estonya."},
+    {"c": "Avrupa", "o": "Almanya Fransa dışında Batı'da hangi ülkeleri işgal etti?", "a": "Danimarka, Norveç, Belçika ve Hollanda."},
+    {"c": "Afrika", "o": "Meşale (Torch) Harekatı nedir ve komutanı kimdir?", "a": "ABD+İngiliz kuvvetlerinin Vichy (Alman) hakimiyetindeki Cezayir ve Fas'ı almasıdır.\nKomutanı ABD'li general Dwight Eisenhower. MEB kitabında Meşale/Torç harekatı."},
+    {"c": "Afrika", "o": "Savaştan çekilen ilk mihver devlet hangisidir?", "a": "İtalya.\nKuzey Afrika'da mağlup edildi, çizmesi işgal edilince çekildi."},
+    {"c": "Afrika", "o": "Merkür Harekatı (Girit Savaşı) nedir?", "a": "Alman paraşütçü hafif piyadelerinin hava harekatıyla Yunanistan'a ait Girit adasını ele geçirmesi."},
+    {"c": "Afrika", "o": "Kartal Hücumu (Deniz Aslanı harekatı) nedir?", "a": "Almanya'nın İngiltere/Londra üzerine düzenlediği hava saldırısı.\nChurchill Londra'yı boşaltıp Alman jetlerini avlattı; harekat başarısız oldu."},
+    {"c": "Doğu", "o": "Barbarossa Harekatı nedir, adı nereden gelir?", "a": "Almanya'nın SSCB'ye saldırısı; ad Haçlı seferindeki Friedrich Barbarossa'dan gelir.\nAğır kış şartları nedeniyle başarısız oldu."},
+    {"c": "Doğu", "o": "Hitler Barbarossa ile neyi amaçlıyordu?", "a": "Kafkaslar üzerinden İran'a ilerlemek, doğuda Hindistan'ı alıp Japonya ile birleşmek."},
+    {"c": "Doğu", "o": "Stalingrad Savaşı neden önemlidir?", "a": "Barbarossa içindedir; dünyanın en büyük kara savaşlarından (~2 milyon ölü).\n'Rusya'nın namusu' denir; savaşın dönüm noktalarından biridir."},
+    {"c": "Doğu", "o": "Almanya'nın teslimi nasıl gerçekleşti?", "a": "Stalingrad sonrası geri çekilen Almanya'yı SSCB Berlin'e kadar kovaladı; Berlin işgal edilince Almanya teslim oldu."},
+    {"c": "Doğu", "o": "Normandiya Çıkarması nedir, komutanı kimdir?", "a": "Müttefiklerin Fransa başta Avrupa'yı Alman işgalinden kurtaran çıkarması; komutanı Dwight Eisenhower.\nde Gaulle'ün Özgür Fransa hareketi bunu sağladı."},
+    {"c": "Pasifik", "o": "Pasifik cephesinde kimler savaştı?", "a": "ABD ile Japonya."},
+    {"c": "Pasifik", "o": "ABD'nin başlangıçtaki tarafsızlık politikasının adı nedir?", "a": "Monroe doktrini (1823); yalnızlık ya da infirat politikası."},
+    {"c": "Pasifik", "o": "Ödünç Verme ve Kiralama Kanunu ne yaptı?", "a": "ABD'nin İngiltere, Çin, Fransa ve SSCB gibi müttefiklere destek programı; ABD tarafını resmen belirledi."},
+    {"c": "Pasifik", "o": "Pasifik'te ABD'nin kazandığı üç deniz savaşı hangileridir?", "a": "Midway, Mercan Denizi ve Leyte deniz savaşları."},
+    {"c": "Pasifik", "o": "Pearl Harbor baskını nedir, mimarı kimdir?", "a": "Japonya'nın komutan Yamamoto liderliğinde ABD'nin Hawaii adalarına saldırısı (kamikaze dalışı).\nFikir mimarı Yamamoto'dur."},
+    {"c": "Pasifik", "o": "Pearl Harbor baskınının amacı ve sonucu nedir?", "a": "Amaç: ABD'nin Büyük Okyanus'a askeri müdahalesini önlemek.\nSonuç: ABD Monroe'yu terk edip savaşa girdi."},
+    {"c": "Pasifik", "o": "Atom bombaları, isimleri ve taşıyan uçak nedir?", "a": "Truman emriyle Hiroşima'ya Little Boy, Nagasaki'ye Fat Man atıldı; taşıyan uçak Enola Gay.\nJaponya kayıtsız şartsız teslim oldu."},
+    {"c": "Pasifik", "o": "Bilinmesi gereken üç Japon kimdir?", "a": "Mutsuhito (Meiji restorasyonu), Hirohito (WWII imparatoru), Yamamoto (Pearl Harbor)."},
+    {"c": "BM", "o": "Atlantik Bildirisi kimler arasında yayınlandı?", "a": "ABD (Roosevelt) ile İngiltere (Churchill).\nII. Dünya Savaşı'nın Wilson prensipleri gibidir; BM'nin temeli atıldı."},
+    {"c": "BM", "o": "Birleşmiş Milletler'in kuruluş aşamaları nelerdir?", "a": "Temel: Atlantik Bildirisi → Kurulma kararı: Yalta Konferansı → Taslak: Dumbarton Oaks → Resmen kuruluş: San Francisco Konferansı."},
+    {"c": "BM", "o": "Birleşmiş Milletler fikrini ortaya atan ilk kişi kimdir?", "a": "Farabi.\n(2025 AGS sınavında eğitim konusundaki çalışmalarıyla soruldu.)"},
+    {"c": "BM", "o": "Milletler Cemiyeti ile Birleşmiş Milletler hangi savaşlar sonrası kuruldu?", "a": "Milletler Cemiyeti (Cemiyeti Akvam) I. Dünya Savaşı sonrası; Birleşmiş Milletler II. Dünya Savaşı sonrası."},
+    {"c": "BM Kurumları", "o": "UNICEF ve UNESCO neyle ilgilenir?", "a": "UNICEF: çocuklara yardım fonu.\nUNESCO: eğitim, bilim, kültür örgütü."},
+    {"c": "BM Kurumları", "o": "Türkiye'nin UNESCO listesine giren ilk eseri nedir?", "a": "1985'te Mengücekliler'e ait Divriği Ulu Cami ve Külliyesi."},
+    {"c": "BM Kurumları", "o": "WHO, FAO, ILO, IMF, Habitat ve UNFPA neyle ilgilenir?", "a": "WHO: sağlık; FAO: gıda-tarım (Farmer); ILO: çalışma; IMF: para fonu; Habitat: insan yerleşimleri; UNFPA: nüfus hareketleri fonu."}
+  ],
+  "tuzak": [
+    {"q": "İtilaf-İttifak blokları hangi savaştadır?", "o": ["I. Dünya Savaşı", "II. Dünya Savaşı"], "c": 0, "n": "İtilaf-İttifak I. Dünya Savaşı'na; Mihver-Müttefik II. Dünya Savaşı'na aittir."},
+    {"q": "İtalya hangi blokta yer alır?", "o": ["Mihver", "Müttefik"], "c": 0, "n": "Mihver sadece 3 devlettir: İtalya, Almanya, Japonya; gerisi Müttefik."},
+    {"q": "Meiji restorasyonunu yapan Japon lider kimdir?", "o": ["Hirohito", "Mutsuhito"], "c": 1, "n": "Modern Japonya'nın temelini atan Mutsuhito; savaştaki imparator ise Hirohito."},
+    {"q": "Führer lakabı kime aittir?", "o": ["Hitler", "Mussolini"], "c": 0, "n": "Führer Hitler; Duçe ise Mussolini'nin lakabıdır."},
+    {"q": "Almanya'nın Avusturya ile birleşmesine ne denir?", "o": ["Anschluss", "Auschwitz"], "c": 0, "n": "Anschluss birleşme; Auschwitz ise Polonya'daki ölüm kampıdır."},
+    {"q": "Polonya'daki Alman ölüm kampının adı nedir?", "o": ["Anschluss", "Auschwitz"], "c": 1, "n": "Auschwitz ölüm kampı; Anschluss Avusturya ile birleşmedir. Sık karıştırılır."},
+    {"q": "'Bizim deniz' (Mare Nostrum) politikası kimindir?", "o": ["İtalya", "Almanya"], "c": 0, "n": "Mare Nostrum İtalya'nın; Almanya'nınki Lebensraum (hayat sahası)."},
+    {"q": "'Asya Asyalılarındır' sloganı kimindir?", "o": ["Japonya", "İtalya"], "c": 0, "n": "Ortak Refah Alanı politikası ve bu slogan Japonya'ya aittir."},
+    {"q": "Antikomintern Paktı'nda kaç devlet vardır?", "o": ["2 (Almanya-İtalya)", "3 (Almanya-İtalya-Japonya)"], "c": 1, "n": "Antikomintern'de 3 mihver vardır; Çelik Pakt'ta ise sadece Almanya ve İtalya."},
+    {"q": "Çelik Pakt hangi iki devlet arasındadır?", "o": ["Almanya-İtalya", "Almanya-Japonya"], "c": 0, "n": "Çelik Pakt Almanya (Nazizm) ile İtalya (Faşizm) arasındadır; Japonya yoktur."},
+    {"q": "II. Dünya Savaşı hangi işgalle başladı?", "o": ["Almanya'nın Polonya'yı işgali", "Almanya'nın Çekoslovakya'yı işgali"], "c": 0, "n": "Bunca işgale rağmen savaş, Polonya işgaliyle başladı; çünkü Polonya ABD'nin planlı devletiydi."},
+    {"q": "Dünyanın en büyük savunma hattı hangi ülkeye aittir?", "o": ["Fransa (Maginot)", "Almanya"], "c": 0, "n": "Maginot hattı Fransa'nındır; Almanya Ardennes ormanlarından aşarak geçti."},
+    {"q": "Vichy hükümetinin başında kim vardır?", "o": ["Mareşal Petain", "Charles de Gaulle"], "c": 0, "n": "Vichy (Alman yanlısı) başında Petain; de Gaulle ise Özgür Fransa hareketini başlattı."},
+    {"q": "Meşale (Torch) Harekatı'nın komutanı kimdir?", "o": ["Dwight Eisenhower", "Winston Churchill"], "c": 0, "n": "Meşale ve Normandiya'nın komutanı Eisenhower; Churchill İngiltere başbakanıdır."},
+    {"q": "Girit adası hangi harekatla ele geçirildi?", "o": ["Merkür Harekatı", "Kartal Hücumu"], "c": 0, "n": "Merkür Girit'e (Yunanistan); Kartal Hücumu ise İngiltere'ye hava saldırısıdır."},
+    {"q": "Almanya'nın İngiltere'ye hava saldırısının adı nedir?", "o": ["Kartal Hücumu", "Barbarossa"], "c": 0, "n": "Kartal Hücumu (Deniz Aslanı) İngiltere'ye; Barbarossa ise SSCB'ye yöneliktir."},
+    {"q": "Barbarossa Harekatı hangi ülkeye yöneliktir?", "o": ["SSCB", "İngiltere"], "c": 0, "n": "Barbarossa SSCB'ye saldırıdır; İngiltere'ye olan Kartal Hücumu'dur."},
+    {"q": "'Rusya'nın namusu' denilen savaş hangisidir?", "o": ["Stalingrad Savaşı", "Midway Savaşı"], "c": 0, "n": "Stalingrad kara savaşı Rusya'nın namusu; Midway ise Pasifik'te bir deniz savaşıdır."},
+    {"q": "Savaştan çekilen ilk mihver devlet hangisidir?", "o": ["İtalya", "Almanya"], "c": 0, "n": "Önce İtalya (çizmesi işgal edilince), sonra Almanya (Berlin işgaliyle) teslim oldu."},
+    {"q": "Pearl Harbor baskınının fikir mimarı kimdir?", "o": ["Yamamoto", "Hirohito"], "c": 0, "n": "Baskının mimarı komutan Yamamoto; Hirohito ise imparatordur (fikri onaylayan)."},
+    {"q": "Pearl Harbor baskını hangi devlete yapıldı?", "o": ["ABD (Hawaii)", "İngiltere"], "c": 0, "n": "Japonya ABD'nin Hawaii adalarına saldırdı; bu ABD'yi savaşa soktu."},
+    {"q": "Hiroşima'ya atılan atom bombasının adı nedir?", "o": ["Little Boy", "Fat Man"], "c": 0, "n": "Hiroşima'ya Little Boy, Nagasaki'ye Fat Man atıldı; uçak Enola Gay."},
+    {"q": "Atom bombası atılması emrini veren ABD başkanı kimdir?", "o": ["Harry Truman", "Roosevelt"], "c": 0, "n": "Emri Truman verdi; Roosevelt savaşın başındaki başkandı."},
+    {"q": "II. Dünya Savaşı'nın 'Wilson prensipleri' sayılan belgesi nedir?", "o": ["Atlantik Bildirisi", "Yalta Konferansı"], "c": 0, "n": "Atlantik Bildirisi bu benzetmenin yapıldığı belgedir; Yalta ise BM'nin kuruluş kararının alındığı konferanstır."},
+    {"q": "Birleşmiş Milletler resmen nerede kuruldu?", "o": ["San Francisco Konferansı", "Atlantik Bildirisi"], "c": 0, "n": "Resmi kuruluş San Francisco'da; Atlantik Bildirisi yalnızca temelini attı."},
+    {"q": "Birleşmiş Milletler kurulma kararı nerede alındı?", "o": ["Yalta Konferansı", "Dumbarton Oaks"], "c": 0, "n": "Kurulma kararı Yalta'da; Dumbarton Oaks'ta ise taslak hazırlandı."},
+    {"q": "Milletler Cemiyeti hangi savaş sonrası kuruldu?", "o": ["I. Dünya Savaşı", "II. Dünya Savaşı"], "c": 0, "n": "Milletler Cemiyeti I. Dünya Savaşı; Birleşmiş Milletler II. Dünya Savaşı sonrasıdır."},
+    {"q": "Birleşmiş Milletler fikrini ilk ortaya atan kişi kimdir?", "o": ["Farabi", "Wilson"], "c": 0, "n": "Fikri ilk ortaya atan Farabi (2025 AGS); Wilson ise Milletler Cemiyeti ile anılır."},
+    {"q": "Çocuklara yardım fonu hangisidir?", "o": ["UNICEF", "UNESCO"], "c": 0, "n": "UNICEF çocuk; UNESCO eğitim-bilim-kültür örgütüdür."},
+    {"q": "Eğitim-bilim-kültür örgütü hangisidir?", "o": ["UNESCO", "WHO"], "c": 0, "n": "UNESCO eğitim-bilim-kültür; WHO ise Dünya Sağlık Örgütü'dür."},
+    {"q": "Gıda ve Tarım Örgütü hangisidir?", "o": ["FAO", "ILO"], "c": 0, "n": "FAO gıda-tarım (Farmer); ILO ise uluslararası çalışma örgütüdür."},
+    {"q": "Türkiye'nin UNESCO listesine giren ilk eseri hangisidir?", "o": ["Divriği Ulu Cami ve Külliyesi", "Ayasofya"], "c": 0, "n": "İlk eser 1985'te Mengücekli eseri Divriği Ulu Cami ve Külliyesi'dir."}
+  ],
+  "deneme": [
+    {"q": "II. Dünya Savaşı'nda mihver devletler arasında aşağıdakilerden hangisi yer almaz?", "o": ["Almanya", "İtalya", "Japonya", "İngiltere", "Bu devletlerin tümü mihverdir"], "c": 3, "e": "Mihver devletler yalnızca Almanya, İtalya ve Japonya'dır; İngiltere müttefik devlettir."},
+    {"q": "Aşağıdaki lider-lakap eşleştirmelerinden hangisi yanlıştır?", "o": ["Hitler – Führer", "Mussolini – Duçe", "Hirohito – Meiji restorasyonu", "Chamberlain – yatıştırma politikası", "de Gaulle – Özgür Fransa"], "c": 2, "e": "Meiji restorasyonunu yapan Mutsuhito'dur; Hirohito savaştaki Japon imparatorudur."},
+    {"q": "Almanya'nın Avusturya ile birleştiğini duyurmasına verilen ad aşağıdakilerden hangisidir?", "o": ["Anschluss", "Auschwitz", "Barbarossa", "Merkür", "Vichy"], "c": 0, "e": "Almanya-Avusturya birleşmesi Anschluss'tur; Auschwitz Polonya'daki ölüm kampıdır."},
+    {"q": "II. Dünya Savaşı, Almanya'nın aşağıdaki ülkelerden hangisine saldırmasıyla başlamıştır?", "o": ["Çekoslovakya", "Avusturya", "Polonya", "Fransa", "SSCB"], "c": 2, "e": "Almanya birçok yeri almasına rağmen savaş, Polonya'nın işgaliyle başlamıştır."},
+    {"q": "Aşağıdaki politika-devlet eşleştirmelerinden hangisi doğrudur?", "o": ["Lebensraum – İtalya", "Mare Nostrum – Almanya", "Ortak Refah Alanı – Japonya", "Monroe – Almanya", "Skala nutku – İngiltere"], "c": 2, "e": "Ortak Refah Alanı Japonya'nın politikasıdır; Lebensraum Almanya'nın, Mare Nostrum İtalya'nındır."},
+    {"q": "Antikomintern Paktı ile Çelik Pakt karşılaştırıldığında aşağıdakilerden hangisi doğrudur?", "o": ["İkisi de üç devletlidir", "Çelik Pakt'ta Japonya vardır", "Antikomintern'de yalnızca Almanya-İtalya vardır", "Antikomintern üç mihveri, Çelik Pakt yalnızca Almanya-İtalya'yı kapsar", "İkisi de müttefik devletlerce kurulmuştur"], "c": 3, "e": "Antikomintern (1937) üç mihveri, Çelik Pakt (1939) sadece Almanya ile İtalya'yı kapsar."},
+    {"q": "I. Dünya Savaşı sonrası yapılan barış anlaşmalarını 'barışa son veren barış' olarak niteleyen kişi kimdir?", "o": ["David Fromkin", "Woodrow Wilson", "Winston Churchill", "Farabi", "Charles de Gaulle"], "c": 0, "e": "Ağır anlaşmaları 'barışa son veren barış' diye niteleyen David Fromkin'dir."},
+    {"q": "Fransa'nın kurduğu, Almanya'nın Ardennes ormanlarından aşarak geçtiği savunma hattı aşağıdakilerden hangisidir?", "o": ["Maginot hattı", "Siegfried hattı", "Çelik hattı", "Barbarossa hattı", "Atlantik hattı"], "c": 0, "e": "Dünyanın en büyük savunma hattı olan Maginot, Ardennes ormanları üzerinden aşılmıştır."},
+    {"q": "Aşağıdakilerden hangisi Meşale (Torch) Harekatı ile ilgili doğru bir bilgi değildir?", "o": ["Komutanı Dwight Eisenhower'dır", "ABD ve İngiliz kuvvetleri birleşmiştir", "Cezayir ve Fas ele geçirilmiştir", "SSCB'ye yönelik bir harekattır", "Vichy/Alman hakimiyetindeki topraklar hedeflenmiştir"], "c": 3, "e": "Meşale Harekatı Kuzey Afrika'ya yöneliktir; SSCB'ye yönelik olan Barbarossa'dır."},
+    {"q": "Alman paraşütçü birliklerinin hava harekatıyla Girit adasını ele geçirmesine ne ad verilir?", "o": ["Kartal Hücumu", "Merkür Harekatı", "Barbarossa Harekatı", "Meşale Harekatı", "Normandiya Çıkarması"], "c": 1, "e": "Girit'in ele geçirilmesi Merkür Harekatı (Girit Savaşı) olarak bilinir."},
+    {"q": "Aşağıdaki harekat-hedef eşleştirmelerinden hangisi yanlıştır?", "o": ["Kartal Hücumu – İngiltere", "Barbarossa – SSCB", "Merkür – Girit", "Meşale – Cezayir/Fas", "Normandiya – SSCB"], "c": 4, "e": "Normandiya Çıkarması Fransa başta Avrupa'yı kurtarmaya yöneliktir; SSCB'ye yönelik olan Barbarossa'dır."},
+    {"q": "Barbarossa Harekatı'nın başarısız olmasının en önemli nedeni aşağıdakilerden hangisidir?", "o": ["Ağır kış şartları ve Stalingrad direnişi", "İtalya'nın ihaneti", "ABD'nin müdahalesi", "Atom bombası kullanılması", "Normandiya Çıkarması"], "c": 0, "e": "Almanya, ağır kış şartları ve Stalingrad Savaşı gibi nedenlerle SSCB'de başarısız oldu."},
+    {"q": "Dünyanın en büyük kara savaşlarından biri sayılan, 'Rusya'nın namusu' olarak bilinen savaş hangisidir?", "o": ["Midway Savaşı", "Stalingrad Savaşı", "Girit Savaşı", "Mercan Denizi Savaşı", "Leyte Savaşı"], "c": 1, "e": "Yaklaşık 2 milyon insanın öldüğü Stalingrad Savaşı Barbarossa içinde yer alır ve dönüm noktasıdır."},
+    {"q": "Müttefiklerin Fransa başta olmak üzere Avrupa'yı Alman işgalinden kurtarmak için yaptığı çıkarma harekatı aşağıdakilerden hangisidir?", "o": ["Meşale Harekatı", "Normandiya Çıkarması", "Merkür Harekatı", "Kartal Hücumu", "Pearl Harbor baskını"], "c": 1, "e": "Eisenhower liderliğindeki Normandiya Çıkarması Avrupa'daki Alman işgaline son vermiştir."},
+    {"q": "Japonya'nın komutan Yamamoto liderliğinde ABD'nin Hawaii adalarına düzenlediği baskın aşağıdakilerden hangisidir?", "o": ["Pearl Harbor baskını", "Midway baskını", "Kartal Hücumu", "Merkür Harekatı", "Leyte baskını"], "c": 0, "e": "Pearl Harbor baskını, ABD'yi Monroe doktrinini terk ederek savaşa sokmuştur."},
+    {"q": "Aşağıdaki atom bombası-şehir eşleştirmelerinden hangisi doğrudur?", "o": ["Little Boy – Nagasaki", "Fat Man – Hiroşima", "Little Boy – Hiroşima", "Enola Gay – Nagasaki'ye atılan bomba", "Fat Man – taşıyan uçak"], "c": 2, "e": "Hiroşima'ya Little Boy, Nagasaki'ye Fat Man atıldı; her ikisini taşıyan uçak Enola Gay'dir."},
+    {"q": "II. Dünya Savaşı'nda ABD Başkanı Roosevelt ile İngiltere Başbakanı Churchill'in yayınladığı, BM'nin temellerini atan belge hangisidir?", "o": ["Atlantik Bildirisi", "Wilson Prensipleri", "Yalta Kararları", "Monroe Doktrini", "Dumbarton Oaks Taslağı"], "c": 0, "e": "Atlantik Bildirisi, II. Dünya Savaşı'nın Wilson prensipleri sayılır ve BM'nin temelini atmıştır."},
+    {"q": "Birleşmiş Milletler'in kuruluş aşamaları göz önüne alındığında, teşkilatın RESMEN kurulduğu konferans aşağıdakilerden hangisidir?", "o": ["Atlantik Bildirisi", "Yalta Konferansı", "Dumbarton Oaks Konferansı", "San Francisco Konferansı", "Paris Barış Konferansı"], "c": 3, "e": "BM'nin temeli Atlantik'te atıldı, kararı Yalta'da alındı, taslağı Dumbarton Oaks'ta hazırlandı, resmen San Francisco'da kuruldu."},
+    {"q": "Birleşmiş Milletler fikrini ortaya atan ilk kişi olarak gösterilen ve 2025 AGS'de eğitim çalışmalarıyla sorulan düşünür kimdir?", "o": ["İbn Haldun", "Farabi", "Biruni", "İbn Sina", "Gazali"], "c": 1, "e": "Birleşmiş Milletler fikrini ilk ortaya atan kişi Farabi olarak gösterilir."},
+    {"q": "Aşağıdaki Birleşmiş Milletler kurumu-görev eşleştirmelerinden hangisi yanlıştır?", "o": ["UNICEF – çocuklara yardım", "UNESCO – eğitim, bilim, kültür", "WHO – sağlık", "FAO – gıda ve tarım", "ILO – nüfus hareketleri"], "c": 4, "e": "Nüfus hareketleri fonu UNFPA'dır; ILO ise uluslararası çalışma örgütüdür."}
+  ],
+  "eslestir": [
+    {
+      "ad": "Devlet – Lider",
+      "p": [
+        ["Almanya", "Adolf Hitler"],
+        ["İtalya", "Benito Mussolini"],
+        ["Japonya", "İmparator Hirohito"],
+        ["Fransa", "Charles de Gaulle"],
+        ["SSCB", "Josef Stalin"],
+        ["ABD (savaş sonu)", "Harry Truman"]
+      ]
+    },
+    {
+      "ad": "Devlet – Politika/Slogan",
+      "p": [
+        ["Almanya", "Lebensraum (hayat sahası)"],
+        ["İtalya", "Mare Nostrum (bizim deniz)"],
+        ["Japonya", "Ortak Refah Alanı / Asya Asyalılarındır"],
+        ["ABD", "Monroe (yalnızlık/infirat)"],
+        ["İngiltere (Chamberlain)", "Yatıştırma politikası"]
+      ]
+    },
+    {
+      "ad": "Harekat – Açıklama",
+      "p": [
+        ["Meşale (Torch)", "Eisenhower – Cezayir ve Fas"],
+        ["Merkür", "Girit adasının ele geçirilmesi"],
+        ["Kartal Hücumu", "İngiltere'ye hava saldırısı"],
+        ["Barbarossa", "SSCB'ye saldırı"],
+        ["Normandiya Çıkarması", "Avrupa'yı Alman işgalinden kurtarma"],
+        ["Yıldırım Harekatı", "Almanya'nın hızlı genel taarruzları"]
+      ]
+    },
+    {
+      "ad": "Pakt/Kavram – İçerik",
+      "p": [
+        ["Antikomintern Paktı (1937)", "Almanya-İtalya-Japonya"],
+        ["Çelik Pakt (1939)", "Almanya-İtalya"],
+        ["Anschluss", "Almanya-Avusturya birleşmesi"],
+        ["Auschwitz", "Polonya'daki ölüm kampı"],
+        ["Vichy hükümeti", "Mareşal Petain – Alman yanlısı"],
+        ["Maginot hattı", "Fransa'nın savunma hattı"]
+      ]
+    },
+    {
+      "ad": "BM Aşaması / Kurumu",
+      "p": [
+        ["Atlantik Bildirisi", "BM'nin temelinin atılması"],
+        ["Yalta Konferansı", "BM kurulma kararı"],
+        ["San Francisco Konferansı", "BM'nin resmen kurulması"],
+        ["UNICEF", "Çocuklara yardım fonu"],
+        ["UNESCO", "Eğitim, bilim, kültür örgütü"],
+        ["FAO", "Gıda ve tarım örgütü"]
+      ]
+    }
+  ]
+}

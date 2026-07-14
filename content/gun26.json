@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "gun": 26,
+    "baslik": "Soğuk Savaş Dönemi (2. Kısım: Uzakdoğu, Türkiye ve Demokrat Parti)",
+    "ozet": "Soğuk Savaş'ın devamı: Çin ve Kore Savaşı, Uzakdoğu örgütleri (SEATO/ANZUS/ASEAN), Türkiye'nin katıldığı paktlar, çok partili hayata geçiş ve Demokrat Parti dönemi.",
+    "tahminiSoru": "KPSS/AGS'de ~3-4 soru",
+    "duzeltmeler": [
+      "Transkript boyunca Tactiq 'Mao Zedong'u 'Maozedong', 'Made'in PRC' (Mainland PRC / Çin Halk Cumhuriyeti) olarak bozmuş.",
+      "'Potstam / Potam' → Potsdam Konferansı.",
+      "'Tasin Yazıcı' → Tahsin Yazıcı (Kore Savaşı komutanı).",
+      "'Panmuncom / Panmuncomjom / Panmunjon' → Panmunjom (ateşkes/köy).",
+      "'Manilla' → Manila Paktı; 'Seato' → SEATO; 'Anzus/Ansus' → ANZUS; 'Asan' → ASEAN.",
+      "'Sento / Sente' → CENTO (Bağdat Paktı'nın yeni adı).",
+      "'Nuri Demirağ' transkriptte 'Demiral/Demir' diye de geçiyor → Nuri Demirağ.",
+      "'İsmet İnönü' sürekli 'İsmet'in Önü / İsmettin Önü' olarak bozulmuş.",
+      "'Cemuzan/Cemuza' → Cem Uzan (Genç Parti benzetmesi).",
+      "'Sputnik' → 'Spiknik/Spuknik' olarak bozulmuş.",
+      "'Sınayi Bankası' → Sınai; 'Selüoz' → Selüloz.",
+      "'Müzeyyan/Müzeyyen Sener' → Müzeyyen Senar; 'Sefa Onal/Safa Önald' → Safa Önal.",
+      "'Muscin Ertuğrul' → Muhsin Ertuğrul; 'Bretton Wood' → Bretton Woods.",
+      "'OTTÜ/ODOTÜ/OTD' → ODTÜ (ilk internet).",
+      "Ömer Lütfi 'AD' + 'Vurun' → Ömer Lütfü Akad, 'Vurun Kahpeye' filmi.",
+      "Hoca 'IMF'ye borçlandık' derken bir an 'Dünya Bankası' dedi; kastedilen IMF."
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Uzakdoğu — Çin",
+      "i": [
+        { "k": "Mao Zedong → ÇHC + Kültür İhtilali", "m": "Çin Halk Cumhuriyeti'ni kuran ve içinde Kültür İhtilali'ni yapan lider Mao Zedong'dur.", "s": "z" },
+        { "k": "Çin = DOĞU yanlısı", "m": "Çin batının uzun sömürüsü yüzünden hep doğu yanlısı (İran, Rusya ile) politika izler.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Kore Savaşı (38. Enlem Sorunu)",
+      "i": [
+        { "k": "Yalta → ikiye, Potsdam → 38. enlem", "m": "Kore Yalta Konferansı'nda ikiye ayrıldı; Potsdam Konferansı'nda 38. enlem sınır belirlendi.", "s": "z" },
+        { "k": "Kuzey = SSCB+Çin+sosyalizm / Güney = ABD+cumhuriyet", "m": "Kuzey Kore'de SSCB etkisiyle sosyalizm, Güney Kore'de ABD etkisiyle cumhuriyet kuruldu.", "s": "z" },
+        { "k": "Şimal Yıldızı", "m": "Kore'ye (Güney'e yardıma) giden Türk birliklerinin adı. Muhtemel soru adayı.", "s": "z" },
+        { "k": "Tahsin Yazıcı", "m": "Şimal Yıldızı birliklerinin başındaki komutan. Muhtemel soru adayı.", "s": "z" },
+        { "k": "Kutup Yıldızı", "m": "Kore Savaşı'nı Türk halkına duyurmak için çıkarılan gazete.", "s": "z" },
+        { "k": "Kunuri Muharebeleri", "m": "Türk birliklerinin süngü savaşıyla çemberi yararak NATO ve kendi askerini kurtardığı, başarılı olduğu muharebeler.", "s": "z" },
+        { "k": "Kore başarısı → 1952 NATO", "m": "Kore Savaşı'ndaki başarımız 1952'de NATO'ya kabulümüzün önünü açtı; SSCB'nin boğazlar baskısı da NATO'ya iteledi.", "s": "z" },
+        { "k": "Panmunjom", "m": "Kore Savaşı'nı bitiren ateşkes/anlaşma; Panmunjom köyünde imzalandığı için bu adı aldı.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Uzakdoğu Örgütleri",
+      "i": [
+        { "k": "SEATO = Manila Paktı", "m": "Güneydoğu Asya Anlaşma Teşkilatı; NATO'nun Güneydoğu Asya versiyonu. ABD-İngiltere-Fransa öncülüğünde.", "s": "z" },
+        { "k": "ANZUS = ABD+Avustralya+Yeni Zelanda", "m": "1951 güvenlik anlaşması; Büyük Okyanus'ta saldırıya karşı ortak yardım. (Çanakkale'deki 'Anzak'tan hatırla.)", "s": "z" },
+        { "k": "ASEAN = AB'nin GD Asya versiyonu", "m": "1967 Güneydoğu Asya Milletleri Birliği; Vietnam kaynaklı komünist genişlemeye karşı (Filipinler, Malezya, Tayland, Endonezya, Singapur).", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türkiye'nin Katıldığı Örgütler / Paktlar",
+      "i": [
+        { "k": "Avrupa Konseyi (1949)", "m": "İnsan hakları, demokrasi, hukukun üstünlüğü için; Türkiye üye. Rusya (Rus-Ukrayna Savaşı nedeniyle) kovuldu.", "s": "z" },
+        { "k": "NATO (1949) → ilk temsilci Fatin Rüştü Zorlu", "m": "Kuzey Atlantik Paktı; SSCB tehdidine karşı askeri birlik. Türkiye 1952'de üye. (Milletler Cemiyeti ilk temsilci: Cemal Hüsnü Taray).", "s": "z" },
+        { "k": "Balkan Paktı (1953): Türkiye-Yunanistan-Yugoslavya", "m": "SSCB ve Bulgaristan baskısına karşı. Romanya YOK. (Yunanistan Kıbrıs, Yugoslavya Stalin sonrası yakınlaşma yüzünden ayrıldı → dağıldı.)", "s": "z" },
+        { "k": "Bağdat Paktı/CENTO (1955): Türkiye-İran-Irak-Pakistan-İngiltere", "m": "SSCB'nin Ortadoğu'daki etkinliğini kırmak için. Afganistan YOK. Irak çekilince merkez Ankara oldu, adı CENTO'ya döndü.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Çok Partili Hayata Geçiş",
+      "i": [
+        { "k": "Müstakil Grup (1939)", "m": "CHP'nin kendi içinden çıkardığı 20 milletvekilinden oluşan, parti içi denetim yetkisine sahip grup. Muhtemel soru adayı.", "s": "z" },
+        { "k": "Milli Kalkınma Partisi → Nuri Demirağ", "m": "Atatürk'ün ölümü/II. Dünya Savaşı sonrası çok partili hayata geçiş yolunda kurulan İLK parti. Kurucu Nuri Demirağ. Muhtemel soru adayı.", "s": "z" },
+        { "k": "Kuzu Çevirme Partisi", "m": "Milli Kalkınma Partisi'nin lakabı; Nuri Demirağ mitinglerde kuzu çevirttiği için.", "s": "z" },
+        { "k": "CAFER = Dörtlü Takrir verenler", "m": "Celal Bayar, Adnan Menderes, Fuat Köprülü, Refik Koraltan. CHP uygulamaları + Çiftçiyi Topraklandırma Kanunu'na karşı çıktılar.", "s": "z" },
+        { "k": "Demokrat Parti → 'Yeter! Söz milletindir'", "m": "Dörtlü Takrir reddedilince Cafer CHP'den ayrılıp DP'yi kurdu. Sloganı bu.", "s": "z" },
+        { "k": "Millet Partisi = DP'den ayrılanlar", "m": "Fevzi Çakmak, Yusuf Hikmet Bayur, Osman Bölükbaşı Demokrat Parti'den ayrılarak kurdu.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Seçimler ve Belgeler",
+      "i": [
+        { "k": "1946: açık oy–kapalı sayım", "m": "Türk demokrasi tarihinin kara lekesi; ama ilk defa TEK DERECELİ seçim de bu seçimde. CHP kazandı.", "s": "z" },
+        { "k": "1950: kapalı oy–açık sayım + YSK", "m": "YSK bu seçim için kuruldu (1960/1980 darbesi DEĞİL). DP kazandı = 'beyaz devrim'; 27 yıllık CHP iktidarı bitti.", "s": "z" },
+        { "k": "Hürriyet Misakı (1947)", "m": "DP'nin 1. kongresinde kabul; 'çok partili döneme geçildi ama tek parti gibi davranıyorsunuz' eleştirisi.", "s": "z" },
+        { "k": "12 Temmuz Beyannamesi → İsmet İnönü", "m": "İktidar-muhalefet gerilimini azaltıp normal çok partili sistemi amaçlayan bildirge.", "s": "z" },
+        { "k": "İnönü: 'En büyük yenilgim, en büyük zaferimdir'", "m": "1950 sözü: iktidarı kaybetti (yenilgi) ama ülkeyi çok partili hayata kavuşturdu (zafer).", "s": "z" }
+      ]
+    },
+    {
+      "b": "Demokrat Parti Dönemi Üçlüsü",
+      "i": [
+        { "k": "Celal Bayar = Cumhurbaşkanı", "m": "3. cumhurbaşkanı, ilk SİVİL kökenli. Galip Hoca (Aydın/Nazilli kongreleri), İş Bankası ilk gn. md., Atatürk döneminin son başbakanı. 2023-2024 KPSS'de geldi.", "s": "z" },
+        { "k": "Adnan Menderes = Başbakan", "m": "1960 darbesi sonrası Fatin Rüştü Zorlu ile birlikte idam edildi.", "s": "z" },
+        { "k": "Refik Koraltan = Meclis Başkanı", "m": "Dörtlü Takrir verenlerdendi; DP döneminde TBMM Başkanı oldu.", "s": "z" }
+      ]
+    },
+    {
+      "b": "DP Dönemi — Atatürk ve Eğitim",
+      "i": [
+        { "k": "Atatürk'ü Koruma Kanunu", "m": "Menderes döneminde çıktı; Atatürk anıt/heykellerine zarar verenleri cezalandırır.", "s": "z" },
+        { "k": "Naş → Anıtkabir (1953)", "m": "Atatürk'ün naşı Etnografya Müzesi'nden Anıtkabir'e taşındı.", "s": "z" },
+        { "k": "Atatürk Ü. + KTÜ + ODTÜ", "m": "Erzurum Atatürk, Trabzon Karadeniz Teknik, Ankara Ortadoğu Teknik üniversiteleri DP döneminde kuruldu.", "s": "z" },
+        { "k": "Köy Enstitüleri + Halk Evleri KAPATILDI", "m": "1940'ta İnönü/Hasan Âli Yücel'in kurduğu Köy Enstitüleri ve 1932'de Türk Ocakları yerine kurulan Halk Evleri DP döneminde kapatıldı.", "s": "z" }
+      ]
+    },
+    {
+      "b": "DP Dönemi — Ekonomi",
+      "i": [
+        { "k": "Petrol Kanunu → TPAO", "m": "Yabancı şirketlere Türkiye'de petrol arama izni verildi; ardından TPAO (Türkiye Petrolleri A.O.) kuruldu.", "s": "z" },
+        { "k": "Türkiye Sınai Bankası", "m": "İlk ÖZEL SERMAYELİ kalkınma/yatırım bankası. (İlk özel banka İş Bankası'dır — karıştırma!)", "s": "z" },
+        { "k": "Osmanlı borcu bitti ↔ IMF borcu başladı", "m": "Osmanlı'dan kalan (Hoover Moratoryumu ile taksitlenen) borçların son taksidi bu dönemde ödendi; IMF'ye borçlanıldı (2000'lerde kapandı).", "s": "z" },
+        { "k": "Marshall + Liberal ekonomi + Yabancı Sermayeyi Teşvik", "m": "Marshall yardımı alındı; devletçilikten liberal modele geçildi; Yabancı Sermayeyi Teşvik Yasası çıktı.", "s": "z" }
+      ]
+    },
+    {
+      "b": "DP Dönemi — Kamu İktisadi Kuruluşları (KİK)",
+      "i": [
+        { "k": "MKE + DMO + Ereğli D.Ç. + Selüloz-Kâğıt", "m": "Makine Kimya Endüstrisi, Devlet Malzeme Ofisi, Ereğli Demir Çelik, Türkiye Selüloz ve Kâğıt bu dönemin KİK'leri.", "s": "z" },
+        { "k": "TPAO + Türk Traktör + Et Balık Kurumu", "m": "Bu üçü de DP döneminde kurulan Kamu İktisadi Kuruluşları'ndandır.", "s": "z" }
+      ]
+    },
+    {
+      "b": "DP Dönemi — Tartışmalı Uygulamalar",
+      "i": [
+        { "k": "Ezan yeniden Arapça", "m": "DP döneminde ezan Arapçaya çevrildi. (Türkçe ezan ilk: İstanbul Fatih Camii, Hafız Rıfat Bey.)", "s": "z" },
+        { "k": "6-7 Eylül Olayları", "m": "Atatürk'ün Selanik'teki evinin Rumlarca yakıldığı iddiası → İstanbul'da Rum/Yunan mallarına saldırı. Menderes'e yöneltilen suçlamalardan biri.", "s": "z" },
+        { "k": "Dar bölge: Kırşehir→Nevşehir, Malatya→Adıyaman", "m": "Daha çok milletvekili için dar bölge sistemi; DP'ye oy vermeyen Kırşehir ilçe yapılıp Nevşehir'e bağlandı, Malatya'dan Adıyaman çıkarıldı.", "s": "z" },
+        { "k": "Vatan Cephesi", "m": "DP'nin il-ilçe teşkilatları ve gençlik kollarını birleştiren oluşum; toplumda kutuplaşmaya yol açtı.", "s": "z" },
+        { "k": "Tahkikat Komisyonu", "m": "Muhalefetin ve basının faaliyetlerini denetlemek (tahkik) için kuruldu.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Soğuk Savaş — Dünyadaki Gelişmeler",
+      "i": [
+        { "k": "Bretton Woods çöktü", "m": "II. Dünya Savaşı sonrası kurulan uluslararası para sistemi Soğuk Savaş döneminde çöktü.", "s": "z" },
+        { "k": "DNA yapısı çözüldü (1953) → Aziz Sancar", "m": "DNA'nın kimyasal yapısı çözüldü; DNA onarımı çalışmalarıyla Nobel Kimya'yı Aziz Sancar aldı.", "s": "z" },
+        { "k": "Sputnik 1 → NASA (1958)", "m": "SSCB ilk uydu Sputnik 1'i gönderdi; ABD cevaben 1958'de NASA'yı kurdu. Çocuk felci aşısı da bu dönem.", "s": "z" },
+        { "k": "İlk canlı yayın = Tokyo Olimpiyatları", "m": "Dünyadaki ilk canlı yayın Tokyo Olimpiyatları'nın yayınıyla oldu; ilk renkli TV yayını da bu dönem.", "s": "z" }
+      ]
+    },
+    {
+      "b": "Soğuk Savaş — Türkiye'deki İlkler",
+      "i": [
+        { "k": "İlk TV = İTÜ / İlk bilgisayar = Karayolları / İlk internet = ODTÜ", "m": "İlk TV yayını İstanbul Teknik Üniversitesi, ilk bilgisayar Karayolları Genel Müdürlüğü, ilk internet ODTÜ.", "s": "z" },
+        { "k": "Gümüş Motor → Necmettin Erbakan", "m": "Erbakan'ın tasarladığı gümüş motor; araba motoru olmadı ama pancar/'patpat' motoru olarak hayata geçti. (Devrim Arabaları = Cemal Gürsel dönemi, seri üretilemedi.)", "s": "z" },
+        { "k": "Safa Önal → Guinness", "m": "360 senaryosu filme aktarıldığı için Guinness Rekorlar Kitabı'na giren kişi Safa Önal. Muhtemel soru adayı.", "s": "z" },
+        { "k": "İlk renkli film = Halıcı Kız", "m": "Muhsin Ertuğrul'un 'Halıcı Kız' filmi (1953, Atlas Sineması). 'Vurun Kahpeye' (Ömer Lütfü Akad) = ilk Batı sineması etkisi.", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Uzakdoğu — Çin", "o": "Çin Halk Cumhuriyeti'ni kuran ve Kültür İhtilali'ni yapan lider kimdir?", "a": "Mao Zedong. Hem ÇHC'nin kuruluşu hem Kültür İhtilali sorulabilir." },
+    { "c": "Uzakdoğu — Çin", "o": "Çin batı yanlısı mı doğu yanlısı mı politika izler, neden?", "a": "Doğu yanlısı (İran-Rusya ile hareket eder); batının uzun yıllar Çin'i sömürmesi nedeniyle." },
+    { "c": "Kore Savaşı", "o": "Kore hangi konferansta ikiye ayrıldı, hangisinde 38. enlem sınır oldu?", "a": "Yalta'da ikiye ayrıldı, Potsdam'da 38. enlem sınır belirlendi. 'Kore Savaşı = 38. Enlem Sorunu'." },
+    { "c": "Kore Savaşı", "o": "Kuzey ve Güney Kore'yi kimler destekledi, hangi rejimler kuruldu?", "a": "Kuzey: SSCB (+Çin), sosyalizm. Güney: ABD, cumhuriyet. Türkiye Güney Kore'ye yardım etti." },
+    { "c": "Kore Savaşı", "o": "Kore'ye giden Türk birliklerinin adı ve komutanı kimdir?", "a": "Birlikler: Şimal Yıldızı. Komutan: Tahsin Yazıcı. İkisi de muhtemel soru adayı." },
+    { "c": "Kore Savaşı", "o": "Kore Savaşı için çıkarılan gazete hangisidir?", "a": "Kutup Yıldızı gazetesi. (Birlik = Şimal Yıldızı ile karıştırma.)" },
+    { "c": "Kore Savaşı", "o": "Türk ordusunun süngü savaşıyla başarı kazandığı muharebeler hangisidir?", "a": "Kunuri Muharebeleri. Çemberi yararak hem NATO hem Türk askerini kurtardılar." },
+    { "c": "Kore Savaşı", "o": "Türkiye'nin NATO'ya kabulünü (1952) hangi savaştaki başarısı sağladı?", "a": "Kore Savaşı. SSCB'nin boğazlar baskısı da NATO'ya girişi hızlandırdı." },
+    { "c": "Kore Savaşı", "o": "Kore Savaşı'nı bitiren ateşkes/anlaşma hangisidir?", "a": "Panmunjom Ateşkesi/Anlaşması. Panmunjom köyünde imzalandığı için bu adı aldı." },
+    { "c": "Uzakdoğu Örgütleri", "o": "Manila Paktı'nın (SEATO) açılımı ve mantığı nedir?", "a": "Güneydoğu Asya Anlaşma Teşkilatı. NATO'nun Güneydoğu Asya versiyonu. MEB kitabında yer alır." },
+    { "c": "Uzakdoğu Örgütleri", "o": "ANZUS (1951) hangi devletlerden oluşur, ne amaçlar?", "a": "ABD, Avustralya, Yeni Zelanda. Büyük Okyanus'ta saldırıya karşı ortak güvenlik. ('Anzak' → Çanakkale'den hatırla.)" },
+    { "c": "Uzakdoğu Örgütleri", "o": "ASEAN (1967) neyin karşılığıdır, neye karşı kuruldu?", "a": "Güneydoğu Asya Milletleri Birliği = Avrupa Birliği'nin GD Asya versiyonu. Vietnam kaynaklı komünist genişlemeye karşı." },
+    { "c": "Türkiye — Örgütler", "o": "Avrupa Konseyi (1949) neyi savunur, hangi devlet kovuldu?", "a": "İnsan hakları, demokrasi, hukukun üstünlüğü. Türkiye üye; Rusya (Rus-Ukrayna Savaşı) kovuldu." },
+    { "c": "Türkiye — Örgütler", "o": "Türkiye'nin NATO'daki ilk temsilcisi kimdir?", "a": "Fatin Rüştü Zorlu. Milletler Cemiyeti'ndeki ilk temsilcimiz Cemal Hüsnü Taray ile karıştırma!" },
+    { "c": "Türkiye — Örgütler", "o": "1953 Balkan Paktı'nda hangi devletler var, kim yok, neye karşı?", "a": "Türkiye-Yunanistan-Yugoslavya; Romanya YOK. SSCB ve Bulgaristan baskısına karşı." },
+    { "c": "Türkiye — Örgütler", "o": "1953 Balkan Paktı neden dağıldı?", "a": "Yunanistan Kıbrıs sorunu yüzünden, Yugoslavya Stalin sonrası SSCB'ye yakınlaşınca ayrıldı; pakt sona erdi." },
+    { "c": "Türkiye — Örgütler", "o": "Bağdat Paktı (1955) hangi devletlerden oluşur, kim yok, neyi hedefler?", "a": "Türkiye-İran-Irak-Pakistan-İngiltere; Afganistan YOK. SSCB'nin Ortadoğu etkinliğini kırmak için." },
+    { "c": "Türkiye — Örgütler", "o": "Bağdat Paktı'nın adının CENTO'ya değişmesine hangi devlet yol açtı?", "a": "Irak. Irak çekilince merkez Bağdat'tan Ankara'ya taşındı ve ad CENTO oldu. Sonra Pakistan-İran çekilince dağıldı." },
+    { "c": "Çok Partili Geçiş", "o": "Müstakil Grup nedir, ne zaman kuruldu?", "a": "CHP'nin 1939'da kendi içinden çıkardığı 20 milletvekili; parti içi denetim yetkisine sahip. Muhtemel soru adayı." },
+    { "c": "Çok Partili Geçiş", "o": "Atatürk sonrası çok partili hayata geçişte kurulan ilk parti ve kurucusu?", "a": "Milli Kalkınma Partisi; kurucu Nuri Demirağ. (İlk muhalefet partisi Terakkiperver C.F. ile karıştırma.)" },
+    { "c": "Çok Partili Geçiş", "o": "Milli Kalkınma Partisi'nin halk arasındaki lakabı nedir?", "a": "'Kuzu Çevirme Partisi'. Nuri Demirağ mitinglerde kuzu çevirttiği için." },
+    { "c": "Çok Partili Geçiş", "o": "Dörtlü Takrir'i verenler kimlerdir? ('Cafer')", "a": "Celal Bayar, Adnan Menderes, Fuat Köprülü, Refik Koraltan. CHP uygulamaları + Çiftçiyi Topraklandırma Kanunu'na karşı." },
+    { "c": "Çok Partili Geçiş", "o": "Dörtlü Takrir reddedilince ne oldu, hangi partinin sloganı 'Yeter! Söz milletindir'?", "a": "Cafer CHP'den ayrılıp Demokrat Parti'yi kurdu. Sloganı 'Yeter! Söz milletindir'." },
+    { "c": "Çok Partili Geçiş", "o": "Millet Partisi'ni kimler, hangi partiden ayrılarak kurdu?", "a": "Fevzi Çakmak, Yusuf Hikmet Bayur, Osman Bölükbaşı; Demokrat Parti'den ayrılarak kurdu." },
+    { "c": "Çok Partili Geçiş", "o": "Çiftçiyi Topraklandırma Kanunu neyi amaçlıyordu?", "a": "Topraksız köylüye devletçe toprak verip üretimi artırmak. Dörtlü Takrir'e konu oldu." },
+    { "c": "Seçimler", "o": "1946 seçimlerinin kara lekesi ve olumlu yönü nedir?", "a": "Kötü: açık oy–kapalı sayım. İyi: ilk defa TEK DERECELİ seçim. Seçimi CHP kazandı." },
+    { "c": "Seçimler", "o": "1950 seçimlerinde hangi ilke uygulandı, hangi kurum kuruldu?", "a": "Kapalı oy–açık sayım; YSK (Yüksek Seçim Kurulu) bu seçim için kuruldu. Tek dereceli sistem sürdü." },
+    { "c": "Seçimler", "o": "YSK ne zaman ve niçin kuruldu? (Sık çıkan tuzak)", "a": "1950 seçimlerini yönetip denetlemek için. 1960/1980 darbesi sonrası DEĞİL!" },
+    { "c": "Seçimler", "o": "1950 seçim sonucu ve İnönü'nün ünlü sözü nedir?", "a": "DP kazandı ('beyaz devrim'), 27 yıllık CHP iktidarı bitti. İnönü: 'En büyük yenilgim, en büyük zaferimdir.'" },
+    { "c": "Belgeler", "o": "Hürriyet Misakı nedir, kim kabul etti?", "a": "DP'nin 1947 1. kongresinde kabul; 'çok partili döneme geçildi ama tek parti gibi davranıyorsunuz' eleştirisi." },
+    { "c": "Belgeler", "o": "12 Temmuz Beyannamesi kim tarafından, ne amaçla çıkarıldı?", "a": "İsmet İnönü; iktidar-muhalefet gerilimini azaltıp normal çok partili sistemi sağlamak için." },
+    { "c": "DP Dönemi", "o": "Demokrat Parti döneminin cumhurbaşkanı, başbakanı ve meclis başkanı kimlerdir?", "a": "Cumhurbaşkanı Celal Bayar, Başbakan Adnan Menderes, Meclis Başkanı Refik Koraltan." },
+    { "c": "DP Dönemi", "o": "Celal Bayar'ın öne çıkan özellikleri nelerdir?", "a": "3. cumhurbaşkanı, ilk SİVİL kökenli; Galip Hoca (Aydın/Nazilli), İş Bankası ilk gn. md., Atatürk döneminin son başbakanı. 2023-2024 KPSS'de geldi." },
+    { "c": "DP Dönemi", "o": "1960 darbesi sonrası kimler idam edildi?", "a": "Başbakan Adnan Menderes ve NATO ilk temsilcisi Fatin Rüştü Zorlu." },
+    { "c": "DP Dönemi", "o": "Atatürk'ü Koruma Kanunu hangi dönemde, kim tarafından çıkarıldı?", "a": "Demokrat Parti (Adnan Menderes) döneminde. Atatürk anıt/heykellerine zarar verenleri cezalandırır." },
+    { "c": "DP Dönemi", "o": "Atatürk'ün naşı ne zaman ve nereye taşındı?", "a": "1953'te Etnografya Müzesi'nden Anıtkabir'e (Anıtkabir tamamlanınca), DP döneminde." },
+    { "c": "DP Dönemi", "o": "DP döneminde kurulan üniversiteler hangileridir?", "a": "Erzurum Atatürk Üniversitesi, Karadeniz Teknik Üniversitesi (KTÜ), Ortadoğu Teknik Üniversitesi (ODTÜ)." },
+    { "c": "DP Dönemi", "o": "DP döneminde hangi eğitim/halk kurumları kapatıldı?", "a": "Köy Enstitüleri (1940 İnönü/Hasan Âli Yücel) ve Halk Evleri (1932'de Türk Ocakları yerine kurulmuştu)." },
+    { "c": "DP Dönemi", "o": "Ezan konusunda DP döneminde ne oldu? Türkçe ezan ilk nerede okundu?", "a": "Ezan yeniden Arapçaya çevrildi. Türkçe ezan ilk: İstanbul Fatih Camii, Hafız Rıfat Bey." },
+    { "c": "DP Ekonomi", "o": "Petrol Kanunu ne getirdi, ardından hangi kurum kuruldu?", "a": "Yabancı şirketlere Türkiye'de petrol arama izni; ardından TPAO (Türkiye Petrolleri A.O.) kuruldu." },
+    { "c": "DP Ekonomi", "o": "Türkiye'nin ilk özel sermayeli kalkınma/yatırım bankası hangisidir?", "a": "Türkiye Sınai Bankası. (İlk ÖZEL banka ise İş Bankası — karıştırma!)" },
+    { "c": "DP Ekonomi", "o": "Osmanlı borçları ve IMF açısından DP döneminde ne oldu?", "a": "Osmanlı'dan kalan borçların son taksidi ödendi (bitti); ama IMF'ye borçlanıldı (2000'lerde kapandı)." },
+    { "c": "DP Ekonomi", "o": "DP döneminde ekonomi modeli ve dış yardım açısından ne değişti?", "a": "Devletçilikten liberal modele geçildi; Marshall yardımı alındı; Yabancı Sermayeyi Teşvik Yasası çıktı." },
+    { "c": "DP Ekonomi", "o": "DP döneminde kurulan Kamu İktisadi Kuruluşları (KİK) hangileridir?", "a": "MKE, Devlet Malzeme Ofisi, Ereğli Demir Çelik, Türkiye Selüloz-Kâğıt, TPAO, Türk Traktör, Et Balık Kurumu." },
+    { "c": "DP Tartışmalı", "o": "6-7 Eylül Olayları nedir?", "a": "Atatürk'ün Selanik'teki evinin yakıldığı iddiasıyla İstanbul'da Rum/Yunan mallarına saldırı. Menderes'e yöneltilen suçlamalardan biri." },
+    { "c": "DP Tartışmalı", "o": "Dar bölge seçim sistemiyle hangi il düzenlemeleri yapıldı?", "a": "DP'ye oy vermeyen Kırşehir ilçe yapılıp Nevşehir'e bağlandı; Malatya'dan Adıyaman çıkarıldı. 1957 seçimlerinde uygulandı." },
+    { "c": "DP Tartışmalı", "o": "Vatan Cephesi nedir?", "a": "DP'nin il-ilçe teşkilatları ile gençlik kollarını birleştiren oluşum; toplumda kutuplaşmaya yol açtı." },
+    { "c": "DP Tartışmalı", "o": "Tahkikat Komisyonu ne için kuruldu?", "a": "Muhalefetin ve basının faaliyetlerini denetlemek (tahkik etmek) için. Demokratik değildir." },
+    { "c": "DP Tartışmalı", "o": "Demokrat Parti dönemindeki Kıbrıs ve Adnan Menderes olayı nedir?", "a": "Kıbrıs sorununun tam başlangıcı bu dönemde; Menderes'in uçağı düştü ama kendisine bir şey olmadı." },
+    { "c": "Soğuk Savaş — Dünya", "o": "Soğuk Savaş döneminde çöken uluslararası para sistemi hangisidir?", "a": "Bretton Woods sistemi (II. Dünya Savaşı sonrası kurulmuştu)." },
+    { "c": "Soğuk Savaş — Dünya", "o": "DNA'nın yapısı ve Aziz Sancar bağlantısı nedir?", "a": "1953'te DNA'nın kimyasal yapısı çözüldü; DNA onarımı çalışmalarıyla Nobel Kimya'yı Türk bilim insanı Aziz Sancar aldı." },
+    { "c": "Soğuk Savaş — Dünya", "o": "Sputnik 1 ve NASA arasındaki ilişki nedir?", "a": "SSCB ilk uydu Sputnik 1'i gönderdi; ABD cevaben 1958'de NASA'yı kurdu. Çocuk felci aşısı da bu dönem." },
+    { "c": "Soğuk Savaş — Dünya", "o": "Dünyadaki ilk canlı yayın hangi olayla oldu? İlk Akdeniz Oyunları nerede?", "a": "İlk canlı yayın: Tokyo Olimpiyatları. İlk Akdeniz Oyunları: Mısır-İskenderiye. İlk Şampiyon Kulüpler Kupası: Real Madrid." },
+    { "c": "Soğuk Savaş — Dünya", "o": "Soğuk Savaş döneminin kültürel akımları/simgeleri nelerdir?", "a": "Rock and roll (Elvis Presley), Hippi hareketi (şiddete karşı barış), 'batının sanat başkenti' New York." },
+    { "c": "Soğuk Savaş — Türkiye", "o": "Türkiye'de ilk TV yayını, ilk bilgisayar ve ilk internet nerede kullanıldı?", "a": "İlk TV: İstanbul Teknik Üniversitesi (İTÜ). İlk bilgisayar: Karayolları Genel Müdürlüğü. İlk internet: ODTÜ." },
+    { "c": "Soğuk Savaş — Türkiye", "o": "Devrim Arabaları ve Gümüş Motor projeleri kime aittir?", "a": "Devrim Arabaları: Cemal Gürsel dönemi (seri üretilemedi). Gümüş Motor: Necmettin Erbakan (pancar/'patpat' motoru)." },
+    { "c": "Soğuk Savaş — Türkiye", "o": "360 senaryosu filme aktarılarak Guinness'e giren kişi kimdir?", "a": "Safa Önal. Muhtemel soru adayı." },
+    { "c": "Soğuk Savaş — Türkiye", "o": "Türkiye'nin ilk renkli filmi ve Batı sineması etkisini ilk gösteren film hangisidir?", "a": "İlk renkli film: Muhsin Ertuğrul 'Halıcı Kız' (1953, Atlas Sineması). İlk Batı etkisi: Ömer Lütfü Akad 'Vurun Kahpeye'." },
+    { "c": "Soğuk Savaş — Türkiye", "o": "Bu dönemde ünlenen müzisyenler ve edebi akımlar hangileridir?", "a": "Müzik: Neşet Ertaş, Zeki Müren, Müzeyyen Senar. Edebiyat: Garip akımı, Hisarcılar, İkinci Yeniciler." },
+    { "c": "Soğuk Savaş — Türkiye", "o": "1953'te Çanakkale Boğazı'nda batan denizaltı hangisidir?", "a": "Dumlupınar denizaltısı. Bu dönemde köyden kente göç arttı, arabeskin de önü açıldı." }
+  ],
+  "tuzak": [
+    { "q": "Kore'ye giden Türk birliklerinin adı hangisidir?", "o": ["Kutup Yıldızı", "Şimal Yıldızı"], "c": 1, "n": "Şimal Yıldızı = BİRLİK; Kutup Yıldızı = GAZETE. Sık karıştırılır." },
+    { "q": "Kore Savaşı için çıkarılan gazete hangisidir?", "o": ["Şimal Yıldızı", "Kutup Yıldızı"], "c": 1, "n": "Gazete Kutup Yıldızı; Şimal Yıldızı ise gönderdiğimiz birliğin adı." },
+    { "q": "Kore Yalta'da mı Potsdam'da mı 38. enlemden ikiye ayrıldı?", "o": ["Yalta'da 38. enlem sınır oldu", "Potsdam'da 38. enlem sınır oldu"], "c": 1, "n": "Yalta = ikiye ayrılma kararı; Potsdam = 38. enlem sınır belirlenmesi." },
+    { "q": "Türkiye'nin NATO'daki ilk temsilcisi kimdir?", "o": ["Cemal Hüsnü Taray", "Fatin Rüştü Zorlu"], "c": 1, "n": "NATO ilk temsilci Fatin Rüştü Zorlu; Cemal Hüsnü Taray ise Milletler Cemiyeti ilk temsilcimiz." },
+    { "q": "1953 Balkan Paktı'nda hangi devlet YOKTUR?", "o": ["Yugoslavya", "Romanya"], "c": 1, "n": "1934 Balkan Antantı'nda olan Romanya, 1953 Balkan Paktı'nda yoktur." },
+    { "q": "Bağdat Paktı'nda (1955) hangi devlet YOKTUR?", "o": ["Pakistan", "Afganistan"], "c": 1, "n": "Sadabat'ta (1937) olan Afganistan, Bağdat Paktı'nda yoktur; yerine Pakistan (ve İngiltere) var." },
+    { "q": "1934 Balkan Antantı ile 1953 Balkan Paktı'nı ayıran devlet hangisidir?", "o": ["Yunanistan", "Romanya"], "c": 1, "n": "İki paktın da ortak üyeleri Türkiye-Yunanistan-Yugoslavya; fark Romanya'nın 1953'te olmayışı." },
+    { "q": "Bağdat Paktı'nın adının CENTO'ya değişmesine hangi devlet yol açtı?", "o": ["Pakistan", "Irak"], "c": 1, "n": "Irak çekilince merkez Bağdat'tan Ankara'ya taşındı; ad CENTO oldu." },
+    { "q": "SEATO neyin, ASEAN neyin GD Asya versiyonudur?", "o": ["SEATO = AB, ASEAN = NATO", "SEATO = NATO, ASEAN = AB"], "c": 1, "n": "SEATO askeri (NATO), ASEAN ekonomik-siyasi birlik (AB) karşılığıdır." },
+    { "q": "Atatürk sonrası çok partili hayata geçişte kurulan İLK parti hangisidir?", "o": ["Terakkiperver Cumhuriyet Fırkası", "Milli Kalkınma Partisi"], "c": 1, "n": "Terakkiperver ilk MUHALEFET partisi; Milli Kalkınma Partisi ise çok partili geçişte kurulan ilk parti." },
+    { "q": "Milli Kalkınma Partisi'nin kurucusu kimdir?", "o": ["Fevzi Çakmak", "Nuri Demirağ"], "c": 1, "n": "Kurucu Nuri Demirağ; Fevzi Çakmak Millet Partisi kurucularındandır." },
+    { "q": "Millet Partisi'ni kuranlar hangi partiden ayrıldı?", "o": ["CHP'den", "Demokrat Parti'den"], "c": 1, "n": "CHP'den ayrılanlar DP'yi, DP'den ayrılanlar (Fevzi Çakmak vb.) Millet Partisi'ni kurdu." },
+    { "q": "1946 seçimlerinde hangi ilke uygulandı?", "o": ["Kapalı oy – açık sayım", "Açık oy – kapalı sayım"], "c": 1, "n": "1946 kara lekesi açık oy–kapalı sayım; 1950'de tam tersi (kapalı oy–açık sayım) uygulandı." },
+    { "q": "Tek dereceli seçim sistemi ilk hangi seçimde uygulandı?", "o": ["1950 seçimleri", "1946 seçimleri"], "c": 1, "n": "Tek dereceli sistem ilk 1946'da; kötü yönü (açık oy–kapalı sayım) ile karıştırma, bu iyi yönüdür." },
+    { "q": "YSK hangi olay için kuruldu?", "o": ["1960 darbesi sonrası", "1950 seçimleri için"], "c": 1, "n": "YSK 1950 seçimlerini yönetip denetlemek için kuruldu; darbelerle ilgisi yoktur." },
+    { "q": "'Çok partili döneme geçildi ama tek parti gibi davranıyorsunuz' eleştirisi hangi belgede?", "o": ["12 Temmuz Beyannamesi", "Hürriyet Misakı"], "c": 1, "n": "Hürriyet Misakı DP'nin CHP'yi eleştirisi; 12 Temmuz Beyannamesi ise İnönü'nün gerilim azaltma belgesi." },
+    { "q": "İktidar-muhalefet gerilimini azaltmayı amaçlayan belge hangisidir?", "o": ["Hürriyet Misakı", "12 Temmuz Beyannamesi"], "c": 1, "n": "12 Temmuz Beyannamesi = İnönü, gerilim azaltma; Hürriyet Misakı = DP'nin eleştirisi." },
+    { "q": "Türkiye'nin ilk özel bankası ile ilk özel sermayeli kalkınma bankası aynı mı?", "o": ["Evet, ikisi de İş Bankası", "Hayır; ilk özel = İş Bankası, ilk özel kalkınma = Türkiye Sınai Bankası"], "c": 1, "n": "İlk özel banka İş Bankası; ilk özel sermayeli kalkınma/yatırım bankası Türkiye Sınai Bankası." },
+    { "q": "Atatürk'ü Koruma Kanunu hangi dönemde çıktı?", "o": ["İsmet İnönü dönemi", "Demokrat Parti (Menderes) dönemi"], "c": 1, "n": "Sezgisel olarak İnönü beklenir ama kanun DP/Menderes döneminde çıkmıştır." },
+    { "q": "Köy Enstitüleri hangi dönemde kuruldu, hangi dönemde kapatıldı?", "o": ["DP kurdu, İnönü kapattı", "İnönü kurdu, DP kapattı"], "c": 1, "n": "1940'ta İnönü/Hasan Âli Yücel kurdu; Demokrat Parti döneminde kapatıldı." },
+    { "q": "Devrim Arabaları hangi döneme aittir?", "o": ["Necmettin Erbakan (Gümüş Motor)", "Cemal Gürsel dönemi"], "c": 1, "n": "Devrim Arabaları Cemal Gürsel dönemi (seri üretilemedi); Gümüş Motor ise Erbakan'ın projesi." },
+    { "q": "Türkiye'de ilk internet nerede kullanıldı?", "o": ["İstanbul Teknik Üniversitesi", "ODTÜ"], "c": 1, "n": "İlk internet ODTÜ; İTÜ ise ilk TV yayını. İlk bilgisayar Karayolları Genel Müdürlüğü." },
+    { "q": "Türkiye'de ilk TV yayınını kim yaptı?", "o": ["ODTÜ", "İstanbul Teknik Üniversitesi"], "c": 1, "n": "İlk TV yayını İTÜ; ODTÜ ise ilk internet." },
+    { "q": "Türkiye'nin ilk renkli filmi hangisidir?", "o": ["Vurun Kahpeye", "Halıcı Kız"], "c": 1, "n": "İlk renkli film Halıcı Kız (Muhsin Ertuğrul); Vurun Kahpeye ise Batı sineması etkisini ilk gösteren film." },
+    { "q": "Çin batı yanlısı mı, doğu yanlısı mı politika izler?", "o": ["Batı yanlısı", "Doğu yanlısı"], "c": 1, "n": "Batının uzun sömürüsü nedeniyle Çin doğu yanlısı (İran-Rusya ile) politika izler." },
+    { "q": "Türk ordusunun süngü savaşıyla başarılı olduğu muharebe hangisidir?", "o": ["Panmunjom", "Kunuri"], "c": 1, "n": "Kunuri = muharebe/başarı; Panmunjom = savaşı bitiren ateşkes." },
+    { "q": "Kore Savaşı'nı bitiren ateşkes hangisidir?", "o": ["Kunuri Ateşkesi", "Panmunjom Ateşkesi"], "c": 1, "n": "Panmunjom = ateşkes; Kunuri = Türk ordusunun başarı kazandığı muharebe adı." },
+    { "q": "DNA onarımı çalışmalarıyla Nobel Kimya alan Türk kimdir?", "o": ["Necmettin Erbakan", "Aziz Sancar"], "c": 1, "n": "Aziz Sancar DNA onarımı ile Nobel Kimya aldı; DNA yapısı Soğuk Savaş döneminde (1953) çözüldü." },
+    { "q": "1953 Balkan Paktı'ndan Yunanistan neden ayrıldı?", "o": ["Stalin'in ölümü", "Kıbrıs sorunu"], "c": 1, "n": "Yunanistan Kıbrıs sorunu yüzünden ayrıldı; Yugoslavya ise Stalin sonrası SSCB'ye yakınlaşınca ayrıldı." },
+    { "q": "İlk sivil kökenli cumhurbaşkanımız kimdir?", "o": ["Adnan Menderes", "Celal Bayar"], "c": 1, "n": "3. cumhurbaşkanı Celal Bayar ilk sivil kökenli. Menderes başbakandı." },
+    { "q": "'En büyük yenilgim, en büyük zaferimdir' sözü kime ve hangi seçime aittir?", "o": ["Menderes – 1946", "İnönü – 1950"], "c": 1, "n": "İnönü'nün 1950 sözü: iktidarı kaybetti ama çok partili hayata geçirdi." },
+    { "q": "Türkçe ezan ilk nerede okundu?", "o": ["Selanik", "İstanbul Fatih Camii"], "c": 1, "n": "İlk Türkçe ezan Fatih Camii'nde (Hafız Rıfat Bey). DP döneminde ezan yeniden Arapçaya çevrildi." },
+    { "q": "Dar bölge sistemiyle Kırşehir ne yapıldı?", "o": ["İl yapılıp Adıyaman'a bağlandı", "İlçe yapılıp Nevşehir'e bağlandı"], "c": 1, "n": "Kırşehir ilçe yapılıp Nevşehir'e bağlandı; Malatya'dan ise Adıyaman çıkarıldı." },
+    { "q": "1960 darbesi sonrası idam edilenler kimlerdir?", "o": ["Celal Bayar ve Refik Koraltan", "Adnan Menderes ve Fatin Rüştü Zorlu"], "c": 1, "n": "İdam edilenler Başbakan Menderes ve NATO ilk temsilcisi Fatin Rüştü Zorlu." }
+  ],
+  "deneme": [
+    {
+      "q": "Aşağıdakilerden hangisi Kore Savaşı ile ilgili doğru bir eşleştirme değildir?",
+      "o": [
+        "Türk birlikleri – Şimal Yıldızı",
+        "Türk komutan – Tahsin Yazıcı",
+        "Çıkarılan gazete – Kutup Yıldızı",
+        "Başarılı muharebe – Kunuri",
+        "Savaşı bitiren ateşkes – Kunuri"
+      ],
+      "c": 4,
+      "e": "Kunuri bir muharebe adıdır; savaşı bitiren ateşkes Panmunjom'dur."
+    },
+    {
+      "q": "Kore'nin ikiye ayrılması ve 38. enlemin sınır olması sırasıyla hangi konferanslarda kararlaştırılmıştır?",
+      "o": [
+        "Yalta – Potsdam",
+        "Potsdam – Yalta",
+        "Yalta – Tahran",
+        "Tahran – Potsdam",
+        "Potsdam – Kahire"
+      ],
+      "c": 0,
+      "e": "Kore Yalta Konferansı'nda ikiye ayrıldı, Potsdam Konferansı'nda 38. enlem sınır belirlendi."
+    },
+    {
+      "q": "Türkiye'nin NATO'ya kabul edilmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": [
+        "Türkiye NATO'nun kurucu üyesidir",
+        "Kore Savaşı'ndaki başarı üzerine 1952'de üye olmuştur",
+        "Balkan Paktı sonrası 1953'te üye olmuştur",
+        "İlk temsilcisi Cemal Hüsnü Taray'dır",
+        "SSCB'nin desteğiyle üye olmuştur"
+      ],
+      "c": 1,
+      "e": "NATO 1949'da kuruldu; Türkiye Kore'deki başarısıyla 1952'de üye oldu. İlk temsilci Fatin Rüştü Zorlu'dur."
+    },
+    {
+      "q": "Aşağıdaki örgüt-benzetme eşleştirmelerinden hangisi yanlıştır?",
+      "o": [
+        "SEATO – NATO'nun Güneydoğu Asya versiyonu",
+        "ASEAN – Avrupa Birliği'nin Güneydoğu Asya versiyonu",
+        "ANZUS – ABD, Avustralya, Yeni Zelanda güvenlik anlaşması",
+        "SEATO – Manila Paktı",
+        "ASEAN – NATO'nun Güneydoğu Asya versiyonu"
+      ],
+      "c": 4,
+      "e": "ASEAN, AB'nin karşılığıdır; NATO'nun GD Asya versiyonu SEATO'dur."
+    },
+    {
+      "q": "1953 Balkan Paktı ile ilgili olarak;\nI. Türkiye, Yunanistan ve Yugoslavya yer almıştır.\nII. SSCB ve Bulgaristan baskısına karşı kurulmuştur.\nIII. Romanya kurucu üyelerdendir.\nyargılarından hangileri doğrudur?",
+      "o": [
+        "Yalnız I",
+        "Yalnız III",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "c": 2,
+      "e": "Romanya 1934 Balkan Antantı'nda vardı; 1953 Balkan Paktı'nda yoktur. I ve II doğrudur."
+    },
+    {
+      "q": "Bağdat Paktı'nın (1955) adının CENTO olarak değişmesine ve merkezinin Ankara'ya taşınmasına yol açan gelişme aşağıdakilerden hangisidir?",
+      "o": [
+        "İngiltere'nin pakttan çekilmesi",
+        "Irak'ın pakttan çekilmesi",
+        "İran'ın pakttan çekilmesi",
+        "Pakistan'ın pakttan çekilmesi",
+        "Afganistan'ın pakta katılması"
+      ],
+      "c": 1,
+      "e": "Merkez Bağdat olduğu için Irak çekilince merkez Ankara'ya taşındı ve ad CENTO oldu."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Bağdat Paktı'nda (1955) yer ALMAZ?",
+      "o": [
+        "Türkiye",
+        "İran",
+        "Irak",
+        "Afganistan",
+        "Pakistan"
+      ],
+      "c": 3,
+      "e": "Afganistan 1937 Sadabat Paktı'ndaydı; Bağdat Paktı'nda Afganistan yerine Pakistan (ve İngiltere) vardır."
+    },
+    {
+      "q": "Atatürk'ün ölümünün ardından çok partili hayata geçiş yolunda kurulan ilk parti ve kurucusu aşağıdakilerden hangisidir?",
+      "o": [
+        "Milli Kalkınma Partisi – Nuri Demirağ",
+        "Demokrat Parti – Celal Bayar",
+        "Millet Partisi – Fevzi Çakmak",
+        "Terakkiperver Cumhuriyet Fırkası – Kâzım Karabekir",
+        "Serbest Cumhuriyet Fırkası – Ali Fethi Okyar"
+      ],
+      "c": 0,
+      "e": "Çok partili geçişte kurulan ilk parti Milli Kalkınma Partisi'dir; kurucusu Nuri Demirağ'dır."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Dörtlü Takrir'i veren isimlerden biri değildir?",
+      "o": [
+        "Celal Bayar",
+        "Adnan Menderes",
+        "Fuat Köprülü",
+        "Refik Koraltan",
+        "Fevzi Çakmak"
+      ],
+      "c": 4,
+      "e": "Dörtlü Takrir'i veren 'Cafer': Celal Bayar, Adnan Menderes, Fuat Köprülü, Refik Koraltan. Fevzi Çakmak Millet Partisi kurucusudur."
+    },
+    {
+      "q": "1946 seçimleriyle ilgili olarak;\nI. Açık oy – kapalı sayım ilkesi uygulanmıştır.\nII. İlk defa tek dereceli seçim sistemi uygulanmıştır.\nIII. Seçimi Demokrat Parti kazanmıştır.\nyargılarından hangileri doğrudur?",
+      "o": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve II",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "c": 2,
+      "e": "1946 seçimini CHP kazandı (III yanlış). Açık oy–kapalı sayım ve ilk tek dereceli sistem doğrudur."
+    },
+    {
+      "q": "Yüksek Seçim Kurulu'nun (YSK) kuruluş amacı ve dönemi aşağıdakilerden hangisidir?",
+      "o": [
+        "1960 darbesinin ardından yargıyı denetlemek",
+        "1980 darbesinin ardından anayasayı korumak",
+        "1950 seçimlerini yönetip denetlemek",
+        "1946 seçimlerinde oy sayımı yapmak",
+        "1957 seçimlerinde dar bölge sistemini uygulamak"
+      ],
+      "c": 2,
+      "e": "YSK, 1950 seçimlerini objektif biçimde yönetip denetlemek için kuruldu; darbelerle ilgisi yoktur."
+    },
+    {
+      "q": "'Çok partili döneme geçilmesine rağmen tek parti dönemi uygulamalarının sürdüğü' eleştirisinin Demokrat Parti'nin 1947 tarihli 1. kongresinde kabul edildiği belge aşağıdakilerden hangisidir?",
+      "o": [
+        "12 Temmuz Beyannamesi",
+        "Hürriyet Misakı",
+        "Dörtlü Takrir",
+        "Amasya Genelgesi",
+        "Vatan Cephesi bildirisi"
+      ],
+      "c": 1,
+      "e": "Bu eleştiri Hürriyet Misakı'nda yer alır; 12 Temmuz Beyannamesi ise İnönü'nün gerilim azaltma belgesidir."
+    },
+    {
+      "q": "1950 seçimleri ve sonuçlarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+      "o": [
+        "Kapalı oy – açık sayım ilkesi uygulanmıştır",
+        "Seçimi Demokrat Parti kazanmıştır",
+        "27 yıllık CHP iktidarı sona ermiştir",
+        "İktidar değişikliği 'beyaz devrim' olarak anılmıştır",
+        "İlk defa tek dereceli seçim sistemi bu seçimde uygulanmıştır"
+      ],
+      "c": 4,
+      "e": "Tek dereceli sistem ilk 1946'da uygulandı; 1950'de yalnızca sürdürüldü."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Demokrat Parti döneminde gerçekleşen gelişmelerden biri değildir?",
+      "o": [
+        "Atatürk'ü Koruma Kanunu'nun çıkarılması",
+        "Atatürk'ün naşının Anıtkabir'e taşınması",
+        "Köy Enstitüleri'nin kurulması",
+        "Ezanın yeniden Arapçaya çevrilmesi",
+        "Erzurum Atatürk Üniversitesi'nin kurulması"
+      ],
+      "c": 2,
+      "e": "Köy Enstitüleri 1940'ta İnönü döneminde kuruldu; DP döneminde ise kapatıldı."
+    },
+    {
+      "q": "Demokrat Parti döneminde ekonomi alanında;\nI. Yabancı şirketlere petrol arama izni verilmesi\nII. Osmanlı'dan kalan borçların son taksidinin ödenmesi\nIII. IMF'ye borçlanılması\ngelişmelerinden hangileri yaşanmıştır?",
+      "o": [
+        "Yalnız I",
+        "Yalnız II",
+        "I ve III",
+        "II ve III",
+        "I, II ve III"
+      ],
+      "c": 4,
+      "e": "Üçü de DP döneminde yaşanmıştır: Petrol Kanunu, Osmanlı borcunun bitmesi ve IMF'ye borçlanma."
+    },
+    {
+      "q": "Türkiye'nin ilk özel sermayeli kalkınma ve yatırım bankası aşağıdakilerden hangisidir?",
+      "o": [
+        "İş Bankası",
+        "Sümerbank",
+        "Türkiye Sınai Bankası",
+        "Etibank",
+        "Ziraat Bankası"
+      ],
+      "c": 2,
+      "e": "İlk özel sermayeli kalkınma/yatırım bankası Türkiye Sınai Bankası'dır; ilk özel banka ise İş Bankası'dır."
+    },
+    {
+      "q": "Demokrat Parti döneminde dar bölge seçim sistemiyle ilgili olarak Kırşehir ve Malatya'da yapılan düzenlemelerin ortak amacı aşağıdakilerden hangisidir?",
+      "o": [
+        "Bölgeler arası kalkınma farkını gidermek",
+        "Demokrat Parti'nin daha fazla milletvekili çıkarmasını sağlamak",
+        "Muhalefet partilerini güçlendirmek",
+        "Nüfus dağılımını dengelemek",
+        "Yerel yönetimleri özerkleştirmek"
+      ],
+      "c": 1,
+      "e": "Kırşehir'in ilçe yapılması ve Malatya'dan Adıyaman'ın çıkarılması, DP'nin daha çok milletvekili çıkarmasına yönelikti."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Soğuk Savaş dönemi dünya gelişmelerinden biri değildir?",
+      "o": [
+        "Bretton Woods sisteminin çökmesi",
+        "SSCB'nin Sputnik 1'i uzaya göndermesi",
+        "ABD'nin NASA'yı kurması",
+        "DNA'nın kimyasal yapısının çözülmesi",
+        "Milletler Cemiyeti'nin kurulması"
+      ],
+      "c": 4,
+      "e": "Milletler Cemiyeti I. Dünya Savaşı sonrasına aittir; diğerleri Soğuk Savaş dönemi gelişmeleridir."
+    },
+    {
+      "q": "Türkiye'deki ilkler ile ilgili aşağıdaki eşleştirmelerden hangisi doğrudur?",
+      "o": [
+        "İlk TV yayını – ODTÜ",
+        "İlk internet – İstanbul Teknik Üniversitesi",
+        "İlk bilgisayar – Karayolları Genel Müdürlüğü",
+        "İlk renkli film – Vurun Kahpeye",
+        "İlk canlı yayın – Akdeniz Oyunları"
+      ],
+      "c": 2,
+      "e": "İlk bilgisayar Karayolları Genel Müdürlüğü'ndedir. İlk TV: İTÜ; ilk internet: ODTÜ; ilk renkli film: Halıcı Kız."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi bir kişi-katkı eşleştirmesi olarak yanlıştır?",
+      "o": [
+        "Aziz Sancar – DNA onarımı çalışmasıyla Nobel Kimya",
+        "Necmettin Erbakan – Gümüş Motor projesi",
+        "Safa Önal – 360 senaryoyla Guinness Rekorlar Kitabı",
+        "Muhsin Ertuğrul – Halıcı Kız (ilk renkli film)",
+        "Cemal Gürsel – Gümüş Motor projesi"
+      ],
+      "c": 4,
+      "e": "Gümüş Motor Necmettin Erbakan'a aittir; Cemal Gürsel dönemiyle anılan proje Devrim Arabaları'dır."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Kore Savaşı Kavramları",
+      "p": [
+        ["Kore'ye giden Türk birlikleri", "Şimal Yıldızı"],
+        ["Türk komutan", "Tahsin Yazıcı"],
+        ["Çıkarılan gazete", "Kutup Yıldızı"],
+        ["Başarılı muharebe", "Kunuri"],
+        ["Savaşı bitiren ateşkes", "Panmunjom"],
+        ["Türkiye'nin üye olduğu örgüt (1952)", "NATO"]
+      ]
+    },
+    {
+      "ad": "Uzakdoğu ve Türkiye Örgütleri",
+      "p": [
+        ["Manila Paktı", "SEATO (NATO'nun GD Asya versiyonu)"],
+        ["ANZUS", "ABD-Avustralya-Yeni Zelanda"],
+        ["ASEAN", "AB'nin GD Asya versiyonu"],
+        ["1953 Balkan Paktı", "Türkiye-Yunanistan-Yugoslavya"],
+        ["1955 Bağdat Paktı/CENTO", "Türkiye-İran-Irak-Pakistan-İngiltere"],
+        ["Avrupa Konseyi (1949)", "İnsan hakları ve demokrasi"]
+      ]
+    },
+    {
+      "ad": "Çok Partili Hayata Geçiş",
+      "p": [
+        ["Müstakil Grup", "CHP'nin parti içi denetim grubu (1939)"],
+        ["Milli Kalkınma Partisi", "Nuri Demirağ (ilk geçiş partisi)"],
+        ["Dörtlü Takrir (Cafer)", "Bayar-Menderes-Köprülü-Koraltan"],
+        ["Demokrat Parti", "Yeter! Söz milletindir"],
+        ["Millet Partisi", "Fevzi Çakmak, Y. Hikmet Bayur, O. Bölükbaşı"]
+      ]
+    },
+    {
+      "ad": "Seçimler ve Belgeler",
+      "p": [
+        ["1946 seçimleri", "Açık oy – kapalı sayım + ilk tek dereceli"],
+        ["1950 seçimleri", "Kapalı oy – açık sayım + YSK"],
+        ["Hürriyet Misakı", "DP'nin CHP'ye eleştirisi (1947)"],
+        ["12 Temmuz Beyannamesi", "İnönü – gerilim azaltma"],
+        ["Yüksek Seçim Kurulu", "1950 seçimleri için kuruldu"]
+      ]
+    },
+    {
+      "ad": "Demokrat Parti Dönemi",
+      "p": [
+        ["Cumhurbaşkanı", "Celal Bayar (ilk sivil)"],
+        ["Başbakan", "Adnan Menderes"],
+        ["Meclis Başkanı", "Refik Koraltan"],
+        ["Petrol Kanunu sonrası kurulan", "TPAO"],
+        ["İlk özel sermayeli kalkınma bankası", "Türkiye Sınai Bankası"],
+        ["Muhalefet ve basını denetleyen komisyon", "Tahkikat Komisyonu"]
+      ]
+    },
+    {
+      "ad": "Soğuk Savaş Döneminde İlkler",
+      "p": [
+        ["İlk TV yayını", "İstanbul Teknik Üniversitesi"],
+        ["İlk internet", "ODTÜ"],
+        ["İlk bilgisayar", "Karayolları Genel Müdürlüğü"],
+        ["İlk renkli film", "Halıcı Kız (Muhsin Ertuğrul)"],
+        ["İlk uydu", "Sputnik 1 (SSCB)"],
+        ["Nobel Kimya (DNA onarımı)", "Aziz Sancar"]
+      ]
+    }
+  ]
+}

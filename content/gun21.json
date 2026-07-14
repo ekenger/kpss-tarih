@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "gun": 21,
+    "baslik": "Atatürk Dönemi Türk Dış Politikası",
+    "ozet": "1923-1930 Lozan'dan kalan sorunlar (Musul, yabancı okullar, etabli) ve 1930-1938 dönemi (Milletler Cemiyeti, Balkan Antantı, Montrö, Sadabat, Hatay) ile paktlar ve Atatürk dönemi devlet adamları.",
+    "tahminiSoru": "KPSS'de ~2-3 soru",
+    "duzeltmeler": [
+      "Tactiq: 'Adolf Fitler' → Adolf Hitler",
+      "Tactiq: 'Maren Ostrostrom / Marenostrum' → Mare Nostrum",
+      "Tactiq: 'Tevfik Rüşta Aras / Tevfik Düştü arası' → Tevfik Rüştü Aras",
+      "Tactiq: 'Briant Kellock / Brian Kello' → Briand-Kellogg Paktı",
+      "Tactiq: 'Litwinov / Litvino' → Litvinov Protokolü",
+      "Tactiq: 'Lokarno / lokar nopaktı' → Locarno Paktı",
+      "Tactiq: 'Rapollo' → Rapallo Antlaşması",
+      "Tactiq: 'Montre / Montro' → Montrö Boğazlar Sözleşmesi",
+      "Tactiq: 'Vagonlist / vagonisi' → Wagons-Lits (Vagonli) olayı",
+      "Tactiq: 'Kapotaş' → Kabotaj Kanunu",
+      "Tactiq: 'Asım Ust' → Asım Us (Atatürk'ün takma adı)",
+      "Tactiq: 'kurum gazetesi' → Kurun gazetesi",
+      "Hoca sözlü düzeltti: ilk başbakan Abdurrahman 'Türkmen' değil Abdurrahman Melek",
+      "Tactiq: 'İnnenü Savaşı' → İnönü Savaşı"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Dönemin Genel Özellikleri",
+      "i": [
+        {"k": "Gerçekçi–İşbirliği–Diyalog", "m": "Atatürk dış politikasının 3 özelliği; ama YAYILMACI DEĞİLDİR (çıkmış soru)", "s": "z"},
+        {"k": "23-30 = Lozan'dan kalanlar", "m": "İlk dönem (1923-1930) Lozan Konferansı'nda çözülemeyen sorunlara ayrılır (çıkmış soru)", "s": "z"},
+        {"k": "Lozan'ın tek çözülmeyeni = Musul", "m": "Lozan'da çözümlenemeyen TEK konu Musul sorunuydu", "s": "z"}
+      ]
+    },
+    {
+      "b": "Musul / Irak Sorunu",
+      "i": [
+        {"k": "Haliç Konf. = Musul", "m": "1924 Haliç Konferansı Musul için toplandı; Türkiye adına Ali Fethi Okyar katıldı (muhtemel soru)", "s": "z"},
+        {"k": "Brüksel = Musul, Sandler = Hatay", "m": "Milletler Cemiyeti'nin raporları: Musul için Brüksel hattı (İngiltere lehine), Hatay için Sandler raporu — KARIŞTIRMA", "s": "z"},
+        {"k": "İSNAŞ", "m": "Musul'u kaybettiren olaylar: İskenderun'a asker + Nasturi isyanı + Şeyh Sait isyanı (e: hatırlama kancası)", "s": "e"},
+        {"k": "1926 Ankara Antlaşması = 3. taviz", "m": "Musul-Kerkük-Süleymaniye Irak'a, Hakkari Türkiye'de kaldı; Misak-ı Milli'den 3. taviz (çıkmış soru)", "s": "z"},
+        {"k": "%10 / 25 yıl petrol", "m": "Musul petrol gelirinin %10'u 25 yıllığına Türkiye'ye; ~500.000 sterlin peşin alınıp vazgeçildi", "s": "z"},
+        {"k": "Şeyh Sait = laikliğe karşı ilk isyan", "m": "Diyarbakır merkezli, cumhuriyete/laikliğe karşı ilk isyan", "s": "z"}
+      ]
+    },
+    {
+      "b": "Yabancı Okullar Sorunu (1925)",
+      "i": [
+        {"k": "Tevhid-i Tedrisat = Vasıf Çınar", "m": "1924 Tevhid-i Tedrisat (Eğitim Birliği) Kanunu; dönemin MEB Bakanı Vasıf Çınar (muhtemel soru)", "s": "z"},
+        {"k": "Sorun çıkaran = Fransa", "m": "Yabancı okullarda en çok sorun çıkaran devlet Fransa'dır", "s": "z"},
+        {"k": "İlk siyasi başarı", "m": "'İç meselemizdir' deyip MC'ye taşınmasını önledik; dış politikadaki İLK siyasi başarı", "s": "z"},
+        {"k": "MC'ye taşınmayan TEK konu", "m": "Yabancı okullar sorunu Milletler Cemiyeti'ne taşınmayan tek konudur", "s": "z"}
+      ]
+    },
+    {
+      "b": "Etabli (Nüfus Mübadelesi)",
+      "i": [
+        {"k": "Etabli = yerleşik", "m": "İstanbul'daki Rumlar + Batı Trakya'daki Türkler etabli (yer değiştirmez)", "s": "z"},
+        {"k": "Batı Trakya değil Doğu Trakya tuzağı", "m": "Etabli Türkler BATI Trakya'dadır; 'Doğu Trakya' çeldiricisine dikkat", "s": "z"},
+        {"k": "1930 Ahali (Ankara) Anlaşması", "m": "İstanbul Rumları yerleşme tarihine bakılmaksızın etabli sayıldı; sorun çözüldü (çıkmış soru)", "s": "z"},
+        {"k": "Venizelos → Nobel adaylığı", "m": "Yunan Başbakanı Venizelos, barışçıl tutumu için Atatürk'ü Nobel Barış Ödülü'ne aday gösterdi", "s": "z"}
+      ]
+    },
+    {
+      "b": "Milletler Cemiyeti (1932)",
+      "i": [
+        {"k": "Wilson'da doğdu, Paris'te kuruldu", "m": "Cemiyet-i Akvam'dan ilk Wilson İlkeleri'nde bahsedildi, Paris Barış Konf.'nda kuruldu", "s": "z"},
+        {"k": "İspanya davet, Yunanistan destek", "m": "1932'de İspanya'nın daveti + Yunanistan desteğiyle katıldık; davet eden = İspanya (çıkmış soru)", "s": "z"},
+        {"k": "Cemiyet'in C'si = Cemal'in C'si", "m": "MC'deki ilk temsilcimiz Cemal Hüsnü Taray", "s": "z"},
+        {"k": "Taşınan: Musul-Bozkurt-Etabli-Boğaz-Hatay", "m": "MC'ye taşınan 5 konu; yabancı okullar taşınmadı (ÖSYM zorlar)", "s": "z"}
+      ]
+    },
+    {
+      "b": "Balkan Antantı & Akdeniz Paktı",
+      "i": [
+        {"k": "TAYYAR", "m": "1934 Balkan Antantı üyeleri: Türkiye-Yunanistan-Yugoslavya-Romanya; BATI sınırını güvenceye alır", "s": "z"},
+        {"k": "Katılmayan: Bulgaristan + Arnavutluk", "m": "Bulgaristan (Makedonya sınır sorunu+yayılmacılık), Arnavutluk (İtalyan baskısı)", "s": "z"},
+        {"k": "Mare Nostrum = İtalya", "m": "İtalya'nın 'bizim deniz' politikası; buna karşı 1936 Akdeniz Paktı kuruldu (2015 çıkmış)", "s": "z"},
+        {"k": "Akdeniz Paktı: TAYYAR - Romanya + İng-Fra", "m": "İngiltere liderliğinde İngiltere-Fransa-Türkiye-Yunanistan-Yugoslavya (Romanya YOK)", "s": "z"},
+        {"k": "Çizme = İtalya", "m": "Atatürk: 'Söyleyin o adama çizmeyi (İtalya) ayağıma giydirmesin' — Mussolini'ye gönderme", "s": "e"}
+      ]
+    },
+    {
+      "b": "Montrö Boğazlar Sözleşmesi (1936)",
+      "i": [
+        {"k": "Montrö = mutlak Türk egemenliği", "m": "Lozan'daki uluslararası komisyon kaldırıldı, Boğazlar'da mutlak Türk egemenliği sağlandı", "s": "z"},
+        {"k": "Her iki yakaya asker", "m": "Türkiye Boğazların her iki yakasına da asker yerleştirebilir; ticaret gemilerine açık", "s": "z"},
+        {"k": "Karadeniz'e kıyısı = sınırlı savaş gemisi", "m": "Karadeniz'e kıyısı olan sınırlı geçer, kıyısı olmayan savaş gemisi geçiremez", "s": "z"},
+        {"k": "Lozan'da aleyhe → sonra lehe: Boğaz+Hatay", "m": "Lozan'da aleyhimize olup sonradan lehe dönen 2 konu: Boğazlar (Montrö) ve Hatay", "s": "z"}
+      ]
+    },
+    {
+      "b": "Sadabat Paktı (1937)",
+      "i": [
+        {"k": "Sadabat = 7 harf = 1937", "m": "İran Tahran'daki Sadabat Sarayı'nda imzalandı", "s": "z"},
+        {"k": "İRAN ATI", "m": "Sadabat üyeleri: İran-Afganistan-Türkiye-Irak; DOĞU sınırını güvenceye alır", "s": "z"},
+        {"k": "Katılmayan = Suriye", "m": "Suriye, Hatay sorunu (Türkiye) ve İran ile sınır sorunu yüzünden katılmadı", "s": "z"}
+      ]
+    },
+    {
+      "b": "Hatay (Sancak) Sorunu",
+      "i": [
+        {"k": "Hatay = 2. taviz (1921 Ankara)", "m": "1921 Ankara Antlaşması'yla Fransız mandası Suriye'ye bırakıldı; Misak-ı Milli'den 2. taviz", "s": "z"},
+        {"k": "Sancak = Sandler raporu", "m": "MC'nin Hatay için hazırladığı Sandler raporu Türk varlığını tanıdı (lehimize)", "s": "z"},
+        {"k": "1938 Bağımsız Hatay Cumhuriyeti", "m": "İlk cumhurbaşkanı Tayfur Sökmen; 1939'da anavatana katıldı, Misak-ı Milli'ye uygun çözüldü", "s": "z"},
+        {"k": "Asım Us / Kurun gazetesi", "m": "Atatürk 'Asım Us' takma adıyla Kurun gazetesinde İnönü hükümetini Hatay'da eleştirdi", "s": "z"},
+        {"k": "'40 asırlık Türk yurdu'", "m": "Atatürk: '40 asırlık Türk yurdu düşman elinde esir kalamaz'; 'Hatay benim şahsi meselemdir'", "s": "z"}
+      ]
+    },
+    {
+      "b": "Diğer Gelişmeler",
+      "i": [
+        {"k": "Bozkurt-Lotus = Lahey + Mahmut Esat", "m": "1926 Türk-Fransız gemi çarpışması; Lahey'de Mahmut Esat Bey davayı kazandı, 'Bozkurt' soyadını aldı (2016 ÖABT)", "s": "z"},
+        {"k": "Bozkurt-Lotus ↔ Kabotaj", "m": "Olay 1926 Kabotaj Kanunu'nun (Türk sularında taşımacılık Türk gemilerine) gerekliliğini gösterdi", "s": "z"},
+        {"k": "Razgrad = Bulgaristan mezar olayı", "m": "1933 Razgrad'da Türk mezarları yağmalandı; Tevfik Bıyıklıoğlu mitingi, çelenk diplomasisi, Bulgaristan özür diledi", "s": "z"},
+        {"k": "Vagonli = Naci Bey / dil bilinci", "m": "1933 Fransız demiryolu şirketi Türkçe konuşan Naci Bey'i kovdu; protestoyla geri alındı, milli+dil bilinci gelişti", "s": "z"},
+        {"k": "Bursa olayı = Türkçe ezan", "m": "1933'te Fatih Camii'nde Hafız Rıfat Bey ilk Türkçe ezanı okudu; Atatürk 'din değil dil meselesidir' dedi", "s": "z"}
+      ]
+    },
+    {
+      "b": "Paktlar: Katıldık / Katılmadık",
+      "i": [
+        {"k": "Katıldık: Briand-Kellogg (ABD+Fransa)", "m": "1928; savunmaya dayanmayan savaş kanun dışı — Atatürk 'savunmaya dayanmayan savaş cinayettir'", "s": "z"},
+        {"k": "Katıldık: Litvinov (SSCB)", "m": "1929; Briand-Kellogg'a alınmayan SSCB'nin komşularıyla yaptığı protokol; Varşova Paktı'nın temeli", "s": "z"},
+        {"k": "Katıldık: Nyon Konferansı", "m": "Akdeniz'deki korsanlık faaliyetlerine karşı toplandı; Türkiye katıldı", "s": "z"},
+        {"k": "Katılmadık: Locarno (2024 KPSS)", "m": "Almanya dünya siyasetine döndü, Fransa güvence aldı; Almanya-Fransa komşuları imzaladı, biz değiliz", "s": "z"},
+        {"k": "Katılmadık: Küçük Antant / Rapallo", "m": "1921 Küçük Antant ve 1922 Rapallo (Almanya-SSCB) — Türkiye taraf değil", "s": "z"},
+        {"k": "Katılmadık: Varşova / Molotof", "m": "SSCB liderliğindeki Doğu bloğu askeri paktı ve ekonomik planı; Türkiye Batı bloğunda", "s": "z"}
+      ]
+    },
+    {
+      "b": "Atatürk Dönemi Devlet Adamları",
+      "i": [
+        {"k": "Başbakan: İsmet-Fethi-Bayar", "m": "İsmet İnönü (ilk+en uzun), Ali Fethi Okyar (Şeyh Sait'i bastıramayıp istifa), Celal Bayar (son)", "s": "z"},
+        {"k": "Celal Bayar = son başbakan", "m": "Atatürk döneminin son 6 ayı; 2023-2024 ÖABT'de çıktı (muhtemel soru)", "s": "z"},
+        {"k": "Meclis Bşk: Fethi-Özalp-Renda", "m": "Ali Fethi Okyar (ilk), Kazım Özalp (en uzun), Abdülhalik Renda (son)", "s": "z"},
+        {"k": "Renda = 1 günlük cumhurbaşkanı", "m": "10 Kasım 1938 sonrası İnönü seçilene kadar bir günlüğüne cumhurbaşkanlığına vekalet etti", "s": "z"},
+        {"k": "Dışişleri: Bekir Sami-Yusuf Kemal-İsmet-Tevfik Rüştü", "m": "Sıra: Bekir Sami (Londra'da görevden alındı) → Yusuf Kemal Tengirşenk → İsmet İnönü → Tevfik Rüştü Aras", "s": "z"},
+        {"k": "Tevfik Rüştü Aras = 1925-1938", "m": "13 yıl; 1926 Ankara Anlş., Balkan Antantı, Montrö, Sadabat imzacısı — daimî soru adayı (2025 EKYS)", "s": "z"}
+      ]
+    }
+  ],
+  "kartlar": [
+    {"c": "Genel & Musul", "o": "Atatürk dönemi dış politikasının 3 temel özelliği nedir; hangi özellik YOKTUR?", "a": "Gerçekçi, işbirliğine ve diyaloğa önemi verir.\nYAYILMACI değildir (çıkmış soru)."},
+    {"c": "Genel & Musul", "o": "1923-1930 arası dış politika hangi sorunlara ayrılmıştır?", "a": "Lozan Konferansı'nda çözülemeyen sorunlara: Musul, yabancı okullar, etabli (çıkmış soru)."},
+    {"c": "Genel & Musul", "o": "Lozan'da çözümlenemeyen TEK konu neydi?", "a": "Musul sorunu.\nTürkiye ile İngiltere sonradan çözecekti."},
+    {"c": "Genel & Musul", "o": "1924 Haliç Konferansı hangi konu için toplandı, Türkiye adına kim katıldı?", "a": "Musul sorunu için.\nTürkiye adına Ali Fethi Okyar katıldı; çözüme ulaşılamadı (muhtemel soru)."},
+    {"c": "Genel & Musul", "o": "Milletler Cemiyeti Musul için hangi raporu, Hatay için hangi raporu hazırladı?", "a": "Musul → Brüksel hattı raporu (İngiltere lehine).\nHatay → Sandler raporu (Türkiye lehine).\nKarıştırma!"},
+    {"c": "Genel & Musul", "o": "Musul'un kaybını hızlandıran iç/dış gelişmeler nelerdir?", "a": "İngilizlerin İskenderun'a asker çıkarması, Nasturi isyanı, Şeyh Sait isyanı."},
+    {"c": "Genel & Musul", "o": "Musul hangi antlaşmayla, kim mandasındaki Irak'a bırakıldı; Misak-ı Milli'den kaçıncı taviz?", "a": "1926 Ankara Antlaşması ile İngiltere mandasındaki Irak'a.\nMusul-Kerkük-Süleymaniye gitti, Hakkari kaldı; 3. taviz (çıkmış soru)."},
+    {"c": "Genel & Musul", "o": "Şeyh Sait isyanının önemi nedir?", "a": "Diyarbakır merkezli; cumhuriyete ve laikliğe karşı ilk isyandır."},
+    {"c": "Yabancı Okullar & Etabli", "o": "1924 Tevhid-i Tedrisat Kanunu neyi sağladı, dönemin MEB Bakanı kimdi?", "a": "Tüm eğitimi MEB çatısı altında birleştirdi (eğitim birliği).\nDönemin MEB Bakanı Vasıf Çınar (muhtemel soru)."},
+    {"c": "Yabancı Okullar & Etabli", "o": "Yabancı okullar sorununda en çok sorun çıkaran devlet ve sonucu neydi?", "a": "Fransa.\n'İç meselemizdir' denip MC'ye taşınması engellendi; dış politikadaki İLK siyasi başarı."},
+    {"c": "Yabancı Okullar & Etabli", "o": "Milletler Cemiyeti'ne taşınmayan TEK dış politika konusu hangisidir?", "a": "Yabancı okullar sorunu.\nFransa taşımak istese de 'iç mesele' denildi."},
+    {"c": "Yabancı Okullar & Etabli", "o": "Etabli (yerleşik) kabul edilenler kimlerdir?", "a": "İstanbul, Bozcaada, Gökçeada'daki Rumlar + Batı Trakya'daki Türkler.\nDikkat: Doğu Trakya değil BATI Trakya."},
+    {"c": "Yabancı Okullar & Etabli", "o": "Etabli sorunu hangi antlaşmayla çözüldü, sonucu neydi?", "a": "1930 Ahali (Ankara) Anlaşması.\nİstanbul Rumları yerleşme tarihine bakılmaksızın etabli sayıldı (çıkmış soru)."},
+    {"c": "Yabancı Okullar & Etabli", "o": "Venizelos, Atatürk'ü hangi ödüle aday gösterdi ve neden?", "a": "Nobel Barış Ödülü.\nMübadelede barışçıl tutumu (İstanbul Rumlarının kalmasına izin) nedeniyle."},
+    {"c": "Milletler Cemiyeti", "o": "Cemiyet-i Akvam'dan ilk nerede bahsedildi, nerede kuruldu?", "a": "İlk Wilson İlkeleri'nde bahsedildi.\nParis Barış Konferansı'nda kuruldu."},
+    {"c": "Milletler Cemiyeti", "o": "Türkiye MC'ye neden geç katıldı, kimin daveti/desteğiyle katıldı?", "a": "Brüksel raporunda taraf tutup Musul'u aleyhimize çözdüğü için geç katıldık.\n1932'de İspanya'nın daveti + Yunanistan desteğiyle (davet eden İspanya - çıkmış)."},
+    {"c": "Milletler Cemiyeti", "o": "Türkiye'nin MC'deki ilk temsilcisi kimdir?", "a": "Cemal Hüsnü Taray.\n(Cemiyet'in C'si = Cemal'in C'si)"},
+    {"c": "Milletler Cemiyeti", "o": "MC'ye taşınan konular hangileri, hangi konu taşınmadı?", "a": "Taşınan: Musul (aleyhe), Bozkurt-Lotus (lehe), Etabli (sonuçsuz), Boğazlar (lehe), Hatay (lehe).\nTaşınmayan: Yabancı okullar."},
+    {"c": "Balkan Antantı & Akdeniz Paktı", "o": "1934 Balkan Antantı hangi devletlerden oluşur, amacı nedir?", "a": "Türkiye-Yunanistan-Yugoslavya-Romanya (TAYYAR).\nİtalya-Almanya'nın saldırganlığına karşı BATI sınırını güvenceye almak."},
+    {"c": "Balkan Antantı & Akdeniz Paktı", "o": "Balkan Antantı'na hangi Balkan devletleri neden katılmadı?", "a": "Bulgaristan: Makedonya sınır sorunu + yayılmacı politika.\nArnavutluk: İtalyan baskısı."},
+    {"c": "Balkan Antantı & Akdeniz Paktı", "o": "İtalya'nın 'Mare Nostrum' politikası ne demek, buna karşı ne kuruldu?", "a": "'Bizim deniz' — Akdeniz'e kıyısı olan her yer İtalya'nındır iddiası.\nBuna karşı 1936 Akdeniz Paktı kuruldu (2015 çıkmış)."},
+    {"c": "Balkan Antantı & Akdeniz Paktı", "o": "Akdeniz Paktı kimin liderliğinde, hangi devletlerden oluştu?", "a": "İngiltere liderliğinde: İngiltere-Fransa-Türkiye-Yunanistan-Yugoslavya.\nBalkan Antantı'ndan farkı: Romanya YOK, İngiltere-Fransa VAR."},
+    {"c": "Montrö Boğazlar", "o": "Montrö Boğazlar Sözleşmesi (1936) hangi sonucu getirdi?", "a": "Lozan'daki uluslararası Boğazlar Komisyonu kaldırıldı.\nBoğazlar'da mutlak Türk egemenliği sağlandı."},
+    {"c": "Montrö Boğazlar", "o": "Montrö'de savaş ve ticaret gemileri için hangi düzen getirildi?", "a": "Karadeniz'e kıyısı olan devletler sınırlı savaş gemisi geçirir, kıyısı olmayan geçiremez.\nTicaret gemileri izinsiz açık; Türkiye her iki yakaya asker koyabilir."},
+    {"c": "Montrö Boğazlar", "o": "Lozan'da aleyhimize olup sonradan lehimize dönen 2 konu nedir?", "a": "Boğazlar (Montrö ile) ve Hatay (1939 katılım ile)."},
+    {"c": "Montrö Boğazlar", "o": "Montrö sonrası SSCB'nin Boğazlar baskısı neye yol açtı?", "a": "Menderes döneminde SSCB Boğazlarda hak iddia etti.\nBundan kurtulmak için Türkiye NATO'ya girdi."},
+    {"c": "Sadabat & Hatay", "o": "Sadabat Paktı (1937) hangi devletlerden oluşur, amacı nedir?", "a": "İran-Afganistan-Türkiye-Irak (İRAN ATI).\nİtalya-Almanya saldırganlığına karşı DOĞU sınırını güvenceye almak. Tahran'da imzalandı."},
+    {"c": "Sadabat & Hatay", "o": "Sadabat Paktı'na Suriye neden katılmadı?", "a": "Hatay sorunu nedeniyle Türkiye ile, ayrıca İran ile sınır sorunları yaşadığı için."},
+    {"c": "Sadabat & Hatay", "o": "Hatay hangi antlaşmayla kime bırakıldı; Misak-ı Milli'den kaçıncı taviz?", "a": "1921 Ankara Antlaşması ile Fransız mandası Suriye'ye.\nMisak-ı Milli'den 2. taviz."},
+    {"c": "Sadabat & Hatay", "o": "MC Hatay için hangi raporu hazırladı, sonucu neydi?", "a": "Sandler raporu — Hatay'daki Türk varlığını tanıdı (lehimize)."},
+    {"c": "Sadabat & Hatay", "o": "Bağımsız Hatay Cumhuriyeti ne zaman kuruldu, ilk cumhurbaşkanı kim, ne zaman anavatana katıldı?", "a": "1938'de kuruldu; ilk cumhurbaşkanı Tayfur Sökmen.\n1939'da Hatay Meclisi kararıyla anavatana katıldı, Misak-ı Milli'ye uygun çözüldü."},
+    {"c": "Sadabat & Hatay", "o": "Atatürk Hatay için hangi takma adla, hangi gazetede kimi eleştirdi?", "a": "'Asım Us' takma adıyla Kurun gazetesinde.\nİsmet İnönü hükümetini Hatay'a önem vermemekle eleştirdi."},
+    {"c": "Sadabat & Hatay", "o": "Atatürk'ün Hatay hakkındaki iki ünlü sözü nedir?", "a": "'40 asırlık Türk yurdu düşman elinde esir kalamaz.'\n'Hatay benim şahsi meselemdir.'"},
+    {"c": "Diğer Gelişmeler", "o": "Bozkurt-Lotus olayı nedir, dava nerede kimin sayesinde kazanıldı?", "a": "1926 Türk Bozkurt ile Fransız Lotus gemilerinin çarpışması.\nLahey Adalet Divanı'nda Mahmut Esat Bey kazandı, 'Bozkurt' soyadını aldı (2016 ÖABT)."},
+    {"c": "Diğer Gelişmeler", "o": "Bozkurt-Lotus olayı hangi kanunun gerekliliğini gösterdi?", "a": "1926 Kabotaj Kanunu.\nTürk kara suları ve limanlarında taşımacılık Türk/Türk bayraklı gemilere aittir."},
+    {"c": "Diğer Gelişmeler", "o": "1933 Razgrad olayı nedir, nasıl çözüldü?", "a": "Bulgaristan Razgrad'da Türk mezarlarının yağmalanması.\nTevfik Bıyıklıoğlu mitingi + Bulgar mezarlarına çelenk (diplomasi); Bulgaristan özür diledi."},
+    {"c": "Diğer Gelişmeler", "o": "1933 Vagonli (Wagons-Lits) olayı nedir, sonucu neydi?", "a": "Fransız demiryolu şirketi, Türkçe konuşan Naci Bey'i kovdu.\nProtestoyla geri alındı; milli ve dil bilinci gelişti, şirket sonra millileştirildi."},
+    {"c": "Diğer Gelişmeler", "o": "1933 Bursa olayı nedir, Atatürk ne dedi?", "a": "Fatih Camii'nde Hafız Rıfat Bey ilk Türkçe ezanı okudu, Bursa'da tepki çıktı.\nAtatürk: 'Bu din değil dil meselesidir.' (Menderes döneminde tekrar Arapça)"},
+    {"c": "Paktlar Tablosu", "o": "Briand-Kellogg Paktı (1928) kimler arasında, neyi yasakladı, katıldık mı?", "a": "ABD ve Fransa dışişleri bakanları.\nSavunmaya dayanmayan savaşı kanun dışı saydı; Türkiye katıldı. Atatürk: 'Savunmaya dayanmayan savaş cinayettir.'"},
+    {"c": "Paktlar Tablosu", "o": "Litvinov Protokolü (1929) nedir, katıldık mı?", "a": "Briand-Kellogg'a alınmayan SSCB'nin komşularıyla yaptığı protokol; Varşova Paktı'nın temeli.\nTürkiye katıldı."},
+    {"c": "Paktlar Tablosu", "o": "Nyon Konferansı hangi amaçla toplandı, katıldık mı?", "a": "Akdeniz'deki korsanlık faaliyetlerine karşı.\nTürkiye katıldı."},
+    {"c": "Paktlar Tablosu", "o": "Locarno Paktı nedir, Türkiye katıldı mı?", "a": "Almanya'nın dünya siyasetine dönüşü + Fransa'nın güvence alması; Almanya-Fransa komşuları imzaladı.\nTürkiye KATILMADI (2024 KPSS çıkmış)."},
+    {"c": "Paktlar Tablosu", "o": "Türkiye'nin katılmadığı diğer paktlar hangileridir?", "a": "Küçük Antant (1921), Rapallo (1922 Almanya-SSCB), Varşova Paktı ve Molotof Planı (SSCB/Doğu bloğu)."},
+    {"c": "Devlet Adamları", "o": "Atatürk döneminin ilk, en uzun ve son başbakanı kimdir?", "a": "İlk ve en uzun: İsmet İnönü.\nSon: Celal Bayar (son 6 ay; 2023-2024 ÖABT)."},
+    {"c": "Devlet Adamları", "o": "Ali Fethi Okyar başbakanlıktan neden istifa etti?", "a": "Şeyh Sait isyanını bastıramadığı için ağır muhalefet üzerine istifa etti.\nYerine İsmet İnönü gelip Takrir-i Sükûn'u çıkardı."},
+    {"c": "Devlet Adamları", "o": "Atatürk döneminin ilk, en uzun ve son meclis başkanı kimdir?", "a": "İlk: Ali Fethi Okyar.\nEn uzun: Kazım Özalp.\nSon: Abdülhalik Renda."},
+    {"c": "Devlet Adamları", "o": "Abdülhalik Renda neden önemlidir?", "a": "10 Kasım 1938'de Atatürk vefat edince İnönü seçilene kadar bir günlüğüne cumhurbaşkanlığına vekalet etti."},
+    {"c": "Devlet Adamları", "o": "Kazım Özalp meclis başkanlığı dışında hangi kuruluşla anılır?", "a": "1929 Dünya Ekonomik Krizi etkisiyle Milli İktisat ve Tasarruf Cemiyeti'ni kurdu."},
+    {"c": "Devlet Adamları", "o": "Atatürk dönemi dışişleri bakanlarının sırası nedir?", "a": "Bekir Sami Bey → Yusuf Kemal Tengirşenk → İsmet İnönü → Tevfik Rüştü Aras."},
+    {"c": "Devlet Adamları", "o": "Bekir Sami Bey neden görevden alındı?", "a": "İnönü Savaşı sonrası Londra Konferansı'nda yetkisi dışında anlaşmalar imzaladığı için.\nYerine Yusuf Kemal Tengirşenk geldi."},
+    {"c": "Devlet Adamları", "o": "Yusuf Kemal Tengirşenk hangi işlerle anılır?", "a": "1921 Ankara Antlaşması'nı imzaladı; Büyük Taarruz öncesi Avrupa'da barış görüşmeleri yaptı.\nYerini Lozan'a gidecek İnönü'ye bıraktı (2016 KPSS)."},
+    {"c": "Devlet Adamları", "o": "Tevfik Rüştü Aras kaç yıl görev yaptı, hangi antlaşmaları imzaladı?", "a": "1925-1938 (13 yıl).\n1926 Ankara Antlaşması, Balkan Antantı, Montrö, Sadabat imzacısı — daimî soru adayı (2025 EKYS)."}
+  ],
+  "tuzak": [
+    {"q": "Atatürk dönemi Türk dış politikasının özelliği HANGİSİ değildir?", "o": ["Gerçekçi", "İşbirliğine önem veren", "Yayılmacı"], "c": 2, "n": "Dış politika gerçekçi ve işbirlikçidir ama YAYILMACI DEĞİLDİR — çıkmış soru kalıbı."},
+    {"q": "Musul için hazırlanan Milletler Cemiyeti raporu hangisidir?", "o": ["Brüksel hattı raporu", "Sandler raporu"], "c": 0, "n": "Brüksel = Musul, Sandler = Hatay; ikisi sürekli karıştırılır."},
+    {"q": "Hatay (Sancak) sorunu için hazırlanan MC raporu hangisidir?", "o": ["Brüksel hattı raporu", "Sandler raporu"], "c": 1, "n": "Sandler raporu Hatay'a aittir; Brüksel Musul'a."},
+    {"q": "Haliç Konferansı hangi sorun için toplandı?", "o": ["Musul sorunu", "Boğazlar sorunu"], "c": 0, "n": "1924 Haliç Konferansı Musul içindir; Boğazlar Montrö'de çözülür."},
+    {"q": "Musul, hangi antlaşmayla Irak'a bırakıldı?", "o": ["1926 Ankara Antlaşması", "1921 Ankara Antlaşması"], "c": 0, "n": "1926 = Musul (3. taviz), 1921 = Hatay/Suriye (2. taviz); yıllar karıştırılır."},
+    {"q": "Etabli kabul edilen Türkler hangi bölgededir?", "o": ["Batı Trakya", "Doğu Trakya"], "c": 0, "n": "Etabli Türkler BATI Trakya'dadır; 'Doğu Trakya' çeldiricisi ÖSYM tuzağıdır."},
+    {"q": "Milletler Cemiyeti'ne katılmamıza öncülük eden (davet eden) devlet hangisidir?", "o": ["İspanya", "Yunanistan"], "c": 0, "n": "Davet eden İspanya, destekleyen Yunanistan; çıkmış soruda cevap İspanya'dır."},
+    {"q": "Milletler Cemiyeti'ne TAŞINMAYAN konu hangisidir?", "o": ["Yabancı okullar sorunu", "Boğazlar sorunu"], "c": 0, "n": "Yabancı okullar 'iç mesele' denip taşınmadı; Boğazlar taşındı ve lehe çözüldü."},
+    {"q": "Balkan Antantı'na katılmayan devlet hangisidir?", "o": ["Bulgaristan", "Yugoslavya"], "c": 0, "n": "TAYYAR = Türkiye-Yunanistan-Yugoslavya-Romanya; Bulgaristan ve Arnavutluk katılmadı."},
+    {"q": "Sadabat Paktı'na katılmayan devlet hangisidir?", "o": ["Suriye", "Afganistan"], "c": 0, "n": "İRAN ATI = İran-Afganistan-Türkiye-Irak; Suriye Hatay/sınır sorunu yüzünden yok."},
+    {"q": "Akdeniz Paktı'nda bulunmayıp Balkan Antantı'nda bulunan devlet hangisidir?", "o": ["Romanya", "Yunanistan"], "c": 0, "n": "Akdeniz Paktı'nda Romanya yoktur; ama İngiltere-Fransa vardır."},
+    {"q": "Boğazlar'da mutlak Türk egemenliğini sağlayan sözleşme hangisidir?", "o": ["Montrö Boğazlar Sözleşmesi", "Lozan Barış Antlaşması"], "c": 0, "n": "Lozan'da egemenlik uluslararası komisyondaydı; mutlak egemenlik Montrö (1936) ile geldi."},
+    {"q": "Lozan'da aleyhte olup sonradan lehe dönen konu hangisidir?", "o": ["Boğazlar sorunu", "Musul sorunu"], "c": 0, "n": "Boğazlar ve Hatay lehe döndü; Musul kalıcı olarak kaybedildi."},
+    {"q": "Hatay hangi antlaşmayla Suriye'ye bırakılmıştı?", "o": ["1921 Ankara Antlaşması", "1930 Ankara Antlaşması"], "c": 0, "n": "1921 = Hatay/Suriye; 1930 Ankara (Ahali) = etabli/Yunanistan; adlar aynı, yıllar farklı."},
+    {"q": "Bağımsız Hatay Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?", "o": ["Tayfur Sökmen", "Abdurrahman Melek"], "c": 0, "n": "Tayfur Sökmen cumhurbaşkanı, Abdurrahman Melek ise ilk başbakandır."},
+    {"q": "Bozkurt-Lotus davasında Türkiye'nin haklarını savunup kazanan kişi kimdir?", "o": ["Mahmut Esat Bozkurt", "Tevfik Rüştü Aras"], "c": 0, "n": "Mahmut Esat, davadan sonra 'Bozkurt' soyadını aldı; soyadı ipucu verir (2016 ÖABT)."},
+    {"q": "Türkçe ezanın ilk okunuşuna tepki olarak çıkan olay hangisidir?", "o": ["Bursa olayı", "Razgrad olayı"], "c": 0, "n": "Bursa = Türkçe ezan tepkisi; Razgrad = Bulgaristan'daki Türk mezarları olayı."},
+    {"q": "Naci Bey'in Türkçe konuştuğu için işten atılmasıyla ilgili olay hangisidir?", "o": ["Vagonli olayı", "Razgrad olayı"], "c": 0, "n": "Vagonli = Fransız demiryolu şirketi/Naci Bey; Razgrad Bulgaristan mezar olayıdır."},
+    {"q": "Türkiye'nin KATILMADIĞI pakt hangisidir?", "o": ["Locarno Paktı", "Sadabat Paktı"], "c": 0, "n": "Locarno'ya (Almanya-Fransa komşuları) katılmadık; Sadabat'a katıldık (2024 KPSS)."},
+    {"q": "Briand-Kellogg Paktı hangi devletlerin dışişleri bakanlarınca oluşturuldu?", "o": ["ABD ve Fransa", "İngiltere ve Fransa"], "c": 0, "n": "Briand (Fransa) ve Kellogg (ABD); İngiltere değil ABD'dir."},
+    {"q": "Atatürk döneminin SON başbakanı kimdir?", "o": ["Celal Bayar", "İsmet İnönü"], "c": 0, "n": "İsmet İnönü ilk ve en uzun; son 6 ayın başbakanı Celal Bayar'dır."},
+    {"q": "Atatürk döneminde en uzun süre görev yapan dışişleri bakanı kimdir?", "o": ["Tevfik Rüştü Aras", "Bekir Sami Bey"], "c": 0, "n": "Tevfik Rüştü Aras 1925-1938 (13 yıl); Bekir Sami 1. TBMM'nin ilk dışişleri bakanıdır."},
+    {"q": "Atatürk'ün vefatından sonra bir günlüğüne cumhurbaşkanlığına vekalet eden kimdir?", "o": ["Abdülhalik Renda", "Kazım Özalp"], "c": 0, "n": "Son meclis başkanı Renda vekalet etti; Kazım Özalp en uzun süreli meclis başkanıdır."},
+    {"q": "Nasturi isyanı ve İskenderun'a asker çıkarılması hangi sorunun kaybını hızlandırdı?", "o": ["Musul sorunu", "Hatay sorunu"], "c": 0, "n": "Bu olaylar Musul'un 1926'da kaybını hızlandırdı; Hatay 1939'da kazanıldı."},
+    {"q": "Milletler Cemiyeti'nden ilk kez nerede bahsedildi?", "o": ["Wilson İlkeleri", "Paris Barış Konferansı"], "c": 0, "n": "İlk bahis Wilson İlkeleri'nde; kuruluş yeri Paris Barış Konferansı'dır."},
+    {"q": "Türkiye'nin MC'deki ilk temsilcisi kimdir?", "o": ["Cemal Hüsnü Taray", "Tevfik Rüştü Aras"], "c": 0, "n": "İlk temsilci Cemal Hüsnü Taray (Cemiyet'in C'si); Aras dışişleri bakanıydı."},
+    {"q": "İtalya'nın 'Mare Nostrum' politikası hangi denizle ilgilidir?", "o": ["Akdeniz", "Karadeniz"], "c": 0, "n": "Mare Nostrum = 'bizim deniz', Akdeniz'e yöneliktir; buna karşı Akdeniz Paktı kuruldu."},
+    {"q": "Almanya ile SSCB arasında imzalanan, Türkiye'nin taraf olmadığı antlaşma hangisidir?", "o": ["Rapallo Antlaşması", "Litvinov Protokolü"], "c": 0, "n": "Rapallo (1922) Almanya-SSCB'dir; Litvinov'a ise Türkiye katıldı."},
+    {"q": "Tevhid-i Tedrisat Kanunu'nun çıkarıldığı dönemin MEB Bakanı kimdir?", "o": ["Vasıf Çınar", "Mahmut Esat Bozkurt"], "c": 0, "n": "Eğitim Birliği = Vasıf Çınar; Mahmut Esat ise Adalet Bakanı/Medeni Kanun'la anılır."},
+    {"q": "Balkan Antantı hangi sınırı, Sadabat Paktı hangi sınırı güvenceye alır?", "o": ["Balkan = Batı, Sadabat = Doğu", "Balkan = Doğu, Sadabat = Batı"], "c": 0, "n": "Balkan Antantı BATI, Sadabat Paktı DOĞU sınırını güvenceye alır; yön karıştırılır."}
+  ],
+  "deneme": [
+    {"q": "Atatürk dönemi Türk dış politikası için aşağıdakilerden hangisi söylenemez?", "o": ["Gerçekçidir", "İşbirliğine önem verir", "Diyaloğa önem verir", "Yayılmacıdır", "Barışçıldır"], "c": 3, "e": "Dış politika gerçekçi, işbirlikçi, diyalog ve barış yanlısıdır ama yayılmacı değildir."},
+    {"q": "Lozan Konferansı'nda çözümlenemeyerek sonraki döneme bırakılan tek sorun aşağıdakilerden hangisidir?", "o": ["Yabancı okullar", "Musul sorunu", "Etabli sorunu", "Boğazlar sorunu", "Hatay sorunu"], "c": 1, "e": "Lozan'da çözülemeyen tek konu Türkiye-İngiltere arasındaki Musul sorunudur."},
+    {"q": "1924 Haliç Konferansı ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["Boğazlar sorunu için toplanmıştır", "Türkiye adına İsmet İnönü katılmıştır", "Musul sorunu için toplanmış, çözüm sağlanamamıştır", "Hatay Türkiye'ye bırakılmıştır", "Milletler Cemiyeti'ne üyeliğimizi sağlamıştır"], "c": 2, "e": "Haliç Konferansı Musul için toplandı, Türkiye adına Ali Fethi Okyar katıldı, çözüm çıkmadı."},
+    {"q": "Musul'un 1926 Ankara Antlaşması ile kaybedilmesinde aşağıdaki gelişmelerden hangisinin etkisi yoktur?", "o": ["Şeyh Sait İsyanı", "Nasturi İsyanı", "İngilizlerin İskenderun'a asker çıkarması", "Menemen Olayı", "İç istikrarsızlık"], "c": 3, "e": "Menemen Olayı (1930) daha sonradır; Musul kaybını Şeyh Sait, Nasturi ve İngiliz baskısı hızlandırdı."},
+    {"q": "1926 Ankara Antlaşması ile ilgili olarak aşağıdakilerden hangisi yanlıştır?", "o": ["Musul, Kerkük ve Süleymaniye Irak'a bırakılmıştır", "Hakkari Türkiye'de kalmıştır", "Türk-Irak sınırı çizilmiştir", "Misak-ı Milli'den üçüncü taviz verilmiştir", "Hatay Suriye'ye bırakılmıştır"], "c": 4, "e": "Hatay 1921 Ankara Antlaşması'yla Suriye'ye bırakılmıştı; 1926 Ankara Antlaşması Musul'la ilgilidir."},
+    {"q": "Yabancı okullar sorunu için aşağıdakilerden hangisi söylenebilir?", "o": ["En çok sorun İngiltere ile yaşanmıştır", "Milletler Cemiyeti'ne taşınmış ve aleyhimize çözülmüştür", "Türkiye'nin dış politikadaki ilk siyasi başarısı sayılır", "1930 Ahali Anlaşması ile çözülmüştür", "Lozan öncesinde ortaya çıkmıştır"], "c": 2, "e": "Sorun Fransa ile yaşandı, 'iç mesele' denip MC'ye taşınmadı ve ilk siyasi başarı sayıldı."},
+    {"q": "Aşağıdakilerden hangisi Milletler Cemiyeti'ne taşınmayan bir dış politika konusudur?", "o": ["Musul sorunu", "Bozkurt-Lotus olayı", "Boğazlar sorunu", "Yabancı okullar sorunu", "Hatay sorunu"], "c": 3, "e": "Yabancı okullar sorunu 'iç meselemizdir' denilerek Milletler Cemiyeti'ne taşınmamıştır."},
+    {"q": "Etabli (nüfus mübadelesi) sorunu ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["Batı Trakya'daki Türkler mübadeleye tabi tutulmuştur", "1930 Ahali Anlaşması ile çözülmüştür", "İngiltere ile yaşanmıştır", "Musul sorunuyla birlikte çözülmüştür", "Türkiye'nin ilk askeri başarısıdır"], "c": 1, "e": "Yunanistan ile yaşanan etabli sorunu 1930 Ahali (Ankara) Anlaşması ile çözülmüştür."},
+    {"q": "Türkiye'nin 1932'de Milletler Cemiyeti'ne üye olmasıyla ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["Türkiye başvurarak üye olmuştur", "Üyeliğe İngiltere davet etmiştir", "İspanya'nın daveti ve Yunanistan'ın desteğiyle üye olunmuştur", "İlk temsilci Tevfik Rüştü Aras'tır", "Cemiyet Lozan'da kurulmuştur"], "c": 2, "e": "Türkiye başvurmadan İspanya'nın daveti, Yunanistan'ın desteğiyle üye oldu; ilk temsilci Cemal Hüsnü Taray'dır."},
+    {"q": "Aşağıdakilerden hangisi Balkan Antantı'na katılan devletlerden biri değildir?", "o": ["Türkiye", "Yunanistan", "Yugoslavya", "Romanya", "Bulgaristan"], "c": 4, "e": "Balkan Antantı üyeleri Türkiye-Yunanistan-Yugoslavya-Romanya'dır; Bulgaristan ve Arnavutluk katılmadı."},
+    {"q": "Aşağıdakilerden hangisi hem Balkan Antantı'nda hem Akdeniz Paktı'nda yer alan ortak devletlerden biri değildir?", "o": ["Türkiye", "Yunanistan", "Yugoslavya", "Romanya", "Bu paktların ortak üyesidir"], "c": 3, "e": "Türkiye, Yunanistan ve Yugoslavya her ikisinde de vardır; Romanya yalnızca Balkan Antantı'ndadır."},
+    {"q": "İtalya'nın 'Mare Nostrum' politikasına karşı 1936'da kurulan oluşum aşağıdakilerden hangisidir?", "o": ["Balkan Antantı", "Sadabat Paktı", "Akdeniz Paktı", "Locarno Paktı", "Küçük Antant"], "c": 2, "e": "İtalya'nın Akdeniz'deki saldırgan 'bizim deniz' politikasına karşı İngiltere liderliğinde Akdeniz Paktı kuruldu."},
+    {"q": "Montrö Boğazlar Sözleşmesi'nin sonuçları arasında aşağıdakilerden hangisi yer almaz?", "o": ["Boğazlar Komisyonu kaldırılmıştır", "Boğazlar'da mutlak Türk egemenliği sağlanmıştır", "Türkiye Boğazların iki yakasına asker yerleştirebilecektir", "Boğazlar tümüyle silahsızlandırılmıştır", "Ticaret gemilerine geçiş serbestisi tanınmıştır"], "c": 3, "e": "Montrö ile Boğazlar Türk egemenliğine geçti ve askerileştirildi; silahsızlandırma söz konusu değildir."},
+    {"q": "Sadabat Paktı ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["Batı sınırını güvenceye almak için kurulmuştur", "Üyeleri İran, Afganistan, Türkiye ve Irak'tır", "Atina'da imzalanmıştır", "Suriye pakta katılmıştır", "1934 yılında imzalanmıştır"], "c": 1, "e": "1937 Sadabat Paktı doğu sınırını güvenceye almak için İran-Afganistan-Türkiye-Irak arasında Tahran'da imzalandı."},
+    {"q": "Hatay sorunu ile ilgili aşağıdaki gelişmelerin kronolojik sıralaması hangisinde doğru verilmiştir?\nI. Bağımsız Hatay Cumhuriyeti'nin kurulması\nII. Hatay'ın 1921 Ankara Antlaşması'yla Suriye'ye bırakılması\nIII. Hatay'ın anavatana katılması", "o": ["I - II - III", "II - I - III", "II - III - I", "III - II - I", "I - III - II"], "c": 1, "e": "Önce 1921'de Suriye'ye bırakıldı, 1938'de Hatay Cumhuriyeti kuruldu, 1939'da anavatana katıldı."},
+    {"q": "Milletler Cemiyeti'nin Hatay'daki Türk varlığını tanıdığı rapor aşağıdakilerden hangisidir?", "o": ["Brüksel hattı raporu", "Sandler raporu", "Wilson raporu", "Litvinov raporu", "Molotof raporu"], "c": 1, "e": "Hatay (Sancak) sorunu için hazırlanan Sandler raporu Türk varlığını tanımıştır; Brüksel Musul'a aittir."},
+    {"q": "Bozkurt-Lotus olayı ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["Türk ve İngiliz gemilerinin çarpışmasıdır", "Milletler Cemiyeti'nde aleyhimize sonuçlanmıştır", "Lahey Adalet Divanı'nda Mahmut Esat Bey davayı kazanmıştır", "Kabotaj Kanunu'nun gereksizliğini göstermiştir", "Hatay sorunuyla ilgilidir"], "c": 2, "e": "Türk-Fransız gemi çarpışması davası Lahey'de Mahmut Esat Bey sayesinde kazanıldı; Kabotaj Kanunu'nun gerekliliğini gösterdi."},
+    {"q": "Aşağıdaki paktlardan hangisine Türkiye katılmamıştır?", "o": ["Briand-Kellogg Paktı", "Sadabat Paktı", "Locarno Paktı", "Balkan Antantı", "Akdeniz Paktı"], "c": 2, "e": "Almanya-Fransa komşularının imzaladığı Locarno Paktı'na Türkiye katılmamıştır."},
+    {"q": "Atatürk döneminin başbakanları ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["İlk başbakan Celal Bayar'dır", "En uzun süreli başbakan Ali Fethi Okyar'dır", "Son başbakan İsmet İnönü'dür", "Ali Fethi Okyar, Şeyh Sait İsyanı sonrası istifa etmiştir", "Kazım Özalp başbakanlık yapmıştır"], "c": 3, "e": "İlk ve en uzun süreli başbakan İnönü, son başbakan Celal Bayar'dır; Ali Fethi Okyar Şeyh Sait İsyanı sonrası istifa etti."},
+    {"q": "Aşağıdakilerden hangisi Tevfik Rüştü Aras'ın imzaladığı antlaşmalardan biri değildir?", "o": ["1926 Ankara Antlaşması", "Balkan Antantı", "Montrö Boğazlar Sözleşmesi", "Sadabat Paktı", "1921 Ankara Antlaşması"], "c": 4, "e": "1921 Ankara Antlaşması'nı Yusuf Kemal Tengirşenk imzaladı; diğerleri 1925-1938 dışişleri bakanı Tevfik Rüştü Aras'ındır."}
+  ],
+  "eslestir": [
+    {
+      "ad": "Sorun ↔ Çözüm/Antlaşma",
+      "p": [
+        ["Musul sorunu", "1926 Ankara Antlaşması"],
+        ["Etabli sorunu", "1930 Ahali Anlaşması"],
+        ["Boğazlar sorunu", "1936 Montrö Sözleşmesi"],
+        ["Hatay sorunu", "1939 anavatana katılım"],
+        ["Yabancı okullar", "İç mesele (MC'ye taşınmadı)"],
+        ["Bozkurt-Lotus olayı", "Lahey Adalet Divanı"]
+      ]
+    },
+    {
+      "ad": "Pakt ↔ Üye Devletler",
+      "p": [
+        ["Balkan Antantı", "Türkiye-Yunanistan-Yugoslavya-Romanya"],
+        ["Sadabat Paktı", "İran-Afganistan-Türkiye-Irak"],
+        ["Akdeniz Paktı", "İngiltere-Fransa-Türkiye-Yunanistan-Yugoslavya"],
+        ["Briand-Kellogg", "ABD-Fransa dışişleri bakanları"],
+        ["Litvinov Protokolü", "SSCB ve komşuları"]
+      ]
+    },
+    {
+      "ad": "Rapor/Kavram ↔ İlgili Konu",
+      "p": [
+        ["Brüksel hattı raporu", "Musul"],
+        ["Sandler raporu", "Hatay"],
+        ["Mare Nostrum", "İtalya"],
+        ["TAYYAR", "Balkan Antantı"],
+        ["İRAN ATI", "Sadabat Paktı"],
+        ["Venizelos", "Nobel adaylığı"]
+      ]
+    },
+    {
+      "ad": "Kişi ↔ Görev/Olay",
+      "p": [
+        ["Ali Fethi Okyar", "Haliç Konferansı temsilcisi"],
+        ["Cemal Hüsnü Taray", "MC ilk temsilcisi"],
+        ["Mahmut Esat Bozkurt", "Bozkurt-Lotus davası"],
+        ["Tevfik Rüştü Aras", "1925-1938 dışişleri bakanı"],
+        ["Tayfur Sökmen", "Hatay Cumhuriyeti ilk cumhurbaşkanı"],
+        ["Vasıf Çınar", "Tevhid-i Tedrisat / MEB Bakanı"]
+      ]
+    },
+    {
+      "ad": "1933 Olayları ↔ Niteliği",
+      "p": [
+        ["Razgrad olayı", "Bulgaristan'da Türk mezarları"],
+        ["Vagonli olayı", "Naci Bey / Türkçe konuşma"],
+        ["Bursa olayı", "İlk Türkçe ezan tepkisi"],
+        ["Tevfik Bıyıklıoğlu", "Razgrad mitingi lideri"],
+        ["Hafız Rıfat Bey", "İlk Türkçe ezanı okudu"]
+      ]
+    },
+    {
+      "ad": "Atatürk Dönemi Devlet Adamları",
+      "p": [
+        ["İlk ve en uzun başbakan", "İsmet İnönü"],
+        ["Son başbakan", "Celal Bayar"],
+        ["En uzun süreli meclis başkanı", "Kazım Özalp"],
+        ["1 günlük cumhurbaşkanı vekili", "Abdülhalik Renda"],
+        ["1921 Ankara Antlaşması imzacısı", "Yusuf Kemal Tengirşenk"],
+        ["1. TBMM ilk dışişleri bakanı", "Bekir Sami Bey"]
+      ]
+    }
+  ]
+}

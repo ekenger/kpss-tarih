@@ -1,0 +1,551 @@
+{
+  "meta": {
+    "gun": 24,
+    "baslik": "II. Dünya Savaşı (2. Kısım: Konferanslar, Sonuçlar ve Türkiye'ye Etkileri)",
+    "ozet": "II. Dünya Savaşı konferansları (Yalta, Potsdam, Kasablanka, San Francisco, Quebec, Moskova, Adana, Kahire, Tahran), savaşın sonuçları ve Türkiye Cumhuriyeti'ne etkileri (savunma hatları, vergiler, kurumlar, kültür ve deniz facaları).",
+    "tahminiSoru": "KPSS'de ~2-3 soru",
+    "duzeltmeler": [
+      "Transkript boyunca Tactiq bozulmasıyla hep '1. Dünya Savaşı' deniyor; konu aslında II. Dünya Savaşı'dır (23. günün devamı, 2. video).",
+      "Roswellt/Rosevelt → Roosevelt (ABD Başkanı)",
+      "Josep Stalin → Josef (Iosif) Stalin",
+      "Vincent Churchill → Winston Churchill; Çamirley → Chamberlain",
+      "Big Tree → Big Three (Büyük Üçlü)",
+      "Podstam/Potslam/Potstan/Potlam → Potsdam; Clement Etle → Clement Attlee",
+      "Kazabanka/Kasabilanka → Casablanca (Kasablanka)",
+      "QBEK/Qback/Qubek/QEK → Quebec (Kanada)",
+      "Charles de Gaul → Charles de Gaulle; Vichi/mara petin → Vichy hükümeti / Mareşal Pétain",
+      "The White Aydınha/Thew Eisenha → Dwight Eisenhower; Torç → Meşale (Torch) Harekatı",
+      "Antony Edin → Anthony Eden (İngiltere Dışişleri Bakanı)",
+      "Brson Woods → Bretton Woods; IMF para birimi CDR → SDR",
+      "Nümberg/Nünberg → Nürnberg (mahkemeleri)",
+      "Enak/Eni yakur → ENIAC (ilk bilgisayar)",
+      "John Stanbey/Stanbeck – gaza üzümleri → John Steinbeck – Gazap Üzümleri",
+      "Jean Paul Sart/Start – Özgürlük Yolları → Jean-Paul Sartre – Özgürlük Yolları",
+      "Orhan Velianık → Orhan Veli Kanık; Müzeyyan Sener → Müzeyyen Senar",
+      "Zülfil/Zülfül Ivaneli – Serenat → Zülfü Livaneli – Serenad",
+      "Vecii Yürkuş → Vecihi Hürkuş; Şakir Zümre (doğru)"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Konferans katılımcıları (kim otururdu)",
+      "i": [
+        { "k": "Yalta = Roosevelt + Stalin + Churchill", "m": "ABD + SSCB + İngiltere liderleri = Big Three / Büyük Üçlü (3 büyük devlet lideri)", "s": "z" },
+        { "k": "Potsdam = Truman + Stalin + Attlee", "m": "ABD (Truman) + SSCB (Stalin) + İngiltere (Clement Attlee)", "s": "z" },
+        { "k": "2. Kahire = İnönü + Churchill + Roosevelt", "m": "Türkiye'yi savaşa sokmak için 3 lider bir arada; teçhizat şartıyla 'kabul' ettik (göstermelik)", "s": "z" },
+        { "k": "1. Kahire = Menemencioğlu ↔ Eden", "m": "TC Dışişleri Numan Menemencioğlu ile İngiltere Dışişleri Anthony Eden; Türkiye reddetti", "s": "z" },
+        { "k": "Adana = Churchill ↔ İnönü", "m": "İngiltere lideri ile İsmet İnönü; iki dışişleri (Şükrü Saraçoğlu) da oradaydı", "s": "z" },
+        { "k": "1. Moskova = İng + ABD + SSCB + Çin dışişleri", "m": "4 devletin DIŞİŞLERİ bakanları; Türkiye'den havaalanı istendi, verilmedi", "s": "z" },
+        { "k": "Tahran = Stalin baskı", "m": "Stalin: 'Türkiye ikna edilsin, gerekirse baskı yapılsın'", "s": "z" }
+      ]
+    },
+    {
+      "b": "Yalta Konferansı — kod ve kararlar",
+      "i": [
+        { "k": "Yalta = yalakalık", "m": "Bizden 'yalakalık' istediler: Almanya-Japonya'ya savaş ilan et, öyle BM'ye alırız (Türkiye böyle girdi)", "s": "z" },
+        { "k": "1 Mart 1945", "m": "Bu tarihe kadar Almanya'ya savaş ilan edenler Birleşmiş Milletler'e alınacak", "s": "z" },
+        { "k": "FIRÇA = Güvenlik Konseyi 5 daimi", "m": "Fransa, İngiltere, Rusya, Çin, ABD — veto hakkı olanlar; DİKKAT Almanya YOK, A=ABD'dir", "s": "z" },
+        { "k": "Almanya 4 işgal bölgesi + savaş suçluları yargılanacak", "m": "Savaş suçluları = Naziler (Yahudi soykırımı)", "s": "z" },
+        { "k": "Boğazlarda SSCB lehine değişiklik", "m": "1936 Montrö ile boğazlar mutlak Türk egemenliğindeydi; SSCB baskısı ileride bizi NATO'ya götürecek", "s": "z" },
+        { "k": "Büyük ittifak sona erdi → Soğuk Savaş temeli", "m": "ABD-SSCB-İngiltere ittifakı Yalta'da çatladı; Soğuk Savaş'ın temelleri atıldı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Potsdam Konferansı",
+      "i": [
+        { "k": "Almanya + Avusturya = 4 işgal bölgesi", "m": "Barışın nasıl sağlanacağı konuşuldu", "s": "z" },
+        { "k": "İtalya ile koşulları AĞIR OLMAYAN anlaşma", "m": "I. Dünya Savaşı'ndaki ağır anlaşmalar yeni savaşa yol açmıştı; tekrarı istenmiyor", "s": "z" },
+        { "k": "Alsas-Loren + Südet → Fransa'ya", "m": "Alsas-Loren (kömür havzası) ve eski Çekoslovakya toprağı Südet, yenilen Almanya'dan alınıp Fransa'ya verildi", "s": "z" },
+        { "k": "Potsdam savaş suçlularını da yargılar", "m": "Yalta'daki gibi savaş suçlusu maddesi var", "s": "e" }
+      ]
+    },
+    {
+      "b": "Kasablanka · San Francisco · Quebec",
+      "i": [
+        { "k": "Kasablanka = kayıtsız şartsız teslim", "m": "Mihver devletler kayıtsız şartsız teslim olursa savaş o zaman sona erer (2025 KPSS'de 'değildir' sorusu geldi)", "s": "z" },
+        { "k": "San Francisco = BM kuruldu", "m": "Birleşmiş Milletler burada kuruldu; TEMELİ Atlantik Bildirisi'nde atılmıştı", "s": "z" },
+        { "k": "Quebec = Normandiya çıkarması kararı", "m": "İtalya teslim oldu, ikinci cephe Fransa'da açılacak → Normandiya kararı", "s": "z" },
+        { "k": "Normandiya generali = Eisenhower", "m": "Dwight Eisenhower; daha önce Kuzey Afrika'da Meşale (Torch) Harekatı'nı yönetmişti", "s": "z" },
+        { "k": "de Gaulle = Özgür Fransa (İngiltere'de)", "m": "Fransa'da Alman yanlısı Vichy hükümeti / Mareşal Pétain vardı; de Gaulle hareketi İngiltere'de başlattı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Savaşın genel sonuçları",
+      "i": [
+        { "k": "~60 milyon ölü", "m": "İnsanlık tarihinin en kanlı savaşı", "s": "z" },
+        { "k": "Müttefik kazandı, Mihver kaybetti", "m": "Totaliter rejimler sona erdi (Almanya Naziler, İtalya Mussolini)", "s": "z" },
+        { "k": "En karlı: ABD + SSCB → süper güç", "m": "Dünya Batı (ABD) ve Doğu (SSCB) bloklarına ayrıldı → Soğuk Savaş başladı", "s": "z" },
+        { "k": "Bretton Woods = ekonomik kararlar", "m": "ABD'de Dünya Bankası ve IMF kuruldu; IMF para birimi SDR", "s": "z" },
+        { "k": "Sanayi + tarım üretimi düştü", "m": "Herkes cephede olduğu için üretim azaldı", "s": "e" }
+      ]
+    },
+    {
+      "b": "Almanya'nın bölünmesi",
+      "i": [
+        { "k": "Doğu Almanya = SSCB → Demokratik Alman Cumhuriyeti", "m": "Stalingrad'da Hitler yenildi, SSCB Berlin'e kadar işgal etti", "s": "z" },
+        { "k": "Batı Almanya = ABD+Fransa+İngiltere → Federal Alman Cumhuriyeti", "m": "Almanya iki ayrı devlete bölündü", "s": "z" },
+        { "k": "Nürnberg mahkemeleri = savaş suçluları", "m": "Savaş suçlusu = Almanlar; Nürnberg Almanya'nın kentidir", "s": "z" },
+        { "k": "12 ada → Yunanistan (Paris Antlaşması)", "m": "İtalya Afrika topraklarını kaybetti; elindeki 12 ada Paris Antlaşması ile Yunanistan'a bırakıldı", "s": "z" }
+      ]
+    },
+    {
+      "b": "İki kritik tarih ve bilim-kültür",
+      "i": [
+        { "k": "9 Aralık 1948 = Soykırım Sözleşmesi", "m": "Soykırım suçunun önlenmesi ve cezalandırılması sözleşmesi (BM)", "s": "z" },
+        { "k": "10 Aralık 1948 = İnsan Hakları Evrensel Beyannamesi", "m": "BM'de kabul edildi; Roosevelt 'tüm insanlığın magna kartası' dedi", "s": "z" },
+        { "k": "İlk bilgisayar = ENIAC", "m": "II. Dünya Savaşı sırasında yapıldı; bir oda büyüklüğünde", "s": "z" },
+        { "k": "Gazap Üzümleri = Steinbeck (1929 krizi)", "m": "1929 Kara Perşembe / Ekonomik Kriz; John Steinbeck", "s": "z" },
+        { "k": "Özgürlük Yolları = Sartre (II. Dünya Savaşı)", "m": "Jean-Paul Sartre II. Dünya Savaşı sürecini anlatır", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türkiye — yönetim ve anlaşmalar",
+      "i": [
+        { "k": "Cumhurbaşkanı = İsmet İnönü", "m": "Savaşa girmemeyi başaran isim", "s": "z" },
+        { "k": "Başbakanlar = Refik Saydam → Şükrü Saraçoğlu", "m": "İnönü'yü başbakan olarak alma (o cumhurbaşkanı)", "s": "z" },
+        { "k": "Dışişleri = Saraçoğlu, Menemencioğlu, Hasan Saka", "m": "Hem başbakan hem dışişleri yapan = Şükrü Saraçoğlu", "s": "z" },
+        { "k": "Üçlü İttifak = Türkiye + İngiltere + Fransa", "m": "Karşılıklı yardım anlaşması; savaşa girmemek için müttefiklerin gönlü alınıyor", "s": "z" },
+        { "k": "Saldırmazlık Paktı = Türk-Alman Dostluk Paktı", "m": "Bulgaristan-Yunanistan'a dayanan Almanya ile; hem müttefik hem mihver ile anlaşarak savaş dışı kalındı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türkiye — savunma önlemleri",
+      "i": [
+        { "k": "Çakmak Hattı", "m": "Olası Alman saldırısına karşı Çatalca civarında Fevzi Çakmak liderliğinde savunma hattı (Fransa'nın Maginot hattı gibi)", "s": "z" },
+        { "k": "Karartma Harekatı", "m": "Gece Alman hava saldırılarını etkisizleştirmek için ışıkları erken söndürmek", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türkiye — ekonomi, vergi, kurum",
+      "i": [
+        { "k": "1940 Milli Korunma Kanunu", "m": "Olağanüstü hallerde fiyat saptama, ürüne el koyma, zorunlu çalışma yükümlülüğü", "s": "z" },
+        { "k": "Milli Korunma'dan 2 kurum = Petrol Ofisi + Et Balık Kurumu", "m": "İkisi de günümüze ulaştı", "s": "z" },
+        { "k": "Varlık Vergisi (1942)", "m": "Aşırı kazançlardan, bir defaya mahsus OLAĞANÜSTÜ SERVET vergisi; çoğunlukla azınlıklardan alındı, tepki topladı", "s": "z" },
+        { "k": "Toprak Mahsulleri Vergisi (1944)", "m": "Varlık vergisi alınamayan çiftçiden (fakirden) alınan vergi", "s": "z" },
+        { "k": "Ekmek karnesi", "m": "Temel tüketim maddelerinin karne ile dağıtımı", "s": "z" },
+        { "k": "2. Beş Yıllık Sanayi Planı = hazırlandı ama uygulanamadı", "m": "Savaş yüzünden; 1. plan SSCB örnek alınıp Sümerbank ile uygulanmıştı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türkiye — eğitim, kültür, kişiler",
+      "i": [
+        { "k": "Köy Enstitüleri (1940)", "m": "Milli Eğitim Bakanı Hasan Âli Yücel + İsmail Hakkı Tonguç", "s": "z" },
+        { "k": "Garip Akımı (serbest nazım)", "m": "Orhan Veli Kanık, Melih Cevdet Anday", "s": "z" },
+        { "k": "Yurttan Sesler = radyo programı", "m": "Müzeyyen Senar, Safiye Ayla ünlendi; radyo yaygınlaştı", "s": "z" },
+        { "k": "Einstein'ın mektubu", "m": "Atatürk'e yazdı; Yahudi bilim insanları Türkiye üniversitelerine geldi", "s": "z" }
+      ]
+    },
+    {
+      "b": "Türkiye — deniz facaları ve sanayici öncüler",
+      "i": [
+        { "k": "Refah Şilebi (168 kişi)", "m": "İngiltere'den alınan gemilerin teslim sürecinde heyetimizin bindiği gemi batırıldı", "s": "z" },
+        { "k": "Struma gemisi", "m": "Nazilerden kaçan Yahudiler; Türkiye Alman tepkisinden çekinip kabul etmedi, gemi battı (Livaneli – Serenad)", "s": "z" },
+        { "k": "Atılay faciası (1942, 38 personel)", "m": "İstanbul tersanelerinde inşa edilen ilk denizaltı battı", "s": "z" },
+        { "k": "Nuri Demirağ = Milli Kalkınma Partisi", "m": "Çok partili hayata geçişte kurulan İLK parti (Demokrat Parti'den önce); Karabük demir-çelik", "s": "z" },
+        { "k": "Vecihi Hürkuş = havacılık", "m": "İlk sivil uçuş okulu, yerli uçak, ilk sivil hava yolu şirketi (Hürkuş)", "s": "z" },
+        { "k": "Şakir Zümre = savunma sanayii", "m": "Kurtuluş Savaşı'nda cephane gönderdi; ilk savunma fabrikası ve ilk yerli uçak bombaları", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Konferanslar", "o": "Yalta Konferansı'na katılan üç lider kimdir ve konferansın diğer adı nedir?", "a": "ABD Başkanı Roosevelt, SSCB lideri Stalin, İngiltere lideri Churchill.\nÜç büyük lider katıldığı için 'Big Three / Büyük Üçlü' denir." },
+    { "c": "Konferanslar", "o": "Yalta Konferansı'nda BM üyeliği için hangi şart kondu?", "a": "1 Mart 1945'e kadar Almanya'ya (ve Japonya'ya) savaş ilan edenler BM'ye alınacaktı.\nTürkiye bu yüzden savaş ilan edip BM'ye girdi." },
+    { "c": "Konferanslar", "o": "Potsdam Konferansı'na katılan liderler kimlerdi?", "a": "ABD'den Truman, SSCB'den Stalin, İngiltere'den Clement Attlee.\nSavaş sonrası barışın nasıl sağlanacağı konuşuldu." },
+    { "c": "Konferanslar", "o": "Potsdam Konferansı'nda Alsas-Loren ve Südet bölgesi hangi devlete verildi?", "a": "Fransa'ya verildi.\nSüdet eski Çekoslovakya toprağı, Alsas-Loren kömür havzasıydı; yenilen Almanya'dan alındı." },
+    { "c": "Konferanslar", "o": "Potsdam'da İtalya ile neden koşulları ağır OLMAYAN bir anlaşma yapıldı?", "a": "I. Dünya Savaşı sonrası ağır anlaşmalar yeni bir savaşa yol açmıştı.\nİtalya yeni bir savaşa sebep olmasın diye hafif koşullar seçildi." },
+    { "c": "Konferanslar", "o": "Kasablanka Konferansı'nın en önemli kararı nedir?", "a": "Mihver devletler kayıtsız şartsız teslim olursa savaş ancak o zaman sona erecekti.\n2025 KPSS'de bu konferansla ilgili 'hangisi değildir' sorusu geldi." },
+    { "c": "Konferanslar", "o": "Birleşmiş Milletler hangi konferansta kuruldu, temeli nerede atılmıştı?", "a": "San Francisco Konferansı'nda kuruldu.\nTemeli Atlantik Bildirisi'nde atılmıştı." },
+    { "c": "Konferanslar", "o": "Normandiya Çıkarması kararı hangi konferansta alındı, harekatı kim yönetti?", "a": "Quebec Konferansı'nda alındı.\nHarekatı General Dwight Eisenhower yönetti (daha önce Kuzey Afrika'da Meşale/Torch Harekatı'nı da yönetmişti)." },
+    { "c": "Konferanslar", "o": "Özgür Fransa hareketini kim, nerede başlattı?", "a": "Charles de Gaulle, İngiltere'de başlattı.\nFransa'da Alman yanlısı Vichy hükümeti ve Mareşal Pétain olduğu için orada başlatamadı." },
+    { "c": "Konferanslar", "o": "1. Moskova Konferansı'nda Türkiye'den ne istendi?", "a": "İngiltere, ABD, SSCB ve Çin dışişleri bakanları Türkiye'den havaalanlarını istedi.\nTürkiye 'savaşa dahil olurum' diyerek vermeyi reddetti." },
+    { "c": "Konferanslar", "o": "Adana Görüşmeleri kimler arasında oldu, neden 'sağırlar diyaloğu' denir?", "a": "Winston Churchill ile İsmet İnönü arasında (Dışişleri Şükrü Saraçoğlu da vardı).\nİkisi de birbirini duymazlıktan geldiği için 'sağırlar diyaloğu' denir; aslında Mersin/Yenice'de yapıldı." },
+    { "c": "Konferanslar", "o": "1. Kahire Konferansı kimler arasında geçti ve sonucu ne oldu?", "a": "TC Dışişleri Numan Menemencioğlu ile İngiltere Dışişleri Anthony Eden arasında.\nTürkiye savaşa girmeyi reddetti." },
+    { "c": "Konferanslar", "o": "2. Kahire Konferansı'nda Türkiye ne 'kabul etti'?", "a": "İnönü, Churchill ve Roosevelt bir aradaydı.\nTürkiye, istediği savaş malzemesi ve teçhizat sağlanırsa savaşa gireceğini söyledi — ama bunu bilinçli/göstermelik yaptı." },
+    { "c": "Konferanslar", "o": "Tahran Konferansı'nda Türkiye ile ilgili ne söylendi?", "a": "Stalin, Türkiye'nin savaşa girmesi için baskı yapılmasını / ikna edilmesini istedi." },
+    { "c": "Yalta & BM", "o": "BM Güvenlik Konseyi'nde veto hakkına sahip 5 daimi üye hangileridir?", "a": "Fransa, İngiltere, Rusya, Çin, ABD ('FIRÇA').\nDİKKAT: Almanya YOKTUR; baştaki A, ABD'yi ifade eder." },
+    { "c": "Yalta & BM", "o": "Türkiye BM'ye nasıl girdi?", "a": "Yalta kararı gereği Almanya ve Japonya'ya savaş ilan ederek.\nDaha önce tarafsızdı; güvenlik konseyinde yer almadı." },
+    { "c": "Yalta & BM", "o": "Yalta'da boğazlar konusunda ne kararlaştırıldı, sonucu ne oldu?", "a": "Boğazlarda SSCB lehine değişiklik yapılacaktı (1936 Montrö ile boğazlar Türk egemenliğindeydi).\nSSCB'nin sonraki baskısı Türkiye'nin NATO'ya girmesine neden oldu." },
+    { "c": "Yalta & BM", "o": "Yalta Konferansı Soğuk Savaş açısından neden önemlidir?", "a": "Büyük ittifak (ABD-SSCB-İngiltere) burada sona erdi.\nSoğuk Savaş'ın temelleri Yalta'da atıldı." },
+    { "c": "Savaşın Sonuçları", "o": "II. Dünya Savaşı'nda yaklaşık kaç kişi öldü, kim kazandı?", "a": "Yaklaşık 60 milyon insan öldü.\nMüttefik devletler kazandı, mihver devletler kaybetti; totaliter rejimler sona erdi." },
+    { "c": "Savaşın Sonuçları", "o": "Savaştan en karlı çıkan iki devlet hangisidir ve sonucu ne oldu?", "a": "ABD ve SSCB süper güç oldu.\nDünya Batı (ABD) ve Doğu (SSCB) bloklarına ayrıldı; Soğuk Savaş başladı." },
+    { "c": "Savaşın Sonuçları", "o": "Bretton Woods kararları ile hangi kurumlar kuruldu?", "a": "ABD'de Dünya Bankası ve IMF kuruldu.\nBunlar ekonomik kararlardır; IMF'nin para birimi SDR'dir." },
+    { "c": "Savaşın Sonuçları", "o": "Savaş suçlularının yargılandığı mahkemeler hangileridir?", "a": "Nürnberg Mahkemeleri.\nSavaş suçluları Almanlardı; Nürnberg Almanya'nın kentidir." },
+    { "c": "Savaşın Sonuçları", "o": "İtalya, savaş sonunda 12 adayı hangi antlaşmayla kime bıraktı?", "a": "Paris Antlaşması ile Yunanistan'a bıraktı.\nİtalya Afrika'daki topraklarını da kaybetti; artık Ege Adaları ve 12 ada Yunanistan'da." },
+    { "c": "Savaşın Sonuçları", "o": "9 Aralık 1948 ve 10 Aralık 1948'de BM'de neler kabul edildi?", "a": "9 Aralık 1948: Soykırım Suçunun Önlenmesi Sözleşmesi.\n10 Aralık 1948: İnsan Hakları Evrensel Beyannamesi (Roosevelt 'tüm insanlığın magna kartası' dedi)." },
+    { "c": "Savaşın Sonuçları", "o": "Dünyanın ilk bilgisayarı nedir?", "a": "ENIAC.\nII. Dünya Savaşı sırasında yapıldı; bir oda büyüklüğündeydi." },
+    { "c": "Savaşın Sonuçları", "o": "1929 Ekonomik Krizi ve II. Dünya Savaşı'nı anlatan edebi eserler hangileridir?", "a": "1929 krizi: John Steinbeck – Gazap Üzümleri.\nII. Dünya Savaşı: Jean-Paul Sartre – Özgürlük Yolları." },
+    { "c": "Almanya'nın Bölünmesi", "o": "II. Dünya Savaşı sonrası Almanya nasıl ikiye ayrıldı?", "a": "Doğu Almanya: SSCB → Demokratik Alman Cumhuriyeti.\nBatı Almanya: ABD+Fransa+İngiltere → Federal Alman Cumhuriyeti." },
+    { "c": "Almanya'nın Bölünmesi", "o": "SSCB Almanya'nın doğusuna nasıl hâkim oldu?", "a": "Stalingrad Savaşı'nda Hitler'i yendi ve Berlin'e kadar işgal etti.\nBu yüzden ülkenin doğusu SSCB'de kaldı." },
+    { "c": "Türkiye — Yönetim & Anlaşmalar", "o": "II. Dünya Savaşı döneminde Türkiye'nin cumhurbaşkanı ve başbakanları kimlerdi?", "a": "Cumhurbaşkanı: İsmet İnönü.\nBaşbakanlar sırasıyla: Refik Saydam ve Şükrü Saraçoğlu." },
+    { "c": "Türkiye — Yönetim & Anlaşmalar", "o": "Bu dönemde dışişleri bakanları kimlerdi; hem başbakanlık hem dışişleri yapan kimdir?", "a": "Dışişleri: Şükrü Saraçoğlu, Numan Menemencioğlu, Hasan Saka.\nHem başbakanlık hem dışişleri yapan: Şükrü Saraçoğlu." },
+    { "c": "Türkiye — Yönetim & Anlaşmalar", "o": "Üçlü İttifak Anlaşması kimler arasında ve ne amaçla yapıldı?", "a": "Türkiye + İngiltere + Fransa arasında karşılıklı yardım anlaşması.\nAmaç savaşa girmemek için müttefiklerin gönlünü almaktı." },
+    { "c": "Türkiye — Yönetim & Anlaşmalar", "o": "Saldırmazlık Paktı hangi devletle ve hangi adla imzalandı?", "a": "Almanya ile 'Türk-Alman Dostluk Paktı' olarak imzalandı.\nTürkiye hem müttefik hem mihver devletlerle anlaşarak savaş dışı kaldı." },
+    { "c": "Türkiye — Savunma & Ekonomi", "o": "Çakmak Hattı nedir?", "a": "Olası bir Alman saldırısına karşı Çatalca civarında Fevzi Çakmak liderliğinde kurulan savunma hattı.\nFransa'nın Maginot hattına benzer." },
+    { "c": "Türkiye — Savunma & Ekonomi", "o": "Karartma Harekatı nedir?", "a": "Gece yapılabilecek Alman hava saldırılarını etkisiz kılmak için ışıkların erkenden söndürülmesi.\nŞehir ve köylerin bulunup bombalanmasını önlemeyi amaçlar." },
+    { "c": "Türkiye — Savunma & Ekonomi", "o": "1940 Milli Korunma Kanunu devlete hangi yetkileri verdi?", "a": "Olağanüstü hallerde fiyatları saptama, ürünlere el koyma, zorunlu çalışma yükümlülüğü getirme.\nBu kanun kapsamında Petrol Ofisi ve Et Balık Kurumu kuruldu." },
+    { "c": "Türkiye — Savunma & Ekonomi", "o": "Ekmek karnesi uygulaması nedir?", "a": "Temel tüketim maddelerinin karne ile, kişi başına sınırlı biçimde dağıtılması.\nKaraborsa ve mal kaçırmaya karşı devlet dağıtımı üstlendi." },
+    { "c": "Türkiye — Savunma & Ekonomi", "o": "İkinci Beş Yıllık Sanayi Planı'na ne oldu?", "a": "Hazırlandı ama II. Dünya Savaşı yüzünden uygulanamadı.\nBirinci plan SSCB örnek alınarak Sümerbank ile başarıyla uygulanmıştı." },
+    { "c": "Türkiye — Vergiler", "o": "Varlık Vergisi nedir, kimlerden alındı?", "a": "1942'de aşırı kazançları vergilendirmek için bir defaya mahsus alınan olağanüstü SERVET vergisi.\nÇoğunlukla azınlıklardan alındı, büyük tepki topladı." },
+    { "c": "Türkiye — Vergiler", "o": "Toprak Mahsulleri Vergisi nedir?", "a": "1944'te çıkarıldı; varlık vergisi alınamayan çiftçiden (fakirden) alınan vergi.\nDİKKAT: Toprak Mahsulleri OFİSİ Atatürk dönemidir, VERGİSİ İnönü dönemidir." },
+    { "c": "Türkiye — Vergiler", "o": "Bu dönemde nüfus artış hızı neden düştü?", "a": "Olası savaşa karşı seferberlik ilan edildiği ve erkekler askerde olduğu için." },
+    { "c": "Bilim-Kültür & Kişiler", "o": "Köy Enstitüleri hangi yıl kuruldu, kimler etkili oldu?", "a": "1940'ta kuruldu.\nMilli Eğitim Bakanı Hasan Âli Yücel ve İsmail Hakkı Tonguç etkili oldu." },
+    { "c": "Bilim-Kültür & Kişiler", "o": "Garip Akımı (serbest nazım) kimlerin öncülüğünde doğdu?", "a": "Orhan Veli Kanık ve Melih Cevdet Anday.\nŞiirde ölçü ve kafiyeyi bırakan serbest nazım akımıdır." },
+    { "c": "Bilim-Kültür & Kişiler", "o": "'Yurttan Sesler' nedir, kimler ünlendi?", "a": "Bir radyo programıdır.\nMüzeyyen Senar ve Safiye Ayla bu programla ünlendi; radyo bu dönemde yaygınlaştı." },
+    { "c": "Bilim-Kültür & Kişiler", "o": "Albert Einstein'ın Atatürk'e mektubu neyle ilgiliydi?", "a": "Almanya'daki Yahudi asıllı bilim insanlarının Türkiye'ye gönderilmesi teklifiydi.\nBu bilim insanları Türkiye üniversitelerine getirildi." },
+    { "c": "Deniz Facaları & Öncüler", "o": "Refah Şilebi olayı nedir?", "a": "İngiltere'den istenen gemilerin teslim alınması sürecinde heyetimizin bulunduğu geminin batırılmasıdır.\n168 kişi hayatını kaybetti." },
+    { "c": "Deniz Facaları & Öncüler", "o": "Struma gemisi olayı nedir, hangi eserde geçer?", "a": "Nazilerden kaçan Yahudileri taşıyan gemiydi; Türkiye Alman tepkisinden çekinip kabul etmedi, gemi batırıldı.\nZülfü Livaneli'nin 'Serenad' adlı eserinde anlatılır." },
+    { "c": "Deniz Facaları & Öncüler", "o": "Atılay faciası nedir?", "a": "İstanbul tersanelerinde inşa edilen ilk denizaltı Atılay, 1942'de battı.\n38 personel şehit oldu." },
+    { "c": "Deniz Facaları & Öncüler", "o": "Nuri Demirağ hangi partiyi kurdu, önemi nedir?", "a": "Milli Kalkınma Partisi'ni kurdu.\nÇok partili hayata geçişte kurulan İLK partidir (Demokrat Parti'den önce); Karabük demir-çelik gibi işleri de var." },
+    { "c": "Deniz Facaları & Öncüler", "o": "Vecihi Hürkuş'un havacılıktaki 'ilk'leri nelerdir?", "a": "İlk sivil uçuş okulunu kurdu, yerli uçaklar üretti ve Türkiye'nin ilk sivil hava yolu şirketini (Hürkuş) kurdu.\nYeşilçam filminde Şener Şen canlandırmıştır." },
+    { "c": "Deniz Facaları & Öncüler", "o": "Şakir Zümre kimdir?", "a": "Kurtuluş Savaşı'nda Türkiye'ye yurt dışından cephane gönderdi.\nSavunma sanayiinde ilk fabrikayı kurdu ve ilk yerli uçak bombalarını üretti." }
+  ],
+  "tuzak": [
+    { "q": "BM Güvenlik Konseyi daimi üyelerinden ('FIRÇA') olmayan hangisidir?", "o": ["Almanya", "Fransa", "ABD"], "c": 0, "n": "Daimi üyeler Fransa-İngiltere-Rusya-Çin-ABD; Almanya YOKTUR, baştaki A ABD'dir." },
+    { "q": "Türkiye'nin BM'ye girme şartını koyan konferans hangisidir?", "o": ["Yalta", "San Francisco", "Kasablanka"], "c": 0, "n": "Şart (Almanya'ya savaş ilan) Yalta'da kondu; BM San Francisco'da KURULDU — ikisi karışır." },
+    { "q": "Birleşmiş Milletler hangisinde KURULDU?", "o": ["San Francisco Konferansı", "Atlantik Bildirisi", "Yalta Konferansı"], "c": 0, "n": "BM'nin TEMELİ Atlantik Bildirisi'nde atıldı, KURULUŞU San Francisco'dadır." },
+    { "q": "Normandiya Çıkarması kararı hangi konferansta alındı?", "o": ["Quebec", "Tahran", "Potsdam"], "c": 0, "n": "Karar Quebec'te alındı; harekatı Eisenhower yönetti." },
+    { "q": "Alsas-Loren ve Südet bölgesini Fransa'ya veren konferans hangisidir?", "o": ["Potsdam", "Yalta", "Kasablanka"], "c": 0, "n": "Toprak paylaşımı (Alsas-Loren, Südet → Fransa) Potsdam kararıdır." },
+    { "q": "Almanya'yı dört işgal bölgesine ayırma kararı sadece hangi konferansa aittir?", "o": ["Hem Yalta hem Potsdam'da geçer", "Yalnız Yalta", "Yalnız Kasablanka"], "c": 0, "n": "Almanya'nın 4 bölgeye ayrılması HEM Yalta HEM Potsdam'da geçer; tek konferansa bağlamak tuzaktır." },
+    { "q": "Türkiye'den havaalanlarının istendiği konferans hangisidir?", "o": ["1. Moskova", "Adana", "Tahran"], "c": 0, "n": "Havaalanı isteği (4 dışişleri bakanı) 1. Moskova Konferansı'ndadır." },
+    { "q": "'Sağırlar diyaloğu' olarak bilinen görüşme hangisidir?", "o": ["Adana Görüşmeleri", "1. Kahire", "Tahran"], "c": 0, "n": "Churchill-İnönü'nün birbirini duymazlıktan geldiği Adana görüşmeleridir." },
+    { "q": "Numan Menemencioğlu ile Anthony Eden hangi konferansta görüştü?", "o": ["1. Kahire", "2. Kahire", "Adana"], "c": 0, "n": "İki DIŞİŞLERİ bakanının görüşmesi 1. Kahire'dir; 2. Kahire'de liderler (İnönü-Churchill-Roosevelt) vardır." },
+    { "q": "İnönü, Churchill ve Roosevelt hangi konferansta bir aradaydı?", "o": ["2. Kahire", "1. Kahire", "Yalta"], "c": 0, "n": "Üç lider 2. Kahire'de; Türkiye teçhizat şartıyla 'kabul' etti." },
+    { "q": "'Kayıtsız şartsız teslim' şartını getiren konferans hangisidir?", "o": ["Kasablanka", "Potsdam", "Quebec"], "c": 0, "n": "Mihverin kayıtsız şartsız teslimi Kasablanka kararıdır." },
+    { "q": "Savaştan en karlı çıkan devletler hangileridir?", "o": ["ABD ve SSCB", "İngiltere ve Fransa", "Almanya ve İtalya"], "c": 0, "n": "Süper güç olan ABD ve SSCB; İngiltere-Fransa galip ama süper güç değil." },
+    { "q": "Bretton Woods kararları ile kurulan yapılar hangileridir?", "o": ["Dünya Bankası ve IMF", "NATO ve BM", "Dünya Bankası ve NATO"], "c": 0, "n": "Bretton Woods EKONOMİK kararlardır: Dünya Bankası + IMF; NATO/BM askeri-siyasi yapılardır." },
+    { "q": "Almanya'nın doğusunda kurulan devlet hangisidir?", "o": ["Demokratik Alman Cumhuriyeti", "Federal Alman Cumhuriyeti", "Weimar Cumhuriyeti"], "c": 0, "n": "Doğu = SSCB = Demokratik; Batı = ABD/Fr/İng = Federal — sürekli karışır." },
+    { "q": "Savaş suçlularının yargılandığı mahkemeler hangileridir?", "o": ["Nürnberg Mahkemeleri", "Lahey Mahkemeleri", "Tahran Mahkemeleri"], "c": 0, "n": "Nürnberg (Almanya kenti) mahkemeleri Almanları yargıladı." },
+    { "q": "9 Aralık 1948'de BM'de kabul edilen belge hangisidir?", "o": ["Soykırım Sözleşmesi", "İnsan Hakları Evrensel Beyannamesi", "Atlantik Bildirisi"], "c": 0, "n": "9 Aralık = Soykırım Sözleşmesi; 10 Aralık = İnsan Hakları Beyannamesi — tarih tuzağı." },
+    { "q": "'Tüm insanlığın magna kartası' denen belge hangisidir?", "o": ["İnsan Hakları Evrensel Beyannamesi (10 Aralık 1948)", "Soykırım Sözleşmesi (9 Aralık 1948)", "Atlantik Bildirisi"], "c": 0, "n": "Roosevelt bu ifadeyi 10 Aralık 1948 İnsan Hakları Beyannamesi için kullandı." },
+    { "q": "Dünyanın ilk bilgisayarı hangisidir?", "o": ["ENIAC", "ENIGMA", "UNIVAC"], "c": 0, "n": "İlk bilgisayar ENIAC; Enigma Alman şifre makinesidir, karıştırılır." },
+    { "q": "1929 Ekonomik Krizi'ni anlatan eser hangisidir?", "o": ["Gazap Üzümleri – Steinbeck", "Özgürlük Yolları – Sartre", "Serenad – Livaneli"], "c": 0, "n": "1929 krizi = Steinbeck / Gazap Üzümleri; Sartre'ın eseri savaşı anlatır." },
+    { "q": "II. Dünya Savaşı'nı anlatan eser hangisidir?", "o": ["Özgürlük Yolları – Sartre", "Gazap Üzümleri – Steinbeck", "Serenad – Livaneli"], "c": 0, "n": "Savaş = Sartre / Özgürlük Yolları; Serenad ise Struma faciasını anlatır." },
+    { "q": "II. Dünya Savaşı döneminde Türkiye'nin cumhurbaşkanı kimdir?", "o": ["İsmet İnönü", "Celal Bayar", "Şükrü Saraçoğlu"], "c": 0, "n": "Cumhurbaşkanı İnönü; Saraçoğlu başbakan+dışişleri, ikisi karışır." },
+    { "q": "Aşağıdakilerden hangisi bu dönemde başbakanlık YAPMADI?", "o": ["İsmet İnönü", "Refik Saydam", "Şükrü Saraçoğlu"], "c": 0, "n": "İnönü cumhurbaşkanıdır; başbakanlar Refik Saydam ve Şükrü Saraçoğlu'dur." },
+    { "q": "Hem başbakanlık hem dışişleri bakanlığı yapan isim kimdir?", "o": ["Şükrü Saraçoğlu", "Numan Menemencioğlu", "Refik Saydam"], "c": 0, "n": "Her iki görevi de yapan tek isim Şükrü Saraçoğlu'dur." },
+    { "q": "Üçlü İttifak Anlaşması hangi devletler arasındadır?", "o": ["Türkiye-İngiltere-Fransa", "Türkiye-Almanya-İtalya", "Türkiye-İngiltere-SSCB"], "c": 0, "n": "Üçlü ittifak = Türkiye+İngiltere+Fransa; Türk-Alman ise ayrı Saldırmazlık Paktı'dır." },
+    { "q": "Olası Alman saldırısına karşı kurulan savunma hattı hangisidir?", "o": ["Çakmak Hattı", "Karartma Hattı", "Maginot Hattı"], "c": 0, "n": "Çakmak Hattı (Çatalca, Fevzi Çakmak) Türkiye'ye ait; Maginot Fransa'nındır." },
+    { "q": "Gece hava saldırılarına karşı ışıkları söndürme önlemi hangisidir?", "o": ["Karartma Harekatı", "Çakmak Hattı", "Milli Korunma"], "c": 0, "n": "Işık söndürme = Karartma Harekatı; Çakmak Hattı fiziksel savunma hattıdır." },
+    { "q": "Petrol Ofisi ve Et Balık Kurumu hangi kanunla kuruldu?", "o": ["Milli Korunma Kanunu (1940)", "Varlık Vergisi Kanunu", "Teşvik-i Sanayi Kanunu"], "c": 0, "n": "Her iki kurum da 1940 Milli Korunma Kanunu kapsamında kuruldu." },
+    { "q": "Aşırı kazançlardan alınan olağanüstü SERVET vergisi hangisidir?", "o": ["Varlık Vergisi (1942)", "Toprak Mahsulleri Vergisi (1944)", "Avarız Vergisi"], "c": 0, "n": "Servet vergisi = Varlık Vergisi; 'olağanüstü hal' vergisi deseydi Avarız olurdu." },
+    { "q": "Çiftçiden (fakirden) alınan vergi hangisidir?", "o": ["Toprak Mahsulleri Vergisi (1944)", "Varlık Vergisi (1942)", "Aşar Vergisi"], "c": 0, "n": "Çiftçi vergisi = Toprak Mahsulleri Vergisi; Varlık Vergisi zenginlerden alınırdı." },
+    { "q": "'Toprak Mahsulleri OFİSİ' hangi döneme aittir?", "o": ["Atatürk dönemi", "İsmet İnönü dönemi", "II. Dünya Savaşı sonrası"], "c": 0, "n": "OFİS Atatürk dönemi (piyasa düzenleme), VERGİ İnönü dönemi — kelime tuzağı." },
+    { "q": "Köy Enstitüleri'nin kurulmasında etkili Milli Eğitim Bakanı kimdir?", "o": ["Hasan Âli Yücel", "İsmail Hakkı Tonguç", "Hasan Saka"], "c": 0, "n": "Bakan Hasan Âli Yücel; Tonguç onun yanındaki eğitimcidir, ikisi karışır." },
+    { "q": "Nazilerden kaçan Yahudileri taşıyan ve Türkiye'nin kabul etmediği gemi hangisidir?", "o": ["Struma", "Refah Şilebi", "Atılay"], "c": 0, "n": "Struma = Yahudi mültecileri; Refah Şilebi İngiltere'den gemi teslimi sürecinde battı." },
+    { "q": "İngiltere'den gemi teslimi sürecinde batan, 168 kişinin öldüğü gemi hangisidir?", "o": ["Refah Şilebi", "Struma", "Atılay"], "c": 0, "n": "Refah Şilebi = 168 kişi; Atılay ise ilk denizaltımızdır (38 şehit)." },
+    { "q": "Çok partili hayata geçişte kurulan ilk parti ve kurucusu hangisidir?", "o": ["Milli Kalkınma Partisi – Nuri Demirağ", "Demokrat Parti – Celal Bayar", "Hürkuş Partisi – Vecihi Hürkuş"], "c": 0, "n": "İLK parti Milli Kalkınma Partisi (Nuri Demirağ), Demokrat Parti'den öncedir." }
+  ],
+  "deneme": [
+    {
+      "q": "Yalta Konferansı ile ilgili aşağıdakilerden hangisi söylenemez?",
+      "o": [
+        "Birleşmiş Milletler bu konferansta kurulmuştur",
+        "1 Mart 1945'e kadar Almanya'ya savaş ilan edenler BM'ye alınacaktır",
+        "Almanya dört işgal bölgesine ayrılacaktır",
+        "Boğazlarda SSCB lehine değişiklik öngörülmüştür",
+        "Büyük ittifak sona ermiş, Soğuk Savaş'ın temelleri atılmıştır"
+      ],
+      "c": 0,
+      "e": "Yalta BM üyeliğinin ŞARTINI koydu; BM ise San Francisco Konferansı'nda kuruldu."
+    },
+    {
+      "q": "Türkiye Cumhuriyeti'nin II. Dünya Savaşı'nda Almanya ve Japonya'ya savaş ilan etmesinin temel nedeni aşağıdakilerden hangisidir?",
+      "o": [
+        "Birleşmiş Milletler Teşkilatı'na girebilmek",
+        "Kaybettiği toprakları geri almak",
+        "Mihver devletlerle ittifak kurmak",
+        "Boğazlar üzerindeki egemenliğini genişletmek",
+        "NATO'ya üye olmak"
+      ],
+      "c": 0,
+      "e": "Yalta kararı gereği Almanya'ya savaş ilan edenler BM'ye alınacaktı; Türkiye bu amaçla savaş ilan etti."
+    },
+    {
+      "q": "Aşağıdaki devletlerden hangisi Birleşmiş Milletler Güvenlik Konseyi'nin daimi (veto hakkına sahip) üyelerinden biri değildir?",
+      "o": [
+        "Almanya",
+        "Fransa",
+        "Çin",
+        "Rusya",
+        "ABD"
+      ],
+      "c": 0,
+      "e": "Daimi üyeler Fransa, İngiltere, Rusya, Çin ve ABD'dir; Almanya bu konseyde yer almaz."
+    },
+    {
+      "q": "Potsdam Konferansı'nda İtalya ile koşulları ağır olmayan bir anlaşma imzalanmasının nedeni aşağıdakilerden hangisidir?",
+      "o": [
+        "İtalya'nın yeni bir dünya savaşına sebep olmasını önlemek",
+        "İtalya'nın müttefiklere geçmesini sağlamak",
+        "İtalya'nın Afrika'daki topraklarını korumak",
+        "İtalya'yı Birleşmiş Milletler'e almak",
+        "İtalya ile ittifak kurmak"
+      ],
+      "c": 0,
+      "e": "I. Dünya Savaşı sonrası ağır anlaşmalar yeni savaşa yol açmıştı; İtalya tekrar savaşa sebep olmasın diye hafif koşullar seçildi."
+    },
+    {
+      "q": "Aşağıdaki konferans-karar eşleştirmelerinden hangisi yanlıştır?",
+      "o": [
+        "San Francisco — Normandiya Çıkarması kararı",
+        "Yalta — Almanya'ya savaş ilan edenlerin BM'ye alınması",
+        "Potsdam — Alsas-Loren ve Südet'in Fransa'ya verilmesi",
+        "Kasablanka — mihverin kayıtsız şartsız teslimi",
+        "San Francisco — Birleşmiş Milletler'in kuruluşu"
+      ],
+      "c": 0,
+      "e": "Normandiya Çıkarması kararı Quebec Konferansı'nda alındı; San Francisco'da BM kuruldu."
+    },
+    {
+      "q": "Özgür Fransa hareketi ile ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": [
+        "Charles de Gaulle tarafından İngiltere'de başlatılmıştır",
+        "Mareşal Pétain tarafından Fransa'da başlatılmıştır",
+        "Vichy hükümetince desteklenmiştir",
+        "Almanya'nın işgaline destek amacıyla kurulmuştur",
+        "Eisenhower tarafından yönetilmiştir"
+      ],
+      "c": 0,
+      "e": "De Gaulle, Fransa'da Alman yanlısı Vichy hükümeti/Pétain olduğu için hareketi İngiltere'de başlatmıştır."
+    },
+    {
+      "q": "İngiltere, ABD, SSCB ve Çin dışişleri bakanlarının katıldığı ve Türkiye'den havaalanlarının istendiği konferans aşağıdakilerden hangisidir?",
+      "o": [
+        "1. Moskova Konferansı",
+        "Adana Görüşmeleri",
+        "Tahran Konferansı",
+        "1. Kahire Konferansı",
+        "Yalta Konferansı"
+      ],
+      "c": 0,
+      "e": "Dört dışişleri bakanının katıldığı ve havaalanı istenen konferans 1. Moskova'dır; Türkiye vermeyi reddetti."
+    },
+    {
+      "q": "Adana Görüşmeleri'nin 'sağırlar diyaloğu' olarak anılmasının nedeni aşağıdakilerden hangisidir?",
+      "o": [
+        "Churchill ile İnönü'nün birbirini duymazlıktan gelmesi",
+        "Görüşmenin gizli tutulması",
+        "Tercüman bulunamaması",
+        "Tarafların hiç konuşmaması",
+        "Görüşmenin Adana yerine Mersin'de yapılması"
+      ],
+      "c": 0,
+      "e": "Churchill savaşa girmemizi, İnönü ise teçhizat şartını dile getirip birbirlerini duymazlıktan geldiği için 'sağırlar diyaloğu' denmiştir."
+    },
+    {
+      "q": "TC Dışişleri Bakanı Numan Menemencioğlu ile İngiltere Dışişleri Bakanı Anthony Eden arasında geçen ve Türkiye'nin savaşa girmesinin görüşüldüğü konferans hangisidir?",
+      "o": [
+        "1. Kahire Konferansı",
+        "2. Kahire Konferansı",
+        "Adana Görüşmeleri",
+        "Tahran Konferansı",
+        "1. Moskova Konferansı"
+      ],
+      "c": 0,
+      "e": "İki dışişleri bakanının görüştüğü konferans 1. Kahire'dir; Türkiye burada savaşa girmeyi reddetti."
+    },
+    {
+      "q": "II. Dünya Savaşı'nın sonuçları arasında aşağıdakilerden hangisi gösterilemez?",
+      "o": [
+        "Milletler Cemiyeti'nin kurulması",
+        "ABD ve SSCB'nin süper güç haline gelmesi",
+        "Totaliter ve baskıcı rejimlerin sona ermesi",
+        "Dünya Bankası ve IMF'nin kurulması",
+        "Almanya'nın ikiye bölünmesi"
+      ],
+      "c": 0,
+      "e": "Milletler Cemiyeti I. Dünya Savaşı'ndan sonra kuruldu; II. Dünya Savaşı'ndan sonra Birleşmiş Milletler kuruldu."
+    },
+    {
+      "q": "Bretton Woods kararları ile aşağıdakilerden hangileri kurulmuştur?",
+      "o": [
+        "Dünya Bankası ve IMF",
+        "NATO ve Varşova Paktı",
+        "Birleşmiş Milletler ve Dünya Bankası",
+        "IMF ve NATO",
+        "Milletler Cemiyeti ve IMF"
+      ],
+      "c": 0,
+      "e": "Bretton Woods ekonomik kararlardır; ABD'de Dünya Bankası ve IMF kurulmuştur."
+    },
+    {
+      "q": "II. Dünya Savaşı sonrası Almanya'nın bölünmesiyle ilgili aşağıdakilerden hangisi doğrudur?",
+      "o": [
+        "Doğuda SSCB Demokratik, batıda müttefikler Federal Alman Cumhuriyeti'ni kurmuştur",
+        "Doğuda müttefikler Federal, batıda SSCB Demokratik Cumhuriyet'i kurmuştur",
+        "Ülke tümüyle SSCB egemenliğine girmiştir",
+        "Ülke Fransa ve İngiltere arasında ikiye bölünmüştür",
+        "Almanya bölünmemiş, tek devlet olarak kalmıştır"
+      ],
+      "c": 0,
+      "e": "Doğuda SSCB → Demokratik Alman Cumhuriyeti, batıda ABD-Fransa-İngiltere → Federal Alman Cumhuriyeti kuruldu."
+    },
+    {
+      "q": "Aşağıdaki tarih-belge eşleştirmelerinden hangisi doğrudur?",
+      "o": [
+        "10 Aralık 1948 — İnsan Hakları Evrensel Beyannamesi",
+        "9 Aralık 1948 — İnsan Hakları Evrensel Beyannamesi",
+        "10 Aralık 1948 — Soykırım Sözleşmesi",
+        "9 Aralık 1948 — Atlantik Bildirisi",
+        "10 Aralık 1948 — Nürnberg Mahkemeleri"
+      ],
+      "c": 0,
+      "e": "9 Aralık 1948 Soykırım Sözleşmesi, 10 Aralık 1948 ise İnsan Hakları Evrensel Beyannamesi'nin kabul tarihidir."
+    },
+    {
+      "q": "Aşağıdaki eser-konu eşleştirmelerinden hangisi doğrudur?",
+      "o": [
+        "Özgürlük Yolları — II. Dünya Savaşı",
+        "Gazap Üzümleri — II. Dünya Savaşı",
+        "Özgürlük Yolları — 1929 Ekonomik Krizi",
+        "Serenad — 1929 Ekonomik Krizi",
+        "Gazap Üzümleri — Struma faciası"
+      ],
+      "c": 0,
+      "e": "Sartre'ın Özgürlük Yolları II. Dünya Savaşı'nı, Steinbeck'in Gazap Üzümleri 1929 krizini anlatır."
+    },
+    {
+      "q": "II. Dünya Savaşı döneminde Türkiye Cumhuriyeti'nde başbakanlık görevini yürütenler aşağıdakilerin hangisinde birlikte verilmiştir?",
+      "o": [
+        "Refik Saydam – Şükrü Saraçoğlu",
+        "İsmet İnönü – Refik Saydam",
+        "Şükrü Saraçoğlu – Hasan Saka",
+        "İsmet İnönü – Şükrü Saraçoğlu",
+        "Numan Menemencioğlu – Refik Saydam"
+      ],
+      "c": 0,
+      "e": "İnönü cumhurbaşkanıydı; başbakanlar sırasıyla Refik Saydam ve Şükrü Saraçoğlu'dur."
+    },
+    {
+      "q": "Türkiye'nin II. Dünya Savaşı sırasında hem başbakanlık hem de dışişleri bakanlığı görevlerini yürüten devlet adamı kimdir?",
+      "o": [
+        "Şükrü Saraçoğlu",
+        "Numan Menemencioğlu",
+        "Refik Saydam",
+        "Hasan Saka",
+        "İsmet İnönü"
+      ],
+      "c": 0,
+      "e": "Her iki görevi de üstlenen isim Şükrü Saraçoğlu'dur."
+    },
+    {
+      "q": "Aşağıdakilerden hangisi Türkiye'nin II. Dünya Savaşı'na girmemek için aldığı önlemlerden biri değildir?",
+      "o": [
+        "Mihver devletlere savaş ilan ederek cepheye asker göndermek",
+        "İngiltere ve Fransa ile Üçlü İttifak Anlaşması imzalamak",
+        "Almanya ile Türk-Alman Dostluk (Saldırmazlık) Paktı imzalamak",
+        "Çakmak Hattı'nı inşa etmek",
+        "Karartma harekatı uygulamak"
+      ],
+      "c": 0,
+      "e": "Türkiye savaş dışı kalmaya çalıştı; fiili olarak cepheye asker göndermedi, savaş ilanı yalnızca BM'ye giriş için sembolikti."
+    },
+    {
+      "q": "Olağanüstü hallerde fiyatları saptama, ürünlere el koyma ve zorunlu çalışma yükümlülüğü getirme yetkisini devlete veren kanun aşağıdakilerden hangisidir?",
+      "o": [
+        "Milli Korunma Kanunu",
+        "Varlık Vergisi Kanunu",
+        "Toprak Mahsulleri Kanunu",
+        "Teşvik-i Sanayi Kanunu",
+        "Takrir-i Sükûn Kanunu"
+      ],
+      "c": 0,
+      "e": "1940 Milli Korunma Kanunu bu yetkileri verdi; kapsamında Petrol Ofisi ve Et Balık Kurumu kuruldu."
+    },
+    {
+      "q": "Varlık Vergisi ile Toprak Mahsulleri Vergisi karşılaştırıldığında aşağıdakilerden hangisi doğrudur?",
+      "o": [
+        "Varlık Vergisi zenginlerden, Toprak Mahsulleri Vergisi çiftçiden alınmıştır",
+        "İkisi de yalnızca azınlıklardan alınmıştır",
+        "Varlık Vergisi çiftçiden, Toprak Mahsulleri Vergisi zenginlerden alınmıştır",
+        "İkisi de Atatürk döneminde çıkarılmıştır",
+        "İkisi de savaştan sonra kaldırılmak üzere çıkarılmamıştır"
+      ],
+      "c": 0,
+      "e": "Varlık Vergisi (1942) aşırı kazançlılardan/zenginlerden, Toprak Mahsulleri Vergisi (1944) çiftçiden alındı."
+    },
+    {
+      "q": "II. Dünya Savaşı döneminde yaşanan aşağıdaki olaylardan hangisi ilk yerli denizaltı ile ilgilidir?",
+      "o": [
+        "Atılay faciası",
+        "Refah Şilebi olayı",
+        "Struma gemisi olayı",
+        "Meşale Harekatı",
+        "Karartma Harekatı"
+      ],
+      "c": 0,
+      "e": "İstanbul tersanelerinde inşa edilen ilk denizaltı Atılay 1942'de battı ve 38 personel şehit oldu."
+    }
+  ],
+  "eslestir": [
+    {
+      "ad": "Konferans → Ayırt edici karar/olay",
+      "p": [
+        ["Yalta", "Almanya'ya savaş ilan edenler BM'ye alınacak"],
+        ["Potsdam", "Alsas-Loren ve Südet Fransa'ya verildi"],
+        ["Kasablanka", "Mihverin kayıtsız şartsız teslimi"],
+        ["San Francisco", "Birleşmiş Milletler'in kuruluşu"],
+        ["Quebec", "Normandiya Çıkarması kararı"],
+        ["1. Moskova", "Türkiye'den havaalanı istenmesi"],
+        ["Tahran", "Türkiye'ye baskı yapılması önerisi"]
+      ]
+    },
+    {
+      "ad": "Konferans → Katılan taraflar",
+      "p": [
+        ["Yalta", "Roosevelt + Stalin + Churchill"],
+        ["Potsdam", "Truman + Stalin + Attlee"],
+        ["2. Kahire", "İnönü + Churchill + Roosevelt"],
+        ["1. Kahire", "Menemencioğlu ↔ Eden"],
+        ["Adana", "Churchill ↔ İnönü"],
+        ["1. Moskova", "İngiltere+ABD+SSCB+Çin dışişleri"]
+      ]
+    },
+    {
+      "ad": "II. Dünya Savaşı sonuçları",
+      "p": [
+        ["Süper güçler", "ABD ve SSCB"],
+        ["Bretton Woods", "Dünya Bankası ve IMF"],
+        ["Savaş suçluları", "Nürnberg Mahkemeleri"],
+        ["9 Aralık 1948", "Soykırım Sözleşmesi"],
+        ["10 Aralık 1948", "İnsan Hakları Evrensel Beyannamesi"],
+        ["İlk bilgisayar", "ENIAC"],
+        ["12 ada", "Paris Antlaşması ile Yunanistan'a"]
+      ]
+    },
+    {
+      "ad": "Türkiye — yönetici ve anlaşmalar",
+      "p": [
+        ["Cumhurbaşkanı", "İsmet İnönü"],
+        ["Başbakanlar", "Refik Saydam – Şükrü Saraçoğlu"],
+        ["Üçlü İttifak", "Türkiye-İngiltere-Fransa"],
+        ["Saldırmazlık Paktı", "Türk-Alman Dostluk Paktı"],
+        ["Hem başbakan hem dışişleri", "Şükrü Saraçoğlu"],
+        ["1. Kahire'de Türk temsilci", "Numan Menemencioğlu"]
+      ]
+    },
+    {
+      "ad": "Türkiye — savunma, vergi, kurum",
+      "p": [
+        ["Çakmak Hattı", "Alman saldırısına karşı savunma hattı"],
+        ["Karartma Harekatı", "Gece ışıkların söndürülmesi"],
+        ["Milli Korunma Kanunu", "Petrol Ofisi + Et Balık Kurumu"],
+        ["Varlık Vergisi (1942)", "Zenginlerden olağanüstü servet vergisi"],
+        ["Toprak Mahsulleri Vergisi (1944)", "Çiftçiden alınan vergi"],
+        ["Ekmek karnesi", "Temel maddelerin karneyle dağıtımı"]
+      ]
+    },
+    {
+      "ad": "Kişi/olay → Açıklama",
+      "p": [
+        ["Köy Enstitüleri", "Hasan Âli Yücel – İsmail Hakkı Tonguç"],
+        ["Garip Akımı", "Orhan Veli Kanık – Melih Cevdet Anday"],
+        ["Refah Şilebi", "Gemi teslimi sürecinde battı, 168 ölü"],
+        ["Struma", "Yahudi mültecileri, Livaneli – Serenad"],
+        ["Nuri Demirağ", "Milli Kalkınma Partisi (ilk parti)"],
+        ["Vecihi Hürkuş", "İlk sivil uçuş okulu ve hava yolu"],
+        ["Şakir Zümre", "İlk savunma fabrikası ve yerli uçak bombası"]
+      ]
+    }
+  ]
+}

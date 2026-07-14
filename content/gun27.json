@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "gun": 27,
+    "baslik": "Yumuşama Dönemi (Detant) — 1. Kısım",
+    "ozet": "Soğuk Savaş'ın gerginliğini görüşmelerle azaltma çabası: U2 krizinden Küba buhranına, SALT anlaşmalarından Helsinki'ye, Vietnam ve Arap-İsrail savaşlarından İran-Irak Savaşı'na kadar yumuşama dönemi gelişmeleri.",
+    "tahminiSoru": "KPSS'de ~2-3 soru",
+    "duzeltmeler": [
+      "Tactiq: 'Ernesto Çegvera/Çegera/Chegavera' → Ernesto Che Guevara",
+      "Tactiq: 'Kuruşçev/Kruşçev/Kuşev/Küçev/Küşev' → Nikita Kruşçev",
+      "Tactiq: 'Brejne' → Leonid Brejnev",
+      "Tactiq: 'Niykson' → Nixon; 'Kissingir/Kissincir/Kessinger/Henne Kissinger/Henrik Kessinger' → Henry Kissinger",
+      "Tactiq: 'Bengurion' → David Ben-Gurion; 'Balfor' → Balfour Deklarasyonu",
+      "Tactiq: 'Yaser/Yasel/Yazer/Gerseler Arafat/Yasfat' → Yaser Arafat",
+      "Tactiq: 'Ayetullah Humyni' → Ayetullah Humeyni; 'Rıza Şah Phehlevi' → Rıza Şah Pehlevi",
+      "Tactiq: 'Halet Hoseyni/Hüseyni' → Khaled Hosseini (Halid Hüseyni)",
+      "Tactiq: 'Ekmelettin İhsanoğlu' → Ekmeleddin İhsanoğlu",
+      "Tactiq: 'Usama Bin Ladin' → Usame bin Ladin",
+      "Tactiq: 'Yomkipur/Yomkip Bur' → Yom Kippur",
+      "Tactiq: 'Hasan Elbakır' → Ahmed Hasan el-Bekir",
+      "Tactiq: 'Şaddül Arap/Şatül Arap/Şattdül Arap' → Şattülarap",
+      "Tactiq: 'Panarrabizm/panabizm' → Panarabizm; 'bandum' → Bandung",
+      "Tactiq: 'Muhammed Ali Kley' → Muhammed Ali (Cassius Clay); 'Mahmut Abbas' → Mahmud Abbas",
+      "Transkript başlıkta '2024 refah operasyonu' diyor ama Yaser Arafat 2004'te öldü → 2004 Refah Operasyonu",
+      "Transkript Şattülarap sınırı için '1973 Cezayir Anlaşması' diyor; anlaşmanın kabul edilen tarihi 1975'tir → deneme/kod tarih vermeden verildi",
+      "İslam Konferansı Teşkilatı günümüzde İslam İşbirliği Teşkilatı (İİT) adını taşır (müfredat)"
+    ]
+  },
+  "kodlar": [
+    {
+      "b": "Yumuşamanın Başlangıcı",
+      "i": [
+        { "k": "U2 krizi = 1960", "m": "ABD'ye ait U2 casus uçağının SSCB üzerinde düşürülmesiyle çıkan gerginlik", "s": "z" },
+        { "k": "Kennedy–Kruşçev = BAŞLATAN", "m": "1961; nükleer silahları azaltma görüşmesi → yumuşama dönemini başlatan gelişme", "s": "z" },
+        { "k": "Nixon–Kissinger doktrini = müzakere", "m": "Savaş çözüm değildir; sorunlar müzakereyle çözülür, ABD-SSCB çıkarları korunur", "s": "z" }
+      ]
+    },
+    {
+      "b": "Bağlantısızlar Hareketi",
+      "i": [
+        { "k": "Slogan = 'Barış için bir arada yaşama'", "m": "Bloklara/askeri ittifaklara katılmayıp tarafsız kalma hareketi", "s": "z" },
+        { "k": "HMY liderleri", "m": "Hindistan (Nehru) – Mısır (Cemal Abdülnasır) – Yugoslavya (Tito)", "s": "z" },
+        { "k": "Nehru ≠ Gandhi", "m": "Bağlantısızlarda Hindistan'ı ilk başbakan Nehru temsil eder; Gandhi ruhani liderdir (tuzak)", "s": "z" },
+        { "k": "İlk toplantı = Bandung", "m": "Bağlantısızların ilk konferansı Bandung (Endonezya); 2024 KPSS sorusu", "s": "z" }
+      ]
+    },
+    {
+      "b": "Küba Krizleri",
+      "i": [
+        { "k": "Küba devrimi = Castro + Che Guevara", "m": "Batista diktatörlüğünü yıkıp komünizmi kurdular", "s": "z" },
+        { "k": "Domuzlar Körfezi = başarısız çıkarma", "m": "Batista yanlısı Kübalı sığınmacılar ABD desteğiyle çıkarma yaptı, komünizmi yıkamadı", "s": "z" },
+        { "k": "Küba Buhranı = FÜZELER krizi (1962)", "m": "SSCB füzeleri Küba'ya (Havana), ABD Jüpiter füzelerini Türkiye'ye → karşılıklı tehdit", "s": "z" },
+        { "k": "Jüpiter = ABD'nin Türkiye füzesi", "m": "Küba buhranıyla ilişkili füze; 2025 iktisat sınavı sorusu", "s": "z" },
+        { "k": "Kırmızı telefon hattı = Küba Buhranı sonrası", "m": "Buhrandan sonra ABD-SSCB arasında doğrudan hat kuruldu", "s": "z" }
+      ]
+    },
+    {
+      "b": "Çin Yakınlaşması ve SALT",
+      "i": [
+        { "k": "Ping-pong diplomasisi = ABD-Çin", "m": "Japonya'daki masa tenisi turnuvası temelli ABD-Çin yakınlaşması; muhtemel soru", "s": "z" },
+        { "k": "SALT 1 = 1969, Nixon–Brejnev", "m": "Savunma/nükleer silahları azaltma; imzalandı ve yürürlüğe girdi", "s": "z" },
+        { "k": "SALT 2 = 1979, imzalanmadı", "m": "Uzun menzilli nükleer silah sınırlaması; SSCB imzaladı, ABD imzalamadı", "s": "z" },
+        { "k": "SALT 2'yi ABD niye imzalamadı? = Afganistan", "m": "SSCB'nin Afganistan'ı işgali sebebiyle ABD imza atmadı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Helsinki ve Vietnam",
+      "i": [
+        { "k": "Helsinki = 1975 AGİK", "m": "Avrupa Güvenlik ve İşbirliği Konferansı; Arnavutluk HARİÇ tüm Avrupa + ABD + Kanada", "s": "z" },
+        { "k": "Helsinki Nihai Senedi = 4B", "m": "Barış, işbirliği, bağımsızlık, temel haklar", "s": "e" },
+        { "k": "Vietnam = 1963-1973, Çin Hindi", "m": "Çin-Hindistan arası bölge; ülke 17. paralelden Cenevre Anlaşması ile ikiye ayrıldı", "s": "z" },
+        { "k": "Kuzey (SSCB) vs Güney (ABD)", "m": "Kuzey Vietnam komünist/SSCB, Güney milliyetçi/ABD; Kuzey kazandı → Vietnam Sosyalist Cumhuriyeti", "s": "z" },
+        { "k": "Vietnam = ABD'nin ilk modern yenilgisi", "m": "Gayri nizami harp; Kuzey Vietnam ABD'yi yendi", "s": "z" },
+        { "k": "Kennedy suikast → Nixon → 1973 barış", "m": "Asker çekmediği için öldürülen ABD başkanı Kennedy; yerine Nixon, 1973 Vietnam barışı", "s": "z" },
+        { "k": "Muhammed Ali = savaşı reddetti", "m": "'Vietkonglular bana bir şey yapmadı ki'; madalyaları alındı; 2011 AYT sorusu", "s": "z" }
+      ]
+    },
+    {
+      "b": "Keşmir ve Afganistan",
+      "i": [
+        { "k": "Keşmir = Hindistan × Pakistan", "m": "İki devlet arasında paylaşılamayan bölge", "s": "z" },
+        { "k": "Taşkent Deklarasyonu = 1966 (Keşmir)", "m": "SSCB girişimiyle Hindistan-Pakistan savaşı durduruldu, savaş öncesi sınırlara dönüldü", "s": "z" },
+        { "k": "SSCB Afganistan işgali = 1979", "m": "Sosyalist parti kurdurup iktidara taşıdı, isyanda kendini davet ettirdi; 1988 Cenevre ile çıktı", "s": "z" },
+        { "k": "Uçurtma Avcısı = SSCB'nin Afganistan işgali", "m": "Halid Hüseyni romanı; 'Bin Muhteşem Güneş' ABD'nin işgalini anlatır", "s": "z" },
+        { "k": "1980 Moskova Olimpiyatı boykotu", "m": "SSCB Afganistan'ı işgal edince ABD, Türkiye ve Batı bloğu katılmadı", "s": "z" }
+      ]
+    },
+    {
+      "b": "Arap-İsrail Savaşları",
+      "i": [
+        { "k": "1949 = İsrail'in kuruluşu → mülteci sorunu", "m": "İsrail'in kurulması sebebiyle çıktı; İsrail kazandı; Filistinli mülteciler sorunu doğdu", "s": "z" },
+        { "k": "1956 Süveyş Krizi = Nasır millileştirme", "m": "Cemal Abdülnasır Süveyş'i millileştirdi; İngiltere-Fransa işgal etti, ABD-SSCB kovdu", "s": "z" },
+        { "k": "1967 = 6 Gün Savaşları", "m": "Nedeni Akabe Körfezi'nin kapatılması + FKÖ'ye yardım; Golan-Sina-Gazze-Doğu Kudüs İsrail'e geçti", "s": "z" },
+        { "k": "1973 = Yom Kippur", "m": "Yahudi kutsal ayında saldırı; Mısır Sina'yı, Suriye Golan'ı geri almak istedi", "s": "z" },
+        { "k": "Bütün savaşları İsrail kazandı", "m": "1949-1956-1967-1973 dördünde de İsrail galip; büyük devletler destekledi", "s": "e" },
+        { "k": "Petrol krizi = 1973", "m": "ABD İsrail'i destekleyince Arap devletleri Batı'ya petrol ambargosu koydu", "s": "z" }
+      ]
+    },
+    {
+      "b": "Camp David ve Filistin",
+      "i": [
+        { "k": "Mekik diplomasisi = Henry Kissinger", "m": "ABD Dışişleri Bakanı'nın Mısır-İsrail arasını bulmak için mekik dokuması", "s": "z" },
+        { "k": "Camp David = İsrail'i tanıyan ilk Arap: MISIR", "m": "Mekik diplomasisi sonucu Mısır-İsrail anlaşması; Enver Sedat dönemi", "s": "z" },
+        { "k": "FKÖ = Yaser Arafat → İntifada", "m": "Filistin'i İsrail işgalinden kurtarmak için kuruldu; hareketi intifada (ayaklanma); 2024 EKYS", "s": "z" },
+        { "k": "İslam Konferansı Teşkilatı = Mescid-i Aksa", "m": "Mescid-i Aksa kundaklanma girişimi sonrası kuruldu; genel sekreter Ekmeleddin İhsanoğlu", "s": "z" },
+        { "k": "Madrid 1991 = ilk yüz yüze", "m": "İsrail ile Filistin ilk kez yüz yüze görüştü", "s": "z" },
+        { "k": "Oslo 1993 = karşılıklı tanıma", "m": "İsrail FKÖ'yü, FKÖ İsrail'i tanıdı; 1994 Arafat'a Nobel Barış Ödülü", "s": "z" },
+        { "k": "Fes Planı = Kudüs merkezli Filistin", "m": "İsrail'in işgal ettiği topraklardan çekilip Kudüs merkezli bağımsız Filistin kurulması", "s": "z" },
+        { "k": "Hamas = Gazze İslami Direniş", "m": "Gazze Şeridi'nde kurulan İslami direniş örgütü (MEB)", "s": "z" },
+        { "k": "Refah Operasyonu (2004) = Arafat'ın ölümü", "m": "İsrail Arafat'ı ablukaya aldı; Arafat öldü, yerine Mahmud Abbas", "s": "z" }
+      ]
+    },
+    {
+      "b": "Petrol Örgütleri",
+      "i": [
+        { "k": "OPEC = Petrol İhraç Eden Ülkeler Birliği (1960)", "m": "Petrol fiyatlarına müdahale için; Venezuela girişimiyle; muhtemel soru", "s": "z" },
+        { "k": "WHİSKY kodu (OPEC kurucuları)", "m": "Venezuela – İran – Suudi Arabistan – Kuveyt – Irak (whisky yanıcı gibi petrol)", "s": "z" },
+        { "k": "AOPEC = Arap Petrol İhraç Edenler (1968)", "m": "Petrolü İsrail'i destekleyen devletlere karşı koz; 1973 petrol krizine yol açtı", "s": "z" }
+      ]
+    },
+    {
+      "b": "İran-Irak Savaşı",
+      "i": [
+        { "k": "Baas = Arap sosyalizmi (yeniden doğuş)", "m": "SSCB destekli; Suriye Hafız Esad, Irak Hasan el-Bekir & Saddam Hüseyin (MEB)", "s": "z" },
+        { "k": "İran İslam Cumhuriyeti = 1979, Humeyni", "m": "Ayetullah Humeyni Şah Pehlevi'nin seküler rejimini yıkıp İslam Cumhuriyeti'ni kurdu", "s": "z" },
+        { "k": "Panarabizm = Arap birliği", "m": "Seküler ve sosyalist hareket, SSCB destekli (Panslavizm=Slav birliği/Rusya karşılığı)", "s": "z" },
+        { "k": "Şattülarap = Fırat + Dicle → Basra", "m": "Fırat ve Dicle'nin birleşip Basra Körfezi'ne döküldüğü su; İran ve Irak hakim olmak ister", "s": "z" },
+        { "k": "İran-Irak nedeni = Şattülarap + mezhep", "m": "Şattülarap su sorunu ve Şii-Sünni kışkırtması; BM kararıyla sonlandı", "s": "z" },
+        { "k": "Halepçe = Saddam'ın kimyasal katliamı", "m": "Saddam Hüseyin, İran'a yardım ettikleri gerekçesiyle kendi Kürt halkını kimyasal silahla katletti", "s": "z" },
+        { "k": "İran-Gate (İran-Kontra) skandalı", "m": "ABD Irak'ı desteklediğini açıklarken İsrail aracılığıyla İran'a gizlice silah sattı", "s": "z" }
+      ]
+    }
+  ],
+  "kartlar": [
+    { "c": "Yumuşama Başlangıcı", "o": "U2 krizi (1960) nedir?", "a": "ABD'ye ait U2 casus uçağının SSCB üzerinde düşürülmesiyle çıkan gerginlik." },
+    { "c": "Yumuşama Başlangıcı", "o": "Yumuşama dönemini başlatan gelişme hangisidir?", "a": "1961 Kennedy–Kruşçev görüşmeleri (nükleer silahları azaltma konuşması)." },
+    { "c": "Yumuşama Başlangıcı", "o": "Nixon–Kissinger doktrini neyi savunur?", "a": "Savaş çözüm değildir; uluslararası sorunlar müzakere yoluyla çözülür, ABD-SSCB çıkarları korunur." },
+    { "c": "Yumuşama Başlangıcı", "o": "Yumuşama (detant) dönemi nedir?", "a": "Devletlerin görüşmeler eşliğinde blok gerginliğini azaltmaya çalıştığı dönem." },
+    { "c": "Bağlantısızlar", "o": "Bağlantısızlar hareketinin sloganı nedir?", "a": "'Barış için bir arada yaşama'. Bloklara/askeri ittifaklara katılmayıp tarafsız kalırlar." },
+    { "c": "Bağlantısızlar", "o": "Bağlantısızlar hareketinin lider devletleri ve liderleri kimdir?", "a": "Hindistan (Nehru), Mısır (Cemal Abdülnasır), Yugoslavya (Tito)." },
+    { "c": "Bağlantısızlar", "o": "Bağlantısızlarda Hindistan'ı Gandhi mi temsil eder?", "a": "Hayır. İlk başbakan Nehru temsil eder; Gandhi Hindistan'ın ruhani lideridir." },
+    { "c": "Bağlantısızlar", "o": "Bağlantısızların ilk konferansı hangisidir? (2024 KPSS)", "a": "Bandung Konferansı (Endonezya)." },
+    { "c": "Küba", "o": "Domuzlar Körfezi Çıkarması nedir?", "a": "Batista yanlısı Kübalı sığınmacıların ABD desteğiyle Küba'ya yaptığı, komünizmi yıkamayan başarısız çıkarma." },
+    { "c": "Küba", "o": "Küba Buhranı (1962) özünde nedir?", "a": "Bir füzeler krizidir: SSCB füzelerini Küba'ya (Havana), ABD Jüpiter füzelerini Türkiye'ye yerleştirip birbirini tehdit etti." },
+    { "c": "Küba", "o": "Küba buhranıyla ilişkili füze hangisidir? (2025 iktisat)", "a": "Jüpiter füzeleri — ABD'nin Türkiye üzerine yerleştirdiği füzeler." },
+    { "c": "Küba", "o": "Kırmızı telefon hattı hangi olaydan sonra kuruldu?", "a": "Küba Buhranı'ndan sonra (ABD-SSCB doğrudan iletişim hattı)." },
+    { "c": "Küba", "o": "Küba devrimini kim yaptı?", "a": "Fidel Castro ve Che Guevara; Batista diktatörlüğünü yıkıp komünizmi kurdular." },
+    { "c": "SALT & Çin", "o": "Ping-pong diplomasisi kimler arasındadır?", "a": "ABD ile Çin. Japonya'daki masa tenisi turnuvası temelli yakınlaşma sürecidir." },
+    { "c": "SALT & Çin", "o": "SALT 1 kimler arasında, ne zaman imzalandı?", "a": "1969; ABD başkanı Nixon ile SSCB lideri Brejnev arasında. Savunma silahları azaltıldı; yürürlüğe girdi." },
+    { "c": "SALT & Çin", "o": "SALT 2'yi ABD neden imzalamadı?", "a": "SSCB'nin Afganistan'ı işgal etmesi sebebiyle. SSCB imzaladı, ABD atmadı (1979)." },
+    { "c": "SALT & Çin", "o": "SALT anlaşmalarının konusu nedir?", "a": "Nükleer silahların sınırlandırılması/azaltılması (SALT 2 uzun menzilli nükleer silahlar)." },
+    { "c": "Helsinki & Vietnam", "o": "Helsinki Konferansı (1975) nedir ve kim katılmadı?", "a": "Avrupa Güvenlik ve İşbirliği Konferansı (AGİK); Arnavutluk hariç tüm Avrupa + ABD + Kanada. Arnavutluk katılmadı." },
+    { "c": "Helsinki & Vietnam", "o": "Helsinki Nihai Senedi hangi konuları içerir?", "a": "Barış, işbirliği, bağımsızlık ve temel haklar." },
+    { "c": "Helsinki & Vietnam", "o": "Vietnam hangi enlemden, hangi anlaşmayla ikiye ayrıldı?", "a": "17. paralel (enlem); Cenevre Anlaşması ile. (Kore = 38. enlem karıştırma.)" },
+    { "c": "Helsinki & Vietnam", "o": "Vietnam Savaşı'nı kim kazandı ve sonucu ne oldu?", "a": "SSCB destekli Kuzey Vietnam kazandı; iki Vietnam birleşip Vietnam Sosyalist Cumhuriyeti kuruldu." },
+    { "c": "Helsinki & Vietnam", "o": "Vietnam Savaşı tarih açısından neden önemlidir?", "a": "ABD'nin modern dünyada yenildiği ilk yerdir (gayri nizami harp)." },
+    { "c": "Helsinki & Vietnam", "o": "Vietnam savaşında öldürülen ve yerine Nixon gelen ABD başkanı kimdir?", "a": "John Kennedy — Vietnam'dan asker çekmediği için suikastla öldürüldü; 1973 Vietnam barışını Nixon imzaladı." },
+    { "c": "Helsinki & Vietnam", "o": "'Vietkonglular bana bir şey yapmadı ki' diyerek savaşı reddeden boksör? (2011 AYT)", "a": "Muhammed Ali (Cassius Clay). Madalyaları ve şampiyonlukları elinden alındı." },
+    { "c": "Keşmir & Afganistan", "o": "Keşmir sorunu hangi devletler arasındadır?", "a": "Hindistan ile Pakistan arasında paylaşılamayan bölge sorunudur." },
+    { "c": "Keşmir & Afganistan", "o": "1966 Taşkent Deklarasyonu hangi sorunla ilgilidir?", "a": "Keşmir sorunu. SSCB girişimiyle Hindistan-Pakistan savaşı durduruldu, savaş öncesi sınırlara dönüldü." },
+    { "c": "Keşmir & Afganistan", "o": "SSCB Afganistan'ı ne zaman işgal etti, ne zaman çıktı?", "a": "1979'da işgal etti; 1988 Cenevre Anlaşması ile çıktı." },
+    { "c": "Keşmir & Afganistan", "o": "Halid Hüseyni'nin 'Uçurtma Avcısı' hangi olayı anlatır?", "a": "SSCB'nin Afganistan'ı işgalini (altyapı olarak). 'Bin Muhteşem Güneş' ABD'nin işgalini anlatır." },
+    { "c": "Keşmir & Afganistan", "o": "1980 Moskova Olimpiyatları'nı kimler boykot etti, neden?", "a": "ABD, Türkiye ve Batı bloğu; SSCB'nin Afganistan'ı işgali sebebiyle." },
+    { "c": "Arap-İsrail", "o": "1949 Arap-İsrail Savaşı'nın nedeni ve sonucu nedir?", "a": "İsrail'in kurulması (1948) ve Filistin'i ele geçirmek istemesi; İsrail kazandı, Filistinli mülteciler sorunu doğdu." },
+    { "c": "Arap-İsrail", "o": "1956 Süveyş Krizi neden çıktı?", "a": "Cemal Abdülnasır'ın Süveyş kanalını millileştirmesi üzerine; İngiltere-Fransa işgal etti, ABD-SSCB kovdu." },
+    { "c": "Arap-İsrail", "o": "1967 6 Gün Savaşları'nın nedeni ve sonucu nedir?", "a": "Mısır'ın Akabe Körfezi'ni kapatması + FKÖ'ye yardımı; Golan Tepeleri, Sina Yarımadası, Gazze, Doğu Kudüs İsrail'e geçti." },
+    { "c": "Arap-İsrail", "o": "1973 Yom Kippur Savaşı neden çıktı?", "a": "Mısır (Sina) ve Suriye (Golan) 6 Gün Savaşları'nda kaybettikleri yerleri geri almak istedi; Yahudi kutsal ayında saldırdılar." },
+    { "c": "Arap-İsrail", "o": "1973 petrol krizi neden çıktı?", "a": "ABD İsrail yanlısı politika izleyince Arap devletleri Batı'ya petrol ambargosu uyguladı." },
+    { "c": "Camp David & Filistin", "o": "Mekik diplomasisini kim, kimler arasında uyguladı?", "a": "ABD Dışişleri Bakanı Henry Kissinger; İsrail ile Mısır arasını bulmak için." },
+    { "c": "Camp David & Filistin", "o": "Camp David Anlaşması ile İsrail'i tanıyan ilk Arap devleti hangisidir?", "a": "Mısır (Enver Sedat döneminde)." },
+    { "c": "Camp David & Filistin", "o": "FKÖ'yü kim kurdu, hareketi nedir? (2024 EKYS)", "a": "Yaser Arafat kurdu; hareketi İntifada (ayaklanma/teyakkuz)." },
+    { "c": "Camp David & Filistin", "o": "İslam Konferansı Teşkilatı hangi olay üzerine kuruldu?", "a": "Mescid-i Aksa'nın kundaklanma girişimi üzerine. Genel sekreterliği uzun süre Ekmeleddin İhsanoğlu yürüttü." },
+    { "c": "Camp David & Filistin", "o": "1991 Madrid Konferansı'nın önemi nedir?", "a": "İsrail ile Filistin'in ilk kez yüz yüze görüşmesidir." },
+    { "c": "Camp David & Filistin", "o": "1993 Oslo Görüşmeleri'nde ne oldu?", "a": "İsrail FKÖ'yü, FKÖ İsrail'i resmen tanıdı; 1994'te Yaser Arafat'a Nobel Barış Ödülü verildi." },
+    { "c": "Camp David & Filistin", "o": "Fes Planı neyi amaçlar?", "a": "İsrail'in işgal ettiği topraklardan çekilip Kudüs merkezli bağımsız Filistin devletinin kurulmasını." },
+    { "c": "Camp David & Filistin", "o": "Hamas nedir? (MEB)", "a": "Gazze Şeridi'nde kurulan İslami Direniş Örgütü." },
+    { "c": "Camp David & Filistin", "o": "2004 Refah Operasyonu ile ne oldu?", "a": "İsrail Yaser Arafat'ı ablukaya aldı; Arafat öldü, yerine Mahmud Abbas geçti." },
+    { "c": "Petrol & İran-Irak", "o": "OPEC nedir, kimin girişimiyle kuruldu?", "a": "Petrol İhraç Eden Ülkeler Birliği (1960); petrol fiyatlarına müdahale için; Venezuela girişimiyle." },
+    { "c": "Petrol & İran-Irak", "o": "OPEC kurucularının kodu nedir?", "a": "WHİSKY: Venezuela, İran, Suudi Arabistan, Kuveyt, Irak." },
+    { "c": "Petrol & İran-Irak", "o": "AOPEC nedir, neye yol açtı?", "a": "Arap Petrol İhraç Eden Ülkeler Birliği (1968); petrolü İsrail'i destekleyenlere karşı koz olarak kullanıp 1973 petrol krizine yol açtı." },
+    { "c": "Petrol & İran-Irak", "o": "Baas hareketi nedir? (MEB)", "a": "'Yeniden doğuş'; Arap sosyalizmi. SSCB destekli — Suriye Hafız Esad, Irak Hasan el-Bekir ve Saddam Hüseyin." },
+    { "c": "Petrol & İran-Irak", "o": "İran İslam Cumhuriyeti nasıl kuruldu (1979)?", "a": "Ayetullah Humeyni liderliğinde Şiiler, Şah Pehlevi'nin seküler/laik rejimini yıkarak kurdu." },
+    { "c": "Petrol & İran-Irak", "o": "Panarabizm nedir?", "a": "Arap halklarının birliğini amaçlayan seküler ve sosyalist harekettir (SSCB destekli). Panslavizm'in Arap karşılığı." },
+    { "c": "Petrol & İran-Irak", "o": "Şattülarap nedir?", "a": "Fırat ve Dicle'nin birleşip Basra Körfezi'ne döküldüğü su; İran ve Irak ikisi de hakim olmak ister." },
+    { "c": "Petrol & İran-Irak", "o": "İran-Irak Savaşı'nın nedenleri nelerdir?", "a": "Şattülarap su sorunu ve iki ülkedeki Şii-Sünni kışkırtması. Savaş BM kararıyla sonlandı." },
+    { "c": "Petrol & İran-Irak", "o": "Halepçe Katliamı nedir?", "a": "Saddam Hüseyin'in, İran'a yardım ettikleri gerekçesiyle kendi Kürt halkını kimyasal silahla katletmesi." },
+    { "c": "Petrol & İran-Irak", "o": "İran-Gate (İran-Kontra) skandalı nedir?", "a": "ABD, İran-Irak Savaşı'nda Irak'ı desteklediğini açıklarken İsrail aracılığıyla gizlice İran'a silah sattı." }
+  ],
+  "tuzak": [
+    { "q": "Yumuşama dönemini BAŞLATAN gelişme hangisidir?", "o": ["U2 krizi", "Kennedy–Kruşçev görüşmeleri", "SALT 1"], "c": 1, "n": "U2 krizi (1960) yumuşamadan hemen önceki gerginliktir; başlatan 1961 Kennedy–Kruşçev görüşmeleridir." },
+    { "q": "Bağlantısızlarda Hindistan'ı temsil eden lider kimdir?", "o": ["Nehru", "Gandhi"], "c": 0, "n": "Gandhi ruhani liderdir; bağlantısızlarda Hindistan'ı ilk başbakan Nehru temsil eder." },
+    { "q": "Küba'ya kim, kimin füzelerini yerleştirdi?", "o": ["SSCB kendi füzelerini Küba'ya", "ABD Jüpiter füzelerini Küba'ya"], "c": 0, "n": "SSCB füzeleri Küba'ya; ABD'nin Jüpiter füzeleri ise Türkiye'ye yerleştirildi — yön karışır." },
+    { "q": "Jüpiter füzeleri nereye yerleştirildi?", "o": ["Türkiye'ye (ABD)", "Küba'ya (SSCB)"], "c": 0, "n": "Jüpiter ABD'nindir ve Türkiye'ye konuldu; Küba buhranıyla ilişkili füze budur (2025 iktisat)." },
+    { "q": "Kırmızı telefon hattı hangi olaydan sonra kuruldu?", "o": ["Küba Buhranı", "U2 krizi"], "c": 0, "n": "Doğrudan hat, füzeler krizi (Küba Buhranı) sonrasında kuruldu." },
+    { "q": "Vietnam kaçıncı enlemden, Kore kaçıncı enlemden bölündü?", "o": ["Vietnam 17., Kore 38.", "Vietnam 38., Kore 17."], "c": 0, "n": "Vietnam 17. paralel, Kore 38. paralel — sık karıştırılan çift." },
+    { "q": "Vietnam hangi anlaşmayla ikiye ayrıldı?", "o": ["Cenevre Anlaşması", "Cezayir Anlaşması"], "c": 0, "n": "Vietnam Cenevre Anlaşması ile bölündü; SSCB de Afganistan'dan Cenevre ile çıktı (aynı ad karıştırır)." },
+    { "q": "Vietnam Savaşı'nı kim kazandı?", "o": ["SSCB destekli Kuzey Vietnam", "ABD destekli Güney Vietnam"], "c": 0, "n": "Kuzey (komünist/SSCB) kazandı; ülke birleşip Vietnam Sosyalist Cumhuriyeti oldu." },
+    { "q": "Vietnam savaşı sırasında öldürülen ABD başkanı kimdir?", "o": ["John Kennedy", "Richard Nixon"], "c": 0, "n": "Kennedy öldürüldü; yerine gelen Nixon 1973 Vietnam barışını imzaladı." },
+    { "q": "SALT 2'yi hangi taraf imzalamadı?", "o": ["ABD", "SSCB"], "c": 0, "n": "SSCB imzaladı; ABD, SSCB'nin Afganistan işgali yüzünden imzalamadı." },
+    { "q": "Helsinki Konferansı'na hangi Avrupa devleti katılmadı?", "o": ["Arnavutluk", "Yugoslavya"], "c": 0, "n": "Arnavutluk hariç tüm Avrupa katıldı; 'hangisi katılmadı' sorusunun cevabı Arnavutluk." },
+    { "q": "'Uçurtma Avcısı' hangi işgali anlatır?", "o": ["SSCB'nin Afganistan işgali", "ABD'nin Afganistan işgali"], "c": 0, "n": "Uçurtma Avcısı SSCB işgalini, 'Bin Muhteşem Güneş' ABD işgalini anlatır." },
+    { "q": "Keşmir sorunu hangi devletler arasındadır?", "o": ["Hindistan – Pakistan", "Hindistan – Çin"], "c": 0, "n": "Keşmir Hindistan ile Pakistan arasındadır; Taşkent Deklarasyonu da bu ikisini durdurdu." },
+    { "q": "1966 Taşkent Deklarasyonu hangi sorunla ilgilidir?", "o": ["Keşmir sorunu", "Şattülarap sorunu"], "c": 0, "n": "Taşkent, SSCB girişimiyle Keşmir savaşını durdurdu; Şattülarap İran-Irak arasındadır." },
+    { "q": "Filistinli mülteciler sorunu hangi savaştan sonra çıktı?", "o": ["1949 Arap-İsrail Savaşı", "1967 6 Gün Savaşları"], "c": 0, "n": "Mülteci sorunu ilk savaşın (1949) sonucudur." },
+    { "q": "Süveyş kanalını kim millileştirdi?", "o": ["Cemal Abdülnasır", "Enver Sedat"], "c": 0, "n": "1956'da Süveyş'i millileştiren Nasır'dır; Enver Sedat Camp David dönemi lideridir." },
+    { "q": "Golan Tepeleri ve Sina Yarımadası hangi savaşta İsrail'e geçti?", "o": ["1967 6 Gün Savaşları", "1973 Yom Kippur Savaşı"], "c": 0, "n": "6 Gün Savaşları'nda geçti; Yom Kippur bu yerleri geri almak için yapıldı." },
+    { "q": "İsrail'i tanıyan ilk Arap devleti hangisidir?", "o": ["Mısır", "Ürdün"], "c": 0, "n": "Camp David ile İsrail'i tanıyan ilk Arap devleti Mısır'dır." },
+    { "q": "Mekik diplomasisini kim yürüttü?", "o": ["Henry Kissinger", "Yaser Arafat"], "c": 0, "n": "Mekik diplomasisi ABD Dışişleri Bakanı Henry Kissinger'ın Mısır-İsrail arabuluculuğudur." },
+    { "q": "İsrail ile Filistin İLK KEZ nerede yüz yüze görüştü?", "o": ["1991 Madrid Konferansı", "1993 Oslo Görüşmeleri"], "c": 0, "n": "İlk yüz yüze Madrid 1991; karşılıklı resmi TANIMA ise Oslo 1993'tür." },
+    { "q": "İsrail ile FKÖ birbirini resmen ne zaman tanıdı?", "o": ["1993 Oslo Görüşmeleri", "1991 Madrid Konferansı"], "c": 0, "n": "Resmi tanıma Oslo 1993'te; Madrid sadece ilk yüz yüze görüşmedir." },
+    { "q": "FKÖ'nün başlattığı hareket hangisidir?", "o": ["İntifada", "Baas"], "c": 0, "n": "İntifada (ayaklanma) FKÖ hareketidir; Baas Arap sosyalizmidir." },
+    { "q": "OPEC ne için kuruldu?", "o": ["Petrol fiyatlarına müdahale", "İsrail'e petrol ambargosu"], "c": 0, "n": "OPEC fiyat için; İsrail'e karşı koz olan Arap petrol örgütü AOPEC'tir." },
+    { "q": "Petrolü İsrail'i destekleyenlere karşı koz yapan örgüt hangisidir?", "o": ["AOPEC", "OPEC"], "c": 0, "n": "AOPEC Arap örgütüdür ve 1973 petrol krizine yol açtı; OPEC fiyat örgütüdür." },
+    { "q": "Panslavizm ve Panarabizm hangi birliği ifade eder?", "o": ["Panslavizm=Slav, Panarabizm=Arap birliği", "Panslavizm=Arap, Panarabizm=Slav birliği"], "c": 0, "n": "Panslavizm Slav (Rusya), Panarabizm Arap birliğidir; ikisi de SSCB güdümlü." },
+    { "q": "Baas hareketiyle Suriye ve Irak'ta kimler başa geçti?", "o": ["Suriye Hafız Esad, Irak Saddam Hüseyin", "Suriye Saddam Hüseyin, Irak Hafız Esad"], "c": 0, "n": "Baas ile Suriye'de Hafız Esad, Irak'ta Hasan el-Bekir/Saddam Hüseyin iktidara geldi." },
+    { "q": "İran İslam Cumhuriyeti'ni kim kurdu?", "o": ["Ayetullah Humeyni", "Rıza Şah Pehlevi"], "c": 0, "n": "Humeyni, Şah Pehlevi'nin seküler rejimini yıkarak 1979'da kurdu." },
+    { "q": "Halepçe Katliamı'nı kim yaptı?", "o": ["Saddam Hüseyin", "Ayetullah Humeyni"], "c": 0, "n": "Saddam Hüseyin kendi Kürt halkını kimyasal silahla katletti." },
+    { "q": "İran-Gate skandalında ABD gizlice kime silah sattı?", "o": ["İran'a (İsrail aracılığıyla)", "Irak'a (açıkça)"], "c": 0, "n": "ABD açıkça Irak'ı destekliyordu ama el altından İsrail üzerinden İran'a silah sattı." },
+    { "q": "'Vietkonglular bana bir şey yapmadı ki' diyen kişi kimdir?", "o": ["Muhammed Ali", "Che Guevara"], "c": 0, "n": "Muhammed Ali savaşı reddedip madalyalarını kaybetti (2011 AYT)." },
+    { "q": "Bağlantısızların ilk konferansı hangisidir?", "o": ["Bandung", "Helsinki"], "c": 0, "n": "Bandung (Endonezya) bağlantısızların ilk toplantısı; Helsinki AGİK konferansıdır." },
+    { "q": "Domuzlar Körfezi çıkarması ne için yapıldı ve sonucu ne oldu?", "o": ["Küba'daki komünizmi yıkmak için, başarısız", "Küba'ya komünizmi getirmek için, başarılı"], "c": 0, "n": "ABD destekli sığınmacılar komünizmi yıkmak istedi ama başarısız oldular." }
+  ],
+  "deneme": [
+    { "q": "Aşağıdakilerden hangisi yumuşama (detant) dönemini başlatan gelişmedir?", "o": ["1960 U2 krizi", "1961 Kennedy–Kruşçev görüşmeleri", "1969 SALT 1 Anlaşması", "1975 Helsinki Konferansı", "1962 Küba Buhranı"], "c": 1, "e": "Nükleer silahları azaltmayı konuşan Kennedy–Kruşçev görüşmeleri yumuşamayı başlatan gelişmedir." },
+    { "q": "Aşağıdakilerden hangisi bağlantısızlar hareketinin lider devletlerinden biri değildir?", "o": ["Hindistan", "Mısır", "Yugoslavya", "Küba", "—"], "c": 3, "e": "Bağlantısızların lider devletleri Hindistan (Nehru), Mısır (Nasır) ve Yugoslavya (Tito) olup Küba bunlardan değildir." },
+    { "q": "Küba Buhranı ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["ABD füzelerini Küba'ya yerleştirmiştir", "SSCB Jüpiter füzelerini Türkiye'ye koymuştur", "Bir füzeler krizidir ve ardından kırmızı telefon hattı kurulmuştur", "Bağlantısızlar hareketini başlatmıştır", "İsrail'in kurulmasıyla sonuçlanmıştır"], "c": 2, "e": "Küba Buhranı bir füzeler krizidir; SSCB Küba'ya, ABD Jüpiter füzelerini Türkiye'ye koymuş, kriz sonrası kırmızı telefon hattı kurulmuştur." },
+    { "q": "2025 iktisat sınavında Küba Buhranı ile ilişkilendirilen füze aşağıdakilerden hangisidir?", "o": ["Jüpiter füzeleri", "Scud füzeleri", "Patriot füzeleri", "Kruz füzeleri", "Tomahawk füzeleri"], "c": 0, "e": "Jüpiter füzeleri ABD'nin Türkiye'ye yerleştirdiği füzelerdir ve Küba Buhranı ile ilişkilidir." },
+    { "q": "SALT 2 Anlaşması ile ilgili olarak,\nI. Uzun menzilli nükleer silahların sınırlandırılmasını öngörür.\nII. ABD, SSCB'nin Afganistan'ı işgali sebebiyle anlaşmayı imzalamamıştır.\nIII. SSCB anlaşmaya imzasını atmıştır.\nyargılarından hangileri doğrudur?", "o": ["Yalnız I", "Yalnız II", "I ve II", "II ve III", "I, II ve III"], "c": 4, "e": "SALT 2 uzun menzilli nükleer silah sınırlaması içerir; SSCB imzalamış, ABD Afganistan işgali yüzünden imzalamamıştır." },
+    { "q": "Aşağıdakilerden hangisi Helsinki Konferansı'na katılmamıştır?", "o": ["ABD", "Kanada", "Arnavutluk", "Fransa", "İngiltere"], "c": 2, "e": "Helsinki Konferansı'na Arnavutluk hariç tüm Avrupa devletleri ile ABD ve Kanada katılmıştır." },
+    { "q": "Vietnam Savaşı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?", "o": ["Ülke 17. paralelden Cenevre Anlaşması ile ikiye ayrılmıştır", "Kuzey Vietnam'ı SSCB, Güney Vietnam'ı ABD desteklemiştir", "Savaşı Güney Vietnam kazanmıştır", "ABD'nin modern dünyada yenildiği ilk yer olmuştur", "Savaş sonunda Vietnam Sosyalist Cumhuriyeti kurulmuştur"], "c": 2, "e": "Savaşı SSCB destekli Kuzey Vietnam kazanmış, iki Vietnam birleşerek Sosyalist Cumhuriyet kurulmuştur." },
+    { "q": "'Vietkonglular bana bir şey yapmadılar ki, neden onlarla savaşayım?' diyerek Vietnam Savaşı'na katılmayı reddettiği için şampiyonlukları elinden alınan Müslüman boksör aşağıdakilerden hangisidir? (2011 AYT)", "o": ["Muhammed Ali", "Che Guevara", "Yaser Arafat", "Cemal Abdülnasır", "Enver Sedat"], "c": 0, "e": "Muhammed Ali (Cassius Clay) savaşa katılmayı reddedince madalyaları ve şampiyonlukları elinden alınmıştır." },
+    { "q": "1966 Taşkent Deklarasyonu aşağıdaki sorunlardan hangisi ile ilgilidir?", "o": ["Keşmir sorunu", "Süveyş sorunu", "Şattülarap sorunu", "Filistin sorunu", "Kore sorunu"], "c": 0, "e": "Taşkent Deklarasyonu SSCB girişimiyle Hindistan-Pakistan arasındaki Keşmir savaşını durdurmuştur." },
+    { "q": "Filistinli mülteciler sorunu aşağıdaki savaşlardan hangisinin ardından ortaya çıkmıştır?", "o": ["1949 Arap-İsrail Savaşı", "1956 Süveyş Krizi", "1967 6 Gün Savaşları", "1973 Yom Kippur Savaşı", "İran-Irak Savaşı"], "c": 0, "e": "Filistinli mülteciler sorunu, İsrail'in kuruluşuyla çıkan ilk savaşın (1949) sonucudur." },
+    { "q": "1956 Süveyş Krizi'nin (Mısır-İsrail Savaşı) çıkış nedeni aşağıdakilerden hangisidir?", "o": ["Cemal Abdülnasır'ın Süveyş kanalını millileştirmesi", "Mısır'ın Akabe Körfezi'ni kapatması", "İsrail'in kurulması", "Camp David Anlaşması", "FKÖ'nün kurulması"], "c": 0, "e": "Süveyş Krizi, Nasır'ın Süveyş kanalını millileştirdiğini açıklaması üzerine çıkmıştır." },
+    { "q": "1967 6 Gün Savaşları sonucunda aşağıdaki yerlerden hangisi İsrail'in eline geçmemiştir?", "o": ["Golan Tepeleri", "Sina Yarımadası", "Gazze", "Doğu Kudüs", "Süveyş kanalı"], "c": 4, "e": "6 Gün Savaşları sonucunda Golan Tepeleri, Sina Yarımadası, Gazze ve Doğu Kudüs İsrail'e geçmiş; Süveyş kanalı bu savaşla el değiştirmemiştir." },
+    { "q": "Mekik diplomasisi ve Camp David Anlaşması ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["Mekik diplomasisini SSCB lideri Brejnev yürütmüştür", "Camp David ile İsrail'i tanıyan ilk Arap devleti Mısır olmuştur", "Camp David Suriye ile İsrail arasında imzalanmıştır", "Mekik diplomasisi Keşmir sorununu çözmüştür", "Anlaşma Yaser Arafat döneminde yapılmıştır"], "c": 1, "e": "Henry Kissinger'ın mekik diplomasisi sonucu Camp David imzalanmış, İsrail'i tanıyan ilk Arap devleti Mısır (Enver Sedat dönemi) olmuştur." },
+    { "q": "Yaser Arafat tarafından kurulan Filistin Kurtuluş Örgütü'nün başlattığı hareket aşağıdakilerden hangisidir? (2024 EKYS)", "o": ["İntifada", "Baas", "Panarabizm", "Ping-pong diplomasisi", "Mekik diplomasisi"], "c": 0, "e": "FKÖ'nün başlattığı ayaklanma hareketi intifadadır." },
+    { "q": "İsrail ile Filistin'in ilk kez yüz yüze görüşmesi aşağıdakilerden hangisinde gerçekleşmiştir?", "o": ["1991 Madrid Konferansı", "1993 Oslo Görüşmeleri", "1978 Camp David Anlaşması", "1975 Helsinki Konferansı", "2007 Annapolis Toplantısı"], "c": 0, "e": "İlk yüz yüze görüşme 1991 Madrid Konferansı'nda olmuş; karşılıklı resmi tanıma ise 1993 Oslo Görüşmeleri'yle gerçekleşmiştir." },
+    { "q": "Aşağıdakilerden hangisi OPEC'i kuran devletlerden biri değildir?", "o": ["Venezuela", "İran", "Suudi Arabistan", "Kuveyt", "Mısır"], "c": 4, "e": "OPEC kurucuları Venezuela, İran, Suudi Arabistan, Kuveyt ve Irak'tır; Mısır bunlar arasında yer almaz." },
+    { "q": "Aşağıdakilerden hangisi 1973 petrol krizinin ortaya çıkışında etkili olmuştur?", "o": ["Arap devletlerinin İsrail'i destekleyen Batı'ya petrol ambargosu uygulaması", "SSCB'nin Afganistan'ı işgali", "Vietnam'ın ikiye ayrılması", "Küba'da komünizmin kurulması", "İran İslam Cumhuriyeti'nin kurulması"], "c": 0, "e": "ABD'nin İsrail yanlısı politikasına tepki olarak Arap devletlerinin Batı'ya petrol ambargosu koyması petrol krizini doğurmuştur." },
+    { "q": "'Yeniden doğuş' anlamına gelen ve Arap sosyalizmini ifade eden, SSCB destekli hareket aşağıdakilerden hangisidir?", "o": ["Baas hareketi", "İntifada hareketi", "Bağlantısızlar hareketi", "Panslavizm", "Ping-pong diplomasisi"], "c": 0, "e": "Baas hareketi 'yeniden doğuş' anlamına gelir, Arap sosyalizmini ifade eder ve SSCB destekli olarak Suriye ile Irak'ta iktidara taşınmıştır." },
+    { "q": "İran-Irak Savaşı'nın nedenleri arasında aşağıdakilerden hangisi gösterilemez?", "o": ["Şattülarap su sorunu", "İki ülkedeki Şii-Sünni kışkırtması", "Süveyş kanalının millileştirilmesi", "İki devletin Şattülarap'a hakim olmak istemesi", "—"], "c": 2, "e": "İran-Irak Savaşı'nın nedenleri Şattülarap su sorunu ve mezhep kışkırtmasıdır; Süveyş'in millileştirilmesi 1956 Mısır-İsrail Savaşı ile ilgilidir." },
+    { "q": "İran İslam Cumhuriyeti'nin kuruluşu ile ilgili olarak aşağıdakilerden hangisi doğrudur?", "o": ["Ayetullah Humeyni liderliğinde Şiiler tarafından kurulmuştur", "Rıza Şah Pehlevi tarafından kurulmuştur", "Baas hareketiyle iktidara gelinmiştir", "1948 yılında kurulmuştur", "Camp David Anlaşması ile kurulmuştur"], "c": 0, "e": "1979'da Ayetullah Humeyni liderliğinde Şiiler, Şah Pehlevi'nin seküler rejimini yıkarak İran İslam Cumhuriyeti'ni kurmuştur." }
+  ],
+  "eslestir": [
+    {
+      "ad": "Olay → Tanımı",
+      "p": [
+        ["U2 krizi", "ABD casus uçağının SSCB üzerinde düşürülmesi"],
+        ["Küba Buhranı", "SSCB-ABD füzeler krizi"],
+        ["Domuzlar Körfezi", "Küba'daki komünizmi yıkmak için başarısız çıkarma"],
+        ["Ping-pong diplomasisi", "ABD-Çin yakınlaşması"],
+        ["Mekik diplomasisi", "Kissinger'ın Mısır-İsrail arabuluculuğu"],
+        ["İran-Gate skandalı", "ABD'nin İsrail üzerinden İran'a silah satması"]
+      ]
+    },
+    {
+      "ad": "Lider → Ülke / Rol",
+      "p": [
+        ["Nehru", "Hindistan (bağlantısızlar)"],
+        ["Cemal Abdülnasır", "Mısır (bağlantısızlar / Süveyş)"],
+        ["Tito", "Yugoslavya (bağlantısızlar)"],
+        ["Yaser Arafat", "FKÖ lideri / intifada"],
+        ["Enver Sedat", "Camp David dönemi Mısır lideri"],
+        ["Ayetullah Humeyni", "İran İslam Cumhuriyeti kurucusu"]
+      ]
+    },
+    {
+      "ad": "Arap-İsrail Savaşı → Ayırt Edici Bilgi",
+      "p": [
+        ["1949 Arap-İsrail Savaşı", "Filistinli mülteciler sorunu"],
+        ["1956 Süveyş Krizi", "Nasır'ın Süveyş'i millileştirmesi"],
+        ["1967 6 Gün Savaşları", "Golan-Sina-Gazze-Doğu Kudüs kaybı"],
+        ["1973 Yom Kippur Savaşı", "Sina ve Golan'ı geri alma girişimi"],
+        ["Camp David Anlaşması", "İsrail'i tanıyan ilk Arap: Mısır"]
+      ]
+    },
+    {
+      "ad": "Anlaşma / Görüşme → Konu",
+      "p": [
+        ["SALT 1 (1969)", "Nixon-Brejnev, savunma silahları azaltma"],
+        ["SALT 2 (1979)", "ABD'nin imzalamadığı nükleer sınırlama"],
+        ["Helsinki Nihai Senedi", "Barış, işbirliği, bağımsızlık, temel haklar"],
+        ["Taşkent Deklarasyonu", "Keşmir savaşının durdurulması"],
+        ["Madrid Konferansı (1991)", "İsrail-Filistin ilk yüz yüze görüşme"],
+        ["Oslo Görüşmeleri (1993)", "İsrail-FKÖ karşılıklı tanıma"]
+      ]
+    },
+    {
+      "ad": "Örgüt / Kavram → Tanım",
+      "p": [
+        ["OPEC", "Petrol İhraç Eden Ülkeler Birliği"],
+        ["AOPEC", "Arap petrol örgütü / 1973 petrol krizi"],
+        ["Baas", "Arap sosyalizmi (yeniden doğuş)"],
+        ["Panarabizm", "Arap birliği (seküler-sosyalist)"],
+        ["Hamas", "Gazze'de İslami Direniş Örgütü"],
+        ["Fes Planı", "Kudüs merkezli bağımsız Filistin"]
+      ]
+    }
+  ]
+}
