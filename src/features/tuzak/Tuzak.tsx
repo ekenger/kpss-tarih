@@ -2,6 +2,9 @@ import { useState, useCallback, useEffect } from 'react'
 import type { Gun } from '../../lib/schema'
 import { M } from '../../lib/metin'
 import { karistir } from '../../lib/skor'
+import { tuzakKimlik } from '../../lib/kimlik'
+import { ilkDurum, derecelendir } from '../../lib/srs'
+import { srsGetir, srsKaydet, seriGuncelle } from '../../lib/ilerleme'
 
 interface Props { gun: Gun }
 
@@ -13,6 +16,7 @@ const yeniSira = (g: Gun) => karistir(g.tuzak.map((_, i) => i))
 const yeniSecSira = (g: Gun) => g.tuzak.map((t) => karistir(t.o.map((_, i) => i)))
 
 export default function Tuzak({ gun }: Props) {
+  const gunNo = gun.meta.gun
   const [sira, setSira] = useState<number[]>(() => yeniSira(gun))
   const [secSira, setSecSira] = useState<number[][]>(() => yeniSecSira(gun))
   const [idx, setIdx] = useState(0)
@@ -38,7 +42,13 @@ export default function Tuzak({ gun }: Props) {
     const dogruMu = perm[gp] === soru.c
     if (dogruMu) { setDogru((d) => d + 1); setSeri((s) => s + 1) }
     else { setYanlisList((y) => [...y, qi]); setSeri(0) }
-  }, [secili, perm, soru, qi])
+    // SRS: doğru → kutu +1, yanlış → 1. kutuya döner (vadeli tekrar Bugün'de).
+    const now = new Date()
+    const kim = tuzakKimlik(gunNo, soru)
+    const mevcut = srsGetir(kim) ?? ilkDurum(kim, gunNo, 'tuzak', now)
+    srsKaydet(derecelendir(mevcut, dogruMu, now))
+    seriGuncelle(now)
+  }, [secili, perm, soru, qi, gunNo])
 
   const sonraki = useCallback(() => {
     if (idx + 1 >= sira.length) { setDurum('bitti'); return }

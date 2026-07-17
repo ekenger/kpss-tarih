@@ -2,6 +2,9 @@ import { useState, useCallback } from 'react'
 import type { Gun } from '../../lib/schema'
 import { M } from '../../lib/metin'
 import { hesaplaNet } from '../../lib/skor'
+import { denemeKimlik } from '../../lib/kimlik'
+import { ilkDurum, derecelendir } from '../../lib/srs'
+import { srsGetir, srsKaydet, seriGuncelle } from '../../lib/ilerleme'
 
 interface Props { gun: Gun }
 
@@ -27,9 +30,17 @@ export default function Deneme({ gun }: Props) {
   function sec(secIdx: number) {
     if (secili !== null) return
     const soru = gun.deneme[aktifSira[idx]]
+    const dogruMu = secIdx === soru.c
     setSecili(secIdx)
-    if (secIdx === soru.c) setDogru((d) => d + 1)
+    if (dogruMu) setDogru((d) => d + 1)
     else { setYanlis((y) => y + 1); setYanlisList((l) => [...l, aktifSira[idx]]) }
+
+    // SRS: deneme cevabı da belleğe yazılır (doğru → kutu +1, yanlış → 1. kutu).
+    const now = new Date()
+    const kim = denemeKimlik(gun.meta.gun, soru)
+    const mevcut = srsGetir(kim) ?? ilkDurum(kim, gun.meta.gun, 'deneme', now)
+    srsKaydet(derecelendir(mevcut, dogruMu, now))
+    seriGuncelle(now)
   }
 
   function sonraki() {

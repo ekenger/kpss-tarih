@@ -3,17 +3,30 @@ import type { Gun } from '../../lib/schema'
 import { M } from '../../lib/metin'
 import { getZayifKartlar, setZayifKartlar } from '../../lib/storage'
 import { karistir } from '../../lib/skor'
+import { kartKimlik } from '../../lib/kimlik'
+import { ilkDurum, derecelendir, type SrsState } from '../../lib/srs'
+import { tumSrs, srsKaydet, srsSeedEt, seriGuncelle } from '../../lib/ilerleme'
 
 interface Props { gun: Gun }
 
 export default function Kartlar({ gun }: Props) {
   const gunNo = gun.meta.gun
   const kategoriler = ['Tümü', 'Zayıflar', ...Array.from(new Set(gun.kartlar.map((k) => k.c)))]
+  // Kart başına kararlı kimlik (dizi sırası değişse de sabit).
+  const kimlikler = gun.kartlar.map((k) => kartKimlik(gunNo, k))
+
   const [aktifKat, setAktifKat] = useState('Tümü')
   const [zayiflar, setZayiflar] = useState<number[]>(() => getZayifKartlar(gunNo))
+  const [srsler, setSrsler] = useState<Record<string, SrsState>>(() => tumSrs())
   const [sira, setSira] = useState<number[]>([])
   const [idx, setIdx] = useState(0)
   const [arka, setArka] = useState(false)
+
+  // Eski zayıf-kart verisini (indeks tabanlı) SRS'e taşı — sadece ilk kez, gün başına.
+  useEffect(() => {
+    const tohum = getZayifKartlar(gunNo).map((i) => ({ kimlik: kimlikler[i], gun: gunNo, tur: 'kart' as const }))
+    if (tohum.length) { srsSeedEt(tohum, new Date()); setSrsler(tumSrs()) }
+  }, [gunNo]) // eslint-disable-line react-hooks/exhaustive-deps
 
   const baslat = useCallback((kat: string, mevZayif: number[]) => {
     let indeksler = gun.kartlar.map((_, i) => i)
@@ -27,19 +40,30 @@ export default function Kartlar({ gun }: Props) {
   useEffect(() => { baslat(aktifKat, zayiflar) }, [aktifKat]) // eslint-disable-line react-hooks/exhaustive-deps
 
   function sonraki(bildi: boolean) {
-    if (!sira.length) return
+    if (!sira.length || !arka) return
     const kartId = sira[idx]
     const yeniZayif = bildi
       ? zayiflar.filter((x) => x !== kartId)
       : zayiflar.includes(kartId) ? zayiflar : [...zayiflar, kartId]
     setZayiflar(yeniZayif)
     setZayifKartlar(gunNo, yeniZayif)
+
+    // SRS: Leitner kutusunu ilerlet + seriyi güncelle.
+    const now = new Date()
+    const kim = kimlikler[kartId]
+    const mevcut = srsler[kim] ?? ilkDurum(kim, gunNo, 'kart', now)
+    const yeni = derecelendir(mevcut, bildi, now)
+    srsKaydet(yeni)
+    setSrsler((s) => ({ ...s, [kim]: yeni }))
+    seriGuncelle(now)
+
     setArka(false)
     if (idx < sira.length - 1) { setIdx(idx + 1) }
     else { baslat(aktifKat, yeniZayif) }
   }
 
   const kart = sira.length ? gun.kartlar[sira[idx]] : null
+  const kutu = kart ? srsler[kimlikler[sira[idx]]]?.kutu : undefined
   const ilerleme = sira.length ? ((idx + 1) / sira.length) * 100 : 0
 
   return (
@@ -100,7 +124,7 @@ export default function Kartlar({ gun }: Props) {
           }}
         >
           <div style={{ fontFamily: 'JetBrains Mono, monospace', fontSize: 11, letterSpacing: '.14em', textTransform: 'uppercase', color: 'var(--sis)', marginBottom: 10 }}>
-            {kart.c}{zayiflar.includes(sira[idx]) ? ' · ZAYIF' : ''} · dokun-çevir
+            {kart.c}{kutu ? ` · ${M.kutu(kutu)}` : ''} · dokun-çevir
           </div>
           <div style={{
             fontSize: arka ? 15 : 17,
@@ -113,17 +137,22 @@ export default function Kartlar({ gun }: Props) {
         </div>
       )}
 
-      {/* Butonlar */}
-      <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', margin: '10px 0' }}>
-        <button onClick={() => sonraki(false)} style={butonS}>{M.tekrar}</button>
-        <button onClick={() => sonraki(true)} style={{ ...butonS, background: 'var(--ates)', borderColor: 'var(--ates)', color: '#20180c' }}>{M.bildim}</button>
-      </div>
+      {/* Butonlar — recall-first: önce çevir, sonra derecelendir */}
+      {kart && !arka ? (
+        <p style={ipucuS}>{M.hatirla}</p>
+      ) : (
+        <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', margin: '10px 0' }}>
+          <button onClick={() => sonraki(false)} disabled={!kart || !arka} style={butonS}>{M.unuttum}</button>
+          <button onClick={() => sonraki(true)} disabled={!kart || !arka} style={{ ...butonS, background: 'var(--ates)', borderColor: 'var(--ates)', color: '#20180c' }}>{M.bildim}</button>
+        </div>
+      )}
     </section>
   )
 }
 
 const h2S: React.CSSProperties = { fontFamily: 'Sofia Sans Condensed, sans-serif', fontWeight: 800, textTransform: 'uppercase', letterSpacing: '.06em', fontSize: 20, margin: '4px 0 2px' }
 const aS: React.CSSProperties = { color: 'var(--sis)', fontSize: 13.5, margin: '0 0 14px' }
+const ipucuS: React.CSSProperties = { color: 'var(--sis)', fontSize: 13, margin: '14px 2px', opacity: 0.8, textAlign: 'center' }
 const chipS: React.CSSProperties = { border: '1px solid', borderRadius: 99, padding: '8px 12px', fontSize: 13.5, fontWeight: 600, cursor: 'pointer', minHeight: 40 }
 const kartS: React.CSSProperties = { background: 'var(--panel)', border: '1px solid var(--cizgi)', borderRadius: 18, minHeight: 210, padding: 20, display: 'flex', flexDirection: 'column', justifyContent: 'center', textAlign: 'center', cursor: 'pointer' }
 const butonS: React.CSSProperties = { display: 'inline-block', background: 'var(--panel2)', color: 'var(--sut)', border: '1px solid var(--cizgi)', borderRadius: 12, padding: '12px 16px', fontSize: 15, fontWeight: 600, cursor: 'pointer', minHeight: 48 }

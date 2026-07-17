@@ -21,3 +21,17 @@ export function karistir<T>(arr: T[]): T[] {
   }
   return a
 }
+
+/**
+ * Ağırlıklı örnekleme, yerine koymadan (Efraimidis–Spirakis A-Res).
+ * Her öğeye `anahtar = u^(1/ağırlık)` verilir; en büyük n anahtar seçilir.
+ * Ağırlığı yüksek öğe daha olası ama rastgelelik korunur — interleaving bozulmaz.
+ * Ağırlık ≤ 0 olan öğe pratikte hiç seçilmez; tüm ağırlıklar eşitse saf rastgeleye döner.
+ */
+export function agirlikliOrneklem<T>(arr: T[], n: number, agirlik: (t: T) => number): T[] {
+  return arr
+    .map((t) => ({ t, k: Math.pow(Math.random(), 1 / (Math.max(agirlik(t), 0) + 1e-9)) }))
+    .sort((a, b) => b.k - a.k)
+    .slice(0, n)
+    .map((x) => x.t)
+}

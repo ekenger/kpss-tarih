@@ -4,16 +4,29 @@
 @tailwind utilities;
 
 :root {
-  --gece: #1c2531;
-  --panel: #252f3d;
-  --panel2: #2e3b4c;
-  --cizgi: #3b4b5e;
+  --gece: #1a232f;
+  --gece2: #151d27;
+  --panel: #232e3c;
+  --panel2: #2b3849;
+  --panel3: #33455a;
+  --cizgi: #3a4a5d;
+  --cizgi2: #4a5d73;
   --sut: #f1e9da;
   --sis: #9db0c2;
+  --sis2: #6f8296;
   --ates: #ffa246;
+  --ates2: #ff7a3c;
   --gok: #5fcdc4;
+  --gok2: #39b3a9;
   --kizil: #ef6d6d;
   --yesil: #74ca8d;
+  /* elevation */
+  --golge-1: 0 1px 2px rgba(0, 0, 0, .3);
+  --golge-2: 0 8px 24px -12px rgba(0, 0, 0, .55);
+  --golge-3: 0 16px 40px -16px rgba(0, 0, 0, .6);
+  /* accent gradients */
+  --grad-ates: linear-gradient(135deg, #ffb35c 0%, #ff7a3c 100%);
+  --grad-gok: linear-gradient(135deg, #6fd8cf 0%, #39b3a9 100%);
 }
 
 * {
@@ -23,13 +36,20 @@
 
 body {
   margin: 0;
-  background: var(--gece);
+  background:
+    radial-gradient(120% 60% at 50% -10%, rgba(255, 162, 70, .08) 0%, rgba(255, 162, 70, 0) 55%),
+    radial-gradient(90% 50% at 100% 0%, rgba(95, 205, 196, .06) 0%, rgba(95, 205, 196, 0) 50%),
+    var(--gece);
+  background-attachment: fixed;
   color: var(--sut);
   font-family: 'Manrope', system-ui, -apple-system, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  padding-bottom: 96px;
+  padding-bottom: 92px;
+  -webkit-font-smoothing: antialiased;
 }
+
+.tnum { font-variant-numeric: tabular-nums; }
 
 @keyframes gel {
   from { opacity: 0; transform: translateY(6px); }
@@ -40,6 +60,16 @@ body {
   0%, 100% { transform: none; }
   25%       { transform: translateX(-5px); }
   75%       { transform: translateX(5px); }
+}
+
+@keyframes yuksel {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@keyframes nabiz {
+  0%, 100% { transform: scale(1); }
+  50%       { transform: scale(1.06); }
 }
 
 @media (prefers-reduced-motion: reduce) {
